@@ -1,4 +1,6 @@
-FROM centos:centos6
+FROM quay.io/puteulanus/lnmp:centos6
+
+RUN rm -f /etc/supervisord.d/mysql.ini
 
 ADD tools/pf.jar /tmp/pf.jar
 ADD zh_CN /tmp/zh_CN
