@@ -18,7 +18,7 @@ RUN mv /tmp/slimefun-zh_CN.jar /usr/www/default/public_html/
 
 RUN chmod -R +w /usr/www/
 RUN chown -R www:www /usr/www/
-RUN chmod a+w /usr/www/default/public_html
+RUN chmod -R a+w /usr/www/default/public_html
 
 # Expose Ports
 EXPOSE 80
