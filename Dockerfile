@@ -16,6 +16,10 @@ ADD zh_CN /tmp/zh_CN
 RUN cd /tmp/; java -jar pf.jar do -d zh_CN -o slimefun-zh_CN.jar slimefun.jar
 RUN mv /tmp/slimefun-zh_CN.jar /usr/www/default/public_html/
 
+RUN chmod -R +w /usr/www/
+RUN chown -R www:www /usr/www/
+RUN chmod a+w /usr/www/default/public_html
+
 # Expose Ports
 EXPOSE 80
 
