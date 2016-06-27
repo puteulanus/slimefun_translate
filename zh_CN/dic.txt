@@ -92,25 +92,25 @@ KEY:.youtube
 VALUE:
 
 KEY:&eSlimefun Guide &7(Right Click)
-VALUE:
+VALUE:&eSlimefun新手指南&7(右键单击)
 
 KEY:§2
 VALUE:
 
 KEY:&rThis is your basic Guide for Slimefun
-VALUE:
+VALUE:&r这是你的新手指南，
 
 KEY:&rYou can see all Items added by this Plugin
-VALUE:
+VALUE:&r你可以查看插件增加的所有物品
 
 KEY:&ror its Addons including their Recipes
-VALUE:
+VALUE:&r或者添加物品的获得方式
 
 KEY:&ra bit of information and more
-VALUE:
+VALUE:&r你可以通过它获得信息
 
 KEY:§a§l- Guide Settings -\n\n
-VALUE:
+VALUE:§a§l- 向导设置 -\n\n
 
 KEY:§7Design: §3Book\n
 VALUE:
@@ -140,10 +140,10 @@ KEY:
 VALUE:
 
 KEY:§8⇨ §6Tier 
-VALUE:
+VALUE:§8⇨ §6级别
 
 KEY:§4§lLOCKED\n\n§7In order to unlock this Category,\n§7you need to unlock all Items from\n§7the following Categories first:\n
-VALUE:
+VALUE:§4§l锁定中\n\n§7要解锁这个类目,\n§7你首先要解锁\n§7以下条目中的所有物品:\n
 
 KEY:\n§c
 VALUE:
@@ -155,10 +155,10 @@ KEY:§a
 VALUE:
 
 KEY:§eClick to open the following Category:\n
-VALUE:
+VALUE:§e点击打开以下类目:\n
 
 KEY:§b§l- Slimefun Guide -\n\n
-VALUE:
+VALUE:§9§l- Slimefun新手指南 -\n\n
 
 KEY:\n
 VALUE:
@@ -167,16 +167,16 @@ KEY:Slimefun Guide
 VALUE:
 
 KEY:&rYou need to unlock all Items
-VALUE:
+VALUE:&r你须要解锁所有项目
 
 KEY:&rfrom the following Categories first:
-VALUE:
+VALUE:&r来自以下类目:
 
 KEY:&4LOCKED &7- &r
-VALUE:
+VALUE:&4锁定中 &7- &r
 
 KEY:&r⇦ Previous Page
-VALUE:
+VALUE:&r⇦ 上一页
 
 KEY:&7(
 VALUE:
@@ -188,7 +188,7 @@ KEY:)
 VALUE:
 
 KEY:&rNext Page ⇨
-VALUE:
+VALUE:&r下一页 ⇨
 
 KEY:...
 VALUE:
@@ -200,7 +200,7 @@ KEY:.cost
 VALUE:
 
 KEY:\n§c§lLOCKED\n\n§7Cost: 
-VALUE:
+VALUE:\n§c§l锁定中\n\n§7花费:
 
 KEY:§b
 VALUE:
@@ -209,61 +209,61 @@ KEY:§4
 VALUE:
 
 KEY: Levels\n\n§a> Click to unlock
-VALUE:
+VALUE:等级\n\n§a> 点击解锁
 
 KEY:\n\n§e§oClick for more Info
-VALUE:
+VALUE:\n\n§e§o点击获取更多信息
 
 KEY:§cNo Permission!
-VALUE:
+VALUE:§c没有权限！
 
 KEY:§6⇦ §lBack
-VALUE:
+VALUE:§6⇦ §l返回
 
 KEY:§eClick to go back to the Category Overview
-VALUE:
+VALUE:§e点击回到类目列表
 
 KEY:&7⇦ Back
-VALUE:
+VALUE:&7⇦ 返回
 
 KEY:&4&lLOCKED
-VALUE:
+VALUE:&4&l锁定中
 
 KEY:&a> Click to unlock
-VALUE:
+VALUE:&a> 点击解锁
 
 KEY:&7Cost: &b
-VALUE:
+VALUE:&7花费: &b
 
 KEY: Level
 VALUE:
 
 KEY:&rYou do not have Permission
-VALUE:
+VALUE:&r你没有权限
 
 KEY:&rto access this Item
-VALUE:
+VALUE:&r来得到此物品
 
 KEY:&7Next ⇨
-VALUE:
+VALUE:&7下一个 ⇨
 
 KEY:§e§l! §rThere are multiple recipes for this Item
-VALUE:
+VALUE:§e§l! §r此物品有多种获得方式
 
 KEY:§rLeft Click: §7Go back to previous Page
-VALUE:
+VALUE:§r左键点击: §7回到上一页
 
 KEY:§rShift + left Click: §7Go back to Main Menu
-VALUE:
+VALUE:§rShift + 左键点击: §7回到主菜单
 
 KEY:§rLeft Click: §7Go back to Main Menu
-VALUE:
+VALUE:§r左键点击: §7回到主菜单
 
 KEY:&rNeeds to be unlocked elsewhere
-VALUE:
+VALUE:&r需要解锁其他地方
 
 KEY:&rNo Permission
-VALUE:
+VALUE:&r没有权限
 
 KEY:.wiki
 VALUE:
@@ -272,10 +272,10 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§rView this Item in our Wiki §7(Slimefun Wiki)
-VALUE:
+VALUE:§r在Wiki查看此物品的信息 §7(国内有墙)
 
 KEY:§7⇨ Click to open
-VALUE:
+VALUE:§7⇨ 点击打开
 
 KEY:.youtube
 VALUE:
@@ -290,10 +290,10 @@ KEY:§7⇨ Click to watch
 VALUE:
 
 KEY:&7⇩ Recipes made in this Machine ⇩
-VALUE:
+VALUE:&7⇩      这台机器上的合成        ⇩
 
 KEY:§8⇨ §7Lasts 
-VALUE:
+VALUE:§8⇨ §7持续了
 
 KEY:§8⇨ §e⚡ §7
 VALUE:
@@ -332,7 +332,7 @@ KEY:.enabled-items.SLIMEFUN_GUIDE
 VALUE:
 
 KEY:[Slimefun] Could not save Slimefun Blocks for World "
-VALUE:
+VALUE:[Slimefun] 无法保存slimefun的方块（在世界内） "
 
 KEY:"
 VALUE:
@@ -404,10 +404,10 @@ KEY:### or consider updating your Server Software.
 VALUE:
 
 KEY:[Slimefun] Loading Files...
-VALUE:
+VALUE:[Slimefun] 加载文件...
 
 KEY:[Slimefun] Loading Config...
-VALUE:
+VALUE:[Slimefun] 加载配置...
 
 KEY:data-storage/Slimefun/blocks
 VALUE:
@@ -494,7 +494,7 @@ KEY:URID.custom-ticker-delay
 VALUE:
 
 KEY:[Slimefun] Finished!
-VALUE:
+VALUE:[Slimefun] 加载完毕！
 
 KEY:ClearLag
 VALUE:
@@ -563,7 +563,7 @@ KEY:REPEAT
 VALUE:
 
 KEY:§9Repeat Script
-VALUE:
+VALUE:§9重复的脚本
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM4ZGVmNjdhMTI2MjJlYWQxZGVjZDNkODkzNjQyNTdiNTMxODk2ZDg3ZTQ2OTgxMzEzMWNhMjM1YjVjNyJ9fX0=
 VALUE:
@@ -581,7 +581,7 @@ KEY:GO_FORWARD
 VALUE:
 
 KEY:§7Move forward
-VALUE:
+VALUE:§7前进
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDliZjZkYjRhZWRhOWQ4ODIyYjlmNzM2NTM4ZThjMThiOWE0ODQ0Zjg0ZWI0NTUwNGFkZmJmZWU4N2ViIn19fQ==
 VALUE:
@@ -590,7 +590,7 @@ KEY:GO_UP
 VALUE:
 
 KEY:§7Move upwards
-VALUE:
+VALUE:§7向上运动
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA1YTJjYWI4YjY4ZWE1N2UzYWY5OTJhMzZlNDdjOGZmOWFhODdjYzg3NzYyODE5NjZmOGMzY2YzMWEzOCJ9fX0=
 VALUE:
@@ -599,7 +599,7 @@ KEY:GO_DOWN
 VALUE:
 
 KEY:§7Move downwards
-VALUE:
+VALUE:§7向下运动
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzAxNTg2ZTM5ZjZmZmE2M2I0ZmIzMDFiNjVjYTdkYThhOTJmNzM1M2FhYWI4OWQzODg2NTc5MTI1ZGZiYWY5In19fQ==
 VALUE:
@@ -608,7 +608,7 @@ KEY:TURN_LEFT
 VALUE:
 
 KEY:§7Turn Left
-VALUE:
+VALUE:§7左转
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE4NWM5N2RiYjgzNTNkZTY1MjY5OGQyNGI2NDMyN2I3OTNhM2YzMmE5OGJlNjdiNzE5ZmJlZGFiMzVlIn19fQ==
 VALUE:
@@ -617,7 +617,7 @@ KEY:TURN_RIGHT
 VALUE:
 
 KEY:§7Turn Right
-VALUE:
+VALUE:§7右转
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFjMGVkZWRkNzExNWZjMWIyM2Q1MWNlOTY2MzU4YjI3MTk1ZGFmMjZlYmI2ZTQ1YTY2YzM0YzY5YzM0MDkxIn19fQ==
 VALUE:
@@ -626,7 +626,7 @@ KEY:DIG_UP
 VALUE:
 
 KEY:§bDig upwards
-VALUE:
+VALUE:§b向上挖掘
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmU2Y2UwMTFhYzlhN2E3NWIyZmNkNDA4YWQyMWEzYWMxNzIyZjZlMmVlZDg3ODFjYWZkMTI1NTIyODJiODgifX19
 VALUE:
@@ -635,7 +635,7 @@ KEY:DIG_FORWARD
 VALUE:
 
 KEY:§bDig forward
-VALUE:
+VALUE:§b向前挖掘
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjZlYTIxMzU4Mzg0NjE1MzQzNzJmMmRhNmM4NjJkMjFjZDVmM2QyYzcxMTlmMmJiNjc0YmJkNDI3OTEifX19
 VALUE:
@@ -644,7 +644,7 @@ KEY:DIG_DOWN
 VALUE:
 
 KEY:§bDig downwards
-VALUE:
+VALUE:§b向下挖掘
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ4NjIwMjQxMDhjNzg1YmMwZWY3MTk5ZWM3N2M0MDJkYmJmY2M2MjRlOWY0MWY4M2Q4YWVkOGIzOWZkMTMifX19
 VALUE:
@@ -653,25 +653,25 @@ KEY:MOVE_AND_DIG_UP
 VALUE:
 
 KEY:§bMove & Dig upwards
-VALUE:
+VALUE:§b向上移动并向上挖掘
 
 KEY:MOVE_AND_DIG_FORWARD
 VALUE:
 
 KEY:§bMove & Dig forward
-VALUE:
+VALUE:§b向前移动并向前挖掘
 
 KEY:MOVE_AND_DIG_DOWN
 VALUE:
 
 KEY:§bMove & Dig downwards
-VALUE:
+VALUE:§b向下移动并向下挖掘
 
 KEY:ATTACK_MOBS_ANIMALS
 VALUE:
 
 KEY:§4Attack §c(Hostile Mobs & Animals)
-VALUE:
+VALUE:§4攻击 §c(敌对怪物与生物)
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdlNmM0MGY2OGI3NzVmMmVmY2Q3YmQ5OTE2YjMyNzg2OWRjZjI3ZTI0Yzg1NWQwYTE4ZTA3YWMwNGZlMSJ9fX0=
 VALUE:
@@ -680,25 +680,25 @@ KEY:ATTACK_MOBS
 VALUE:
 
 KEY:§4Attack §c(Hostile Mobs)
-VALUE:
+VALUE:§4攻击 §c(敌对怪物)
 
 KEY:ATTACK_ANIMALS
 VALUE:
 
 KEY:§4Attack §c(Animals)
-VALUE:
+VALUE:§4攻击 §c(动物)
 
 KEY:ATTACK_ANIMALS_ADULT
 VALUE:
 
 KEY:§4Attack §c(Animals §7[Adult]§c)
-VALUE:
+VALUE:§4攻击 §c(动物 §7[成年的]§c)
 
 KEY:CHOP_TREE
 VALUE:
 
 KEY:§cChop and Replant
-VALUE:
+VALUE:§c砍掉重新种植
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRiYTQ5Mzg0ZGJhN2I3YWNkYjRmNzBlOTM2MWU2ZDU3Y2JiY2JmNzIwY2Y0ZjE2YzJiYjgzZTQ1NTcifX19
 VALUE:
@@ -707,7 +707,7 @@ KEY:CATCH_FISH
 VALUE:
 
 KEY:§bCatch Fish
-VALUE:
+VALUE:§b捕鱼
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQ0ZmRlNTExZjQ0NTQxMDFlNGEyYTcyYmM4NmYxMjk4NWRmY2RhNzZiNjRiYjI0ZGM2M2E5ZmE5ZTNhMyJ9fX0=
 VALUE:
@@ -716,7 +716,7 @@ KEY:FARM_FORWARD
 VALUE:
 
 KEY:§bHarvest and Replant
-VALUE:
+VALUE:§b收割并重新种植
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGRlOWE1MjJjM2Q5ZTdkODVmM2Q4MmMzNzVkYzM3ZmVjYzg1NmRiZDgwMWViM2JjZWRjMTE2NTE5OGJmIn19fQ==
 VALUE:
@@ -725,7 +725,7 @@ KEY:FARM_DOWN
 VALUE:
 
 KEY:§bHarvest and Replant §7(Block underneath)
-VALUE:
+VALUE:§b收割重新种植 §7(方块在下面)
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ0Mjk2YjMzM2QyNTMxOWFmM2YzMzA1MTc5N2Y5ZTZkODIxY2QxOWEwMTRmYjcxMzdiZWI4NmE0ZTllOTYifX19
 VALUE:
@@ -743,7 +743,7 @@ KEY:INTERFACE_FUEL
 VALUE:
 
 KEY:§cPull Fuel from the faced Interface
-VALUE:
+VALUE:§c从面对的接口抽取燃料
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQzMmY1MjgyYTUwNzQ1YjkxMmJlMTRkZWRhNTgxYmQ0YTA5Yjk3N2EzYzMyZDdlOTU3ODQ5MWZlZThmYTcifX19
 VALUE:
@@ -788,22 +788,22 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§aStart/Continue
-VALUE:
+VALUE:§a启动/继续
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYxMzlmZDFjNTY1NGU1NmU5ZTRlMmM4YmU3ZWIyYmQ1YjQ5OWQ2MzM2MTY2NjNmZWVlOTliNzQzNTJhZDY0In19fQ==
 VALUE:
 
 KEY:§4Pause
-VALUE:
+VALUE:§4暂停
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
 VALUE:
 
 KEY:§bMemory Core
-VALUE:
+VALUE:§b存储核心
 
 KEY:§8⇨ §7Click to open the Script Editor
-VALUE:
+VALUE:§8⇨ §7点击打开脚本编辑器
 
 KEY:START-TURN_LEFT-REPEAT
 VALUE:
@@ -989,70 +989,70 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§8⇩ §cFuel Input §8⇩
-VALUE:
+VALUE:§8⇩ §c输入燃料 §8⇩
 
 KEY:§rThis Android runs on solid Fuel
-VALUE:
+VALUE:§r这个机器人使用固体燃料
 
-KEY:§re.g. Coal, Wood, etc...
+KEY:§r比如木炭，木头，等等...
 VALUE:
 
 KEY:§rThis Android runs on liquid Fuel
-VALUE:
+VALUE:§r这个机器人使用液体燃料
 
 KEY:§re.g. Lava, Oil, Fuel, etc...
-VALUE:
+VALUE:§r比如岩浆，石油，等等...
 
 KEY:§rThis Android runs on radioactive Fuel
-VALUE:
+VALUE:§r这个机器人使用核能
 
 KEY:§re.g. Uranium, Neptunium or Boosted Uranium
-VALUE:
+VALUE:§r比如铀，镎或提高铀
 
 KEY:§eScript Editor
-VALUE:
+VALUE::§e脚本编辑器
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDliZjZkYjRhZWRhOWQ4ODIyYjlmNzM2NTM4ZThjMThiOWE0ODQ0Zjg0ZWI0NTUwNGFkZmJmZWU4N2ViIn19fQ==
 VALUE:
 
 KEY:§2> Edit Script
-VALUE:
+VALUE:§2> 编辑脚本
 
 KEY:§aEdits your current Script
-VALUE:
+VALUE:§a编辑你当前的脚本
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcxZDg5NzljMTg3OGEwNTk4N2E3ZmFmMjFiNTZkMWI3NDRmOWQwNjhjNzRjZmZjZGUxZWExZWRhZDU4NTIifX19
 VALUE:
 
 KEY:§4> Create new Script
-VALUE:
+VALUE:§4> 创建新脚本
 
 KEY:§cDeletes your current Script
-VALUE:
+VALUE:§c删除当前脚本
 
 KEY:§cand creates a blank one
-VALUE:
+VALUE:§c并新建一个空白的
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzAxNTg2ZTM5ZjZmZmE2M2I0ZmIzMDFiNjVjYTdkYThhOTJmNzM1M2FhYWI4OWQzODg2NTc5MTI1ZGZiYWY5In19fQ==
 VALUE:
 
 KEY:§6> Download a Script
-VALUE:
+VALUE:§6> 下载一个脚本
 
 KEY:§eDownload a Script from the Server
-VALUE:
+VALUE:§e从服务器上下载一个脚本
 
 KEY:§eYou can edit or simply use it
-VALUE:
+VALUE:§e你可以编辑或者方便地使用它
 
 KEY:§7> Add new Command
-VALUE:
+VALUE:§7> 添加新的命令
 
 KEY:Slimefun Guide
 VALUE:
 
 KEY:&r⇦ Previous Page
-VALUE:
+VALUE:&r⇦ 上一页
 
 KEY:&7(
 VALUE:
@@ -1067,16 +1067,16 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:&eUpload a Script
-VALUE:
+VALUE:&e上传一个脚本
 
 KEY:§6Click §7to upload your Android's Script
-VALUE:
+VALUE:§6点击 §7上传你的机器人脚本
 
 KEY:§7to the Database
-VALUE:
+VALUE:§7到数据库
 
 KEY:&rNext Page ⇨
-VALUE:
+VALUE:&r下一页 ⇨
 
 KEY:author
 VALUE:
@@ -1094,13 +1094,13 @@ KEY:§7by §r
 VALUE:
 
 KEY:§7Downloads: §r
-VALUE:
+VALUE:§7已下载: §r
 
 KEY:downloads
 VALUE:
 
 KEY:§7Rating: 
-VALUE:
+VALUE:§7评价: 
 
 KEY:§a
 VALUE:
@@ -1109,16 +1109,16 @@ KEY: ☺ §7- §4☹
 VALUE:
 
 KEY:§eLeft Click &rto download this Script
-VALUE:
+VALUE:§e点击左键 &r下载脚本
 
 KEY:§4(This will override your current Script)
-VALUE:
+VALUE:§4(会覆盖你当前的脚本)
 
 KEY:§eShift + Left Click §rto leave a positive Rating
-VALUE:
+VALUE:§eShift + 左键 §r打出好评
 
 KEY:§eShift + Right Click §rto leave a negative Rating
-VALUE:
+VALUE:§eShift + 右键 §r打出差评
 
 KEY:rating.positive
 VALUE:
@@ -1151,10 +1151,10 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§rDo nothing
-VALUE:
+VALUE:§r什么也不做
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE:§4你所有的占位符是属于我们的
 
 KEY:plugins/Slimefun/scripts/
 VALUE:
@@ -1394,7 +1394,7 @@ KEY:§40%
 VALUE:
 
 KEY:§3Teleported!
-VALUE:
+VALUE:§3已传送！
 
 KEY:§b100%
 VALUE:
@@ -1403,7 +1403,7 @@ KEY:§b§lYou have been given 30 Seconds of Invulnerability!
 VALUE:
 
 KEY:§3Teleporting...
-VALUE:
+VALUE:§3正在传送...
 
 KEY:§b
 VALUE:
@@ -1421,7 +1421,7 @@ KEY:&
 VALUE:
 
 KEY:§4§l>> §eSuccessfully named this Floor:
-VALUE:
+VALUE:§4§l>> §e成功给楼层命名:
 
 KEY:§4§l>> §r
 VALUE:
