@@ -1388,7 +1388,7 @@ KEY:resources_
 VALUE:
 
 KEY:§4Teleportation cancelled
-VALUE:
+VALUE:§4传送取消！§4传送取消！
 
 KEY:§40%
 VALUE:
@@ -1400,7 +1400,7 @@ KEY:§b100%
 VALUE:
 
 KEY:§b§lYou have been given 30 Seconds of Invulnerability!
-VALUE:
+VALUE:§b§l你已开启暴走模式，30秒内无敌！
 
 KEY:§3Teleporting...
 VALUE:§3正在传送...
@@ -1427,16 +1427,16 @@ KEY:§4§l>> §r
 VALUE:
 
 KEY:§4§l>> §ePlease enter a Name for this Floor in your Chat!
-VALUE:
+VALUE:§4§l>> §e请在聊天框内输入来给楼层命名！
 
 KEY:§4§l>> §e(Chat Colors are supported!
-VALUE:
+VALUE:§4§l>> §e(支持聊天颜色
 
 KEY:Elevator Settings
 VALUE:
 
 KEY:§7Floor Name §e(Click to edit)
-VALUE:
+VALUE:§7楼层名称 §e(点击编辑)
 
 KEY:§r
 VALUE:
