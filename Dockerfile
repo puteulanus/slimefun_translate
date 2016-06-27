@@ -1,4 +1,4 @@
-FROM FROM centos:centos6
+FROM centos:centos6
 
 ADD tools/pf.jar /tmp/pf.jar
 ADD zh_CN /tmp/zh_CH
