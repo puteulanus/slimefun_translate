@@ -1,0 +1,11229 @@
+KEY:https://api.curseforge.com/servermods/files?projectIds=88802
+VALUE:
+
+KEY:CS-CoreLib
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:#################### - FATAL ERROR - ####################
+VALUE:
+
+KEY: could not be properly installed!
+VALUE:
+
+KEY:It appears that you have not installed CS-CoreLib
+VALUE:
+
+KEY:And because of that, CS-CoreLib is now going to be
+VALUE:
+
+KEY:downloaded and installed.
+VALUE:
+
+KEY:But for the time being 
+VALUE:
+
+KEY: will remain disabled
+VALUE:
+
+KEY:After the installation process has finished,
+VALUE:
+
+KEY:you will be asked to restart your Server.
+VALUE:
+
+KEY:- mrCookieSlime
+VALUE:
+
+KEY:User-Agent
+VALUE:
+
+KEY:CS-CoreLib Loader (by mrCookieSlime)
+VALUE:
+
+KEY:downloadUrl
+VALUE:
+
+KEY:plugins/
+VALUE:
+
+KEY:name
+VALUE:
+
+KEY:.jar
+VALUE:
+
+KEY:Could not connect to BukkitDev, is it down?
+VALUE:
+
+KEY:Could not download CS-CoreLib
+VALUE:
+
+KEY:#################### - WARNING - ####################
+VALUE:
+
+KEY:Please restart your Server to finish the Installation
+VALUE:
+
+KEY:of 
+VALUE:
+
+KEY: and CS-CoreLib
+VALUE:
+
+KEY:messages.not-enough-xp
+VALUE:
+
+KEY:messages.not-enough-xp
+VALUE:
+
+KEY:§7§o
+VALUE:
+
+KEY:.wiki
+VALUE:
+
+KEY:§7§o
+VALUE:
+
+KEY:.youtube
+VALUE:
+
+KEY:&eSlimefun Guide &7(Right Click)
+VALUE:
+
+KEY:§2
+VALUE:
+
+KEY:&rThis is your basic Guide for Slimefun
+VALUE:
+
+KEY:&rYou can see all Items added by this Plugin
+VALUE:
+
+KEY:&ror its Addons including their Recipes
+VALUE:
+
+KEY:&ra bit of information and more
+VALUE:
+
+KEY:§a§l- Guide Settings -\n\n
+VALUE:
+
+KEY:§7Design: §3Book\n
+VALUE:
+
+KEY:§e> Click to change your Guide Design to §bInventory
+VALUE:
+
+KEY:§7Design: §3Inventory\n
+VALUE:
+
+KEY:§e> Click to change your Guide Design to §bBook
+VALUE:
+
+KEY:SlimefunGuide Settings
+VALUE:
+
+KEY:mrCookieSlime
+VALUE:
+
+KEY:.enabled
+VALUE:
+
+KEY:.enabled-items.SLIMEFUN_GUIDE
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§8⇨ §6Tier 
+VALUE:
+
+KEY:§4§lLOCKED\n\n§7In order to unlock this Category,\n§7you need to unlock all Items from\n§7the following Categories first:\n
+VALUE:
+
+KEY:\n§c
+VALUE:
+
+KEY:§c
+VALUE:
+
+KEY:§a
+VALUE:
+
+KEY:§eClick to open the following Category:\n
+VALUE:
+
+KEY:§b§l- Slimefun Guide -\n\n
+VALUE:
+
+KEY:\n
+VALUE:
+
+KEY:Slimefun Guide
+VALUE:
+
+KEY:&rYou need to unlock all Items
+VALUE:
+
+KEY:&rfrom the following Categories first:
+VALUE:
+
+KEY:&4LOCKED &7- &r
+VALUE:
+
+KEY:&r⇦ Previous Page
+VALUE:
+
+KEY:&7(
+VALUE:
+
+KEY: / 
+VALUE:
+
+KEY:)
+VALUE:
+
+KEY:&rNext Page ⇨
+VALUE:
+
+KEY:...
+VALUE:
+
+KEY:§7
+VALUE:
+
+KEY:.cost
+VALUE:
+
+KEY:\n§c§lLOCKED\n\n§7Cost: 
+VALUE:
+
+KEY:§b
+VALUE:
+
+KEY:§4
+VALUE:
+
+KEY: Levels\n\n§a> Click to unlock
+VALUE:
+
+KEY:\n\n§e§oClick for more Info
+VALUE:
+
+KEY:§cNo Permission!
+VALUE:
+
+KEY:§6⇦ §lBack
+VALUE:
+
+KEY:§eClick to go back to the Category Overview
+VALUE:
+
+KEY:&7⇦ Back
+VALUE:
+
+KEY:&4&lLOCKED
+VALUE:
+
+KEY:&a> Click to unlock
+VALUE:
+
+KEY:&7Cost: &b
+VALUE:
+
+KEY: Level
+VALUE:
+
+KEY:&rYou do not have Permission
+VALUE:
+
+KEY:&rto access this Item
+VALUE:
+
+KEY:&7Next ⇨
+VALUE:
+
+KEY:§e§l! §rThere are multiple recipes for this Item
+VALUE:
+
+KEY:§rLeft Click: §7Go back to previous Page
+VALUE:
+
+KEY:§rShift + left Click: §7Go back to Main Menu
+VALUE:
+
+KEY:§rLeft Click: §7Go back to Main Menu
+VALUE:
+
+KEY:&rNeeds to be unlocked elsewhere
+VALUE:
+
+KEY:&rNo Permission
+VALUE:
+
+KEY:.wiki
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY2OTJmOTljYzZkNzgyNDIzMDQxMTA1NTM1ODk0ODQyOThiMmU0YTAyMzNiNzY3NTNmODg4ZTIwN2VmNSJ9fX0=
+VALUE:
+
+KEY:§rView this Item in our Wiki §7(Slimefun Wiki)
+VALUE:
+
+KEY:§7⇨ Click to open
+VALUE:
+
+KEY:.youtube
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQzNTNmZDBmODYzMTQzNTM4NzY1ODYwNzViOWJkZjBjNDg0YWFiMDMzMWI4NzJkZjExYmQ1NjRmY2IwMjllZCJ9fX0=
+VALUE:
+
+KEY:§rDemonstration Video §7(Youtube)
+VALUE:
+
+KEY:§7⇨ Click to watch
+VALUE:
+
+KEY:&7⇩ Recipes made in this Machine ⇩
+VALUE:
+
+KEY:§8⇨ §7Lasts 
+VALUE:
+
+KEY:§8⇨ §e⚡ §7
+VALUE:
+
+KEY: J/s
+VALUE:
+
+KEY: J in total
+VALUE:
+
+KEY:m 
+VALUE:
+
+KEY:s
+VALUE:
+
+KEY:Oil
+VALUE:
+
+KEY:Buckets
+VALUE:
+
+KEY:.enabled
+VALUE:
+
+KEY:.enabled-items.SLIMEFUN_GUIDE
+VALUE:
+
+KEY:guide.default-view-book
+VALUE:
+
+KEY:.enabled
+VALUE:
+
+KEY:.enabled-items.SLIMEFUN_GUIDE
+VALUE:
+
+KEY:[Slimefun] Could not save Slimefun Blocks for World "
+VALUE:
+
+KEY:"
+VALUE:
+
+KEY:EmeraldEnchants
+VALUE:
+
+KEY:options.show-vanilla-recipes-in-guide
+VALUE:
+
+KEY:ANCIENT_ALTAR
+VALUE:
+
+KEY:SOLAR_HELMET
+VALUE:
+
+KEY:charge-amount
+VALUE:
+
+KEY:SCUBA_HELMET
+VALUE:
+
+KEY:HAZMAT_CHESTPLATE
+VALUE:
+
+KEY:HAZMAT_LEGGINGS
+VALUE:
+
+KEY:RUBBER_BOOTS
+VALUE:
+
+KEY:yyyy-MM-dd-HH-mm
+VALUE:
+
+KEY:.zip
+VALUE:
+
+KEY:v1_9_
+VALUE:
+
+KEY:v1_10_
+VALUE:
+
+KEY:### Slimefun failed to load!
+VALUE:
+
+KEY:###
+VALUE:
+
+KEY:### You are using the wrong Version of Minecraft!!!
+VALUE:
+
+KEY:### You are using Minecraft 
+VALUE:
+
+KEY:### but Slimefun v
+VALUE:
+
+KEY: requires you to be using
+VALUE:
+
+KEY:### Minecraft 1.9.X or 1.10.X
+VALUE:
+
+KEY:### Please use an older Version of Slimefun and disable auto-updating
+VALUE:
+
+KEY:### or consider updating your Server Software.
+VALUE:
+
+KEY:[Slimefun] Loading Files...
+VALUE:
+
+KEY:[Slimefun] Loading Config...
+VALUE:
+
+KEY:data-storage/Slimefun/blocks
+VALUE:
+
+KEY:data-storage/Slimefun/stored-blocks
+VALUE:
+
+KEY:data-storage/Slimefun/stored-inventories
+VALUE:
+
+KEY:data-storage/Slimefun/universal-inventories
+VALUE:
+
+KEY:data-storage/Slimefun/waypoints
+VALUE:
+
+KEY:data-storage/Slimefun/block-backups
+VALUE:
+
+KEY:plugins/Slimefun/scripts
+VALUE:
+
+KEY:plugins/Slimefun/generators
+VALUE:
+
+KEY:plugins/Slimefun/error-reports
+VALUE:
+
+KEY:[Slimefun] Loading Items...
+VALUE:
+
+KEY:[Slimefun] Loading Researches...
+VALUE:
+
+KEY:enable-researching
+VALUE:
+
+KEY:URID.info-delay
+VALUE:
+
+KEY:[Slimefun] Loading World Generators...
+VALUE:
+
+KEY:items.talismans
+VALUE:
+
+KEY:items.backpacks
+VALUE:
+
+KEY:items.coolers
+VALUE:
+
+KEY:options.give-guide-on-first-join
+VALUE:
+
+KEY:WorldEdit
+VALUE:
+
+KEY:com.sk89q.worldedit.extent.Extent
+VALUE:
+
+KEY:[Slimefun] Successfully hooked into WorldEdit!
+VALUE:
+
+KEY:[Slimefun] Failed to hook into WorldEdit!
+VALUE:
+
+KEY:[Slimefun] Maybe consider updating WorldEdit or Slimefun?
+VALUE:
+
+KEY:slimefun
+VALUE:
+
+KEY:options.enable-armor-effects
+VALUE:
+
+KEY:options.armor-update-interval
+VALUE:
+
+KEY:options.auto-save-delay-in-minutes
+VALUE:
+
+KEY:URID.custom-ticker-delay
+VALUE:
+
+KEY:[Slimefun] Finished!
+VALUE:
+
+KEY:ClearLag
+VALUE:
+
+KEY:([A-Za-z0-9_]{3,16}) issued server command: /sf elevator (.{0,})
+VALUE:
+
+KEY:[Slimefun] Could not save Slimefun Blocks for World "
+VALUE:
+
+KEY:"
+VALUE:
+
+KEY:data-storage/Slimefun/block-backups/
+VALUE:
+
+KEY:.zip
+VALUE:
+
+KEY:data-storage/Slimefun/stored-blocks/
+VALUE:
+
+KEY:stored-blocks/
+VALUE:
+
+KEY:/
+VALUE:
+
+KEY:data-storage/Slimefun/universal-inventories/
+VALUE:
+
+KEY:universal-inventories/
+VALUE:
+
+KEY:data-storage/Slimefun/stored-inventories/
+VALUE:
+
+KEY:stored-inventories/
+VALUE:
+
+KEY:stored-chunks/chunks.sfc
+VALUE:
+
+KEY:data-storage/Slimefun/stored-chunks/chunks.sfc
+VALUE:
+
+KEY:[Slimfun] Backed up Blocks to 
+VALUE:
+
+KEY:ANCIENT_PEDESTAL
+VALUE:
+
+KEY:item_placed
+VALUE:
+
+KEY:START
+VALUE:
+
+KEY:&2Start Script
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFlMjk0MjJkYjQwNDdlZmRiOWJhYzJjZGFlNWEwNzE5ZWI3NzJmY2NjODhhNjZkOTEyMzIwYjM0M2MzNDEifX19
+VALUE:
+
+KEY:REPEAT
+VALUE:
+
+KEY:§9Repeat Script
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM4ZGVmNjdhMTI2MjJlYWQxZGVjZDNkODkzNjQyNTdiNTMxODk2ZDg3ZTQ2OTgxMzEzMWNhMjM1YjVjNyJ9fX0=
+VALUE:
+
+KEY:WAIT
+VALUE:
+
+KEY:§eWait 0.5s
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVlMTc0ZjQxZTU5NGU2NGVhMzE0MWMwN2RhZjdhY2YxZmEwNDVjMjMwYjJiMGIwZmIzZGExNjNkYjIyZjQ1NSJ9fX0=
+VALUE:
+
+KEY:GO_FORWARD
+VALUE:
+
+KEY:§7Move forward
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDliZjZkYjRhZWRhOWQ4ODIyYjlmNzM2NTM4ZThjMThiOWE0ODQ0Zjg0ZWI0NTUwNGFkZmJmZWU4N2ViIn19fQ==
+VALUE:
+
+KEY:GO_UP
+VALUE:
+
+KEY:§7Move upwards
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA1YTJjYWI4YjY4ZWE1N2UzYWY5OTJhMzZlNDdjOGZmOWFhODdjYzg3NzYyODE5NjZmOGMzY2YzMWEzOCJ9fX0=
+VALUE:
+
+KEY:GO_DOWN
+VALUE:
+
+KEY:§7Move downwards
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzAxNTg2ZTM5ZjZmZmE2M2I0ZmIzMDFiNjVjYTdkYThhOTJmNzM1M2FhYWI4OWQzODg2NTc5MTI1ZGZiYWY5In19fQ==
+VALUE:
+
+KEY:TURN_LEFT
+VALUE:
+
+KEY:§7Turn Left
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE4NWM5N2RiYjgzNTNkZTY1MjY5OGQyNGI2NDMyN2I3OTNhM2YzMmE5OGJlNjdiNzE5ZmJlZGFiMzVlIn19fQ==
+VALUE:
+
+KEY:TURN_RIGHT
+VALUE:
+
+KEY:§7Turn Right
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFjMGVkZWRkNzExNWZjMWIyM2Q1MWNlOTY2MzU4YjI3MTk1ZGFmMjZlYmI2ZTQ1YTY2YzM0YzY5YzM0MDkxIn19fQ==
+VALUE:
+
+KEY:DIG_UP
+VALUE:
+
+KEY:§bDig upwards
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmU2Y2UwMTFhYzlhN2E3NWIyZmNkNDA4YWQyMWEzYWMxNzIyZjZlMmVlZDg3ODFjYWZkMTI1NTIyODJiODgifX19
+VALUE:
+
+KEY:DIG_FORWARD
+VALUE:
+
+KEY:§bDig forward
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjZlYTIxMzU4Mzg0NjE1MzQzNzJmMmRhNmM4NjJkMjFjZDVmM2QyYzcxMTlmMmJiNjc0YmJkNDI3OTEifX19
+VALUE:
+
+KEY:DIG_DOWN
+VALUE:
+
+KEY:§bDig downwards
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ4NjIwMjQxMDhjNzg1YmMwZWY3MTk5ZWM3N2M0MDJkYmJmY2M2MjRlOWY0MWY4M2Q4YWVkOGIzOWZkMTMifX19
+VALUE:
+
+KEY:MOVE_AND_DIG_UP
+VALUE:
+
+KEY:§bMove & Dig upwards
+VALUE:
+
+KEY:MOVE_AND_DIG_FORWARD
+VALUE:
+
+KEY:§bMove & Dig forward
+VALUE:
+
+KEY:MOVE_AND_DIG_DOWN
+VALUE:
+
+KEY:§bMove & Dig downwards
+VALUE:
+
+KEY:ATTACK_MOBS_ANIMALS
+VALUE:
+
+KEY:§4Attack §c(Hostile Mobs & Animals)
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdlNmM0MGY2OGI3NzVmMmVmY2Q3YmQ5OTE2YjMyNzg2OWRjZjI3ZTI0Yzg1NWQwYTE4ZTA3YWMwNGZlMSJ9fX0=
+VALUE:
+
+KEY:ATTACK_MOBS
+VALUE:
+
+KEY:§4Attack §c(Hostile Mobs)
+VALUE:
+
+KEY:ATTACK_ANIMALS
+VALUE:
+
+KEY:§4Attack §c(Animals)
+VALUE:
+
+KEY:ATTACK_ANIMALS_ADULT
+VALUE:
+
+KEY:§4Attack §c(Animals §7[Adult]§c)
+VALUE:
+
+KEY:CHOP_TREE
+VALUE:
+
+KEY:§cChop and Replant
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRiYTQ5Mzg0ZGJhN2I3YWNkYjRmNzBlOTM2MWU2ZDU3Y2JiY2JmNzIwY2Y0ZjE2YzJiYjgzZTQ1NTcifX19
+VALUE:
+
+KEY:CATCH_FISH
+VALUE:
+
+KEY:§bCatch Fish
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQ0ZmRlNTExZjQ0NTQxMDFlNGEyYTcyYmM4NmYxMjk4NWRmY2RhNzZiNjRiYjI0ZGM2M2E5ZmE5ZTNhMyJ9fX0=
+VALUE:
+
+KEY:FARM_FORWARD
+VALUE:
+
+KEY:§bHarvest and Replant
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGRlOWE1MjJjM2Q5ZTdkODVmM2Q4MmMzNzVkYzM3ZmVjYzg1NmRiZDgwMWViM2JjZWRjMTE2NTE5OGJmIn19fQ==
+VALUE:
+
+KEY:FARM_DOWN
+VALUE:
+
+KEY:§bHarvest and Replant §7(Block underneath)
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ0Mjk2YjMzM2QyNTMxOWFmM2YzMzA1MTc5N2Y5ZTZkODIxY2QxOWEwMTRmYjcxMzdiZWI4NmE0ZTllOTYifX19
+VALUE:
+
+KEY:INTERFACE_ITEMS
+VALUE:
+
+KEY:§9Push Inventory Contents to the faced Interface
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBhNGRiZjY2MjVjNDJiZTU3YThiYTJjMzMwOTU0YTc2YmRmMjI3ODU1NDBlODdhNWM5NjcyNjg1MjM4ZWMifX19
+VALUE:
+
+KEY:INTERFACE_FUEL
+VALUE:
+
+KEY:§cPull Fuel from the faced Interface
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQzMmY1MjgyYTUwNzQ1YjkxMmJlMTRkZWRhNTgxYmQ0YTA5Yjk3N2EzYzMyZDdlOTU3ODQ5MWZlZThmYTcifX19
+VALUE:
+
+KEY:robot.started
+VALUE:
+
+KEY:paused
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:paused
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:robot.stopped
+VALUE:
+
+KEY:paused
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:robot.stopped
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:slimefun.android.bypass
+VALUE:
+
+KEY:inventory.no-access
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAxYzdiNTcyNjE3ODk3NGIzYjNhMDFiNDJhNTkwZTU0MzY2MDI2ZmQ0MzgwOGYyYTc4NzY0ODg0M2E3ZjVhIn19fQ==
+VALUE:
+
+KEY:§aStart/Continue
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYxMzlmZDFjNTY1NGU1NmU5ZTRlMmM4YmU3ZWIyYmQ1YjQ5OWQ2MzM2MTY2NjNmZWVlOTliNzQzNTJhZDY0In19fQ==
+VALUE:
+
+KEY:§4Pause
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+VALUE:
+
+KEY:§bMemory Core
+VALUE:
+
+KEY:§8⇨ §7Click to open the Script Editor
+VALUE:
+
+KEY:START-TURN_LEFT-REPEAT
+VALUE:
+
+KEY:plugins/Slimefun/scripts/
+VALUE:
+
+KEY:/
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:.sfs
+VALUE:
+
+KEY:author
+VALUE:
+
+KEY:author_name
+VALUE:
+
+KEY:name
+VALUE:
+
+KEY:code
+VALUE:
+
+KEY:downloads
+VALUE:
+
+KEY:android
+VALUE:
+
+KEY:rating.positive
+VALUE:
+
+KEY:rating.negative
+VALUE:
+
+KEY:android.uploaded
+VALUE:
+
+KEY:script
+VALUE:
+
+KEY:author
+VALUE:
+
+KEY:code
+VALUE:
+
+KEY:android.scripts.already-uploaded
+VALUE:
+
+KEY:android.scripts.enter-name
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:script
+VALUE:
+
+KEY:START-TURN_LEFT-REPEAT
+VALUE:
+
+KEY:index
+VALUE:
+
+KEY:0
+VALUE:
+
+KEY:fuel
+VALUE:
+
+KEY:rotation
+VALUE:
+
+KEY:NORTH
+VALUE:
+
+KEY:paused
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:slimefun.android.bypass
+VALUE:
+
+KEY:author
+VALUE:
+
+KEY:android.scripts.rating.own
+VALUE:
+
+KEY:rating.negative
+VALUE:
+
+KEY:rating.positive
+VALUE:
+
+KEY:android.scripts.rating.already
+VALUE:
+
+KEY:downloads
+VALUE:
+
+KEY:script
+VALUE:
+
+KEY:code
+VALUE:
+
+KEY:START-
+VALUE:
+
+KEY:-
+VALUE:
+
+KEY:REPEAT
+VALUE:
+
+KEY:script
+VALUE:
+
+KEY:START-
+VALUE:
+
+KEY:-
+VALUE:
+
+KEY:REPEAT
+VALUE:
+
+KEY:script
+VALUE:
+
+KEY:script
+VALUE:
+
+KEY:Programmable Android
+VALUE:
+
+KEY:paused
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:fuel
+VALUE:
+
+KEY:script
+VALUE:
+
+KEY:-
+VALUE:
+
+KEY:index
+VALUE:
+
+KEY:rotation
+VALUE:
+
+KEY:ANDROID_INTERFACE_ITEMS
+VALUE:
+
+KEY:ANDROID_INTERFACE_FUEL
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:android_killer
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM0M2NlNThkYTU0Yzc5OTI0YTJjOTMzMWNmYzQxN2ZlOGNjYmJlYTliZTQ1YTdhYzg1ODYwYTZjNzMwIn19fQ==
+VALUE:
+
+KEY:§8⇩ §cFuel Input §8⇩
+VALUE:
+
+KEY:§rThis Android runs on solid Fuel
+VALUE:
+
+KEY:§re.g. Coal, Wood, etc...
+VALUE:
+
+KEY:§rThis Android runs on liquid Fuel
+VALUE:
+
+KEY:§re.g. Lava, Oil, Fuel, etc...
+VALUE:
+
+KEY:§rThis Android runs on radioactive Fuel
+VALUE:
+
+KEY:§re.g. Uranium, Neptunium or Boosted Uranium
+VALUE:
+
+KEY:§eScript Editor
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDliZjZkYjRhZWRhOWQ4ODIyYjlmNzM2NTM4ZThjMThiOWE0ODQ0Zjg0ZWI0NTUwNGFkZmJmZWU4N2ViIn19fQ==
+VALUE:
+
+KEY:§2> Edit Script
+VALUE:
+
+KEY:§aEdits your current Script
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcxZDg5NzljMTg3OGEwNTk4N2E3ZmFmMjFiNTZkMWI3NDRmOWQwNjhjNzRjZmZjZGUxZWExZWRhZDU4NTIifX19
+VALUE:
+
+KEY:§4> Create new Script
+VALUE:
+
+KEY:§cDeletes your current Script
+VALUE:
+
+KEY:§cand creates a blank one
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzAxNTg2ZTM5ZjZmZmE2M2I0ZmIzMDFiNjVjYTdkYThhOTJmNzM1M2FhYWI4OWQzODg2NTc5MTI1ZGZiYWY5In19fQ==
+VALUE:
+
+KEY:§6> Download a Script
+VALUE:
+
+KEY:§eDownload a Script from the Server
+VALUE:
+
+KEY:§eYou can edit or simply use it
+VALUE:
+
+KEY:§7> Add new Command
+VALUE:
+
+KEY:Slimefun Guide
+VALUE:
+
+KEY:&r⇦ Previous Page
+VALUE:
+
+KEY:&7(
+VALUE:
+
+KEY: / 
+VALUE:
+
+KEY:)
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA1YTJjYWI4YjY4ZWE1N2UzYWY5OTJhMzZlNDdjOGZmOWFhODdjYzg3NzYyODE5NjZmOGMzY2YzMWEzOCJ9fX0=
+VALUE:
+
+KEY:&eUpload a Script
+VALUE:
+
+KEY:§6Click §7to upload your Android's Script
+VALUE:
+
+KEY:§7to the Database
+VALUE:
+
+KEY:&rNext Page ⇨
+VALUE:
+
+KEY:author
+VALUE:
+
+KEY:author_name
+VALUE:
+
+KEY:§b
+VALUE:
+
+KEY:name
+VALUE:
+
+KEY:§7by §r
+VALUE:
+
+KEY:§7Downloads: §r
+VALUE:
+
+KEY:downloads
+VALUE:
+
+KEY:§7Rating: 
+VALUE:
+
+KEY:§a
+VALUE:
+
+KEY: ☺ §7- §4☹ 
+VALUE:
+
+KEY:§eLeft Click &rto download this Script
+VALUE:
+
+KEY:§4(This will override your current Script)
+VALUE:
+
+KEY:§eShift + Left Click §rto leave a positive Rating
+VALUE:
+
+KEY:§eShift + Right Click §rto leave a negative Rating
+VALUE:
+
+KEY:rating.positive
+VALUE:
+
+KEY:rating.negative
+VALUE:
+
+KEY:&4
+VALUE:
+
+KEY:&r% 
+VALUE:
+
+KEY:&c
+VALUE:
+
+KEY:&6
+VALUE:
+
+KEY:&e
+VALUE:
+
+KEY:&2
+VALUE:
+
+KEY:&a
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYxMzlmZDFjNTY1NGU1NmU5ZTRlMmM4YmU3ZWIyYmQ1YjQ5OWQ2MzM2MTY2NjNmZWVlOTliNzQzNTJhZDY0In19fQ==
+VALUE:
+
+KEY:§rDo nothing
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:plugins/Slimefun/scripts/
+VALUE:
+
+KEY:sfs
+VALUE:
+
+KEY:plugins/Slimefun/scripts/NONE
+VALUE:
+
+KEY:NONE
+VALUE:
+
+KEY:MINER
+VALUE:
+
+KEY:FARMER
+VALUE:
+
+KEY:WOODCUTTER
+VALUE:
+
+KEY:FIGHTER
+VALUE:
+
+KEY:FISHERMAN
+VALUE:
+
+KEY:NON_FIGHTER
+VALUE:
+
+KEY:downloads
+VALUE:
+
+KEY:give
+VALUE:
+
+KEY:research
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:_
+VALUE:
+
+KEY:all
+VALUE:
+
+KEY:/sf help
+VALUE:
+
+KEY:help
+VALUE:
+
+KEY:commands.help
+VALUE:
+
+KEY:/sf cheat
+VALUE:
+
+KEY:cheat
+VALUE:
+
+KEY:commands.cheat
+VALUE:
+
+KEY:/sf give
+VALUE:
+
+KEY:give
+VALUE:
+
+KEY:commands.give
+VALUE:
+
+KEY:/sf research
+VALUE:
+
+KEY:research
+VALUE:
+
+KEY:commands.research.desc
+VALUE:
+
+KEY:/sf guide
+VALUE:
+
+KEY:guide
+VALUE:
+
+KEY:commands.guide
+VALUE:
+
+KEY:/sf stats
+VALUE:
+
+KEY:stats
+VALUE:
+
+KEY:commands.stats
+VALUE:
+
+KEY:/sf timings
+VALUE:
+
+KEY:timings
+VALUE:
+
+KEY:commands.timings
+VALUE:
+
+KEY:/sf teleporter
+VALUE:
+
+KEY:teleporter
+VALUE:
+
+KEY:commands.teleporter
+VALUE:
+
+KEY:slimefun.cheat.items
+VALUE:
+
+KEY:messages.no-permission
+VALUE:
+
+KEY:messages.only-players
+VALUE:
+
+KEY:guide.default-view-book
+VALUE:
+
+KEY:debug_fish
+VALUE:
+
+KEY:slimefun.stats.others
+VALUE:
+
+KEY:messages.not-online
+VALUE:
+
+KEY:%player%
+VALUE:
+
+KEY:elevator
+VALUE:
+
+KEY:floor
+VALUE:
+
+KEY:§r
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:slimefun.command.timings
+VALUE:
+
+KEY:messages.given-item
+VALUE:
+
+KEY:%item%
+VALUE:
+
+KEY:messages.give-item
+VALUE:
+
+KEY:messages.not-valid-item
+VALUE:
+
+KEY:messages.usage
+VALUE:
+
+KEY:%usage%
+VALUE:
+
+KEY:/sf give <Player> <Slimefun Item>
+VALUE:
+
+KEY:slimefun.command.teleporter
+VALUE:
+
+KEY:§4Unknown Player: §c
+VALUE:
+
+KEY:/sf teleporter <Player>
+VALUE:
+
+KEY:slimefun.cheat.researches
+VALUE:
+
+KEY:all
+VALUE:
+
+KEY:messages.give-research
+VALUE:
+
+KEY:%research%
+VALUE:
+
+KEY:reset
+VALUE:
+
+KEY:commands.research.reset
+VALUE:
+
+KEY:_
+VALUE:
+
+KEY:messages.not-valid-research
+VALUE:
+
+KEY:/sf research <Player> <all/reset/Research>
+VALUE:
+
+KEY:/help slimefun
+VALUE:
+
+KEY:[Slimefun - GEO] Registering Ore Gen: 
+VALUE:
+
+KEY:plugins/Slimefun/generators/
+VALUE:
+
+KEY:.cfg
+VALUE:
+
+KEY:resources_
+VALUE:
+
+KEY:§4Teleportation cancelled
+VALUE:
+
+KEY:§40%
+VALUE:
+
+KEY:§3Teleported!
+VALUE:
+
+KEY:§b100%
+VALUE:
+
+KEY:§b§lYou have been given 30 Seconds of Invulnerability!
+VALUE:
+
+KEY:§3Teleporting...
+VALUE:
+
+KEY:§b
+VALUE:
+
+KEY:%
+VALUE:
+
+KEY:floor
+VALUE:
+
+KEY:§
+VALUE:
+
+KEY:&
+VALUE:
+
+KEY:§4§l>> §eSuccessfully named this Floor:
+VALUE:
+
+KEY:§4§l>> §r
+VALUE:
+
+KEY:§4§l>> §ePlease enter a Name for this Floor in your Chat!
+VALUE:
+
+KEY:§4§l>> §e(Chat Colors are supported!
+VALUE:
+
+KEY:Elevator Settings
+VALUE:
+
+KEY:§7Floor Name §e(Click to edit)
+VALUE:
+
+KEY:§r
+VALUE:
+
+KEY:floor
+VALUE:
+
+KEY:§3- Pick a Destination -\n\n
+VALUE:
+
+KEY:ELEVATOR_PLATE
+VALUE:
+
+KEY:§7> 
+VALUE:
+
+KEY:. §r
+VALUE:
+
+KEY:\n
+VALUE:
+
+KEY:\n§eThis is the Floor you are currently on:\n§r
+VALUE:
+
+KEY:§7
+VALUE:
+
+KEY:\n§eClick to teleport to this Floor\n§r
+VALUE:
+
+KEY:/sf elevator 
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:Elevator
+VALUE:
+
+KEY:Slimefun
+VALUE:
+
+KEY:machines.ELEVATOR.no-destinations
+VALUE:
+
+KEY:ONLINE
+VALUE:
+
+KEY:OFFLINE
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:_
+VALUE:
+
+KEY:data-storage/Slimefun/waypoints/
+VALUE:
+
+KEY:.yml
+VALUE:
+
+KEY:§9Control Panel
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBjOWMxYTAyMmY0MGI3M2YxNGI0Y2JhMzdjNzE4YzZhNTMzZjNhMjg2NGI2NTM2ZDVmNDU2OTM0Y2MxZiJ9fX0=
+VALUE:
+
+KEY:§7Transmitter Overview &e(Selected)
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRjZmJhNThmYWYxZjY0ODQ3ODg0MTExODIyYjY0YWZhMjFkN2ZjNjJkNDQ4MWYxNGYzZjNiY2I2MzMwIn19fQ==
+VALUE:
+
+KEY:§7Network Info
+VALUE:
+
+KEY:§8⇨ §7Status: 
+VALUE:
+
+KEY:§2§lONLINE
+VALUE:
+
+KEY:§4§lOFFLINE
+VALUE:
+
+KEY:§8⇨ §7Complexity: §r
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzljODg4MWU0MjkxNWE5ZDI5YmI2MWExNmZiMjZkMDU5OTEzMjA0ZDI2NWRmNWI0MzliM2Q3OTJhY2Q1NiJ9fX0=
+VALUE:
+
+KEY:§7Waypoint Overview &r(Select)
+VALUE:
+
+KEY:§bGPS Transmitter
+VALUE:
+
+KEY:§8⇨ §7World: §r
+VALUE:
+
+KEY:§8⇨ §7X: §r
+VALUE:
+
+KEY:§8⇨ §7Y: §r
+VALUE:
+
+KEY:§8⇨ §7Z: §r
+VALUE:
+
+KEY:§8⇨ §7Signal Strength: §r
+VALUE:
+
+KEY:§8⇨ §7Ping: §r
+VALUE:
+
+KEY:ms
+VALUE:
+
+KEY:&4Deathpoint
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFlMzg1NWY5NTJjZDRhMDNjMTQ4YTk0NmUzZjgxMmE1OTU1YWQzNWNiY2I1MjYyN2VhNGFjZDQ3ZDMwODEifX19
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDgzNTcxZmY1ODlmMWE1OWJiMDJiODA4MDBmYzczNjExNmUyN2MzZGNmOWVmZWJlZGU4Y2YxZmRkZSJ9fX0=
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZjYWM1OWIyYWFlNDg5YWEwNjg3YjVkODAyYjI1NTVlYjE0YTQwYmQ2MmIyMWViMTE2ZmE1NjljZGI3NTYifX19
+VALUE:
+
+KEY:§7Transmitter Overview &r(Select)
+VALUE:
+
+KEY:§7Waypoint Overview &e(Selected)
+VALUE:
+
+KEY:§8⇨ §cClick to delete
+VALUE:
+
+KEY:data-storage/Slimefun/waypoints/
+VALUE:
+
+KEY:.yml
+VALUE:
+
+KEY:.world
+VALUE:
+
+KEY:.name
+VALUE:
+
+KEY:gps.waypoint.max
+VALUE:
+
+KEY:gps.waypoint.new
+VALUE:
+
+KEY:_
+VALUE:
+
+KEY:gps.waypoint.added
+VALUE:
+
+KEY:gps.insufficient-complexity
+VALUE:
+
+KEY:%complexity%
+VALUE:
+
+KEY:§4Scan Results
+VALUE:
+
+KEY:§7Resource: §e
+VALUE:
+
+KEY:§7Scanned Chunk:
+VALUE:
+
+KEY:§8⇨ §7X: 
+VALUE:
+
+KEY: Z: 
+VALUE:
+
+KEY:§7Result: §e
+VALUE:
+
+KEY:§3Teleporter
+VALUE:
+
+KEY:§7Waypoint Overview &e(Select a Destination)
+VALUE:
+
+KEY:§8⇨ §7Estimated Teleportation Time: §r
+VALUE:
+
+KEY:s
+VALUE:
+
+KEY:§8⇨ §cClick to select
+VALUE:
+
+KEY:&7Weapons
+VALUE:
+
+KEY:open
+VALUE:
+
+KEY:&7Food
+VALUE:
+
+KEY:&7Armor
+VALUE:
+
+KEY:&7Magical Items
+VALUE:
+
+KEY:&7Magical Gadgets
+VALUE:
+
+KEY:&7Technical Gadgets
+VALUE:
+
+KEY:&7Technical Components
+VALUE:
+
+KEY:&7Magical Armor
+VALUE:
+
+KEY:&7Talismans - &aTier I
+VALUE:
+
+KEY:&7Talismans - &aTier II
+VALUE:
+
+KEY:&7Tools
+VALUE:
+
+KEY:&aC&ch&ar&ci&as&ct&am&ca&as
+VALUE:
+
+KEY:&chelp &aSanta
+VALUE:
+
+KEY:&dValentine's Day
+VALUE:
+
+KEY:&dcelebrate Love
+VALUE:
+
+KEY:&6Easter
+VALUE:
+
+KEY:&apaint some Eggs
+VALUE:
+
+KEY:&a&lmrCookieSlime's Birthday &7(26th October)
+VALUE:
+
+KEY:&acelebrate with me
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRkYTk3ZjA4MGUzOTViODQyYzRjYzgyYTg0MDgyM2Q0ZGJkOGNhNjg4YTIwNjg1M2U1NzgzZTRiZmRjMDEyIn19fQ==
+VALUE:
+
+KEY:&7Miscellaneous
+VALUE:
+
+KEY:&a> Click to open
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjYjFlNjdiNTEyYWIyZDRiZjNkN2FjZTBlYWFmNjFjMzJjZDQ2ODFkZGMzOTg3Y2ViMzI2NzA2YTMzZmEifX19
+VALUE:
+
+KEY:§7Items
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM0M2NlNThkYTU0Yzc5OTI0YTJjOTMzMWNmYzQxN2ZlOGNjYmJlYTliZTQ1YTdhYzg1ODYwYTZjNzMwIn19fQ==
+VALUE:
+
+KEY:§7Basic Machines
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTU4NDQzMmFmNmYzODIxNjcxMjAyNThkMWVlZThjODdjNmU3NWQ5ZTQ3OWU3YjBkNGM3YjZhZDQ4Y2ZlZWYifX19
+VALUE:
+
+KEY:§bEnergy and Electricity
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBjOWMxYTAyMmY0MGI3M2YxNGI0Y2JhMzdjNzE4YzZhNTMzZjNhMjg2NGI2NTM2ZDVmNDU2OTM0Y2MxZiJ9fX0=
+VALUE:
+
+KEY:§bGPS-based Machines
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+VALUE:
+
+KEY:§7Resources
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUxMGJjODUzNjJhMTMwYTZmZjlkOTFmZjExZDZmYTQ2ZDdkMTkxMmEzNDMxZjc1MTU1OGVmM2M0ZDljMiJ9fX0=
+VALUE:
+
+KEY:§cCargo Management
+VALUE:
+
+KEY:&bMultiBlock
+VALUE:
+
+KEY:&a&oBuild it in the World
+VALUE:
+
+KEY:&bArmor Forge
+VALUE:
+
+KEY:&a&oCraft it in an Armor Forge
+VALUE:
+
+KEY:ARMOR_FORGE
+VALUE:
+
+KEY:&bGrind Stone
+VALUE:
+
+KEY:&a&oGrind it using the Grind Stone
+VALUE:
+
+KEY:GRIND_STONE
+VALUE:
+
+KEY:&bMob Drop
+VALUE:
+
+KEY:&a&oKill the specified Mob to obtain this Item
+VALUE:
+
+KEY:&6Smeltery
+VALUE:
+
+KEY:&a&oSmelt it using a Smeltery
+VALUE:
+
+KEY:SMELTERY
+VALUE:
+
+KEY:&bOre Crusher
+VALUE:
+
+KEY:&a&oCrush it using the Ore Crusher
+VALUE:
+
+KEY:ORE_CRUSHER
+VALUE:
+
+KEY:&bGold Pan
+VALUE:
+
+KEY:&a&oUse a Gold Pan on Gravel to obtain this Item
+VALUE:
+
+KEY:&bCompressor
+VALUE:
+
+KEY:&a&oCompress it using the Compressor
+VALUE:
+
+KEY:COMPRESSOR
+VALUE:
+
+KEY:&bPressure Chamber
+VALUE:
+
+KEY:&a&oCompress it using the Pressure Chamber
+VALUE:
+
+KEY:PRESSURE_CHAMBER
+VALUE:
+
+KEY:&bOven
+VALUE:
+
+KEY:&a&oSmelt it in an Oven
+VALUE:
+
+KEY:OVEN
+VALUE:
+
+KEY:&6Magic Workbench
+VALUE:
+
+KEY:&a&oCraft it in a Magic Workbench
+VALUE:
+
+KEY:MAGIC_WORKBENCH
+VALUE:
+
+KEY:&6Ore Washer
+VALUE:
+
+KEY:&a&oWash it in an Ore Washer
+VALUE:
+
+KEY:ORE_WASHER
+VALUE:
+
+KEY:&eEnhanced Crafting Table
+VALUE:
+
+KEY:&a&oA regular Crafting Table cannot
+VALUE:
+
+KEY:&a&ohold this massive Amount of Power...
+VALUE:
+
+KEY:ENHANCED_CRAFTING_TABLE
+VALUE:
+
+KEY:&eJuicer
+VALUE:
+
+KEY:&a&oUsed for Juice Creation
+VALUE:
+
+KEY:JUICER
+VALUE:
+
+KEY:&4Ancient Altar
+VALUE:
+
+KEY:&dYou will need to craft this Item
+VALUE:
+
+KEY:§dby performing an Ancient Altar Ritual
+VALUE:
+
+KEY:&cHeated Pressure Chamber
+VALUE:
+
+KEY:&a&oCraft this Item in a
+VALUE:
+
+KEY:&a&oHeated Pressure Chamber
+VALUE:
+
+KEY:HEATED_PRESSURE_CHAMBER
+VALUE:
+
+KEY:&eShaped Recipe
+VALUE:
+
+KEY:&a&oJust a standard Recipe in the Workbench...
+VALUE:
+
+KEY:&eShapeless Recipe
+VALUE:
+
+KEY:&eFurnace Recipe
+VALUE:
+
+KEY:&a&oJust smelt it in a regular Furnace
+VALUE:
+
+KEY:&6Portable Crafter
+VALUE:
+
+KEY:&a&oA portable Crafting Table
+VALUE:
+
+KEY:&eRight Click&7 to open
+VALUE:
+
+KEY:&6&lMagic Eye of Ender
+VALUE:
+
+KEY:&4&lRequires full Ender Armor
+VALUE:
+
+KEY:&7&eRight Click&7 to shoot an Ender Pearl
+VALUE:
+
+KEY:&cBroken Spawner
+VALUE:
+
+KEY:&7Type: &b<Type>
+VALUE:
+
+KEY:§cFractured, must be repaired in an Ancient Altar
+VALUE:
+
+KEY:&bReinforced Spawner
+VALUE:
+
+KEY:&4Infernal Bonemeal
+VALUE:
+
+KEY:§cSpeeds up the Growth of
+VALUE:
+
+KEY:§cNether Warts as well
+VALUE:
+
+KEY:&6Gold Pan
+VALUE:
+
+KEY:&a&oCan get you all kinds of Goodies...
+VALUE:
+
+KEY:&7&eRight Click&7 to pan various Stuff out of Gravel
+VALUE:
+
+KEY:&r&lParachute
+VALUE:
+
+KEY:&7Hold &eShift&7 to use
+VALUE:
+
+KEY:&6Grappling Hook
+VALUE:
+
+KEY:&7&eRight Click&7 to use
+VALUE:
+
+KEY:&bSolar Helmet
+VALUE:
+
+KEY:&a&oCharges held Items and Armor
+VALUE:
+
+KEY:&bCloth
+VALUE:
+
+KEY:&aNight Vision Goggles
+VALUE:
+
+KEY:&9+ Night Vision
+VALUE:
+
+KEY:&eFarmer Shoes
+VALUE:
+
+KEY:&6&oPrevents you from trampling your Crops
+VALUE:
+
+KEY:&cFlask of Knowledge
+VALUE:
+
+KEY:&rAllows you to store some of
+VALUE:
+
+KEY:&ryour Experience in a Bottle
+VALUE:
+
+KEY:&7Cost: &a1 Level
+VALUE:
+
+KEY:&cRag
+VALUE:
+
+KEY:&aLevel I - Medical Supply
+VALUE:
+
+KEY:&rRestores 2 Hearts
+VALUE:
+
+KEY:&rExtinguishes Fire
+VALUE:
+
+KEY:&cBandage
+VALUE:
+
+KEY:&aLevel II - Medical Supply
+VALUE:
+
+KEY:&rRestores 4 Hearts
+VALUE:
+
+KEY:&cSplint
+VALUE:
+
+KEY:&cVitamins
+VALUE:
+
+KEY:&aLevel III - Medical Supply
+VALUE:
+
+KEY:&rCures Poison/Wither/Radiation
+VALUE:
+
+KEY:&cMedicine
+VALUE:
+
+KEY:&7&eRight Click&7 to drink
+VALUE:
+
+KEY:&eSmall Backpack
+VALUE:
+
+KEY:&7Size: &e9
+VALUE:
+
+KEY:&7ID: <ID>
+VALUE:
+
+KEY:&7&eRight Click&7 to open
+VALUE:
+
+KEY:&eBackpack
+VALUE:
+
+KEY:&7Size: &e18
+VALUE:
+
+KEY:&eLarge Backpack
+VALUE:
+
+KEY:&7Size: &e27
+VALUE:
+
+KEY:&eWoven Backpack
+VALUE:
+
+KEY:&7Size: &e36
+VALUE:
+
+KEY:&eGilded Backpack
+VALUE:
+
+KEY:&7Size: &e45
+VALUE:
+
+KEY:&cSoulbound Backpack
+VALUE:
+
+KEY:&bCooler
+VALUE:
+
+KEY:&rAllows you to store Juices/Smoothies
+VALUE:
+
+KEY:&rand automatically consumes them when you are hungry
+VALUE:
+
+KEY:&rand you have this in your Inventory
+VALUE:
+
+KEY:&9Electric Jetpack &7- &eI
+VALUE:
+
+KEY:§8⇨ &7Material: &bDuralumin
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 20 J
+VALUE:
+
+KEY:§8⇨ &7Thrust: &c0.35
+VALUE:
+
+KEY:&9Electric Jetpack &7- &eII
+VALUE:
+
+KEY:§8⇨ &7Material: &bSolder
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 30 J
+VALUE:
+
+KEY:§8⇨ &7Thrust: &c0.4
+VALUE:
+
+KEY:&9Electric Jetpack &7- &eIII
+VALUE:
+
+KEY:§8⇨ &7Material: &bBillon
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 45 J
+VALUE:
+
+KEY:§8⇨ &7Thrust: &c0.45
+VALUE:
+
+KEY:&9Electric Jetpack &7- &eIV
+VALUE:
+
+KEY:§8⇨ &7Material: &bSteel
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 60 J
+VALUE:
+
+KEY:§8⇨ &7Thrust: &c0.5
+VALUE:
+
+KEY:&9Electric Jetpack &7- &eV
+VALUE:
+
+KEY:§8⇨ &7Material: &bDamascus Steel
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 75 J
+VALUE:
+
+KEY:§8⇨ &7Thrust: &c0.55
+VALUE:
+
+KEY:&9Electric Jetpack &7- &eVI
+VALUE:
+
+KEY:§8⇨ &7Material: &bReinforced Alloy
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 100 J
+VALUE:
+
+KEY:§8⇨ &7Thrust: &c0.6
+VALUE:
+
+KEY:&9Electric Jetpack &7- &eVII
+VALUE:
+
+KEY:§8⇨ &7Material: &bCarbonado
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 150 J
+VALUE:
+
+KEY:§8⇨ &7Thrust: &c0.7
+VALUE:
+
+KEY:&9Armored Jetpack
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 50 J
+VALUE:
+
+KEY:&9Jet Boots &7- &eI
+VALUE:
+
+KEY:§8⇨ &7Speed: &a0.35
+VALUE:
+
+KEY:§8⇨ &7Accuracy: &c50%
+VALUE:
+
+KEY:&9Jet Boots &7- &eII
+VALUE:
+
+KEY:§8⇨ &7Speed: &a0.4
+VALUE:
+
+KEY:§8⇨ &7Accuracy: &660%
+VALUE:
+
+KEY:&9Jet Boots &7- &eIII
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 40 J
+VALUE:
+
+KEY:§8⇨ &7Speed: &a0.45
+VALUE:
+
+KEY:§8⇨ &7Accuracy: &665%
+VALUE:
+
+KEY:&9Jet Boots &7- &eIV
+VALUE:
+
+KEY:§8⇨ &7Speed: &a0.5
+VALUE:
+
+KEY:§8⇨ &7Accuracy: &e70%
+VALUE:
+
+KEY:&9Jet Boots &7- &eV
+VALUE:
+
+KEY:§8⇨ &7Speed: &a0.55
+VALUE:
+
+KEY:§8⇨ &7Accuracy: &a75%
+VALUE:
+
+KEY:&9Jet Boots &7- &eVI
+VALUE:
+
+KEY:§8⇨ &7Speed: &a0.6
+VALUE:
+
+KEY:§8⇨ &7Accuracy: &c80%
+VALUE:
+
+KEY:&9Jet Boots &7- &eVII
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §70 / 125 J
+VALUE:
+
+KEY:§8⇨ &7Speed: &a0.7
+VALUE:
+
+KEY:§8⇨ &7Accuracy: &c99.9%
+VALUE:
+
+KEY:&9Armored Jet Boots
+VALUE:
+
+KEY:&9Multi Tool &7- &eI
+VALUE:
+
+KEY:&7Hold &eShift + Right Click&7 to change the Mode
+VALUE:
+
+KEY:&9Multi Tool &7- &eII
+VALUE:
+
+KEY:&9Multi Tool &7- &eIII
+VALUE:
+
+KEY:&9Multi Tool &7- &eIV
+VALUE:
+
+KEY:&9Multi Tool &7- &eV
+VALUE:
+
+KEY:&9Multi Tool &7- &eVI
+VALUE:
+
+KEY:&9Multi Tool &7- &eVII
+VALUE:
+
+KEY:&6Fortune Cookie
+VALUE:
+
+KEY:&a&oTells you stuff about your Future :o
+VALUE:
+
+KEY:&6Beef Jerky
+VALUE:
+
+KEY:&a&oSaturating
+VALUE:
+
+KEY:&6Magic Sugar
+VALUE:
+
+KEY:&a&oFeel the Power of Hermes!
+VALUE:
+
+KEY:&6Monster Jerky
+VALUE:
+
+KEY:&a&oNo longer hungry
+VALUE:
+
+KEY:&cApple Juice
+VALUE:
+
+KEY:&cMelon Juice
+VALUE:
+
+KEY:&6Carrot Juice
+VALUE:
+
+KEY:&6Pumpkin Juice
+VALUE:
+
+KEY:&bGolden Apple Juice
+VALUE:
+
+KEY:&6Glass of Milk
+VALUE:
+
+KEY:&6Chocolate Milk
+VALUE:
+
+KEY:&aEgg Nog
+VALUE:
+
+KEY:&cApple Cider
+VALUE:
+
+KEY:Christmas Cookie
+VALUE:
+
+KEY:Fruit Cake
+VALUE:
+
+KEY:&rApple Pie
+VALUE:
+
+KEY:&6Hot Chocolate
+VALUE:
+
+KEY:Christmas Cake
+VALUE:
+
+KEY:&6Caramel
+VALUE:
+
+KEY:&6Caramel Apple
+VALUE:
+
+KEY:&6Chocolate Apple
+VALUE:
+
+KEY:Christmas Present
+VALUE:
+
+KEY:&7From: &emrCookieSlime
+VALUE:
+
+KEY:&7To: &eYou
+VALUE:
+
+KEY:&rEaster Egg
+VALUE:
+
+KEY:&bSurprise! Surprise!
+VALUE:
+
+KEY:&6Carrot Pie
+VALUE:
+
+KEY:&7Grandmas Walking Stick
+VALUE:
+
+KEY:KNOCKBACK-2
+VALUE:
+
+KEY:&7Grandpas Walking Stick
+VALUE:
+
+KEY:KNOCKBACK-5
+VALUE:
+
+KEY:&6Sword of Beheading
+VALUE:
+
+KEY:&7Beheading II
+VALUE:
+
+KEY:&rHas a chance to behead Mobs
+VALUE:
+
+KEY:&r(even a higher chance for Wither Skeletons)
+VALUE:
+
+KEY:&cBlade of Vampires
+VALUE:
+
+KEY:&7Life Steal I
+VALUE:
+
+KEY:&rEverytime you attack something
+VALUE:
+
+KEY:&ryou have a 45% chance to
+VALUE:
+
+KEY:&rrecover 2 Hearts of your Health
+VALUE:
+
+KEY:FIRE_ASPECT-2
+VALUE:
+
+KEY:DURABILITY-4
+VALUE:
+
+KEY:DAMAGE_ALL-2
+VALUE:
+
+KEY:&aSeismic Axe
+VALUE:
+
+KEY:&7&oA portable Earthquake...
+VALUE:
+
+KEY:&cExplosive Bow
+VALUE:
+
+KEY:&rAny Arrows fired using this Bow
+VALUE:
+
+KEY:&rwill launch hit enemys into the air
+VALUE:
+
+KEY:&bIcy Bow
+VALUE:
+
+KEY:&rwill prevent hit enemys from moving
+VALUE:
+
+KEY:&rfor 2 seconds
+VALUE:
+
+KEY:&6Smelter's Pickaxe
+VALUE:
+
+KEY:&c&lAuto-Smelting
+VALUE:
+
+KEY:&9Works with Fortune
+VALUE:
+
+KEY:&6Lumber Axe
+VALUE:
+
+KEY:&a&oCuts down the whole Tree...
+VALUE:
+
+KEY:&cPickaxe of Containment
+VALUE:
+
+KEY:&9Can pickup Spawners
+VALUE:
+
+KEY:&9Hercules' Pickaxe
+VALUE:
+
+KEY:&rSo powerful that it
+VALUE:
+
+KEY:&rcrushes all mined Ores
+VALUE:
+
+KEY:&rinto Dust...
+VALUE:
+
+KEY:DURABILITY-2
+VALUE:
+
+KEY:DIG_SPEED-4
+VALUE:
+
+KEY:&eExplosive Pickaxe
+VALUE:
+
+KEY:&rAllows you to mine a good bit
+VALUE:
+
+KEY:&rof Blocks at once...
+VALUE:
+
+KEY:&aPickaxe of the Seeker
+VALUE:
+
+KEY:&rWill always point you to the nearest Ore
+VALUE:
+
+KEY:&rbut might get damaged when doing it
+VALUE:
+
+KEY:&7&eRight Click&7 to be pointed to the nearest Ore
+VALUE:
+
+KEY:&9Cobalt Pickaxe
+VALUE:
+
+KEY:DURABILITY-3
+VALUE:
+
+KEY:DIG_SPEED-6
+VALUE:
+
+KEY:&ePickaxe of Vein Mining
+VALUE:
+
+KEY:&rThis Pickaxe will dig out
+VALUE:
+
+KEY:&rwhole Veins of Ores...
+VALUE:
+
+KEY:&e&lGlowstone Helmet
+VALUE:
+
+KEY:&a&oShining like the sun!
+VALUE:
+
+KEY:&e&lGlowstone Chestplate
+VALUE:
+
+KEY:&e&lGlowstone Leggings
+VALUE:
+
+KEY:&e&lGlowstone Boots
+VALUE:
+
+KEY:&5&lEnder Helmet
+VALUE:
+
+KEY:&a&oSometimes its here, sometimes there!
+VALUE:
+
+KEY:&5&lEnder Chestplate
+VALUE:
+
+KEY:&5&lEnder Leggings
+VALUE:
+
+KEY:&5&lEnder Boots
+VALUE:
+
+KEY:&9+ No Enderpearl Damage
+VALUE:
+
+KEY:&a&lSlime Helmet
+VALUE:
+
+KEY:&a&oBouncy Feeling
+VALUE:
+
+KEY:&a&lSlime Chestplate
+VALUE:
+
+KEY:&a&lSlime Leggings
+VALUE:
+
+KEY:&9+ Speed
+VALUE:
+
+KEY:&a&lSlime Boots
+VALUE:
+
+KEY:&9+ Jump Boost
+VALUE:
+
+KEY:&9+ No Fall Damage
+VALUE:
+
+KEY:&2Cactus Helmet
+VALUE:
+
+KEY:THORNS-3
+VALUE:
+
+KEY:DURABILITY-5
+VALUE:
+
+KEY:&2Cactus Chestplate
+VALUE:
+
+KEY:&2Cactus Leggings
+VALUE:
+
+KEY:&2Cactus Boots
+VALUE:
+
+KEY:&7Damascus Steel Helmet
+VALUE:
+
+KEY:PROTECTION_ENVIRONMENTAL-4
+VALUE:
+
+KEY:&7Damascus Steel Chestplate
+VALUE:
+
+KEY:&7Damascus Steel Leggings
+VALUE:
+
+KEY:&7Damascus Steel Boots
+VALUE:
+
+KEY:&bReinforced Helmet
+VALUE:
+
+KEY:DURABILITY-9
+VALUE:
+
+KEY:PROTECTION_ENVIRONMENTAL-9
+VALUE:
+
+KEY:&bReinforced Chestplate
+VALUE:
+
+KEY:&bReinforced Leggings
+VALUE:
+
+KEY:&bReinforced Boots
+VALUE:
+
+KEY:&cScuba Helmet
+VALUE:
+
+KEY:&bAllows you to breathe Underwater
+VALUE:
+
+KEY:&4&oPart of Hazmat Suit
+VALUE:
+
+KEY:&cHazmat Suit
+VALUE:
+
+KEY:&bAllows you to walk through Fire
+VALUE:
+
+KEY:&cHazmat Suit Leggings
+VALUE:
+
+KEY:&cRubber Boots
+VALUE:
+
+KEY:&6Gilded Iron Helmet
+VALUE:
+
+KEY:DURABILITY-6
+VALUE:
+
+KEY:PROTECTION_ENVIRONMENTAL-8
+VALUE:
+
+KEY:&6Gilded Iron Chestplate
+VALUE:
+
+KEY:&6Gilded Iron Leggings
+VALUE:
+
+KEY:&6Gilded Iron Boots
+VALUE:
+
+KEY:&6Gold Helmet
+VALUE:
+
+KEY:&912-Carat
+VALUE:
+
+KEY:DURABILITY-10
+VALUE:
+
+KEY:&6Gold Chestplate
+VALUE:
+
+KEY:&6Gold Leggings
+VALUE:
+
+KEY:&6Gold Boots
+VALUE:
+
+KEY:&7&oReinforced
+VALUE:
+
+KEY:PROTECTION_ENVIRONMENTAL-2
+VALUE:
+
+KEY:&bBoots of the Stomper
+VALUE:
+
+KEY:&9All Fall Damage you receive
+VALUE:
+
+KEY:&9will be applied to nearby Mobs/Players
+VALUE:
+
+KEY:&cHeavy Helmet
+VALUE:
+
+KEY:&9+ Strength
+VALUE:
+
+KEY:&9+ Slowness
+VALUE:
+
+KEY:PROTECTION_ENVIRONMENTAL-10
+VALUE:
+
+KEY:&cHeavy Chestplate
+VALUE:
+
+KEY:&cHeavy Leggings
+VALUE:
+
+KEY:&cHeavy Boots
+VALUE:
+
+KEY:&6Magical Lump &7- &eI
+VALUE:
+
+KEY:&c&oTier: I
+VALUE:
+
+KEY:&6Magical Lump &7- &eII
+VALUE:
+
+KEY:&c&oTier: II
+VALUE:
+
+KEY:&6Magical Lump &7- &eIII
+VALUE:
+
+KEY:&c&oTier: III
+VALUE:
+
+KEY:&5Ender Lump &7- &eI
+VALUE:
+
+KEY:&5Ender Lump &7- &eII
+VALUE:
+
+KEY:&5Ender Lump &7- &eIII
+VALUE:
+
+KEY:&6Magical Book Cover
+VALUE:
+
+KEY:&a&oUsed for various Magic Books
+VALUE:
+
+KEY:&bBasic Circuit Board
+VALUE:
+
+KEY:&bAdvanced Circuit Board
+VALUE:
+
+KEY:&rWheat Flour
+VALUE:
+
+KEY:&7&lSteel Plate
+VALUE:
+
+KEY:&7&lSteel Thruster
+VALUE:
+
+KEY:&bChain
+VALUE:
+
+KEY:&bHook
+VALUE:
+
+KEY:&6Sifted Ore
+VALUE:
+
+KEY:&rSalt
+VALUE:
+
+KEY:&rHeavy Cream
+VALUE:
+
+KEY:&6Crushed Ore
+VALUE:
+
+KEY:&6Pulverized Ore
+VALUE:
+
+KEY:&6Pure Ore Cluster
+VALUE:
+
+KEY:&cNecrotic Skull
+VALUE:
+
+KEY:&4Essence of Afterlife
+VALUE:
+
+KEY:&6Scroll of Dimensional Teleposition
+VALUE:
+
+KEY:&cThis Scroll is capable of creating
+VALUE:
+
+KEY:&ca temporary black Hole which pulls
+VALUE:
+
+KEY:&cnearby Entities into itself and sends
+VALUE:
+
+KEY:&cthem into another Dimension where
+VALUE:
+
+KEY:&ceverything is turned around
+VALUE:
+
+KEY:&rIn other words: Makes Entities turn by 180 Degrees
+VALUE:
+
+KEY:&6Tome of Knowledge Sharing
+VALUE:
+
+KEY:&7Owner: &bNone
+VALUE:
+
+KEY:&eRight Click&7 to bind this Tome to yourself
+VALUE:
+
+KEY:&eRight Click&7 to obtain all Researches by
+VALUE:
+
+KEY:&7the previously assigned Owner
+VALUE:
+
+KEY:&7Hardened Glass
+VALUE:
+
+KEY:&rWithstands Explosions
+VALUE:
+
+KEY:&5Wither-Proof Obsidian
+VALUE:
+
+KEY:&rWithstands Wither Bosses
+VALUE:
+
+KEY:&5Wither-Proof Glass
+VALUE:
+
+KEY:&7Reinforced Plate
+VALUE:
+
+KEY:&dAncient Pedestal
+VALUE:
+
+KEY:&5Part of the Ancient Altar
+VALUE:
+
+KEY:&dAncient Altar
+VALUE:
+
+KEY:&5Multi-Block Altar for
+VALUE:
+
+KEY:&5magical Crafting Processes
+VALUE:
+
+KEY:&5Rainbow Wool
+VALUE:
+
+KEY:§dCycles through all Colors of the Rainbow!
+VALUE:
+
+KEY:&5Rainbow Glass
+VALUE:
+
+KEY:&5Rainbow Clay
+VALUE:
+
+KEY:&5Rainbow Glass Pane
+VALUE:
+
+KEY:&5Rainbow Wool &7(Christmas)
+VALUE:
+
+KEY:< Christmas Edition >
+VALUE:
+
+KEY:&5Rainbow Glass &7(Christmas)
+VALUE:
+
+KEY:&5Rainbow Clay &7(Christmas)
+VALUE:
+
+KEY:&5Rainbow Glass Pane &7(Christmas)
+VALUE:
+
+KEY:&5Rainbow Wool &7(Valentine's Day)
+VALUE:
+
+KEY:§d< Valentine's Day Edition >
+VALUE:
+
+KEY:&5Rainbow Glass &7(Valentine's Day)
+VALUE:
+
+KEY:&5Rainbow Clay &7(Valentine's Day)
+VALUE:
+
+KEY:&5Rainbow Glass Pane &7(Valentine's Day)
+VALUE:
+
+KEY:&bCopper Ingot
+VALUE:
+
+KEY:&bTin Ingot
+VALUE:
+
+KEY:&bSilver Ingot
+VALUE:
+
+KEY:&bAluminum Ingot
+VALUE:
+
+KEY:&bLead Ingot
+VALUE:
+
+KEY:&bZinc Ingot
+VALUE:
+
+KEY:&bMagnesium Ingot
+VALUE:
+
+KEY:&bSteel Ingot
+VALUE:
+
+KEY:&bBronze Ingot
+VALUE:
+
+KEY:&bDuralumin Ingot
+VALUE:
+
+KEY:&bBillon Ingot
+VALUE:
+
+KEY:&bBrass Ingot
+VALUE:
+
+KEY:&bAluminum Brass Ingot
+VALUE:
+
+KEY:&bAluminum Bronze Ingot
+VALUE:
+
+KEY:&bCorinthian Bronze Ingot
+VALUE:
+
+KEY:&bSolder Ingot
+VALUE:
+
+KEY:&bDamascus Steel Ingot
+VALUE:
+
+KEY:&b&lHardened Metal
+VALUE:
+
+KEY:&b&lReinforced Alloy Ingot
+VALUE:
+
+KEY:&bFerrosilicon
+VALUE:
+
+KEY:&6&lGilded Iron
+VALUE:
+
+KEY:&cRedstone Alloy Ingot
+VALUE:
+
+KEY:&bNickel Ingot
+VALUE:
+
+KEY:&9Cobalt Ingot
+VALUE:
+
+KEY:&rGold Ingot &7(4-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(6-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(8-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(10-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(12-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(14-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(16-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(18-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(20-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(22-Carat)
+VALUE:
+
+KEY:&rGold Ingot &7(24-Carat)
+VALUE:
+
+KEY:&6Iron Dust
+VALUE:
+
+KEY:&6Gold Dust
+VALUE:
+
+KEY:&6Tin Dust
+VALUE:
+
+KEY:&6Copper Dust
+VALUE:
+
+KEY:&6Silver Dust
+VALUE:
+
+KEY:&6Aluminum Dust
+VALUE:
+
+KEY:&6Lead Dust
+VALUE:
+
+KEY:&6Sulfate
+VALUE:
+
+KEY:&6Zinc Dust
+VALUE:
+
+KEY:&6Magnesium
+VALUE:
+
+KEY:&6Silicon
+VALUE:
+
+KEY:&rGold Block &7(24-Carat)
+VALUE:
+
+KEY:&bSynthetic Diamond
+VALUE:
+
+KEY:&bSynthetic Sapphire
+VALUE:
+
+KEY:&bSynthetic Emerald
+VALUE:
+
+KEY:&6Common Talisman
+VALUE:
+
+KEY:&aTalisman of the Anvil
+VALUE:
+
+KEY:&rEach Talisman can prevent
+VALUE:
+
+KEY:&r1 Tool from breaking, but will then
+VALUE:
+
+KEY:&rbe consumed
+VALUE:
+
+KEY:&4&lWARNING:
+VALUE:
+
+KEY:&4This Talisman does not work on
+VALUE:
+
+KEY:&4Tools which are too powerful
+VALUE:
+
+KEY:&4due to their complexity
+VALUE:
+
+KEY:&aTalisman of the Miner
+VALUE:
+
+KEY:&rWhile you have this Talisman
+VALUE:
+
+KEY:&rin your Inventory it has
+VALUE:
+
+KEY:&ra 20% chance of doubling
+VALUE:
+
+KEY:&rall Ores you mine
+VALUE:
+
+KEY:&aTalisman of the Hunter
+VALUE:
+
+KEY:&rall Drops from Mobs you kill
+VALUE:
+
+KEY:&aTalisman of the Lava Walker
+VALUE:
+
+KEY:&rin your Inventory it will
+VALUE:
+
+KEY:&rgive you Fire Resistance
+VALUE:
+
+KEY:&ras soon as you touch Lava
+VALUE:
+
+KEY:&rbut will then be consumed
+VALUE:
+
+KEY:&aTalisman of the Water Breather
+VALUE:
+
+KEY:&rgive you the ability
+VALUE:
+
+KEY:&rto breath underwater as
+VALUE:
+
+KEY:&rsoon as you start drowning
+VALUE:
+
+KEY:&aTalisman of the Angel
+VALUE:
+
+KEY:&rin your Inventory it has a
+VALUE:
+
+KEY:&r75% chance to prevent you
+VALUE:
+
+KEY:&rfrom taking Fall Damage
+VALUE:
+
+KEY:&aTalisman of the Firefighter
+VALUE:
+
+KEY:&ras soon as you start burning
+VALUE:
+
+KEY:&aTalisman of the Magician
+VALUE:
+
+KEY:&rin your Inventory it gives
+VALUE:
+
+KEY:&ryou a 80% Luck Bonus on Enchanting
+VALUE:
+
+KEY:&rYou will sometimes get an Extra Enchantment
+VALUE:
+
+KEY:&aTalisman of the Traveller
+VALUE:
+
+KEY:&ryou a 60% Chance for a decent
+VALUE:
+
+KEY:&rSpeed Buff when you start sprinting
+VALUE:
+
+KEY:&aTalisman of the Warrior
+VALUE:
+
+KEY:&ryou Strength III whenever you get hit
+VALUE:
+
+KEY:&aTalisman of the Knight
+VALUE:
+
+KEY:&ryou a 30% Chance for 5 Seconds of Regeneration
+VALUE:
+
+KEY:&rwhenever You get hit
+VALUE:
+
+KEY:&aTalisman of the Whirlwind
+VALUE:
+
+KEY:&rin your Inventory it will reflect
+VALUE:
+
+KEY:&r60% of all Projectiles fired at you
+VALUE:
+
+KEY:&aTalisman of the Wizard
+VALUE:
+
+KEY:&rin your Inventory it allows you to
+VALUE:
+
+KEY:&robtain Fortune Level 4/5 however
+VALUE:
+
+KEY:&rit also has a chance to lower the
+VALUE:
+
+KEY:&rLevel of some Enchantments on your Item
+VALUE:
+
+KEY:&6Elemental Staff
+VALUE:
+
+KEY:&6Elemental Staff &7- &b&oWind
+VALUE:
+
+KEY:&7Element: &b&oWind
+VALUE:
+
+KEY:&7&eRight Click&7 to launch yourself forward
+VALUE:
+
+KEY:LUCK-1
+VALUE:
+
+KEY:&6Elemental Staff &7- &c&oFire
+VALUE:
+
+KEY:&7Element: &c&oFire
+VALUE:
+
+KEY:FIRE_ASPECT-5
+VALUE:
+
+KEY:&6Elemental Staff &7- &1&oWater
+VALUE:
+
+KEY:&7Element: &1&oWater
+VALUE:
+
+KEY:&7&eRight Click&7 to extinguish yourself
+VALUE:
+
+KEY:WATER_WORKER-1
+VALUE:
+
+KEY:&bGrind Stone
+VALUE:
+
+KEY:&a&oGrinds Items for more Efficiency
+VALUE:
+
+KEY:&6Armor Forge
+VALUE:
+
+KEY:&a&oGives you the Ability to create powerful Armor
+VALUE:
+
+KEY:&6Smeltery
+VALUE:
+
+KEY:&a&oActs as a high-temperature Furnace for Metals
+VALUE:
+
+KEY:&bOre Crusher
+VALUE:
+
+KEY:&a&oCrushes Ores to double them
+VALUE:
+
+KEY:&bCompressor
+VALUE:
+
+KEY:&a&oCompresses Items
+VALUE:
+
+KEY:&bPressure Chamber
+VALUE:
+
+KEY:&a&oCompresses Items even more
+VALUE:
+
+KEY:&6Magic Workbench
+VALUE:
+
+KEY:Infuses Items with magical Energy
+VALUE:
+
+KEY:&6Ore Washer
+VALUE:
+
+KEY:&a&oWashes Sifted Ore to filter Ores
+VALUE:
+
+KEY:&a&oand gives you small Stone Chunks
+VALUE:
+
+KEY:&6Saw Mill
+VALUE:
+
+KEY:&a&oAllows you to get 8 planks from 1 Log
+VALUE:
+
+KEY:&aComposter
+VALUE:
+
+KEY:&a&oCan convert various Materials over Time...
+VALUE:
+
+KEY:&eEnhanced Crafting Table
+VALUE:
+
+KEY:&a&oA regular Crafting Table cannot
+VALUE:
+
+KEY:&a&ohold this massive Amount of Power...
+VALUE:
+
+KEY:&cCrucible
+VALUE:
+
+KEY:&a&oUsed to smelt Items into Liquids
+VALUE:
+
+KEY:&aJuicer
+VALUE:
+
+KEY:&a&oAllows you to create delicious Juice
+VALUE:
+
+KEY:&bSolar Panel
+VALUE:
+
+KEY:&a&oTransforms Sunlight to Energy
+VALUE:
+
+KEY:&bSolar Array
+VALUE:
+
+KEY:&bDigital Miner
+VALUE:
+
+KEY:&a&oDigs out everything!
+VALUE:
+
+KEY:&6Advanced Digital Miner
+VALUE:
+
+KEY:&a&oAutomatically crushes your Ores
+VALUE:
+
+KEY:&aAutomated Panning Machine
+VALUE:
+
+KEY:&a&oA MultiBlock Version of the Gold Pan
+VALUE:
+
+KEY:&bHologram Projector
+VALUE:
+
+KEY:§rProjects an Editable Hologram
+VALUE:
+
+KEY:&7Enhanced Furnace - &eI
+VALUE:
+
+KEY:&7Processing Speed: &e1x
+VALUE:
+
+KEY:&7Fuel Efficiency: &e1x
+VALUE:
+
+KEY:&7Luck Multiplier: &e1x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eII
+VALUE:
+
+KEY:&7Processing Speed: &e2x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eIII
+VALUE:
+
+KEY:&7Fuel Efficiency: &e2x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eIV
+VALUE:
+
+KEY:&7Processing Speed: &e3x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eV
+VALUE:
+
+KEY:&7Luck Multiplier: &e2x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eVI
+VALUE:
+
+KEY:&7Fuel Efficiency: &e3x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eVII
+VALUE:
+
+KEY:&7Processing Speed: &e4x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eVIII
+VALUE:
+
+KEY:&7Fuel Efficiency: &e4x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eIX
+VALUE:
+
+KEY:&7Processing Speed: &e5x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eX
+VALUE:
+
+KEY:&7Fuel Efficiency: &e5x
+VALUE:
+
+KEY:&7Enhanced Furnace - &eXI
+VALUE:
+
+KEY:&7Luck Multiplier: &e3x
+VALUE:
+
+KEY:&7Reinforced Furnace
+VALUE:
+
+KEY:&7Processing Speed: &e10x
+VALUE:
+
+KEY:&7Fuel Efficiency: &e10x
+VALUE:
+
+KEY:&7Carbonado Edged Furnace
+VALUE:
+
+KEY:&7Processing Speed: &e20x
+VALUE:
+
+KEY:&aBlock Placer
+VALUE:
+
+KEY:&rAll Blocks in this Dispenser
+VALUE:
+
+KEY:&rwill automatically get placed
+VALUE:
+
+KEY:&cSoulbound Sword
+VALUE:
+
+KEY:&cSoulbound Bow
+VALUE:
+
+KEY:&cSoulbound Pickaxe
+VALUE:
+
+KEY:&cSoulbound Axe
+VALUE:
+
+KEY:&cSoulbound Shovel
+VALUE:
+
+KEY:&cSoulbound Hoe
+VALUE:
+
+KEY:&cSoulbound Helmet
+VALUE:
+
+KEY:&cSoulbound Chestplate
+VALUE:
+
+KEY:&cSoulbound Leggings
+VALUE:
+
+KEY:&cSoulbound Boots
+VALUE:
+
+KEY:§8Blank Rune
+VALUE:
+
+KEY:§7Ancient Rune §8§l[§b§lAir§8§l]
+VALUE:
+
+KEY:§7Ancient Rune §8§l[§1§lWater§8§l]
+VALUE:
+
+KEY:§7Ancient Rune §8§l[§4§lFire§8§l]
+VALUE:
+
+KEY:§7Ancient Rune §8§l[§c§lEarth§8§l]
+VALUE:
+
+KEY:§7Ancient Rune §8§l[§5§lEnder§8§l]
+VALUE:
+
+KEY:§7Ancient Rune §8§l[§d§lRainbow§8§l]
+VALUE:
+
+KEY:&bSolar Generator
+VALUE:
+
+KEY:§eBasic Generator
+VALUE:
+
+KEY:§8⇨ §e⚡ §70 J Buffer
+VALUE:
+
+KEY:§8⇨ §e⚡ §74 J/s
+VALUE:
+
+KEY:&cAdvanced Solar Generator
+VALUE:
+
+KEY:§aMedium Generator
+VALUE:
+
+KEY:§8⇨ §e⚡ §716 J/s
+VALUE:
+
+KEY:&4Carbonado Solar Generator
+VALUE:
+
+KEY:§4End-Game Generator
+VALUE:
+
+KEY:§8⇨ §e⚡ §764 J/s
+VALUE:
+
+KEY:&eEnergized Solar Generator
+VALUE:
+
+KEY:§9Works at Night
+VALUE:
+
+KEY:§8⇨ §e⚡ §7256 J/s (Day)
+VALUE:
+
+KEY:§8⇨ §e⚡ §7128 J/s (Night)
+VALUE:
+
+KEY:&cElectric Furnace
+VALUE:
+
+KEY:§eBasic Machine
+VALUE:
+
+KEY:§8⇨ §7Speed: 1x
+VALUE:
+
+KEY:&cElectric Furnace &7- &eII
+VALUE:
+
+KEY:§aMedium Machine
+VALUE:
+
+KEY:§8⇨ §7Speed: 2x
+VALUE:
+
+KEY:§8⇨ §e⚡ §76 J/s
+VALUE:
+
+KEY:&cElectric Furnace &7- &eIII
+VALUE:
+
+KEY:§8⇨ §7Speed: 4x
+VALUE:
+
+KEY:§8⇨ §e⚡ §710 J/s
+VALUE:
+
+KEY:&cElectric Ore Grinder
+VALUE:
+
+KEY:§rWorks as an Ore Crusher and Grind Stone
+VALUE:
+
+KEY:§6Advanced Machine
+VALUE:
+
+KEY:§8⇨ §e⚡ §712 J/s
+VALUE:
+
+KEY:&cElectric Ore Grinder &7(&eII&7)
+VALUE:
+
+KEY:§4End-Game Machine
+VALUE:
+
+KEY:§8⇨ §e⚡ §730 J/s
+VALUE:
+
+KEY:&5Auto Enchanter
+VALUE:
+
+KEY:§8⇨ §e⚡ §718 J/s
+VALUE:
+
+KEY:&5Auto Disenchanter
+VALUE:
+
+KEY:&7Auto Anvil
+VALUE:
+
+KEY:§8⇨ §7Repair Factor: 10%
+VALUE:
+
+KEY:§8⇨ §e⚡ §724 J/s
+VALUE:
+
+KEY:&7Auto Anvil Mk.II
+VALUE:
+
+KEY:§8⇨ §7Repair Factor: 25%
+VALUE:
+
+KEY:§8⇨ §e⚡ §732 J/s
+VALUE:
+
+KEY:&2Bio Reactor
+VALUE:
+
+KEY:§6Average Generator
+VALUE:
+
+KEY:§8⇨ §e⚡ §7128 J Buffer
+VALUE:
+
+KEY:§8⇨ §e⚡ §78 J/s
+VALUE:
+
+KEY:&eMultimeter
+VALUE:
+
+KEY:§rMeasures the Amount of stored
+VALUE:
+
+KEY:§rEnergy in a Block
+VALUE:
+
+KEY:§bGPS Marker Tool
+VALUE:
+
+KEY:§rAllows you to set a Waypoint at
+VALUE:
+
+KEY:§the Location you place this
+VALUE:
+
+KEY:&7Android Interface §c(Fuel)
+VALUE:
+
+KEY:§rItems stored in this Interface
+VALUE:
+
+KEY:§rwill be inserted into an Android's Fuel Slot
+VALUE:
+
+KEY:§rwhen its Script tells them to do so
+VALUE:
+
+KEY:&7Android Interface §9(Items)
+VALUE:
+
+KEY:§rItems stored in an Android's Inventory
+VALUE:
+
+KEY:§rwill be inserted into this Interface
+VALUE:
+
+KEY:&cRefinery
+VALUE:
+
+KEY:§rRefines Oil to create Fuel
+VALUE:
+
+KEY:§5GPS Teleporter Pylon
+VALUE:
+
+KEY:§7Teleporter Component
+VALUE:
+
+KEY:§bGPS Teleporter Matrix
+VALUE:
+
+KEY:§rThis is your Teleporter's Main Component
+VALUE:
+
+KEY:§rThis Matrix allows Players to choose from all
+VALUE:
+
+KEY:§rWaypoints made by the Player who has placed
+VALUE:
+
+KEY:§rthis Device.
+VALUE:
+
+KEY:§rGPS Activation Device §3(Shared)
+VALUE:
+
+KEY:§rPlace this onto a Teleportation Matrix
+VALUE:
+
+KEY:§rand step onto this Plate to activate
+VALUE:
+
+KEY:§rthe Teleportation Process
+VALUE:
+
+KEY:§rGPS Activation Device §a(Personal)
+VALUE:
+
+KEY:§rThis Version only allows the Person who
+VALUE:
+
+KEY:§rplaced this Device to use it
+VALUE:
+
+KEY:§bElevator Plate
+VALUE:
+
+KEY:§rPlace an Elevator Plate on every floor
+VALUE:
+
+KEY:§rand you will be able to teleport between them.
+VALUE:
+
+KEY:§eRight Click this Block §7to name it
+VALUE:
+
+KEY:§5Infused Hopper
+VALUE:
+
+KEY:§rAutomatically picks up nearby Items in a 7x7x7
+VALUE:
+
+KEY:§rRadius when placed.
+VALUE:
+
+KEY:§rPlastic Sheet
+VALUE:
+
+KEY:&cHeated Pressure Chamber
+VALUE:
+
+KEY:&cHeated Pressure Chamber &7- &eII
+VALUE:
+
+KEY:§8⇨ §7Speed: 5x
+VALUE:
+
+KEY:§8⇨ §e⚡ §744 J/s
+VALUE:
+
+KEY:&cElectric Smeltery
+VALUE:
+
+KEY:§4Alloys-Only, doesn't smelt Dust into Ingots
+VALUE:
+
+KEY:§8⇨ §e⚡ §720 J/s
+VALUE:
+
+KEY:&cCarbon Press
+VALUE:
+
+KEY:&cCarbon Press &7- &eII
+VALUE:
+
+KEY:§8⇨ §7Speed: 3x
+VALUE:
+
+KEY:§8⇨ §e⚡ §750 J/s
+VALUE:
+
+KEY:&cCarbon Press &7- &eIII
+VALUE:
+
+KEY:§8⇨ §7Speed: 15x
+VALUE:
+
+KEY:§8⇨ §e⚡ §7180 J/s
+VALUE:
+
+KEY:§6Blistering Ingot &7(33%)
+VALUE:
+
+KEY:§2Radiation Level: HIGH
+VALUE:
+
+KEY:&4&oHazmat Suit required
+VALUE:
+
+KEY:§6Blistering Ingot &7(66%)
+VALUE:
+
+KEY:§6Blistering Ingot
+VALUE:
+
+KEY:§3How much is the Fish?
+VALUE:
+
+KEY:§eRight Click §rany Block to view it's BlockData
+VALUE:
+
+KEY:§eLeft Click §rto break a Block
+VALUE:
+
+KEY:§eShift + Left Click §rany Block to erase it's BlockData
+VALUE:
+
+KEY:§eShift + Right Click §rto place a Placeholder Block
+VALUE:
+
+KEY:§cFood Fabricator
+VALUE:
+
+KEY:§rProduces §aOrganic Food
+VALUE:
+
+KEY:§8⇨ §e⚡ §7256 J Buffer
+VALUE:
+
+KEY:§8⇨ §e⚡ §714 J/s
+VALUE:
+
+KEY:§cFood Fabricator &7(&eII&7)
+VALUE:
+
+KEY:§8⇨ §7Speed: 6x
+VALUE:
+
+KEY:§8⇨ §e⚡ §7512 J Buffer
+VALUE:
+
+KEY:§8⇨ §e⚡ §748 J/s
+VALUE:
+
+KEY:§cFood Composter
+VALUE:
+
+KEY:§rProduces §aOrganic Fertilizer
+VALUE:
+
+KEY:§cFood Composter &7(&eII&7)
+VALUE:
+
+KEY:§8⇨ §7Speed: 10x
+VALUE:
+
+KEY:§8⇨ §e⚡ §752 J/s
+VALUE:
+
+KEY:§2Reactor Access Port
+VALUE:
+
+KEY:§rAllows you to interact with a Reactor
+VALUE:
+
+KEY:§rvia Cargo Nodes, can also be used
+VALUE:
+
+KEY:§ras a Buffer
+VALUE:
+
+KEY:§8⇨ §eMust be placed &a3 Blocks &eabove the Reactor
+VALUE:
+
+KEY:&6Electric Gold Pan
+VALUE:
+
+KEY:§8⇨ §e⚡ §72 J/s
+VALUE:
+
+KEY:&6Electric Gold Pan &7(&eII&7)
+VALUE:
+
+KEY:&6Electric Gold Pan &7(&eIII&7)
+VALUE:
+
+KEY:&3Electric Dust Washer
+VALUE:
+
+KEY:&3Electric Dust Washer &7(&eII&7)
+VALUE:
+
+KEY:&3Electric Dust Washer &7(&eIII&7)
+VALUE:
+
+KEY:&cElectric Ingot Factory
+VALUE:
+
+KEY:&cElectric Ingot Factory &7(&eII&7)
+VALUE:
+
+KEY:&cElectric Ingot Factory &7(&eIII&7)
+VALUE:
+
+KEY:§8⇨ §7Speed: 8x
+VALUE:
+
+KEY:§8⇨ §e⚡ §740 J/s
+VALUE:
+
+KEY:&6Automated Crafting Chamber
+VALUE:
+
+KEY:§8⇨ §e⚡ §710 J/Item
+VALUE:
+
+KEY:&9Fluid Pump
+VALUE:
+
+KEY:§8⇨ §e⚡ §732 J/Block
+VALUE:
+
+KEY:&6Charging Bench
+VALUE:
+
+KEY:§rCharges Items such as Jetpacks
+VALUE:
+
+KEY:§8⇨ §e⚡ §7Energy Loss: §c50%
+VALUE:
+
+KEY:&5Wither Assembler
+VALUE:
+
+KEY:§8⇨ §7Cooldown: §b30 Seconds
+VALUE:
+
+KEY:§8⇨ §e⚡ §74096 J Buffer
+VALUE:
+
+KEY:§8⇨ §e⚡ §74096 J/Wither
+VALUE:
+
+KEY:§bEyltra Scale
+VALUE:
+
+KEY:§5Infused Elytra
+VALUE:
+
+KEY:MENDING-1
+VALUE:
+
+KEY:§cSoulbound Elytra
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJkNDEwNDJjZTk5MTQ3Y2MzOGNhYzllNDY3NDE1NzZlN2VlNzkxMjgzZTZmYWM4ZDMyOTJjYWUyOTM1ZjFmIn19fQ==
+VALUE:
+
+KEY:&6Portable Dustbin
+VALUE:
+
+KEY:&rYour portable Item-Destroyer
+VALUE:
+
+KEY:&3Trash Can
+VALUE:
+
+KEY:§rWill destroy all Items put into it
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRkYTk3ZjA4MGUzOTViODQyYzRjYzgyYTg0MDgyM2Q0ZGJkOGNhNjg4YTIwNjg1M2U1NzgzZTRiZmRjMDEyIn19fQ==
+VALUE:
+
+KEY:§rTin Can
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+VALUE:
+
+KEY:&6Stone Chunk
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhOGViYzRjNmE4MTczMDk0NzQ5OWJmN2UxZDVlNzNmZWQ2YzFiYjJjMDUxZTk2ZDM1ZWIxNmQyNDYxMGU3In19fQ==
+VALUE:
+
+KEY:&aInfused Magnet
+VALUE:
+
+KEY:&rMagical infused Magnets
+VALUE:
+
+KEY:&rattract nearby Items
+VALUE:
+
+KEY:&ras long as it is somewhere in
+VALUE:
+
+KEY:&ryour Inventory
+VALUE:
+
+KEY:&7Hold &eShift&7 to pick up nearby Items
+VALUE:
+
+KEY:&cMagnet
+VALUE:
+
+KEY:&cElectromagnet
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNiY2EwMTJmNjdlNTRkZTlhZWU3MmZmNDI0ZTA1NmMyYWU1OGRlNWVhY2M5NDlhYjJiY2Q5NjgzY2VjIn19fQ==
+VALUE:
+
+KEY:&cElectric Motor
+VALUE:
+
+KEY:&3Cargo Motor
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjYjFlNjdiNTEyYWIyZDRiZjNkN2FjZTBlYWFmNjFjMzJjZDQ2ODFkZGMzOTg3Y2ViMzI2NzA2YTMzZmEifX19
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmEzYjM0ODYyYjlhZmI2M2NmOGQ1Nzc5OTY2ZDNmYmE3MGFmODJiMDRlODNmM2VhZjY0NDlhZWJhIn19fQ==
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRjMTU3MjU4NGViNWRlMjI5ZGU5ZjVhNGY3NzlkMGFhY2JhZmZkMzNiY2IzM2ViNDUzNmE2YTJiYzZhMSJ9fX0=
+VALUE:
+
+KEY:&6Ender Backpack
+VALUE:
+
+KEY:&a&oA portable Ender Chest
+VALUE:
+
+KEY:&4Small Void Bag
+VALUE:
+
+KEY:&7&eLeft Click&7 to suck up nearby Items
+VALUE:
+
+KEY:&4Void Bag
+VALUE:
+
+KEY:&4Big Void Bag
+VALUE:
+
+KEY:&4Large Void Bag
+VALUE:
+
+KEY:&4Soulbound Void Bag
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM0M2NlNThkYTU0Yzc5OTI0YTJjOTMzMWNmYzQxN2ZlOGNjYmJlYTliZTQ1YTdhYzg1ODYwYTZjNzMwIn19fQ==
+VALUE:
+
+KEY:&cCoal Generator
+VALUE:
+
+KEY:§8⇨ §e⚡ §764 J Buffer
+VALUE:
+
+KEY:&4Lava Generator
+VALUE:
+
+KEY:&cCombustion Reactor
+VALUE:
+
+KEY:§6Advanced Generator
+VALUE:
+
+KEY:&2Nuclear Reactor
+VALUE:
+
+KEY:§rRequires Cooling!
+VALUE:
+
+KEY:§8⇨ §bMust be surrounded by Water
+VALUE:
+
+KEY:§8⇨ §bMust be supplied with Reactor Coolant Cells
+VALUE:
+
+KEY:§8⇨ §e⚡ §716384 J Buffer
+VALUE:
+
+KEY:§8⇨ §e⚡ §7500 J/s
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEzNjFlNTc2YjQ5M2NiZmRmYWUzMjg2NjFjZWRkMWFkZDU1ZmFiNGU1ZWI0MThiOTJjZWJmNjI3NWY4YmI0In19fQ==
+VALUE:
+
+KEY:&aSmall Energy Capacitor
+VALUE:
+
+KEY:§eBasic Capacitor
+VALUE:
+
+KEY:§8⇨ §e⚡ §7128 J Capacity
+VALUE:
+
+KEY:&aMedium Energy Capacitor
+VALUE:
+
+KEY:§6Average Capacitor
+VALUE:
+
+KEY:§8⇨ §e⚡ §7512 J Capacity
+VALUE:
+
+KEY:&aBig Energy Capacitor
+VALUE:
+
+KEY:§aMedium Capacitor
+VALUE:
+
+KEY:§8⇨ §e⚡ §71024 J Capacity
+VALUE:
+
+KEY:&aLarge Energy Capacitor
+VALUE:
+
+KEY:§2Good Capacitor
+VALUE:
+
+KEY:§8⇨ §e⚡ §78192 J Capacity
+VALUE:
+
+KEY:&aCarbonado Edged Energy Capacitor
+VALUE:
+
+KEY:§4End-Game Capacitor
+VALUE:
+
+KEY:§8⇨ §e⚡ §765536 J Capacity
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzRmZWJiYzE1ZDFkNGNjNjJiZWRjNWQ3YTJiNmYwZjQ2Y2Q1YjA2OTZhODg0ZGU3NWUyODllMzVjYmI1M2EwIn19fQ==
+VALUE:
+
+KEY:&rCheese
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjY2YjE5ZjdkNjM1ZDAzNDczODkxZGYzMzAxN2M1NDkzNjMyMDlhOGY2MzI4YTg1NDJjMjEzZDA4NTI1ZSJ9fX0=
+VALUE:
+
+KEY:&rButter
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjJmYWFjZWFiNjM4NGZmZjVlZDI0YmI0NGE0YWYyZjU4NGViMTM4MjcyOWVjZDkzYTUzNjlhY2ZkNjY1NCJ9fX0=
+VALUE:
+
+KEY:§8Duct Tape
+VALUE:
+
+KEY:&rYou can repair Items using this
+VALUE:
+
+KEY:§rin an Auto-Anvil
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhiMjlhZmE2ZDZkYzkyM2UyZTEzMjRiZjgxOTI3NTBmN2JkYmRkYzY4OTYzMmEyYjZjMThkOWZlN2E1ZSJ9fX0=
+VALUE:
+
+KEY:§4Uranium
+VALUE:
+
+KEY:§cSmall Chunk of Uranium
+VALUE:
+
+KEY:§eRadiation Level: MODERATE
+VALUE:
+
+KEY:§cTiny Pile of Uranium
+VALUE:
+
+KEY:§cRadiation Level: LOW
+VALUE:
+
+KEY:&4&oNo Hazmat Suit required
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGVkZWE2YmZkMzdlNDlkZTQzZjE1NGZlNmZjYTYxN2Q0MTI5ZTYxYjk1NzU5YTNkNDlhMTU5MzVhMWMyZGNmMCJ9fX0=
+VALUE:
+
+KEY:§aNeptunium
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVjZjkxYjczODg2NjVhNmQ3YzFiNjAyNmJkYjIzMjJjNmQyNzg5OTdhNDQ0Nzg2NzdjYmNjMTVmNzYxMjRmIn19fQ==
+VALUE:
+
+KEY:§7Plutonium
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjgzN2NhMTJmMjIyZjQ3ODcxOTZhMTdiOGFiNjU2OTg1Zjg0MDRjNTA3NjdhZGJjYjZlN2YxNDI1NGZlZSJ9fX0=
+VALUE:
+
+KEY:§2Boosted Uranium
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzUwM2NiN2VkODQ1ZTdhNTA3ZjU2OWFmYzY0N2M0N2FjNDgzNzcxNDY1YzlhNjc5YTU0NTk0Yzc2YWZiYSJ9fX0=
+VALUE:
+
+KEY:§cProgrammable Android &7(Normal)
+VALUE:
+
+KEY:§8⇨ §7Function: None
+VALUE:
+
+KEY:§8⇨ §7Fuel Efficiency: 1.0x
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTYzOGEyODU0MWFiM2FlMGE3MjNkNTU3ODczOGUwODc1ODM4OGVjNGMzMzI0N2JkNGNhMTM0ODJhZWYzMzQifX19
+VALUE:
+
+KEY:§cProgrammable Android &7(Miner)
+VALUE:
+
+KEY:§8⇨ §7Function: Mining
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjlkMzMzNTdlODQxODgyM2JmNzgzZGU5MmRlODAyOTFiNGViZDM5MmFlYzg3MDY2OThlMDY4OTZkNDk4ZjYifX19
+VALUE:
+
+KEY:§cProgrammable Android &7(Farmer)
+VALUE:
+
+KEY:§8⇨ §7Function: Farming
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDMyYTgxNDUxMDE0MjIwNTE2OWExYWQzMmYwYTc0NWYxOGU5Y2I2YzY2ZWU2NGVjYTJlNjViYWJkZWY5ZmYifX19
+VALUE:
+
+KEY:§cProgrammable Android &7(Woodcutter)
+VALUE:
+
+KEY:§8⇨ §7Function: Woodcutting
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I0NzJkZjBhZDlhM2JlODhmMmU1ZDVkNDIyZDAyYjExNmQ2NGQ4ZGYxNDc1ZWQzMmU1NDZhZmM4NGIzMSJ9fX0=
+VALUE:
+
+KEY:§cProgrammable Android &7(Butcher)
+VALUE:
+
+KEY:§8⇨ §7Function: Slaughtering
+VALUE:
+
+KEY:§8⇨ §7Damage: 4
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ1ZTg3MzNhNzMxMTQzMzNiOThiMzYwMTc1MTI0MTcyMmY0NzEzZTFhMWE1ZDM2ZmJiMTMyNDkzZjFjNyJ9fX0=
+VALUE:
+
+KEY:§cProgrammable Android &7(Fisherman)
+VALUE:
+
+KEY:§8⇨ §7Function: Fishing
+VALUE:
+
+KEY:§8⇨ §7Success Rate: 10%
+VALUE:
+
+KEY:§cAdvanced Programmable Android &7(Normal)
+VALUE:
+
+KEY:§8⇨ §7Fuel Efficiency: 1.5x
+VALUE:
+
+KEY:§cAdvanced Programmable Android &7(Fisherman)
+VALUE:
+
+KEY:§8⇨ §7Success Rate: 20%
+VALUE:
+
+KEY:§cAdvanced Programmable Android &7(Butcher)
+VALUE:
+
+KEY:§8⇨ §7Damage: 8
+VALUE:
+
+KEY:§eEmpowered Programmable Android &7(Normal)
+VALUE:
+
+KEY:§8⇨ §7Fuel Efficiency: 3.0x
+VALUE:
+
+KEY:§eEmpowered Programmable Android &7(Fisherman)
+VALUE:
+
+KEY:§8⇨ §7Success Rate: 30%
+VALUE:
+
+KEY:§8⇨ §7Fuel Efficiency: 8.0x
+VALUE:
+
+KEY:§eEmpowered Programmable Android &7(Butcher)
+VALUE:
+
+KEY:§8⇨ §7Damage: 20
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBjOWMxYTAyMmY0MGI3M2YxNGI0Y2JhMzdjNzE4YzZhNTMzZjNhMjg2NGI2NTM2ZDVmNDU2OTM0Y2MxZiJ9fX0=
+VALUE:
+
+KEY:§bGPS Transmitter
+VALUE:
+
+KEY:§8⇨ §e⚡ §716 J Buffer
+VALUE:
+
+KEY:§cAdvanced GPS Transmitter
+VALUE:
+
+KEY:§4Carbonado GPS Transmitter
+VALUE:
+
+KEY:§8⇨ §e⚡ §722 J/s
+VALUE:
+
+KEY:§eEnergized GPS Transmitter
+VALUE:
+
+KEY:§8⇨ §e⚡ §71024 J Buffer
+VALUE:
+
+KEY:§8⇨ §e⚡ §792 J/s
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRjZmJhNThmYWYxZjY0ODQ3ODg0MTExODIyYjY0YWZhMjFkN2ZjNjJkNDQ4MWYxNGYzZjNiY2I2MzMwIn19fQ==
+VALUE:
+
+KEY:§bGPS Control Panel
+VALUE:
+
+KEY:§rAllows you to trach your Satellites
+VALUE:
+
+KEY:§rand manage your Waypoints
+VALUE:
+
+KEY:§cGPS Emergency Transmitter
+VALUE:
+
+KEY:§rCarrying this in your Inventory
+VALUE:
+
+KEY:§rautomatically sets a Waypoint
+VALUE:
+
+KEY:§rat your Location when you die.
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFkOGNmZWIzODdhNTZlM2U1YmNmODUzNDVkNmE0MTdiMjQyMjkzODg3ZGIzY2UzYmE5MWZhNDA5YjI1NGI4NiJ9fX0=
+VALUE:
+
+KEY:§bGPS Geo-Scanner
+VALUE:
+
+KEY:§rScans a Chunk for natural Resources
+VALUE:
+
+KEY:§rsuch as §8Oil
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZlMWEwNDBhNDI1ZTMxYTQ2ZDRmOWE5Yjk4MDZmYTJmMGM0N2VlODQ3MTFjYzE5MzJmZDhhYjMyYjJkMDM4In19fQ==
+VALUE:
+
+KEY:§rOil Pump
+VALUE:
+
+KEY:§7Pumps up Oil and fills it into Buckets
+VALUE:
+
+KEY:§c§l! §cMake sure to Geo-Scan the Chunk first
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNlMDRiNDFkMTllYzc5MjdmOTgyYTYzYTk0YTNkNzlmNzhlY2VjMzMzNjMwNTFmZGUwODMxYmZhYmRiZCJ9fX0=
+VALUE:
+
+KEY:§rBucket of Oil
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg0ZGRjYTc2NjcyNWI4Yjk3NDEzZjI1OWMzZjc2NjgwNzBmNmFlNTU0ODNhOTBjOGU1NTI1Mzk0ZjljMDk5In19fQ==
+VALUE:
+
+KEY:§rBucket of Fuel
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhZDhlZTg0OWVkZjA0ZWQ5YTI2Y2EzMzQxZjYwMzNiZDc2ZGNjNDIzMWVkMWVhNjNiNzU2NTc1MWIyN2FjIn19fQ==
+VALUE:
+
+KEY:§4Lava Crystal
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+VALUE:
+
+KEY:§bAndroid Memory Core
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIzYTA5NWI2YjgxZTZiOTg1M2ExOTMyNGVlZGYwYmI5MzQ5NDE3MjU4ZGQxNzNiOGVmZjg3YTA4N2FhIn19fQ==
+VALUE:
+
+KEY:§eCarbon
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZDQ5NTE2NTc0OGQzMTE2Zjk5ZDZiNWJkNWQ0MmViOGJhNTkyYmNkZmFkMzdmZDk1ZjliNmMwNGEzYiJ9fX0=
+VALUE:
+
+KEY:§cCompressed Carbon
+VALUE:
+
+KEY:§4Carbon Chunk
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTJmNGIxNTc3ZjUxNjBjNjg5MzE3MjU3MWM0YTcxZDhiMzIxY2RjZWFhMDMyYzZlMGUzYjYwZTBiMzI4ZmEifX19
+VALUE:
+
+KEY:&b&lCarbonado
+VALUE:
+
+KEY:&7&o"Black Diamond"
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI0OWU2ZWMxMDc3MWU4OTkyMjVhZWE3M2NkOGNmMDM2ODRmNDExZDE0MTVjNzMyM2M5M2NiOTQ3NjIzMCJ9fX0=
+VALUE:
+
+KEY:&bRaw Carbonado
+VALUE:
+
+KEY:§6Energy Regulator
+VALUE:
+
+KEY:§rCore Component of an Energy Network
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUxMGJjODUzNjJhMTMwYTZmZjlkOTFmZjExZDZmYTQ2ZDdkMTkxMmEzNDMxZjc1MTU1OGVmM2M0ZDljMiJ9fX0=
+VALUE:
+
+KEY:§6Cargo Manager
+VALUE:
+
+KEY:§rCore Component of an Item Transport Network
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDdiN2VmNmZkNzg2NDg2NWMzMWMxZGM4N2JlZDI0YWI1OTczNTc5ZjVjNjYzOGZlY2I4ZGVkZWI0NDNmZjAifX19
+VALUE:
+
+KEY:§7Cargo Node &c(Connector)
+VALUE:
+
+KEY:§rCargo Connector Pipe
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZkMWMxYTY5YTNkZTlmZWM5NjJhNzdiZjNiMmUzNzZkZDI1Yzg3M2EzZDhmMTRmMWRkMzQ1ZGFlNGM0In19fQ==
+VALUE:
+
+KEY:§7Cargo Node &c(Input)
+VALUE:
+
+KEY:§rCargo Input Pipe
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTViMjFmZDQ4MGMxYzQzYmYzYjlmODQyYzg2OWJkYzNiYzVhY2MyNTk5YmYyZWI2YjhhMWM5NWRjZTk3OGYifX19
+VALUE:
+
+KEY:§7Cargo Node &c(Output)
+VALUE:
+
+KEY:§rCargo Output Pipe
+VALUE:
+
+KEY:§6Advanced Cargo Node &c(Output)
+VALUE:
+
+KEY:§eAuto-Breeder
+VALUE:
+
+KEY:§rRuns on §aOrganic Food
+VALUE:
+
+KEY:§8⇨ §e⚡ §760 J/Animal
+VALUE:
+
+KEY:§bAnimal Growth Accelerator
+VALUE:
+
+KEY:§8⇨ §e⚡ §728 J/s
+VALUE:
+
+KEY:§aCrop Growth Accelerator
+VALUE:
+
+KEY:§rRuns on §aOrganic Fertilizer
+VALUE:
+
+KEY:§8⇨ §7Radius: 7x7
+VALUE:
+
+KEY:§8⇨ §7Speed: §a3/time
+VALUE:
+
+KEY:§aCrop Growth Accelerator &7(&eII&7)
+VALUE:
+
+KEY:§8⇨ §7Radius: 9x9
+VALUE:
+
+KEY:§8⇨ §7Speed: §a4/time
+VALUE:
+
+KEY:§8⇨ §e⚡ §760 J/s
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTc2MmExNWIwNDY5MmEyZTRiM2ZiMzY2M2JkNGI3ODQzNGRjZTE3MzJiOGViMWM3YTlmN2MwZmJmNmYifX19
+VALUE:
+
+KEY:§aEXP Collector
+VALUE:
+
+KEY:§rCollects nearby Exp and stores it
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQzOWUzZjVhY2JlZTliZTRjNDI1OTI4OWQ2ZDlmMzVjNjM1ZmZhNjYxMTE0Njg3YjNlYTZkZGE4Yzc5In19fQ==
+VALUE:
+
+KEY:§aOrganic Food
+VALUE:
+
+KEY:§7Content: §9X
+VALUE:
+
+KEY:§7Content: §9Wheat
+VALUE:
+
+KEY:§7Content: §9Carrots
+VALUE:
+
+KEY:§7Content: §9Potatoes
+VALUE:
+
+KEY:§7Content: §9Seeds
+VALUE:
+
+KEY:§7Content: §9Beetroot
+VALUE:
+
+KEY:§7Content: §9Melon
+VALUE:
+
+KEY:§7Content: §9Apple
+VALUE:
+
+KEY:§aOrganic Fertilizer
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU0MDczYmU0MGNiM2RlYjMxMGEwYmU5NTliNGNhYzY4ZTgyNTM3MjcyOGZhZmI2YzI5NzNlNGU3YzMzIn19fQ==
+VALUE:
+
+KEY:§bReactor Coolant Cell
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E0NGZmM2E1ZjQ5YzY5Y2FiNjc2YmFkOGQ5OGEwNjNmYTc4Y2ZhNjE5MTZmZGVmM2UyNjc1NTdmZWMxODI4MyJ9fX0=
+VALUE:
+
+KEY:§3CT Access Terminal
+VALUE:
+
+KEY:§7If this Block is connected to a
+VALUE:
+
+KEY:§7Cargo Network, it will allow you to remotely
+VALUE:
+
+KEY:§7interact with any Items supplied by
+VALUE:
+
+KEY:§7Nodes tuned into the ChestTerminal Channel
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTEzZGIyZTdlNzJlYTQ0MzJlZWZiZDZlNThhODVlYWEyNDIzZjgzZTY0MmNhNDFhYmM2YTkzMTc3NTdiODg5In19fQ==
+VALUE:
+
+KEY:§3CT Import Bus
+VALUE:
+
+KEY:§7Cargo Network, it will pull any Items from
+VALUE:
+
+KEY:§7the Inventory it is attached to and place it
+VALUE:
+
+KEY:§7into the CT Network Channel
+VALUE:
+
+KEY:§3CT Export Bus
+VALUE:
+
+KEY:§7the CT Network Channel and place these
+VALUE:
+
+KEY:§7into the Inventory it is attached to
+VALUE:
+
+KEY:§bFreezer
+VALUE:
+
+KEY:§bFreezer §7(§eII§7)
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmUyZGRhNmVmNjE4NWQ0ZGQ2ZWE4Njg0ZTk3ZDM5YmE4YWIwMzdlMjVmNzVjZGVhNmJkMjlkZjhlYjM0ZWUifX19
+VALUE:
+
+KEY:&6Battery
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2UzYmM0ODkzYmE0MWEzZjczZWUyODE3NGNkZjRmZWY2YjE0NWU0MWZlNmM4MmNiN2JlOGQ4ZTk3NzFhNSJ9fX0=
+VALUE:
+
+KEY:&cHeating Coil
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU0YmFkODZjOTlkZjc4MGM4ODlhMTA5OGY3NzY0OGVhZDczODVjYzFkZGIwOTNkYTVhN2Q4YzRjMmFlNTRkIn19fQ==
+VALUE:
+
+KEY:&bCooling Unit
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTNjMWIwMzZiNmUwMzUxN2IyODVhODExYmQ4NWU3M2Y1YWJmZGFjYzFkZGY5MGRmZjk2MmUxODA5MzRlMyJ9fX0=
+VALUE:
+
+KEY:&c&lPower Crystal
+VALUE:
+
+KEY:LOG
+VALUE:
+
+KEY:data-storage/Slimefun/Players/
+VALUE:
+
+KEY:.yml
+VALUE:
+
+KEY:researches.
+VALUE:
+
+KEY:messages.unlocked
+VALUE:
+
+KEY:%research%
+VALUE:
+
+KEY:messages.research.progress
+VALUE:
+
+KEY:%research%
+VALUE:
+
+KEY:%progress%
+VALUE:
+
+KEY:92%
+VALUE:
+
+KEY:messages.research.progress
+VALUE:
+
+KEY:%research%
+VALUE:
+
+KEY:%progress%
+VALUE:
+
+KEY:57%
+VALUE:
+
+KEY:messages.research.progress
+VALUE:
+
+KEY:%research%
+VALUE:
+
+KEY:%progress%
+VALUE:
+
+KEY:44%
+VALUE:
+
+KEY:messages.research.progress
+VALUE:
+
+KEY:%research%
+VALUE:
+
+KEY:%progress%
+VALUE:
+
+KEY:23%
+VALUE:
+
+KEY:.enabled
+VALUE:
+
+KEY:data-storage/Slimefun/Players/
+VALUE:
+
+KEY:.yml
+VALUE:
+
+KEY:researches.
+VALUE:
+
+KEY:commands.research.reset-target
+VALUE:
+
+KEY:messages.unlocked
+VALUE:
+
+KEY:%research%
+VALUE:
+
+KEY:messages.research.start
+VALUE:
+
+KEY:enable-researching
+VALUE:
+
+KEY:.name
+VALUE:
+
+KEY:.cost
+VALUE:
+
+KEY:options.print-out-loading
+VALUE:
+
+KEY:[Slimefun] Loaded Research "
+VALUE:
+
+KEY:"
+VALUE:
+
+KEY:&4
+VALUE:
+
+KEY: &r% 
+VALUE:
+
+KEY:&c
+VALUE:
+
+KEY:&6
+VALUE:
+
+KEY:&e
+VALUE:
+
+KEY:&2
+VALUE:
+
+KEY:&a
+VALUE:
+
+KEY:&7Statistics for Player: &b
+VALUE:
+
+KEY:&7Title: &b
+VALUE:
+
+KEY:&7Research Progress: 
+VALUE:
+
+KEY:&e(
+VALUE:
+
+KEY: / 
+VALUE:
+
+KEY:)
+VALUE:
+
+KEY:&7Total XP Levels spent: &b
+VALUE:
+
+KEY:research-ranks
+VALUE:
+
+KEY:EXPLODE
+VALUE:
+
+KEY:PLAYER_BREAK
+VALUE:
+
+KEY:Multi Tool
+VALUE:
+
+KEY:mode.
+VALUE:
+
+KEY:.enabled
+VALUE:
+
+KEY:ENDER_
+VALUE:
+
+KEY:ENDER_LUMP_3
+VALUE:
+
+KEY:&eEnder Talismans have the advantage
+VALUE:
+
+KEY:&eof still working while they
+VALUE:
+
+KEY:&eare in your Ender Chest
+VALUE:
+
+KEY:messages.talisman.
+VALUE:
+
+KEY:&7&oEnder Infused
+VALUE:
+
+KEY:&5Ender 
+VALUE:
+
+KEY:Talismans
+VALUE:
+
+KEY:Jet Boots
+VALUE:
+
+KEY:Jetpack
+VALUE:
+
+KEY:.enabled
+VALUE:
+
+KEY:.can-be-used-in-workbenches
+VALUE:
+
+KEY:.required-permission
+VALUE:
+
+KEY:.
+VALUE:
+
+KEY:.enabled-items.
+VALUE:
+
+KEY:URID.enable-tickers
+VALUE:
+
+KEY:options.print-out-loading
+VALUE:
+
+KEY:[Slimefun] Loaded Item "
+VALUE:
+
+KEY:"
+VALUE:
+
+KEY:[Slimefun] Item Registration failed: 
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:_
+VALUE:
+
+KEY:[Slimefun] Item Initialization failed: 
+VALUE:
+
+KEY:[Slimefun] WARNING - Patching existing Item - 
+VALUE:
+
+KEY:[Slimefun] This might take a while
+VALUE:
+
+KEY:https://github.com/mrCookieSlime/Slimefun4/wiki/
+VALUE:
+
+KEY:m 
+VALUE:
+
+KEY:s
+VALUE:
+
+KEY:§7
+VALUE:
+
+KEY: left
+VALUE:
+
+KEY:&4
+VALUE:
+
+KEY:&c
+VALUE:
+
+KEY:&6
+VALUE:
+
+KEY:&e
+VALUE:
+
+KEY:&2
+VALUE:
+
+KEY:&a
+VALUE:
+
+KEY::
+VALUE:
+
+KEY:&7
+VALUE:
+
+KEY: - 
+VALUE:
+
+KEY:%
+VALUE:
+
+KEY:&9
+VALUE:
+
+KEY:&1
+VALUE:
+
+KEY:&b
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:BlockPlaceHandler
+VALUE:
+
+KEY:AutonomousMachineHandler
+VALUE:
+
+KEY:BlockTicker
+VALUE:
+
+KEY:BowShootHandler
+VALUE:
+
+KEY:ItemInteractionHandler
+VALUE:
+
+KEY:AutonomousToolHandler
+VALUE:
+
+KEY:BlockBreakHandler
+VALUE:
+
+KEY:MultiBlockInteractionHandler
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§7Fuel Slot
+VALUE:
+
+KEY:§rThis Slot accepts radioactive Fuel such as:
+VALUE:
+
+KEY:§2Uranium §ror §aNeptunium
+VALUE:
+
+KEY:§7Byproduct Slot
+VALUE:
+
+KEY:§rThis Slot contains the Reactor's Byproduct
+VALUE:
+
+KEY:§rsuch as §aNeptunium §ror §7Plutonium
+VALUE:
+
+KEY:§bCoolant Slot
+VALUE:
+
+KEY:§rThis Slot accepts Coolant Cells
+VALUE:
+
+KEY:§4Without any Coolant Cells, your Reactor
+VALUE:
+
+KEY:§4will explode
+VALUE:
+
+KEY:§2Reactor Access Port
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:§3Charging Bench
+VALUE:
+
+KEY:CHARGING_BENCH
+VALUE:
+
+KEY:ELECTRIC_INGOT_FACTORY
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:§cHeated Pressure Chamber
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:HEATED_PRESSURE_CHAMBER
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:Oil
+VALUE:
+
+KEY:gps.geo.scan-required
+VALUE:
+
+KEY:OIL_PUMP
+VALUE:
+
+KEY:§4Oil Pump
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:Oil
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§4Trash Can
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:§7Enabled: §4✘
+VALUE:
+
+KEY:§e> Click to enable this Machine
+VALUE:
+
+KEY:§7Enabled: §2✔
+VALUE:
+
+KEY:§e> Click to disable this Machine
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:§6Automated Crafting Chamber
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§eRecipe
+VALUE:
+
+KEY:§bPut in the Recipe you want to craft
+VALUE:
+
+KEY:§4Enhanced Crafting Table Recipes ONLY
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY: </slot> 
+VALUE:
+
+KEY:FREEZER
+VALUE:
+
+KEY:§5Auto-Disenchanter
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:AUTO_DISENCHANTER
+VALUE:
+
+KEY:§bElectric Dust Washer
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:ELECTRIC_DUST_WASHER
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:blacklist
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:whitelist
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:whitelist
+VALUE:
+
+KEY:§7Type: §rWhitelist
+VALUE:
+
+KEY:§e> Click to change it to Blacklist
+VALUE:
+
+KEY:§7Type: §8Blacklist
+VALUE:
+
+KEY:§e> Click to change it to Whitelist
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:§7Include Sub-IDs/Durability: §4✘
+VALUE:
+
+KEY:§e> Click to toggle whether the Durability has to match
+VALUE:
+
+KEY:§7Include Sub-IDs/Durability: §2✔
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:§7Include Lore: §2✔
+VALUE:
+
+KEY:§e> Click to toggle whether the Lore has to match
+VALUE:
+
+KEY:§7Include Lore: §4✘
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
+VALUE:
+
+KEY:§bChannel
+VALUE:
+
+KEY:§e> Click to decrease the Channel ID by 1
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:§bChannel ID: §3
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
+VALUE:
+
+KEY:§e> Click to increase the Channel ID by 1
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:slimefun.cargo.bypass
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:index
+VALUE:
+
+KEY:0
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:whitelist
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:§cOutput Node
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§3Items
+VALUE:
+
+KEY:§bPut in all Items you want to
+VALUE:
+
+KEY:§bblacklist/whitelist
+VALUE:
+
+KEY:FOOD_COMPOSTER
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:§bGrowth Accelerator
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:§6Auto Breeder
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:CARBON_PRESS
+VALUE:
+
+KEY:FOOD_FABRICATOR
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§9Fluid Pump
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:Auto-Anvil
+VALUE:
+
+KEY:AUTO_ANVIL
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§cRefinery
+VALUE:
+
+KEY:REFINERY
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:blacklist
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:whitelist
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:round-robin
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:round-robin
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:whitelist
+VALUE:
+
+KEY:§7Type: §rWhitelist
+VALUE:
+
+KEY:§e> Click to change it to Blacklist
+VALUE:
+
+KEY:§7Type: §8Blacklist
+VALUE:
+
+KEY:§e> Click to change it to Whitelist
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:§7Include Sub-IDs/Durability: §4✘
+VALUE:
+
+KEY:§e> Click to toggle whether the Durability has to match
+VALUE:
+
+KEY:§7Include Sub-IDs/Durability: §2✔
+VALUE:
+
+KEY:round-robin
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+VALUE:
+
+KEY:§7Round-Robin Mode: §4✘
+VALUE:
+
+KEY:§e> Click to enable Round Robin Mode
+VALUE:
+
+KEY:§e(Items will be equally distributed on the Channel)
+VALUE:
+
+KEY:§7Round-Robin Mode: §2✔
+VALUE:
+
+KEY:§e> Click to disable Round Robin Mode
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:§7Include Lore: §2✔
+VALUE:
+
+KEY:§e> Click to toggle whether the Lore has to match
+VALUE:
+
+KEY:§7Include Lore: §4✘
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
+VALUE:
+
+KEY:§bChannel
+VALUE:
+
+KEY:§e> Click to decrease the Channel ID by 1
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:§bChannel ID: §3
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
+VALUE:
+
+KEY:§e> Click to increase the Channel ID by 1
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:slimefun.cargo.bypass
+VALUE:
+
+KEY:inventory.no-access
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:index
+VALUE:
+
+KEY:0
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:whitelist
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:round-robin
+VALUE:
+
+KEY:§3Input Node
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§3Items
+VALUE:
+
+KEY:§bPut in all Items you want to
+VALUE:
+
+KEY:§bblacklist/whitelist
+VALUE:
+
+KEY:ELECTRIC_FURNACE
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§cElectric Smeltery
+VALUE:
+
+KEY:ELECTRIC_SMELTERY
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:§aEXP Collector
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:&aFlask of Knowledge
+VALUE:
+
+KEY:stored-exp
+VALUE:
+
+KEY:0
+VALUE:
+
+KEY:reactor-mode
+VALUE:
+
+KEY:production
+VALUE:
+
+KEY:reactor-mode
+VALUE:
+
+KEY:generator
+VALUE:
+
+KEY:reactor-mode
+VALUE:
+
+KEY:generator
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM0M2NlNThkYTU0Yzc5OTI0YTJjOTMzMWNmYzQxN2ZlOGNjYmJlYTliZTQ1YTdhYzg1ODYwYTZjNzMwIn19fQ==
+VALUE:
+
+KEY:§7Focus: §eElectricity
+VALUE:
+
+KEY:§6Your Reactor will focus on Power Generation
+VALUE:
+
+KEY:§6If your Energy Network doesn't need Power
+VALUE:
+
+KEY:§6it will not produce any either
+VALUE:
+
+KEY:§7> Click to change the Focus to §eProduction
+VALUE:
+
+KEY:§7Focus: §eProduction
+VALUE:
+
+KEY:§6Your Reactor will focus on producing goods
+VALUE:
+
+KEY:§6it will continue to run and simply will
+VALUE:
+
+KEY:§6not generate any Power in the mean time
+VALUE:
+
+KEY:§7> Click to change the Focus to §ePower Generation
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:reactor-mode
+VALUE:
+
+KEY:generator
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§7Fuel Slot
+VALUE:
+
+KEY:§rThis Slot accepts radioactive Fuel such as:
+VALUE:
+
+KEY:§2Uranium §ror §aNeptunium
+VALUE:
+
+KEY:§bCoolant Slot
+VALUE:
+
+KEY:§rThis Slot accepts Coolant Cells
+VALUE:
+
+KEY:§4Without any Coolant Cells, your Reactor
+VALUE:
+
+KEY:§4will explode
+VALUE:
+
+KEY:§2Nuclear Reactor
+VALUE:
+
+KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhZDhlZTg0OWVkZjA0ZWQ5YTI2Y2EzMzQxZjYwMzNiZDc2ZGNjNDIzMWVkMWVhNjNiNzU2NTc1MWIyN2FjIn19fQ==
+VALUE:
+
+KEY:REACTOR_ACCESS_PORT
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:§bGrowth Accelerator
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
+VALUE:
+
+KEY:§bChannel
+VALUE:
+
+KEY:§e> Click to decrease the Channel ID by 1
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:§bChannel ID: §3
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
+VALUE:
+
+KEY:§e> Click to increase the Channel ID by 1
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:slimefun.cargo.bypass
+VALUE:
+
+KEY:inventory.no-access
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:0
+VALUE:
+
+KEY:§3Input Node
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§eRecipe
+VALUE:
+
+KEY:§bPut in the Recipe you want to craft
+VALUE:
+
+KEY:§6Electric Gold Pan
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:ELECTRIC_GOLD_PAN
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:offset
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:§7Enabled: §4✘
+VALUE:
+
+KEY:§e> Click to enable this Machine
+VALUE:
+
+KEY:§7Enabled: §2✔
+VALUE:
+
+KEY:§e> Click to disable this Machine
+VALUE:
+
+KEY:offset
+VALUE:
+
+KEY:§7Offset: §3
+VALUE:
+
+KEY: Block(s)
+VALUE:
+
+KEY:§rLeft Click: §7+0.1
+VALUE:
+
+KEY:§rRight Click: §7-0.1
+VALUE:
+
+KEY:slimefun.inventory.bypass
+VALUE:
+
+KEY:offset
+VALUE:
+
+KEY:3.0
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:enabled
+VALUE:
+
+KEY:false
+VALUE:
+
+KEY:offset
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§7Wither Skull Slot
+VALUE:
+
+KEY:§rThis Slot accepts Wither Skeleton Skulls
+VALUE:
+
+KEY:§7Soul Sand Slot
+VALUE:
+
+KEY:§rThis Slot accepts Soul Sand
+VALUE:
+
+KEY:§7Cooldown: §b30 Seconds
+VALUE:
+
+KEY:§rThis Machine takes up to half a Minute to operate
+VALUE:
+
+KEY:§rso give it some Time!
+VALUE:
+
+KEY:§5Wither Assembler
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
+VALUE:
+
+KEY:§bChannel
+VALUE:
+
+KEY:§e> Click to decrease the Channel ID by 1
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:§bChannel ID: §3
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
+VALUE:
+
+KEY:§e> Click to increase the Channel ID by 1
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:slimefun.cargo.bypass
+VALUE:
+
+KEY:inventory.no-access
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:0
+VALUE:
+
+KEY:§6Output Node
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§5Auto-Enchanter
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:AUTO_ENCHANTER
+VALUE:
+
+KEY:no_pickup
+VALUE:
+
+KEY:##.##
+VALUE:
+
+KEY:,
+VALUE:
+
+KEY:.
+VALUE:
+
+KEY:plugins/Slimefun/Researches.yml
+VALUE:
+
+KEY:plugins/Slimefun/config.yml
+VALUE:
+
+KEY:plugins/Slimefun/Items.yml
+VALUE:
+
+KEY:data-storage/Slimefun/Players
+VALUE:
+
+KEY:plugins/Slimefun/whitelist.yml
+VALUE:
+
+KEY:################################################
+VALUE:
+
+KEY:############### = - ERROR - = ##################
+VALUE:
+
+KEY:      
+VALUE:
+
+KEY:Slimefun Warning:
+VALUE:
+
+KEY:         
+VALUE:
+
+KEY:Slimefun has detected that your Files are etiher
+VALUE:
+
+KEY:outdated or do not exist. We generated new Files
+VALUE:
+
+KEY:instead otherwise Slimefun would not work. If you
+VALUE:
+
+KEY:have used Slimefun before, your Settings are now
+VALUE:
+
+KEY:gone. But therefore Slimefun works!
+VALUE:
+
+KEY:        
+VALUE:
+
+KEY:plugins/Slimefun
+VALUE:
+
+KEY:data-storage/Slimefun
+VALUE:
+
+KEY:&aSlimefun &7> 
+VALUE:
+
+KEY:messages.not-researched
+VALUE:
+
+KEY:&4You do not have enough Knowledge to understand this
+VALUE:
+
+KEY:messages.not-enough-xp
+VALUE:
+
+KEY:&4You do not have enough XP to unlock this
+VALUE:
+
+KEY:messages.unlocked
+VALUE:
+
+KEY:&bYou have unlocked &7"%research%"
+VALUE:
+
+KEY:messages.fortune-cookie
+VALUE:
+
+KEY:&7Help me, I am trapped in a Fortune Cookie Factory!
+VALUE:
+
+KEY:&7You will die tomorrow...     by a Creeper
+VALUE:
+
+KEY:&7At some Point in your Life something bad will happen!!!
+VALUE:
+
+KEY:&7Next week you will notice that this is not the real World, you are in a kind of "Matrix" or lets call it Computer game. Yes you are in a Computer Game
+VALUE:
+
+KEY:&7This Cookie will taste good in a few seconds
+VALUE:
+
+KEY:&7You will die soon and the last word you will hear is gonna be "EXTERMINATE!!!"
+VALUE:
+
+KEY:&7Whatever you do, do not hug a Creeper... I tried it. It feels good, but it's not worth it.
+VALUE:
+
+KEY:commands.help
+VALUE:
+
+KEY:Displays this Help Screen
+VALUE:
+
+KEY:commands.cheat
+VALUE:
+
+KEY:Allows you to cheat Items
+VALUE:
+
+KEY:commands.give
+VALUE:
+
+KEY:Give somebody some Slimefun Items
+VALUE:
+
+KEY:commands.research.desc
+VALUE:
+
+KEY:Unlock a Research for a Player
+VALUE:
+
+KEY:commands.guide
+VALUE:
+
+KEY:Gives yourself a Slimefun Guide
+VALUE:
+
+KEY:commands.timings
+VALUE:
+
+KEY:Lag-Info about your Server
+VALUE:
+
+KEY:commands.teleporter
+VALUE:
+
+KEY:See other Player's Waypoints
+VALUE:
+
+KEY:messages.only-players
+VALUE:
+
+KEY:&4This Command is only for Players
+VALUE:
+
+KEY:messages.no-permission
+VALUE:
+
+KEY:&4You do not have the required Permission to do this
+VALUE:
+
+KEY:messages.usage
+VALUE:
+
+KEY:&4Usage: &c%usage%
+VALUE:
+
+KEY:messages.not-online
+VALUE:
+
+KEY:&4%player% &cis not online!
+VALUE:
+
+KEY:messages.not-valid-item
+VALUE:
+
+KEY:&4%item% &cis not a valid Item!
+VALUE:
+
+KEY:messages.given-item
+VALUE:
+
+KEY:&bYou have been given a &7"%item%"
+VALUE:
+
+KEY:messages.give-item
+VALUE:
+
+KEY:&bYou have given %player% a &7"%item%"
+VALUE:
+
+KEY:messages.not-valid-research
+VALUE:
+
+KEY:&4%research% &cis not a valid Research!
+VALUE:
+
+KEY:messages.give-research
+VALUE:
+
+KEY:&bYou have given %player% the Research &7"%research%"
+VALUE:
+
+KEY:messages.battery.add
+VALUE:
+
+KEY:&2+ &7%charge% J &8(%machine%)
+VALUE:
+
+KEY:messages.battery.remove
+VALUE:
+
+KEY:&4- &7%charge% J &8(%machine%)
+VALUE:
+
+KEY:messages.hungry
+VALUE:
+
+KEY:&cYou are too hungry to do that!
+VALUE:
+
+KEY:messages.mode-change
+VALUE:
+
+KEY:&b%device% Mode changed to: &9%mode%
+VALUE:
+
+KEY:messages.disabled-in-world
+VALUE:
+
+KEY:&4&lThis Item has been disabled in this World
+VALUE:
+
+KEY:messages.talisman.anvil
+VALUE:
+
+KEY:&a&oYour Talisman saved your Tool from breaking
+VALUE:
+
+KEY:messages.talisman.miner
+VALUE:
+
+KEY:&a&oYour Talisman just doubled your Drops
+VALUE:
+
+KEY:messages.talisman.hunter
+VALUE:
+
+KEY:messages.talisman.lava
+VALUE:
+
+KEY:&a&oYour Talisman saved you from burning to death
+VALUE:
+
+KEY:messages.talisman.water
+VALUE:
+
+KEY:&a&oYour Talisman saved you from drowning
+VALUE:
+
+KEY:messages.talisman.angel
+VALUE:
+
+KEY:&a&oYour Talisman saved you from taking Fall Damage
+VALUE:
+
+KEY:messages.talisman.fire
+VALUE:
+
+KEY:messages.talisman.magician
+VALUE:
+
+KEY:&a&oYour Talisman gave you an additional Enchantment
+VALUE:
+
+KEY:messages.talisman.traveller
+VALUE:
+
+KEY:&a&oYour Talisman gave you a Speed Boost
+VALUE:
+
+KEY:messages.talisman.warrior
+VALUE:
+
+KEY:&a&oYour Talisman has improved your Strength for a While
+VALUE:
+
+KEY:messages.talisman.knight
+VALUE:
+
+KEY:&a&oYour Talisman gave you 5 Seconds of Regeneration
+VALUE:
+
+KEY:messages.talisman.whirlwind
+VALUE:
+
+KEY:&a&oYour Talisman reflected the Projectile
+VALUE:
+
+KEY:messages.talisman.wizard
+VALUE:
+
+KEY:&a&oYour Talisman has given you a better Fortune Level but maybe also lowered some other Enchantment Levels
+VALUE:
+
+KEY:messages.broken-leg
+VALUE:
+
+KEY:&c&oSeems like you broke your Leg, maybe a Splint could help?
+VALUE:
+
+KEY:messages.fixed-leg
+VALUE:
+
+KEY:&a&oThe Splint helps. It feels better now.
+VALUE:
+
+KEY:messages.start-bleeding
+VALUE:
+
+KEY:&c&oYou started to bleed. Maybe a Bandage could help?
+VALUE:
+
+KEY:messages.stop-bleeding
+VALUE:
+
+KEY:&a&oThe Bandage helps. The Bleeding has stopped!
+VALUE:
+
+KEY:messages.disabled-item
+VALUE:
+
+KEY:&4&lThis Item has been disabled! How did you even get that?
+VALUE:
+
+KEY:messages.research.start
+VALUE:
+
+KEY:&7The Ancient Spirits whisper mysterious Words into your Ear!
+VALUE:
+
+KEY:messages.research.progress
+VALUE:
+
+KEY:&7You start to wonder about &b%research% &e(%progress%)
+VALUE:
+
+KEY:commands.stats
+VALUE:
+
+KEY:Shows some Stats about a Player
+VALUE:
+
+KEY:messages.fire-extinguish
+VALUE:
+
+KEY:&7You have extinguished yourself
+VALUE:
+
+KEY:machines.pattern-not-found
+VALUE:
+
+KEY:&eSorry, I could not recognize this Pattern. Please place the Items in the correct Pattern into the Dispenser.
+VALUE:
+
+KEY:machines.unknown-material
+VALUE:
+
+KEY:&eSorry, I could not recognize the Item in my Dispenser. Please put something in that I know.
+VALUE:
+
+KEY:machines.wrong-item
+VALUE:
+
+KEY:&eSorry, I could not recognize the Item you right clicked me with. Check the Recipes and see which Items you can use.
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:&eSorry, my Inventory is too full!
+VALUE:
+
+KEY:miner.no-ores
+VALUE:
+
+KEY:&eSorry, I could not find any Ores nearby!
+VALUE:
+
+KEY:backpack.no-stack
+VALUE:
+
+KEY:&cYou cannot stack Backpacks
+VALUE:
+
+KEY:workbench.not-enhanced
+VALUE:
+
+KEY:&4You cannot use Slimefun Items in a normal Workbench
+VALUE:
+
+KEY:anvil.not-working
+VALUE:
+
+KEY:&4You cannot use Slimefun Items in an Anvil
+VALUE:
+
+KEY:commands.research.reset
+VALUE:
+
+KEY:&cYou have reset %player%'s Knowledge
+VALUE:
+
+KEY:commands.research.reset-target
+VALUE:
+
+KEY:&cYour Knowledge has been reset
+VALUE:
+
+KEY:machines.in-use
+VALUE:
+
+KEY:&cThis Block's Inventory is currently opened by a different Player.
+VALUE:
+
+KEY:gps.waypoint.new
+VALUE:
+
+KEY:&ePlease type in a Name for your new Waypoint in the Chat. &7(Color Codes supported!)
+VALUE:
+
+KEY:gps.waypoint.added
+VALUE:
+
+KEY:&aSuccessfully added a new Waypoint
+VALUE:
+
+KEY:gps.waypoint.max
+VALUE:
+
+KEY:&4You have reached the Maximum Amount of Waypoints
+VALUE:
+
+KEY:gps.insufficient-complexity
+VALUE:
+
+KEY:&4Insufficient GPS Network Complexity: &c%complexity%
+VALUE:
+
+KEY:&4a) You do not have a GPS Network setup yet
+VALUE:
+
+KEY:&4b) Your GPS Network is not complex enough
+VALUE:
+
+KEY:gps.geo.scan-required
+VALUE:
+
+KEY:&4GEO-Scan required! &cScan this Chunk using a GEO-Scanner first!
+VALUE:
+
+KEY:robot.started
+VALUE:
+
+KEY:&7Your Robot resumed running its Script
+VALUE:
+
+KEY:robot.stopped
+VALUE:
+
+KEY:&7Your Robot has paused its Script
+VALUE:
+
+KEY:inventory.no-access
+VALUE:
+
+KEY:&4You are not permitted to access this Block
+VALUE:
+
+KEY:machines.ANCIENT_ALTAR.not-enough-pedestals
+VALUE:
+
+KEY:&4The Altar is not surrounded by the needed Amount of Pedestals §c(%pedestals% / 8)
+VALUE:
+
+KEY:machines.ANCIENT_ALTAR.unknown-catalyst
+VALUE:
+
+KEY:&4Unknown Catalyst! §cUse the correct Recipe instead!
+VALUE:
+
+KEY:machines.ANCIENT_ALTAR.unknown-recipe
+VALUE:
+
+KEY:&4Unknown Recipe! §cUse the correct Recipe instead!
+VALUE:
+
+KEY:machines.HOLOGRAM_PROJECTOR.enter-text
+VALUE:
+
+KEY:&7Please enter your desired Hologram Text in your Chat. &r(Color Codes are supported!)
+VALUE:
+
+KEY:machines.ELEVATOR.no-destinations
+VALUE:
+
+KEY:&4No Destinations found
+VALUE:
+
+KEY:android.scripts.already-uploaded
+VALUE:
+
+KEY:&4This Script has already been uploaded.
+VALUE:
+
+KEY:android.scripts.enter-name
+VALUE:
+
+KEY:&ePlease type in a Name for your Script
+VALUE:
+
+KEY:android.scripts.uploaded
+VALUE:
+
+KEY:&bUploading...
+VALUE:
+
+KEY:&aSuccessfully uploaded your Script!
+VALUE:
+
+KEY:android.scripts.rating.own
+VALUE:
+
+KEY:§4You cannot rate your own Script!
+VALUE:
+
+KEY:android.scripts.rating.already
+VALUE:
+
+KEY:§4You have already left a Rating for this Script!
+VALUE:
+
+KEY:MAGIC_SUGAR
+VALUE:
+
+KEY:effects.SPEED
+VALUE:
+
+KEY:§cCombustion Reactor
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:HOLOGRAM_PROJECTOR
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:text
+VALUE:
+
+KEY:&bHi, I am a Hologram, &3configure me using the Projector
+VALUE:
+
+KEY:offset
+VALUE:
+
+KEY:-0.5
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:no_pickup
+VALUE:
+
+KEY:ELEVATOR_PLATE
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:floor
+VALUE:
+
+KEY:&rFloor #0
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:§cFood Fabricator
+VALUE:
+
+KEY:GOLD_PAN
+VALUE:
+
+KEY:chance.SIFTED_ORE
+VALUE:
+
+KEY:chance.CLAY
+VALUE:
+
+KEY:chance.FLINT
+VALUE:
+
+KEY:§cFood Fabricator
+VALUE:
+
+KEY:§cFood Composter
+VALUE:
+
+KEY:§cFood Composter
+VALUE:
+
+KEY:§bFreezer
+VALUE:
+
+KEY:§bFreezer
+VALUE:
+
+KEY:CARGO_MANAGER
+VALUE:
+
+KEY:visualizer
+VALUE:
+
+KEY:disabled
+VALUE:
+
+KEY:§cCargo Net Visualizer: §4✘
+VALUE:
+
+KEY:§cCargo Net Visualizer: §2✔
+VALUE:
+
+KEY:SMELTERY
+VALUE:
+
+KEY:chance.fireBreak
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.pattern-not-found
+VALUE:
+
+KEY:CARGO_NODE
+VALUE:
+
+KEY:§7Connected: §2✔
+VALUE:
+
+KEY:§7Connected: §4✘
+VALUE:
+
+KEY:§cCarbon Press
+VALUE:
+
+KEY:§cCarbon Press
+VALUE:
+
+KEY:§cCarbon Press
+VALUE:
+
+KEY:PRESSURE_CHAMBER
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.unknown-material
+VALUE:
+
+KEY:MAGIC_WORKBENCH
+VALUE:
+
+KEY:test
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.pattern-not-found
+VALUE:
+
+KEY:messages.hungry
+VALUE:
+
+KEY:messages.fire-extinguish
+VALUE:
+
+KEY:ORE_WASHER
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.unknown-material
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:ENHANCED_CRAFTING_TABLE
+VALUE:
+
+KEY:test
+VALUE:
+
+KEY:_BUCKET
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.pattern-not-found
+VALUE:
+
+KEY:<Type>
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:SAW_MILL
+VALUE:
+
+KEY:DIGITAL_MINER
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:miner.no-ores
+VALUE:
+
+KEY:ADVANCED_DIGITAL_MINER
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:miner.no-ores
+VALUE:
+
+KEY:Delete Items
+VALUE:
+
+KEY:COMPOSTER
+VALUE:
+
+KEY:machines.wrong-item
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:AUTOMATED_PANNING_MACHINE
+VALUE:
+
+KEY:GOLD_PAN
+VALUE:
+
+KEY:chance.SIFTED_ORE
+VALUE:
+
+KEY:chance.CLAY
+VALUE:
+
+KEY:chance.FLINT
+VALUE:
+
+KEY:machines.wrong-item
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:miner.no-ores
+VALUE:
+
+KEY:CRUCIBLE
+VALUE:
+
+KEY:machines.wrong-item
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:JUICER
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.unknown-material
+VALUE:
+
+KEY:Type: 
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:_
+VALUE:
+
+KEY:BLOCK_PLACER
+VALUE:
+
+KEY:GRIND_STONE
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.unknown-material
+VALUE:
+
+KEY:&7Owner: &b
+VALUE:
+
+KEY:&aFlask of Knowledge
+VALUE:
+
+KEY:mrCookieSlime
+VALUE:
+
+KEY:timtower
+VALUE:
+
+KEY:bwfcwalshy
+VALUE:
+
+KEY:jadedcat
+VALUE:
+
+KEY:ZeldoKavira
+VALUE:
+
+KEY:eyamaz
+VALUE:
+
+KEY:Kaelten
+VALUE:
+
+KEY:Myrathi
+VALUE:
+
+KEY:item_placed
+VALUE:
+
+KEY:ARMOR_FORGE
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.pattern-not-found
+VALUE:
+
+KEY:§bElectric Furnace
+VALUE:
+
+KEY:§bElectric Furnace
+VALUE:
+
+KEY:§bElectric Furnace
+VALUE:
+
+KEY:ORE_CRUSHER
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.unknown-material
+VALUE:
+
+KEY:§cElectric Ingot Factory
+VALUE:
+
+KEY:§cElectric Ingot Factory
+VALUE:
+
+KEY:§cElectric Ingot Factory
+VALUE:
+
+KEY:§bElectric Ore Grinder
+VALUE:
+
+KEY:ELECTRIC_ORE_GRINDER
+VALUE:
+
+KEY:§bElectric Ore Grinder
+VALUE:
+
+KEY:ELECTRIC_ORE_GRINDER
+VALUE:
+
+KEY:§cCoal Generator
+VALUE:
+
+KEY:COMPRESSOR
+VALUE:
+
+KEY:machines.full-inventory
+VALUE:
+
+KEY:machines.unknown-material
+VALUE:
+
+KEY:§2Bio Reactor
+VALUE:
+
+KEY:§bStored Energy: §3
+VALUE:
+
+KEY: J
+VALUE:
+
+KEY:§bCapacity: §3
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:GPS_CONTROL_PANEL
+VALUE:
+
+KEY:GPS_GEO_SCANNER
+VALUE:
+
+KEY:§4Lava Generator
+VALUE:
+
+KEY:GRANDMAS_WALKING_STICK
+VALUE:
+
+KEY:GRANDPAS_WALKING_STICK
+VALUE:
+
+KEY:PORTABLE_CRAFTER
+VALUE:
+
+KEY:FORTUNE_COOKIE
+VALUE:
+
+KEY:ENHANCED_CRAFTING_TABLE
+VALUE:
+
+KEY:PORTABLE_DUSTBIN
+VALUE:
+
+KEY:BEEF_JERKY
+VALUE:
+
+KEY:Saturation
+VALUE:
+
+KEY:GRIND_STONE
+VALUE:
+
+KEY:Dispenser (Facing up)
+VALUE:
+
+KEY:ARMOR_FORGE
+VALUE:
+
+KEY:ORE_CRUSHER
+VALUE:
+
+KEY:double-ores
+VALUE:
+
+KEY:COMPRESSOR
+VALUE:
+
+KEY:MAGIC_LUMP_1
+VALUE:
+
+KEY:MAGIC_LUMP_2
+VALUE:
+
+KEY:MAGIC_LUMP_3
+VALUE:
+
+KEY:ENDER_LUMP_1
+VALUE:
+
+KEY:ENDER_LUMP_2
+VALUE:
+
+KEY:ENDER_LUMP_3
+VALUE:
+
+KEY:ENDER_BACKPACK
+VALUE:
+
+KEY:ENDER_HELMET
+VALUE:
+
+KEY:ENDER_CHESTPLATE
+VALUE:
+
+KEY:ENDER_LEGGINGS
+VALUE:
+
+KEY:ENDER_BOOTS
+VALUE:
+
+KEY:MAGIC_EYE_OF_ENDER
+VALUE:
+
+KEY:MAGIC_SUGAR
+VALUE:
+
+KEY:effects.SPEED
+VALUE:
+
+KEY:MONSTER_JERKY
+VALUE:
+
+KEY:SLIME_HELMET
+VALUE:
+
+KEY:SLIME_CHESTPLATE
+VALUE:
+
+KEY:SLIME_LEGGINGS
+VALUE:
+
+KEY:SLIME_BOOTS
+VALUE:
+
+KEY:SWORD_OF_BEHEADING
+VALUE:
+
+KEY:chance.PLAYER
+VALUE:
+
+KEY:chance.SKELETON
+VALUE:
+
+KEY:chance.WITHER_SKELETON
+VALUE:
+
+KEY:chance.ZOMBIE
+VALUE:
+
+KEY:chance.CREEPER
+VALUE:
+
+KEY:MAGICAL_BOOK_COVER
+VALUE:
+
+KEY:BASIC_CIRCUIT_BOARD
+VALUE:
+
+KEY:&a&oIron Golem
+VALUE:
+
+KEY:ADVANCED_CIRCUIT_BOARD
+VALUE:
+
+KEY:GOLD_PAN
+VALUE:
+
+KEY:chance.FLINT
+VALUE:
+
+KEY:chance.CLAY
+VALUE:
+
+KEY:chance.SIFTED_ORE
+VALUE:
+
+KEY:SIFTED_ORE
+VALUE:
+
+KEY:SMELTERY
+VALUE:
+
+KEY:chance.fireBreak
+VALUE:
+
+KEY:PRESSURE_CHAMBER
+VALUE:
+
+KEY:Dispenser (Facing down)
+VALUE:
+
+KEY:BATTERY
+VALUE:
+
+KEY:GLOWSTONE
+VALUE:
+
+KEY:DAMASCUS_STEEL
+VALUE:
+
+KEY:REINFORCED_ALLOY
+VALUE:
+
+KEY:CACTUS
+VALUE:
+
+KEY:REINFORCED_ALLOY_INGOT
+VALUE:
+
+KEY:HARDENED_METAL_INGOT
+VALUE:
+
+KEY:DAMASCUS_STEEL_INGOT
+VALUE:
+
+KEY:STEEL_INGOT
+VALUE:
+
+KEY:BRONZE_INGOT
+VALUE:
+
+KEY:DURALUMIN_INGOT
+VALUE:
+
+KEY:BILLON_INGOT
+VALUE:
+
+KEY:BRASS_INGOT
+VALUE:
+
+KEY:ALUMINUM_BRASS_INGOT
+VALUE:
+
+KEY:ALUMINUM_BRONZE_INGOT
+VALUE:
+
+KEY:CORINTHIAN_BRONZE_INGOT
+VALUE:
+
+KEY:SOLDER_INGOT
+VALUE:
+
+KEY:SYNTHETIC_SAPPHIRE
+VALUE:
+
+KEY:SYNTHETIC_DIAMOND
+VALUE:
+
+KEY:RAW_CARBONADO
+VALUE:
+
+KEY:NICKEL_INGOT
+VALUE:
+
+KEY:COBALT_INGOT
+VALUE:
+
+KEY:CARBONADO
+VALUE:
+
+KEY:FERROSILICON
+VALUE:
+
+KEY:IRON_DUST
+VALUE:
+
+KEY:GOLD_DUST
+VALUE:
+
+KEY:COPPER_DUST
+VALUE:
+
+KEY:TIN_DUST
+VALUE:
+
+KEY:LEAD_DUST
+VALUE:
+
+KEY:SILVER_DUST
+VALUE:
+
+KEY:ALUMINUM_DUST
+VALUE:
+
+KEY:ZINC_DUST
+VALUE:
+
+KEY:MAGNESIUM_DUST
+VALUE:
+
+KEY:COPPER_INGOT
+VALUE:
+
+KEY:TIN_INGOT
+VALUE:
+
+KEY:SILVER_INGOT
+VALUE:
+
+KEY:LEAD_INGOT
+VALUE:
+
+KEY:ALUMINUM_INGOT
+VALUE:
+
+KEY:ZINC_INGOT
+VALUE:
+
+KEY:MAGNESIUM_INGOT
+VALUE:
+
+KEY:SULFATE
+VALUE:
+
+KEY:CARBON
+VALUE:
+
+KEY:WHEAT_FLOUR
+VALUE:
+
+KEY:STEEL_PLATE
+VALUE:
+
+KEY:COMPRESSED_CARBON
+VALUE:
+
+KEY:CARBON_CHUNK
+VALUE:
+
+KEY:STEEL_THRUSTER
+VALUE:
+
+KEY:POWER_CRYSTAL
+VALUE:
+
+KEY:DURALUMIN_JETPACK
+VALUE:
+
+KEY:SOLDER_JETPACK
+VALUE:
+
+KEY:BILLON_JETPACK
+VALUE:
+
+KEY:STEEL_JETPACK
+VALUE:
+
+KEY:DAMASCUS_STEEL_JETPACK
+VALUE:
+
+KEY:REINFORCED_ALLOY_JETPACK
+VALUE:
+
+KEY:CARBONADO_JETPACK
+VALUE:
+
+KEY:PARACHUTE
+VALUE:
+
+KEY:CHAIN
+VALUE:
+
+KEY:HOOK
+VALUE:
+
+KEY:GRAPPLING_HOOK
+VALUE:
+
+KEY:MAGIC_WORKBENCH
+VALUE:
+
+KEY:STAFF_ELEMENTAL
+VALUE:
+
+KEY:STAFF_ELEMENTAL_WIND
+VALUE:
+
+KEY:STAFF_ELEMENTAL_WATER
+VALUE:
+
+KEY:DURALUMIN_MULTI_TOOL
+VALUE:
+
+KEY:mode.0.enabled
+VALUE:
+
+KEY:mode.0.name
+VALUE:
+
+KEY:mode.0.item
+VALUE:
+
+KEY:mode.1.enabled
+VALUE:
+
+KEY:mode.1.name
+VALUE:
+
+KEY:mode.1.item
+VALUE:
+
+KEY:mode.2.enabled
+VALUE:
+
+KEY:mode.2.name
+VALUE:
+
+KEY:mode.2.item
+VALUE:
+
+KEY:mode.3.enabled
+VALUE:
+
+KEY:mode.3.name
+VALUE:
+
+KEY:mode.3.item
+VALUE:
+
+KEY:Portable Crafter
+VALUE:
+
+KEY:Magic Eye of Ender
+VALUE:
+
+KEY:Wind Staff
+VALUE:
+
+KEY:Grappling Hook
+VALUE:
+
+KEY:SOLDER_MULTI_TOOL
+VALUE:
+
+KEY:BILLON_MULTI_TOOL
+VALUE:
+
+KEY:STEEL_MULTI_TOOL
+VALUE:
+
+KEY:DAMASCUS_STEEL_MULTI_TOOL
+VALUE:
+
+KEY:REINFORCED_ALLOY_MULTI_TOOL
+VALUE:
+
+KEY:CARBONADO_MULTI_TOOL
+VALUE:
+
+KEY:mode.4.enabled
+VALUE:
+
+KEY:mode.4.name
+VALUE:
+
+KEY:mode.4.item
+VALUE:
+
+KEY:Gold Pan
+VALUE:
+
+KEY:ORE_WASHER
+VALUE:
+
+KEY:GOLD_24K
+VALUE:
+
+KEY:GOLD_22K
+VALUE:
+
+KEY:GOLD_20K
+VALUE:
+
+KEY:GOLD_18K
+VALUE:
+
+KEY:GOLD_16K
+VALUE:
+
+KEY:GOLD_14K
+VALUE:
+
+KEY:GOLD_12K
+VALUE:
+
+KEY:GOLD_10K
+VALUE:
+
+KEY:GOLD_8K
+VALUE:
+
+KEY:GOLD_6K
+VALUE:
+
+KEY:GOLD_4K
+VALUE:
+
+KEY:STONE_CHUNK
+VALUE:
+
+KEY:SILICON
+VALUE:
+
+KEY:SOLAR_PANEL
+VALUE:
+
+KEY:SOLAR_HELMET
+VALUE:
+
+KEY:charge-amount
+VALUE:
+
+KEY:LAVA_CRYSTAL
+VALUE:
+
+KEY:STAFF_ELEMENTAL_FIRE
+VALUE:
+
+KEY:SMELTERS_PICKAXE
+VALUE:
+
+KEY:COMMON_TALISMAN
+VALUE:
+
+KEY:recipe-requires-nether-stars
+VALUE:
+
+KEY:ANVIL_TALISMAN
+VALUE:
+
+KEY:anvil
+VALUE:
+
+KEY:MINER_TALISMAN
+VALUE:
+
+KEY:miner
+VALUE:
+
+KEY:HUNTER_TALISMAN
+VALUE:
+
+KEY:hunter
+VALUE:
+
+KEY:LAVA_TALISMAN
+VALUE:
+
+KEY:lava
+VALUE:
+
+KEY:WATER_TALISMAN
+VALUE:
+
+KEY:water
+VALUE:
+
+KEY:ANGEL_TALISMAN
+VALUE:
+
+KEY:angel
+VALUE:
+
+KEY:FIRE_TALISMAN
+VALUE:
+
+KEY:fire
+VALUE:
+
+KEY:MAGICIAN_TALISMAN
+VALUE:
+
+KEY:magician
+VALUE:
+
+KEY:allow-enchantments.
+VALUE:
+
+KEY:.level.
+VALUE:
+
+KEY:TRAVELLER_TALISMAN
+VALUE:
+
+KEY:traveller
+VALUE:
+
+KEY:WARRIOR_TALISMAN
+VALUE:
+
+KEY:warrior
+VALUE:
+
+KEY:KNIGHT_TALISMAN
+VALUE:
+
+KEY:knight
+VALUE:
+
+KEY:GILDED_IRON
+VALUE:
+
+KEY:SYNTHETIC_EMERALD
+VALUE:
+
+KEY:WHIRLWIND_TALISMAN
+VALUE:
+
+KEY:whirlwind
+VALUE:
+
+KEY:WIZARD_TALISMAN
+VALUE:
+
+KEY:wizard
+VALUE:
+
+KEY:LUMBER_AXE
+VALUE:
+
+KEY:SALT
+VALUE:
+
+KEY:HEAVY_CREAM
+VALUE:
+
+KEY:CHEESE
+VALUE:
+
+KEY:BUTTER
+VALUE:
+
+KEY:SCUBA_HELMET
+VALUE:
+
+KEY:HAZMAT_CHESTPLATE
+VALUE:
+
+KEY:HAZMAT_LEGGINGS
+VALUE:
+
+KEY:RUBBER_BOOTS
+VALUE:
+
+KEY:CRUSHED_ORE
+VALUE:
+
+KEY:PULVERIZED_ORE
+VALUE:
+
+KEY:PURE_ORE_CLUSTER
+VALUE:
+
+KEY:TINY_URANIUM
+VALUE:
+
+KEY:SMALL_URANIUM
+VALUE:
+
+KEY:URANIUM
+VALUE:
+
+KEY:REDSTONE_ALLOY
+VALUE:
+
+KEY:CLOTH
+VALUE:
+
+KEY:RAG
+VALUE:
+
+KEY:BANDAGE
+VALUE:
+
+KEY:enable-bleeding
+VALUE:
+
+KEY:SPLINT
+VALUE:
+
+KEY:enable-broken-legs
+VALUE:
+
+KEY:TIN_CAN
+VALUE:
+
+KEY:VITAMINS
+VALUE:
+
+KEY:MEDICINE
+VALUE:
+
+KEY:NIGHT_VISION_GOGGLES
+VALUE:
+
+KEY:PICKAXE_OF_CONTAINMENT
+VALUE:
+
+KEY:HERCULES_PICKAXE
+VALUE:
+
+KEY:SAW_MILL
+VALUE:
+
+KEY:&4Phantom Item
+VALUE:
+
+KEY:SAW_MILL2
+VALUE:
+
+KEY:SLIME_STEEL_HELMET
+VALUE:
+
+KEY:SLIME_STEEL_CHESTPLATE
+VALUE:
+
+KEY:SLIME_STEEL_LEGGINGS
+VALUE:
+
+KEY:SLIME_STEEL_BOOTS
+VALUE:
+
+KEY:BLADE_OF_VAMPIRES
+VALUE:
+
+KEY:DIGITAL_MINER
+VALUE:
+
+KEY:ADVANCED_DIGITAL_MINER
+VALUE:
+
+KEY:GOLD_24K_BLOCK
+VALUE:
+
+KEY:COMPOSTER
+VALUE:
+
+KEY:FARMER_SHOES
+VALUE:
+
+KEY:EXPLOSIVE_PICKAXE
+VALUE:
+
+KEY:unbreakable-blocks
+VALUE:
+
+KEY:BEDROCK
+VALUE:
+
+KEY:AUTOMATED_PANNING_MACHINE
+VALUE:
+
+KEY:BOOTS_OF_THE_STOMPER
+VALUE:
+
+KEY:PICKAXE_OF_THE_SEEKER
+VALUE:
+
+KEY:SMALL_BACKPACK
+VALUE:
+
+KEY:MEDIUM_BACKPACK
+VALUE:
+
+KEY:LARGE_BACKPACK
+VALUE:
+
+KEY:WOVEN_BACKPACK
+VALUE:
+
+KEY:CRUCIBLE
+VALUE:
+
+KEY:GILDED_BACKPACK
+VALUE:
+
+KEY:MAGNET
+VALUE:
+
+KEY:INFUSED_MAGNET
+VALUE:
+
+KEY:COBALT_PICKAXE
+VALUE:
+
+KEY:NECROTIC_SKULL
+VALUE:
+
+KEY:ESSENCE_OF_AFTERLIFE
+VALUE:
+
+KEY:BOUND_BACKPACK
+VALUE:
+
+KEY:DURALUMIN_JETBOOTS
+VALUE:
+
+KEY:SOLDER_JETBOOTS
+VALUE:
+
+KEY:BILLON_JETBOOTS
+VALUE:
+
+KEY:STEEL_JETBOOTS
+VALUE:
+
+KEY:DAMASCUS_STEEL_JETBOOTS
+VALUE:
+
+KEY:REINFORCED_ALLOY_JETBOOTS
+VALUE:
+
+KEY:CARBONADO_JETBOOTS
+VALUE:
+
+KEY:ARMORED_JETBOOTS
+VALUE:
+
+KEY:SEISMIC_AXE
+VALUE:
+
+KEY:PICKAXE_OF_VEIN_MINING
+VALUE:
+
+KEY:SOULBOUND_SWORD
+VALUE:
+
+KEY:SOULBOUND_BOW
+VALUE:
+
+KEY:SOULBOUND_PICKAXE
+VALUE:
+
+KEY:SOULBOUND_AXE
+VALUE:
+
+KEY:SOULBOUND_SHOVEL
+VALUE:
+
+KEY:SOULBOUND_HOE
+VALUE:
+
+KEY:SOULBOUND_HELMET
+VALUE:
+
+KEY:SOULBOUND_CHESTPLATE
+VALUE:
+
+KEY:SOULBOUND_LEGGINGS
+VALUE:
+
+KEY:SOULBOUND_BOOTS
+VALUE:
+
+KEY:JUICER
+VALUE:
+
+KEY:APPLE_JUICE
+VALUE:
+
+KEY:CARROT_JUICE
+VALUE:
+
+KEY:MELON_JUICE
+VALUE:
+
+KEY:PUMPKIN_JUICE
+VALUE:
+
+KEY:GOLDE_APPLE_JUICE
+VALUE:
+
+KEY:BROKEN_SPAWNER
+VALUE:
+
+KEY:REINFORCED_SPAWNER
+VALUE:
+
+KEY:&aFlask of Knowledge
+VALUE:
+
+KEY:MILK
+VALUE:
+
+KEY:CHOCOLATE_MILK
+VALUE:
+
+KEY:EGG_NOG
+VALUE:
+
+KEY:APPLE_CIDER
+VALUE:
+
+KEY:CHRISTMAS_COOKIE
+VALUE:
+
+KEY:FRUIT_CAKE
+VALUE:
+
+KEY:APPLE_PIE
+VALUE:
+
+KEY:ENHANCED_FURNACE
+VALUE:
+
+KEY:ENHANCED_FURNACE_2
+VALUE:
+
+KEY:ENHANCED_FURNACE_3
+VALUE:
+
+KEY:ENHANCED_FURNACE_4
+VALUE:
+
+KEY:ENHANCED_FURNACE_5
+VALUE:
+
+KEY:ENHANCED_FURNACE_6
+VALUE:
+
+KEY:ENHANCED_FURNACE_7
+VALUE:
+
+KEY:ENHANCED_FURNACE_8
+VALUE:
+
+KEY:ENHANCED_FURNACE_9
+VALUE:
+
+KEY:ENHANCED_FURNACE_10
+VALUE:
+
+KEY:ENHANCED_FURNACE_11
+VALUE:
+
+KEY:REINFORCED_FURNACE
+VALUE:
+
+KEY:CARBONADO_EDGED_FURNACE
+VALUE:
+
+KEY:ELECTRO_MAGNET
+VALUE:
+
+KEY:ELECTRIC_MOTOR
+VALUE:
+
+KEY:HEATING_COIL
+VALUE:
+
+KEY:BLOCK_PLACER
+VALUE:
+
+KEY:HOT_CHOCOLATE
+VALUE:
+
+KEY:CHRISTMAS_CAKE
+VALUE:
+
+KEY:SCROLL_OF_DIMENSIONAL_TELEPOSITION
+VALUE:
+
+KEY:CARAMEL
+VALUE:
+
+KEY:CARAMEL_APPLE
+VALUE:
+
+KEY:CHOCOLATE_APPLE
+VALUE:
+
+KEY:PRESENT
+VALUE:
+
+KEY:EXPLOSIVE_BOW
+VALUE:
+
+KEY:ICY_BOW
+VALUE:
+
+KEY:TOME_OF_KNOWLEDGE_SHARING
+VALUE:
+
+KEY:FLASK_OF_KNOWLEDGE
+VALUE:
+
+KEY:REINFORCED_PLATE
+VALUE:
+
+KEY:HARDENED_GLASS
+VALUE:
+
+KEY:SOLAR_ARRAY
+VALUE:
+
+KEY:CARROT_PIE
+VALUE:
+
+KEY:EASTER_EGG
+VALUE:
+
+KEY:COOLING_UNIT
+VALUE:
+
+KEY:COOLER
+VALUE:
+
+KEY:WITHER_PROOF_OBSIDIAN
+VALUE:
+
+KEY:ANCIENT_PEDESTAL
+VALUE:
+
+KEY:ANCIENT_ALTAR
+VALUE:
+
+KEY:§bBirthday Cake
+VALUE:
+
+KEY:BIRTHDAY_CAKE
+VALUE:
+
+KEY:ENERGY_REGULATOR
+VALUE:
+
+KEY:DUCT_TAPE
+VALUE:
+
+KEY:SMALL_CAPACITOR
+VALUE:
+
+KEY:MEDIUM_CAPACITOR
+VALUE:
+
+KEY:BIG_CAPACITOR
+VALUE:
+
+KEY:LARGE_CAPACITOR
+VALUE:
+
+KEY:CARBONADO_EDGED_CAPACITOR
+VALUE:
+
+KEY:SOLAR_GENERATOR
+VALUE:
+
+KEY:SOLAR_GENERATOR_2
+VALUE:
+
+KEY:SOLAR_GENERATOR_3
+VALUE:
+
+KEY:SOLAR_GENERATOR_4
+VALUE:
+
+KEY:CHARGING_BENCH
+VALUE:
+
+KEY:ELECTRIC_FURNACE
+VALUE:
+
+KEY:ELECTRIC_FURNACE_2
+VALUE:
+
+KEY:ELECTRIC_FURNACE_3
+VALUE:
+
+KEY:ELECTRIC_GOLD_PAN
+VALUE:
+
+KEY:ELECTRIC_GOLD_PAN_2
+VALUE:
+
+KEY:ELECTRIC_GOLD_PAN_3
+VALUE:
+
+KEY:ELECTRIC_DUST_WASHER
+VALUE:
+
+KEY:ELECTRIC_DUST_WASHER_2
+VALUE:
+
+KEY:ELECTRIC_DUST_WASHER_3
+VALUE:
+
+KEY:ELECTRIC_INGOT_FACTORY
+VALUE:
+
+KEY:ELECTRIC_INGOT_FACTORY_2
+VALUE:
+
+KEY:ELECTRIC_INGOT_FACTORY_3
+VALUE:
+
+KEY:ELECTRIC_ORE_GRINDER
+VALUE:
+
+KEY:ELECTRIC_ORE_GRINDER_2
+VALUE:
+
+KEY:HEATED_PRESSURE_CHAMBER
+VALUE:
+
+KEY:HEATED_PRESSURE_CHAMBER_2
+VALUE:
+
+KEY:COAL_GENERATOR
+VALUE:
+
+KEY:BIO_REACTOR
+VALUE:
+
+KEY:AUTO_ENCHANTER
+VALUE:
+
+KEY:AUTO_DISENCHANTER
+VALUE:
+
+KEY:AUTO_ANVIL
+VALUE:
+
+KEY:AUTO_ANVIL_2
+VALUE:
+
+KEY:MULTIMETER
+VALUE:
+
+KEY:PLASTIC_SHEET
+VALUE:
+
+KEY:ANDROID_MEMORY_CORE
+VALUE:
+
+KEY:GPS_TRANSMITTER
+VALUE:
+
+KEY:GPS_TRANSMITTER_2
+VALUE:
+
+KEY:GPS_TRANSMITTER_3
+VALUE:
+
+KEY:GPS_TRANSMITTER_4
+VALUE:
+
+KEY:GPS_CONTROL_PANEL
+VALUE:
+
+KEY:GPS_MARKER_TOOL
+VALUE:
+
+KEY:GPS_EMERGENCY_TRANSMITTER
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_MINER
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_FARMER
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_WOODCUTTER
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_FISHERMAN
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_BUTCHER
+VALUE:
+
+KEY:ANDROID_INTERFACE_ITEMS
+VALUE:
+
+KEY:ANDROID_INTERFACE_FUEL
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_2
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_2_FISHERMAN
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_2_BUTCHER
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_3
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_3_FISHERMAN
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_3_BUTCHER
+VALUE:
+
+KEY:BLANK_RUNE
+VALUE:
+
+KEY:ANCIENT_RUNE_AIR
+VALUE:
+
+KEY:ANCIENT_RUNE_EARTH
+VALUE:
+
+KEY:ANCIENT_RUNE_FIRE
+VALUE:
+
+KEY:ANCIENT_RUNE_WATER
+VALUE:
+
+KEY:ANCIENT_RUNE_ENDER
+VALUE:
+
+KEY:ANCIENT_RUNE_RAINBOW
+VALUE:
+
+KEY:INFERNAL_BONEMEAL
+VALUE:
+
+KEY:ELYTRA_SCALE
+VALUE:
+
+KEY:ELYTRA
+VALUE:
+
+KEY:INFUSED_ELYTRA
+VALUE:
+
+KEY:SOULBOUND_ELYTRA
+VALUE:
+
+KEY:RAINBOW_WOOL
+VALUE:
+
+KEY:RAINBOW_GLASS
+VALUE:
+
+KEY:RAINBOW_GLASS_PANE
+VALUE:
+
+KEY:RAINBOW_CLAY
+VALUE:
+
+KEY:RAINBOW_WOOL_XMAS
+VALUE:
+
+KEY:RAINBOW_GLASS_XMAS
+VALUE:
+
+KEY:RAINBOW_GLASS_PANE_XMAS
+VALUE:
+
+KEY:RAINBOW_CLAY_XMAS
+VALUE:
+
+KEY:RAINBOW_WOOL_VALENTINE
+VALUE:
+
+KEY:RAINBOW_GLASS_VALENTINE
+VALUE:
+
+KEY:RAINBOW_GLASS_PANE_VALENTINE
+VALUE:
+
+KEY:RAINBOW_CLAY_VALENTINE
+VALUE:
+
+KEY:WITHER_PROOF_GLASS
+VALUE:
+
+KEY:GPS_GEO_SCANNER
+VALUE:
+
+KEY:OIL_PUMP
+VALUE:
+
+KEY:BUCKET_OF_OIL
+VALUE:
+
+KEY:BUCKET_OF_FUEL
+VALUE:
+
+KEY:REFINERY
+VALUE:
+
+KEY:LAVA_GENERATOR
+VALUE:
+
+KEY:COMBUSTION_REACTOR
+VALUE:
+
+KEY:GPS_TELEPORTER_PYLON
+VALUE:
+
+KEY:GPS_TELEPORTATION_MATRIX
+VALUE:
+
+KEY:GPS_ACTIVATION_DEVICE_SHARED
+VALUE:
+
+KEY:GPS_ACTIVATION_DEVICE_PERSONAL
+VALUE:
+
+KEY:HOLOGRAM_PROJECTOR
+VALUE:
+
+KEY:INFUSED_HOPPER
+VALUE:
+
+KEY:BLISTERING_INGOT
+VALUE:
+
+KEY:BLISTERING_INGOT_2
+VALUE:
+
+KEY:BLISTERING_INGOT_3
+VALUE:
+
+KEY:ELEVATOR_PLATE
+VALUE:
+
+KEY:FOOD_FABRICATOR
+VALUE:
+
+KEY:FOOD_FABRICATOR_2
+VALUE:
+
+KEY:ORGANIC_FOOD_WHEAT
+VALUE:
+
+KEY:ORGANIC_FOOD_CARROT
+VALUE:
+
+KEY:ORGANIC_FOOD_POTATO
+VALUE:
+
+KEY:ORGANIC_FOOD_SEEDS
+VALUE:
+
+KEY:ORGANIC_FOOD_BEETROOT
+VALUE:
+
+KEY:ORGANIC_FOOD_MELON
+VALUE:
+
+KEY:ORGANIC_FOOD_APPLE
+VALUE:
+
+KEY:AUTO_BREEDER
+VALUE:
+
+KEY:ANIMAL_GROWTH_ACCELERATOR
+VALUE:
+
+KEY:XP_COLLECTOR
+VALUE:
+
+KEY:FOOD_COMPOSTER
+VALUE:
+
+KEY:FOOD_COMPOSTER_2
+VALUE:
+
+KEY:FERTILIZER_WHEAT
+VALUE:
+
+KEY:FERTILIZER_CARROT
+VALUE:
+
+KEY:FERTILIZER_POTATO
+VALUE:
+
+KEY:FERTILIZER_SEEDS
+VALUE:
+
+KEY:FERTILIZER_BEETROOT
+VALUE:
+
+KEY:FERTILIZER_MELON
+VALUE:
+
+KEY:FERTILIZER_APPLE
+VALUE:
+
+KEY:CROP_GROWTH_ACCELERATOR
+VALUE:
+
+KEY:CROP_GROWTH_ACCELERATOR_2
+VALUE:
+
+KEY:FREEZER
+VALUE:
+
+KEY:FREEZER_2
+VALUE:
+
+KEY:REACTOR_COOLANT_CELL
+VALUE:
+
+KEY:NEPTUNIUM
+VALUE:
+
+KEY:PLUTONIUM
+VALUE:
+
+KEY:BOOSTED_URANIUM
+VALUE:
+
+KEY:NUCLEAR_REACTOR
+VALUE:
+
+KEY:CARGO_MOTOR
+VALUE:
+
+KEY:CARGO_MANAGER
+VALUE:
+
+KEY:CARGO_NODE
+VALUE:
+
+KEY:CARGO_NODE_INPUT
+VALUE:
+
+KEY:CARGO_NODE_OUTPUT
+VALUE:
+
+KEY:CARGO_NODE_OUTPUT_ADVANCED
+VALUE:
+
+KEY:AUTOMATED_CRAFTING_CHAMBER
+VALUE:
+
+KEY:REACTOR_ACCESS_PORT
+VALUE:
+
+KEY:FLUID_PUMP
+VALUE:
+
+KEY:TRASH_CAN_BLOCK
+VALUE:
+
+KEY:CARBON_PRESS
+VALUE:
+
+KEY:CARBON_PRESS_2
+VALUE:
+
+KEY:CARBON_PRESS_3
+VALUE:
+
+KEY:ELECTRIC_SMELTERY
+VALUE:
+
+KEY:WITHER_ASSEMBLER
+VALUE:
+
+KEY:COMMON_TALISMAN
+VALUE:
+
+KEY:recipe-requires-nether-stars
+VALUE:
+
+KEY:[Slimefun] Removed bugged Item ('NULL?')
+VALUE:
+
+KEY:[Slimefun] Removed bugged Item ('
+VALUE:
+
+KEY:')
+VALUE:
+
+KEY:AUTOMATED_CRAFTING_CHAMBER
+VALUE:
+
+KEY:ENHANCED_CRAFTING_TABLE
+VALUE:
+
+KEY: </slot> 
+VALUE:
+
+KEY:GRIND_STONE
+VALUE:
+
+KEY:ELECTRIC_ORE_GRINDER
+VALUE:
+
+KEY:ORE_CRUSHER
+VALUE:
+
+KEY:SMELTERY
+VALUE:
+
+KEY:ELECTRIC_SMELTERY
+VALUE:
+
+KEY:###################### - Slimefun - ######################
+VALUE:
+
+KEY:Successfully loaded 
+VALUE:
+
+KEY: Items (
+VALUE:
+
+KEY: Researches)
+VALUE:
+
+KEY:( 
+VALUE:
+
+KEY: Items from Slimefun, 
+VALUE:
+
+KEY: Items from Addons )
+VALUE:
+
+KEY:##########################################################
+VALUE:
+
+KEY:.enabled-items.SLIMEFUN_GUIDE
+VALUE:
+
+KEY:double-ores
+VALUE:
+
+KEY:ANCIENT_ALTAR
+VALUE:
+
+KEY:https://youtu.be/mx2Y5DP8uZI
+VALUE:
+
+KEY:ANCIENT_PEDESTAL
+VALUE:
+
+KEY:BLISTERING_INGOT
+VALUE:
+
+KEY:https://youtu.be/mPhKUv4JR_Y
+VALUE:
+
+KEY:BLISTERING_INGOT_2
+VALUE:
+
+KEY:BLISTERING_INGOT_3
+VALUE:
+
+KEY:INFERNAL_BONEMEAL
+VALUE:
+
+KEY:https://youtu.be/gKxWqMlJDXY
+VALUE:
+
+KEY:RAINBOW_WOOL
+VALUE:
+
+KEY:https://youtu.be/csvb0CxofdA
+VALUE:
+
+KEY:RAINBOW_GLASS
+VALUE:
+
+KEY:RAINBOW_CLAY
+VALUE:
+
+KEY:RAINBOW_GLASS_PANE
+VALUE:
+
+KEY:RAINBOW_WOOL_XMAS
+VALUE:
+
+KEY:https://youtu.be/l4pKk4SDE
+VALUE:
+
+KEY:RAINBOW_GLASS_XMAS
+VALUE:
+
+KEY:RAINBOW_CLAY_XMAS
+VALUE:
+
+KEY:RAINBOW_GLASS_PANE_XMAS
+VALUE:
+
+KEY:OIL_PUMP
+VALUE:
+
+KEY:https://youtu.be/_XmJ6hrv9uY
+VALUE:
+
+KEY:GPS_GEO_SCANNER
+VALUE:
+
+KEY:REFINERY
+VALUE:
+
+KEY:BUCKET_OF_OIL
+VALUE:
+
+KEY:BUCKET_OF_FUEL
+VALUE:
+
+KEY:GPS_TELEPORTER_PYLON
+VALUE:
+
+KEY:https://youtu.be/ZnEhG8Kw6zU
+VALUE:
+
+KEY:GPS_TELEPORTATION_MATRIX
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_WOODCUTTER
+VALUE:
+
+KEY:https://youtu.be/AGLsWSMs6A0
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_BUTCHER
+VALUE:
+
+KEY:https://youtu.be/G-re3qV-LJQ
+VALUE:
+
+KEY:PROGRAMMABLE_ANDROID_2_BUTCHER
+VALUE:
+
+KEY:INFUSED_HOPPER
+VALUE:
+
+KEY:https://youtu.be/_H2HGwkfBh8
+VALUE:
+
+KEY:ELEVATOR_PLATE
+VALUE:
+
+KEY:https://youtu.be/OdKMjo6vNIs
+VALUE:
+
+KEY:ENERGY_REGULATOR
+VALUE:
+
+KEY:https://youtu.be/QvSUfBYagXk
+VALUE:
+
+KEY:COMBUSTION_REACTOR
+VALUE:
+
+KEY:MULTIMETER
+VALUE:
+
+KEY:FOOD_FABRICATOR
+VALUE:
+
+KEY:https://youtu.be/qJdFfvTGOmI
+VALUE:
+
+KEY:AUTO_BREEDER
+VALUE:
+
+KEY:ORGANIC_FOOD_MELON
+VALUE:
+
+KEY:ORGANIC_FOOD_WHEAT
+VALUE:
+
+KEY:ORGANIC_FOOD_APPLE
+VALUE:
+
+KEY:ORGANIC_FOOD_CARROT
+VALUE:
+
+KEY:ORGANIC_FOOD_SEEDS
+VALUE:
+
+KEY:ORGANIC_FOOD_BEETROOT
+VALUE:
+
+KEY:ORGANIC_FOOD_POTATO
+VALUE:
+
+KEY:ANIMAL_GROWTH_ACCELERATOR
+VALUE:
+
+KEY:https://youtu.be/bV4wEaSxXFw
+VALUE:
+
+KEY:FOOD_COMPOSTER
+VALUE:
+
+KEY:https://youtu.be/LjzUlFKAHCI
+VALUE:
+
+KEY:FERTILIZER_WHEAT
+VALUE:
+
+KEY:FERTILIZER_APPLE
+VALUE:
+
+KEY:FERTILIZER_POTATO
+VALUE:
+
+KEY:FERTILIZER_CARROT
+VALUE:
+
+KEY:FERTILIZER_SEEDS
+VALUE:
+
+KEY:FERTILIZER_BEETROOT
+VALUE:
+
+KEY:FERTILIZER_MELON
+VALUE:
+
+KEY:CROP_GROWTH_ACCELERATOR
+VALUE:
+
+KEY:XP_COLLECTOR
+VALUE:
+
+KEY:https://youtu.be/fHtJDPeLMlg
+VALUE:
+
+KEY:https://youtu.be/A6OuK7sfnaI
+VALUE:
+
+KEY:ELECTRIC_GOLD_PAN
+VALUE:
+
+KEY:ELECTRIC_DUST_WASHER
+VALUE:
+
+KEY:ELECTRIC_INGOT_FACTORY
+VALUE:
+
+KEY:https://youtu.be/FZj7nu9sOYA
+VALUE:
+
+KEY:CARGO_MANAGER
+VALUE:
+
+KEY:https://youtu.be/Lt2aGw5lQPI
+VALUE:
+
+KEY:CARGO_NODE_INPUT
+VALUE:
+
+KEY:CARGO_NODE_OUTPUT
+VALUE:
+
+KEY:GPS_CONTROL_PANEL
+VALUE:
+
+KEY:https://youtu.be/kOopBkiRzjs
+VALUE:
+
+KEY:GPS_TRANSMITTER
+VALUE:
+
+KEY:GPS_TRANSMITTER_2
+VALUE:
+
+KEY:GPS_TRANSMITTER_3
+VALUE:
+
+KEY:GPS_TRANSMITTER_4
+VALUE:
+
+KEY:SOLAR_GENERATOR
+VALUE:
+
+KEY:SOLAR_GENERATOR_2
+VALUE:
+
+KEY:SOLAR_GENERATOR_3
+VALUE:
+
+KEY:SOLAR_GENERATOR_4
+VALUE:
+
+KEY:GRANDMAS_WALKING_STICK
+VALUE:
+
+KEY:Walking-Sticks
+VALUE:
+
+KEY:GRANDPAS_WALKING_STICK
+VALUE:
+
+KEY:SWORD_OF_BEHEADING
+VALUE:
+
+KEY:Sword-of-Beheading
+VALUE:
+
+KEY:BLADE_OF_VAMPIRES
+VALUE:
+
+KEY:Blade-of-Vampires
+VALUE:
+
+KEY:SEISMIC_AXE
+VALUE:
+
+KEY:Seismic-Axe
+VALUE:
+
+KEY:SOULBOUND_SWORD
+VALUE:
+
+KEY:Soulbound-Weapons
+VALUE:
+
+KEY:SOULBOUND_BOW
+VALUE:
+
+KEY:EXPLOSIVE_BOW
+VALUE:
+
+KEY:Special-Bows
+VALUE:
+
+KEY:ICY_BOW
+VALUE:
+
+KEY:PORTABLE_CRAFTER
+VALUE:
+
+KEY:Portable-Crafter
+VALUE:
+
+KEY:PORTABLE_DUSTBIN
+VALUE:
+
+KEY:Portable-Dustbin
+VALUE:
+
+KEY:ENDER_BACKPACK
+VALUE:
+
+KEY:Ender-Backpack
+VALUE:
+
+KEY:RAG
+VALUE:
+
+KEY:Medical-Supplies
+VALUE:
+
+KEY:BANDAGE
+VALUE:
+
+KEY:SPLINT
+VALUE:
+
+KEY:VITAMINS
+VALUE:
+
+KEY:MEDICINE
+VALUE:
+
+KEY:SMALL_BACKPACK
+VALUE:
+
+KEY:Backpacks
+VALUE:
+
+KEY:MEDIUM_BACKPACK
+VALUE:
+
+KEY:LARGE_BACKPACK
+VALUE:
+
+KEY:WOVEN_BACKPACK
+VALUE:
+
+KEY:GILDED_BACKPACK
+VALUE:
+
+KEY:BOUND_BACKPACK
+VALUE:
+
+KEY:COOLER
+VALUE:
+
+KEY:Cooler
+VALUE:
+
+KEY:Enhanced-Crafting-Table
+VALUE:
+
+KEY:Grind-Stone
+VALUE:
+
+KEY:ARMOR_FORGE
+VALUE:
+
+KEY:Armor-Forge
+VALUE:
+
+KEY:Ore-Crusher
+VALUE:
+
+KEY:COMPRESSOR
+VALUE:
+
+KEY:Compressor
+VALUE:
+
+KEY:Smeltery
+VALUE:
+
+KEY:PRESSURE_CHAMBER
+VALUE:
+
+KEY:Pressure-Chamber
+VALUE:
+
+KEY:MAGIC_WORKBENCH
+VALUE:
+
+KEY:Magic-Workbench
+VALUE:
+
+KEY:ORE_WASHER
+VALUE:
+
+KEY:Ore-Washer
+VALUE:
+
+KEY:SAW_MILL
+VALUE:
+
+KEY:Saw-Mill
+VALUE:
+
+KEY:DIGITAL_MINER
+VALUE:
+
+KEY:Digital-Miners
+VALUE:
+
+KEY:ADVANCED_DIGITAL_MINER
+VALUE:
+
+KEY:JUICER
+VALUE:
+
+KEY:Juicer
+VALUE:
+
+KEY:COMPOSTER
+VALUE:
+
+KEY:Composter
+VALUE:
+
+KEY:CRUCIBLE
+VALUE:
+
+KEY:Crucible
+VALUE:
+
+KEY:ENHANCED_FURNACE
+VALUE:
+
+KEY:Enhanced-Furnaces
+VALUE:
+
+KEY:ENHANCED_FURNACE_2
+VALUE:
+
+KEY:ENHANCED_FURNACE_3
+VALUE:
+
+KEY:ENHANCED_FURNACE_4
+VALUE:
+
+KEY:ENHANCED_FURNACE_5
+VALUE:
+
+KEY:ENHANCED_FURNACE_6
+VALUE:
+
+KEY:ENHANCED_FURNACE_7
+VALUE:
+
+KEY:ENHANCED_FURNACE_8
+VALUE:
+
+KEY:ENHANCED_FURNACE_9
+VALUE:
+
+KEY:ENHANCED_FURNACE_10
+VALUE:
+
+KEY:ENHANCED_FURNACE_11
+VALUE:
+
+KEY:REINFORCED_FURNACE
+VALUE:
+
+KEY:CARBONADO_EDGED_FURNACE
+VALUE:
+
+KEY:GOLD_PAN
+VALUE:
+
+KEY:Gold-Pan
+VALUE:
+
+KEY:GRAPPLING_HOOK
+VALUE:
+
+KEY:Grappling-Hook
+VALUE:
+
+KEY:SMELTERS_PICKAXE
+VALUE:
+
+KEY:Smelters-Pickaxe
+VALUE:
+
+KEY:LUMBER_AXE
+VALUE:
+
+KEY:Lumber-Axe
+VALUE:
+
+KEY:PICKAXE_OF_CONTAINMENT
+VALUE:
+
+KEY:Pickaxe-Of-Containment
+VALUE:
+
+KEY:HERCULES_PICKAXE
+VALUE:
+
+KEY:Hercules-Pickaxe
+VALUE:
+
+KEY:EXPLOSIVE_PICKAXE
+VALUE:
+
+KEY:Explosive-Pickaxe
+VALUE:
+
+KEY:PICKAXE_OF_THE_SEEKER
+VALUE:
+
+KEY:Pickaxe-Of-The-Seeker
+VALUE:
+
+KEY:PICKAXE_OF_VEIN_MINING
+VALUE:
+
+KEY:Pickaxe-Of-Vein-Mining
+VALUE:
+
+KEY:SOULBOUND_PICKAXE
+VALUE:
+
+KEY:Soulbound-Tools
+VALUE:
+
+KEY:SOULBOUND_AXE
+VALUE:
+
+KEY:SOULBOUND_SHOVEL
+VALUE:
+
+KEY:SOULBOUND_HOE
+VALUE:
+
+KEY:FORTUNE_COOKIE
+VALUE:
+
+KEY:Fortune-Cookie
+VALUE:
+
+KEY:BEEF_JERKY
+VALUE:
+
+KEY:Beef-Jerky
+VALUE:
+
+KEY:MAGIC_SUGAR
+VALUE:
+
+KEY:Magic-Sugar
+VALUE:
+
+KEY:MONSTER_JERKY
+VALUE:
+
+KEY:Monster-Jerky
+VALUE:
+
+KEY:APPLE_JUICE
+VALUE:
+
+KEY:Juices
+VALUE:
+
+KEY:CARROT_JUICE
+VALUE:
+
+KEY:MELON_JUICE
+VALUE:
+
+KEY:PUMPKIN_JUICE
+VALUE:
+
+KEY:GOLDEN_APPLE_JUICE
+VALUE:
+
+KEY:CHAIN_HELMET
+VALUE:
+
+KEY:Chain-Armor
+VALUE:
+
+KEY:CHAIN_CHESTPLATE
+VALUE:
+
+KEY:CHAIN_LEGGINGS
+VALUE:
+
+KEY:CHAIN_BOOTS
+VALUE:
+
+KEY:DAMASCUS_STEEL_HELMET
+VALUE:
+
+KEY:Damascus-Steel-Armor
+VALUE:
+
+KEY:DAMASCUS_STEEL_CHESTPLATE
+VALUE:
+
+KEY:DAMASCUS_STEEL_LEGGINGS
+VALUE:
+
+KEY:DAMASCUS_STEEL_BOOTS
+VALUE:
+
+KEY:GOLD_12K_HELMET
+VALUE:
+
+KEY:Gold-Armor
+VALUE:
+
+KEY:GOLD_12K_CHESTPLATE
+VALUE:
+
+KEY:GOLD_12K_LEGGINGS
+VALUE:
+
+KEY:GOLD_12K_BOOTS
+VALUE:
+
+KEY:REINFORCED_ALLOY_HELMET
+VALUE:
+
+KEY:Reinforced-Armor
+VALUE:
+
+KEY:REINFORCED_ALLOY_CHESTPLATE
+VALUE:
+
+KEY:REINFORCED_ALLOY_LEGGINGS
+VALUE:
+
+KEY:REINFORCED_ALLOY_BOOTS
+VALUE:
+
+KEY:GILDED_IRON_HELMET
+VALUE:
+
+KEY:Gilded-Iron-Armor
+VALUE:
+
+KEY:GILDED_IRON_CHESTPLATE
+VALUE:
+
+KEY:GILDED_IRON_LEGGINGS
+VALUE:
+
+KEY:GILDED_IRON_BOOTS
+VALUE:
+
+KEY:SCUBA_HELMET
+VALUE:
+
+KEY:Hazmat-Suit
+VALUE:
+
+KEY:HAZMAT_CHESTPLATE
+VALUE:
+
+KEY:HAZMAT_LEGGINGS
+VALUE:
+
+KEY:RUBBER_BOOTS
+VALUE:
+
+KEY:CACTUS_HELMET
+VALUE:
+
+KEY:Cactus-Armor
+VALUE:
+
+KEY:CACTUS_CHESTPLATE
+VALUE:
+
+KEY:CACTUS_LEGGINGS
+VALUE:
+
+KEY:CACTUS_BOOTS
+VALUE:
+
+KEY:COPPER_INGOT
+VALUE:
+
+KEY:Ingots
+VALUE:
+
+KEY:TIN_INGOT
+VALUE:
+
+KEY:SILVER_INGOT
+VALUE:
+
+KEY:LEAD_INGOT
+VALUE:
+
+KEY:ALUMINUM_INGOT
+VALUE:
+
+KEY:ZINC_INGOT
+VALUE:
+
+KEY:MAGNESIUM_INGOT
+VALUE:
+
+KEY:GOLD_4K
+VALUE:
+
+KEY:GOLD_6K
+VALUE:
+
+KEY:GOLD_8K
+VALUE:
+
+KEY:GOLD_10K
+VALUE:
+
+KEY:GOLD_12K
+VALUE:
+
+KEY:GOLD_14K
+VALUE:
+
+KEY:GOLD_16K
+VALUE:
+
+KEY:GOLD_18K
+VALUE:
+
+KEY:GOLD_20K
+VALUE:
+
+KEY:GOLD_22K
+VALUE:
+
+KEY:GOLD_24K
+VALUE:
+
+KEY:REINFORCED_ALLOY_INGOT
+VALUE:
+
+KEY:HARDENED_METAL
+VALUE:
+
+KEY:GILDED_IRON
+VALUE:
+
+KEY:REDSTONE_ALLOY_INGOT
+VALUE:
+
+KEY:FERROSILICON
+VALUE:
+
+KEY:DAMASCUS_STEEL_INGOT
+VALUE:
+
+KEY:STEEL_INGOT
+VALUE:
+
+KEY:ALUMINUM_BRONZE_INGOT
+VALUE:
+
+KEY:ALUMINUM_BRASS_INGOT
+VALUE:
+
+KEY:CORINTHIAN_BRONZE_INGOT
+VALUE:
+
+KEY:BRASS_INGOT
+VALUE:
+
+KEY:BRONZE_INGOT
+VALUE:
+
+KEY:BILLON_INGOT
+VALUE:
+
+KEY:DURALUMIN_INGOT
+VALUE:
+
+KEY:NICKEL_INGOT
+VALUE:
+
+KEY:COBALT_INGOT
+VALUE:
+
+KEY:SOLDER_INGOT
+VALUE:
+
+KEY:IRON_DUST
+VALUE:
+
+KEY:Dusts
+VALUE:
+
+KEY:GOLD_DUST
+VALUE:
+
+KEY:ALUMINUM_DUST
+VALUE:
+
+KEY:ZINC_DUST
+VALUE:
+
+KEY:TIN_DUST
+VALUE:
+
+KEY:COPPER_DUST
+VALUE:
+
+KEY:MAGNESIUM_DUST
+VALUE:
+
+KEY:LEAD_DUST
+VALUE:
+
+KEY:SILVER_DUST
+VALUE:
+
+KEY:SYNTHETIC_DIAMOND
+VALUE:
+
+KEY:Valuables
+VALUE:
+
+KEY:SYNTHETIC_SAPPHIRE
+VALUE:
+
+KEY:SYNTHETIC_EMERALD
+VALUE:
+
+KEY:RAW_CARBONADO
+VALUE:
+
+KEY:CARBONADO
+VALUE:
+
+KEY:CARBON_CHUNK
+VALUE:
+
+KEY:SULFATE
+VALUE:
+
+KEY:CARBON
+VALUE:
+
+KEY:COMPRESSED_CARBON
+VALUE:
+
+KEY:SILICON
+VALUE:
+
+KEY:Oil
+VALUE:
+
+KEY:URANIUM
+VALUE:
+
+KEY:Radioactive-Materials
+VALUE:
+
+KEY:NEPTUNIUM
+VALUE:
+
+KEY:PLUTONIUM
+VALUE:
+
+KEY:BOOSTED_URANIUM
+VALUE:
+
+KEY:Energy-Regulator
+VALUE:
+
+KEY:CHARGING_BENCH
+VALUE:
+
+KEY:Charging-Station
+VALUE:
+
+KEY:SMALL_CAPACITOR
+VALUE:
+
+KEY:Energy-Capacitor
+VALUE:
+
+KEY:MEDIUM_CAPACITOR
+VALUE:
+
+KEY:BIG_CAPACITOR
+VALUE:
+
+KEY:LARGE_CAPACITOR
+VALUE:
+
+KEY:CARBONADO_EDGED_CAPACITOR
+VALUE:
+
+KEY:ELECTRIC_FURNACE
+VALUE:
+
+KEY:Electric-Furnace
+VALUE:
+
+KEY:ELECTRIC_FURNACE_2
+VALUE:
+
+KEY:ELECTRIC_FURNACE_3
+VALUE:
+
+KEY:Electric-Gold-Pan
+VALUE:
+
+KEY:ELECTRIC_GOLD_PAN_2
+VALUE:
+
+KEY:ELECTRIC_GOLD_PAN_3
+VALUE:
+
+KEY:Solar-Generator
+VALUE:
+
+KEY:AUTO_ENCHANTER
+VALUE:
+
+KEY:Auto-Enchanter
+VALUE:
+
+KEY:AUTO_DISENCHANTER
+VALUE:
+
+KEY:Auto-Disenchanter
+VALUE:
+
+KEY:Walking Sticks
+VALUE:
+
+KEY:Portable Crafter
+VALUE:
+
+KEY:Fortune Cookie
+VALUE:
+
+KEY:Portable Dustbin
+VALUE:
+
+KEY:Beef Jerky
+VALUE:
+
+KEY:Armor Crafting
+VALUE:
+
+KEY:Lumps and Magic
+VALUE:
+
+KEY:Ender Backpack
+VALUE:
+
+KEY:Glowstone Armor
+VALUE:
+
+KEY:Ender Armor
+VALUE:
+
+KEY:Magic Eye of Ender
+VALUE:
+
+KEY:Magic Sugar
+VALUE:
+
+KEY:Monster Jerky
+VALUE:
+
+KEY:Slime Armor
+VALUE:
+
+KEY:Sword of Beheading
+VALUE:
+
+KEY:Electric Work
+VALUE:
+
+KEY:Advanced Electricity
+VALUE:
+
+KEY:Hot Smelting
+VALUE:
+
+KEY:Steel Age
+VALUE:
+
+KEY:Important Power-Related Items
+VALUE:
+
+KEY:Your first Battery
+VALUE:
+
+KEY:Steel Plating
+VALUE:
+
+KEY:Steel Thruster
+VALUE:
+
+KEY:Parachute
+VALUE:
+
+KEY:Grappling Hook
+VALUE:
+
+KEY:Jetpacks
+VALUE:
+
+KEY:Multi Tools
+VALUE:
+
+KEY:Solar Power
+VALUE:
+
+KEY:Elemental Staves
+VALUE:
+
+KEY:Grind Stone
+VALUE:
+
+KEY:Cactus Suit
+VALUE:
+
+KEY:Gold Pan
+VALUE:
+
+KEY:Magical Book Binding
+VALUE:
+
+KEY:New Metals
+VALUE:
+
+KEY:Ore Doubling
+VALUE:
+
+KEY:Bronze Creation
+VALUE:
+
+KEY:Advanced Alloys
+VALUE:
+
+KEY:Carbon Creation
+VALUE:
+
+KEY:Bakery Innovation
+VALUE:
+
+KEY:Gilded Iron Armor
+VALUE:
+
+KEY:Synthetic Diamonds
+VALUE:
+
+KEY:Pressure Chamber
+VALUE:
+
+KEY:Synthetic Sapphires
+VALUE:
+
+KEY:Damascus Steel
+VALUE:
+
+KEY:Damascus Steel Armor
+VALUE:
+
+KEY:Reinforced Alloy
+VALUE:
+
+KEY:Black Diamonds
+VALUE:
+
+KEY:Magic Workbench
+VALUE:
+
+KEY:Wind Staff
+VALUE:
+
+KEY:Reinforced Armor
+VALUE:
+
+KEY:Ore Washer
+VALUE:
+
+KEY:Pure Gold
+VALUE:
+
+KEY:Silicon Valley
+VALUE:
+
+KEY:Fire Staff
+VALUE:
+
+KEY:Smelters Pickaxe
+VALUE:
+
+KEY:Common Talisman
+VALUE:
+
+KEY:Talisman of the Anvil
+VALUE:
+
+KEY:Talisman of the Miner
+VALUE:
+
+KEY:Talisman of the Hunter
+VALUE:
+
+KEY:Talisman of the Lava Walker
+VALUE:
+
+KEY:Talisman of the Water Breather
+VALUE:
+
+KEY:Talisman of the Angel
+VALUE:
+
+KEY:Talisman of the Firefighter
+VALUE:
+
+KEY:Firey Situation
+VALUE:
+
+KEY:Talisman of the Magician
+VALUE:
+
+KEY:Talisman of the Traveller
+VALUE:
+
+KEY:Talisman of the Warrior
+VALUE:
+
+KEY:Talisman of the Knight
+VALUE:
+
+KEY:Shiny Iron
+VALUE:
+
+KEY:Fake Gem
+VALUE:
+
+KEY:Chainmail Armor
+VALUE:
+
+KEY:Talisman of the Whirlwind
+VALUE:
+
+KEY:Talisman of the Wizard
+VALUE:
+
+KEY:Lumber Axe
+VALUE:
+
+KEY:Hazmat Suit
+VALUE:
+
+KEY:Radioactive
+VALUE:
+
+KEY:Ore Purification
+VALUE:
+
+KEY:Redstone Alloy
+VALUE:
+
+KEY:Top Tier Machines
+VALUE:
+
+KEY:First Aid
+VALUE:
+
+KEY:Shiny Armor
+VALUE:
+
+KEY:Night Vision Goggles
+VALUE:
+
+KEY:Pickaxe of Containment
+VALUE:
+
+KEY:Hercules Pickaxe
+VALUE:
+
+KEY:Saw Mill
+VALUE:
+
+KEY:Slimy Steel Armor
+VALUE:
+
+KEY:Blade of Vampires
+VALUE:
+
+KEY:Lazy Mining
+VALUE:
+
+KEY:Water Staff
+VALUE:
+
+KEY:Golden City
+VALUE:
+
+KEY:Advanced Mining 101
+VALUE:
+
+KEY:Composting Dirt
+VALUE:
+
+KEY:Farmer Shoes
+VALUE:
+
+KEY:Explosive Pickaxe
+VALUE:
+
+KEY:Automated Gold Pan
+VALUE:
+
+KEY:Boots of the Stomper
+VALUE:
+
+KEY:Pickaxe of the Seeker
+VALUE:
+
+KEY:Backpacks
+VALUE:
+
+KEY:Woven Backpack
+VALUE:
+
+KEY:Crucible
+VALUE:
+
+KEY:Gilded Backpack
+VALUE:
+
+KEY:Being a Tank
+VALUE:
+
+KEY:Armored Jetpack
+VALUE:
+
+KEY:Ender Talismans
+VALUE:
+
+KEY:Even more Ores
+VALUE:
+
+KEY:Magnetic Metals
+VALUE:
+
+KEY:Infused Magnets
+VALUE:
+
+KEY:Speedy Pickaxe
+VALUE:
+
+KEY:Necromancy
+VALUE:
+
+KEY:Soulbound Storage
+VALUE:
+
+KEY:Jet Boots
+VALUE:
+
+KEY:Armored Jet Boots
+VALUE:
+
+KEY:Seismic Axe
+VALUE:
+
+KEY:Pickaxe of Vein Mining
+VALUE:
+
+KEY:Soulbound Weapons
+VALUE:
+
+KEY:Soulbound Tools
+VALUE:
+
+KEY:Soulbound Armor
+VALUE:
+
+KEY:Delicious Drinks
+VALUE:
+
+KEY:Repairing Spawners
+VALUE:
+
+KEY:HO HO HO
+VALUE:
+
+KEY:Enhanced Furnace
+VALUE:
+
+KEY:Better Furnaces
+VALUE:
+
+KEY:High Tier Furnace
+VALUE:
+
+KEY:Reinforced Furnace
+VALUE:
+
+KEY:Carbonado Edged Furnace
+VALUE:
+
+KEY:Heating up
+VALUE:
+
+KEY:Block Placer
+VALUE:
+
+KEY:Lazy Panning
+VALUE:
+
+KEY:Turning things around
+VALUE:
+
+KEY:Robin Hood
+VALUE:
+
+KEY:Sharing with friends
+VALUE:
+
+KEY:XP Storage
+VALUE:
+
+KEY:Withstanding Explosions
+VALUE:
+
+KEY:Happy Easter
+VALUE:
+
+KEY:Golden potion
+VALUE:
+
+KEY:Portable Beverages
+VALUE:
+
+KEY:Ancient Altar
+VALUE:
+
+KEY:Wither-Proof Obsidian
+VALUE:
+
+KEY:Upgraded Solar Cells
+VALUE:
+
+KEY:Elemental Runes
+VALUE:
+
+KEY:Purple Runes
+VALUE:
+
+KEY:Infernal Bonemeal
+VALUE:
+
+KEY:Rainbow Blocks
+VALUE:
+
+KEY:Infused Hopper
+VALUE:
+
+KEY:Wither-Proof Glass
+VALUE:
+
+KEY:Duct Tape
+VALUE:
+
+KEY:Plastic
+VALUE:
+
+KEY:Memory Core
+VALUE:
+
+KEY:Oil
+VALUE:
+
+KEY:Fuel
+VALUE:
+
+KEY:Holograms
+VALUE:
+
+KEY:Tier 1 Capacitors
+VALUE:
+
+KEY:Tier 2 Capacitors
+VALUE:
+
+KEY:Solar Power Plant
+VALUE:
+
+KEY:Powered Furnace
+VALUE:
+
+KEY:Crushing and Grinding
+VALUE:
+
+KEY:Heated Pressure Chamber
+VALUE:
+
+KEY:Coal Generator
+VALUE:
+
+KEY:Bio-Reactor
+VALUE:
+
+KEY:Automatic Enchanting and Disenchanting
+VALUE:
+
+KEY:Automatic Anvil
+VALUE:
+
+KEY:Power Measurement
+VALUE:
+
+KEY:Basic GPS Setup
+VALUE:
+
+KEY:GPS Emergency Waypoint
+VALUE:
+
+KEY:Programmable Androids
+VALUE:
+
+KEY:Android Interfaces
+VALUE:
+
+KEY:GEO-Scans
+VALUE:
+
+KEY:Combustion Reactor
+VALUE:
+
+KEY:Teleporter Base Components
+VALUE:
+
+KEY:Teleporter Activation
+VALUE:
+
+KEY:Upgraded Solar Generators
+VALUE:
+
+KEY:Upgraded Transmitters
+VALUE:
+
+KEY:Elevators
+VALUE:
+
+KEY:Full-Time Solar Power
+VALUE:
+
+KEY:Top Tier Transmitter
+VALUE:
+
+KEY:Energy Networks 101
+VALUE:
+
+KEY:Butcher Androids
+VALUE:
+
+KEY:Organic Food
+VALUE:
+
+KEY:Automated Feeding
+VALUE:
+
+KEY:Advanced Androids
+VALUE:
+
+KEY:Advanced Androids - Butcher
+VALUE:
+
+KEY:Advanced Androids - Fisherman
+VALUE:
+
+KEY:Animal Growth Manipulation
+VALUE:
+
+KEY:Exp Collector
+VALUE:
+
+KEY:Organic Fertilizer
+VALUE:
+
+KEY:Crop Growth Acceleration
+VALUE:
+
+KEY:Upgraded Crop Growth Accelerator
+VALUE:
+
+KEY:Reactor Essentials
+VALUE:
+
+KEY:Nuclear Power Plant
+VALUE:
+
+KEY:Mr Freeze
+VALUE:
+
+KEY:Cargo Basics
+VALUE:
+
+KEY:Cargo Setup
+VALUE:
+
+KEY:Electric Ingot Fabrication
+VALUE:
+
+KEY:Faster Ingot Fabrication
+VALUE:
+
+KEY:Super Fast Ingot Fabrication
+VALUE:
+
+KEY:Automated Crafting
+VALUE:
+
+KEY:Upgraded Food Fabrication
+VALUE:
+
+KEY:Reactor Interaction
+VALUE:
+
+KEY:Fluid Pump
+VALUE:
+
+KEY:Upgraded Freezer
+VALUE:
+
+KEY:Never-Ending Circle
+VALUE:
+
+KEY:Trash
+VALUE:
+
+KEY:Charging Bench
+VALUE:
+
+KEY:Advanced Output Node
+VALUE:
+
+KEY:Carbon Press
+VALUE:
+
+KEY:Electric Smeltery
+VALUE:
+
+KEY:Upgraded Electric Furnace
+VALUE:
+
+KEY:Upgraded Carbon Press
+VALUE:
+
+KEY:Empowered Androids
+VALUE:
+
+KEY:Empowered Androids - Butcher
+VALUE:
+
+KEY:Empowered Androids - Fisherman
+VALUE:
+
+KEY:Ultimate Carbon Press
+VALUE:
+
+KEY:Automated Wither Killer
+VALUE:
+
+KEY:Upgraded Heated Pressure Chamber
+VALUE:
+
+KEY:Elytras
+VALUE:
+
+KEY:Special Elytras
+VALUE:
+
+KEY:ALWAYS
+VALUE:
+
+KEY:NEVER
+VALUE:
+
+KEY:IF_COLORED
+VALUE:
+
+KEY:_HELMET
+VALUE:
+
+KEY:_CHESTPLATE
+VALUE:
+
+KEY:_LEGGINGS
+VALUE:
+
+KEY:_BOOTS
+VALUE:
+
+KEY:§e§e§7
+VALUE:
+
+KEY:-NEW LINE-
+VALUE:
+
+KEY:[Slimefun] Auto-Saving Data... (Next Auto-Save: 
+VALUE:
+
+KEY:options.auto-save-delay-in-minutes
+VALUE:
+
+KEY:m)
+VALUE:
+
+KEY:data-storage/Slimefun/stored-blocks/
+VALUE:
+
+KEY:data-storage/Slimefun/stored-chunks/
+VALUE:
+
+KEY:;
+VALUE:
+
+KEY:;Chunk;
+VALUE:
+
+KEY:[Slimefun] Loading Blocks for World "
+VALUE:
+
+KEY:"
+VALUE:
+
+KEY:[Slimefun] This may take a long time...
+VALUE:
+
+KEY:.sfb
+VALUE:
+
+KEY:[Slimefun] Loading Blocks... 
+VALUE:
+
+KEY:% done ("
+VALUE:
+
+KEY:")
+VALUE:
+
+KEY:[Slimefun] Failed to load 
+VALUE:
+
+KEY:(ERR: 
+VALUE:
+
+KEY:)
+VALUE:
+
+KEY:[Slimefun] Loading Blocks... 100% (FINISHED - 
+VALUE:
+
+KEY:ms)
+VALUE:
+
+KEY:[Slimefun] Loaded a total of 
+VALUE:
+
+KEY: Blocks for World "
+VALUE:
+
+KEY:[Slimefun] Avg: 
+VALUE:
+
+KEY:ms/Block
+VALUE:
+
+KEY:data-storage/Slimefun/stored-chunks/chunks.sfc
+VALUE:
+
+KEY: for World "
+VALUE:
+
+KEY:" (ERR: 
+VALUE:
+
+KEY:data-storage/Slimefun/stored-inventories
+VALUE:
+
+KEY:.sfi
+VALUE:
+
+KEY:preset
+VALUE:
+
+KEY:data-storage/Slimefun/universal-inventories
+VALUE:
+
+KEY:[Slimefun] Saving Blocks for World "
+VALUE:
+
+KEY:data-storage/Slimefun/temp.yml
+VALUE:
+
+KEY:id
+VALUE:
+
+KEY:[Slimefun] Failed to parse BlockInfo for Block @ 
+VALUE:
+
+KEY:, 
+VALUE:
+
+KEY:No Metadata found!
+VALUE:
+
+KEY:[Slimefun] 
+VALUE:
+
+KEY:[Slimefun] IGNORE THIS ERROR UNLESS IT IS SPAMMING
+VALUE:
+
+KEY:","
+VALUE:
+
+KEY:":"
+VALUE:
+
+KEY:data-storage/Slimefun/stored-inventories/
+VALUE:
+
+KEY:/
+VALUE:
+
+KEY:[Slimefun] Failed to parse ChunkInfo for Chunk @ 
+VALUE:
+
+KEY:.
+VALUE:
+
+KEY:messages.disabled-item
+VALUE:
+
+KEY:messages.not-researched
+VALUE:
+
+KEY:.required-permission
+VALUE:
+
+KEY:messages.no-permission
+VALUE:
+
+KEY:.enabled
+VALUE:
+
+KEY:.enabled-items.
+VALUE:
+
+KEY:messages.disabled-in-world
+VALUE:
+
+KEY:.description
+VALUE:
+
+KEY:.youtube
+VALUE:
+
+KEY:.wiki
+VALUE:
+
+KEY:https://github.com/mrCookieSlime/Slimefun4/wiki/
+VALUE:
+
+KEY:https://github.com/TheBusyBiscuit/Slimefun4/wiki/
+VALUE:
+
+KEY:data-storage/Slimefun/Players/
+VALUE:
+
+KEY:.yml
+VALUE:
+
+KEY:backpacks.
+VALUE:
+
+KEY:.size
+VALUE:
+
+KEY:#
+VALUE:
+
+KEY:&7ID: 
+VALUE:
+
+KEY:§7ID: 
+VALUE:
+
+KEY:Backpack [
+VALUE:
+
+KEY: Slots]
+VALUE:
+
+KEY:.contents.
+VALUE:
+
+KEY:plugins/Slimefun/error-reports/
+VALUE:
+
+KEY:.err
+VALUE:
+
+KEY:(2).err
+VALUE:
+
+KEY:(3).err
+VALUE:
+
+KEY:(4).err
+VALUE:
+
+KEY:(5).err
+VALUE:
+
+KEY:(6).err
+VALUE:
+
+KEY:(7).err
+VALUE:
+
+KEY:(8).err
+VALUE:
+
+KEY:(9).err
+VALUE:
+
+KEY:(10).err
+VALUE:
+
+KEY:Server Software: 
+VALUE:
+
+KEY:  Build: 
+VALUE:
+
+KEY:  Minecraft: 
+VALUE:
+
+KEY:Installed Plugins (
+VALUE:
+
+KEY:)
+VALUE:
+
+KEY:  + 
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:  - 
+VALUE:
+
+KEY:Ticked Block:
+VALUE:
+
+KEY:  World: 
+VALUE:
+
+KEY:  X: 
+VALUE:
+
+KEY:  Y: 
+VALUE:
+
+KEY:  Z: 
+VALUE:
+
+KEY:Slimefun Data:
+VALUE:
+
+KEY:  ID: 
+VALUE:
+
+KEY:  Inventory: 
+VALUE:
+
+KEY:  Data: 
+VALUE:
+
+KEY:Stacktrace:
+VALUE:
+
+KEY:[Slimefun] Exception caught while ticking a Block:
+VALUE:
+
+KEY:[Slimefun] X: 
+VALUE:
+
+KEY: Y: 
+VALUE:
+
+KEY: Z: 
+VALUE:
+
+KEY:[Slimefun] Saved as: 
+VALUE:
+
+KEY:[Slimefun] /plugins/Slimefun/error-reports/
+VALUE:
+
+KEY:[Slimefun] Please consider sending this File to the developer(s) of Slimefun, sending this Error won't get you any help though.
+VALUE:
+
+KEY:[Slimefun] 
+VALUE:
+
+KEY:(
+VALUE:
+
+KEY:[Slimefun] has thrown 4 Exceptions in the last 4 Ticks, the Block has been terminated.
+VALUE:
+
+KEY:[Slimefun] Check your /plugins/Slimefun/error-reports/ folder for details.
+VALUE:
+
+KEY:plugins/Slimefun/error-reports/
+VALUE:
+
+KEY:.err
+VALUE:
+
+KEY:(2).err
+VALUE:
+
+KEY:(3).err
+VALUE:
+
+KEY:(4).err
+VALUE:
+
+KEY:(5).err
+VALUE:
+
+KEY:(6).err
+VALUE:
+
+KEY:(7).err
+VALUE:
+
+KEY:(8).err
+VALUE:
+
+KEY:(9).err
+VALUE:
+
+KEY:(10).err
+VALUE:
+
+KEY:Server Software: 
+VALUE:
+
+KEY:  Build: 
+VALUE:
+
+KEY:  Minecraft: 
+VALUE:
+
+KEY:Installed Plugins (
+VALUE:
+
+KEY:)
+VALUE:
+
+KEY:  + 
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:  - 
+VALUE:
+
+KEY:Ticked Block:
+VALUE:
+
+KEY:  World: 
+VALUE:
+
+KEY:  X: 
+VALUE:
+
+KEY:  Y: 
+VALUE:
+
+KEY:  Z: 
+VALUE:
+
+KEY:Slimefun Data:
+VALUE:
+
+KEY:  ID: 
+VALUE:
+
+KEY:  Inventory: 
+VALUE:
+
+KEY:  Data: 
+VALUE:
+
+KEY:Stacktrace:
+VALUE:
+
+KEY:[Slimefun] Exception caught while ticking a Block:
+VALUE:
+
+KEY:[Slimefun] X: 
+VALUE:
+
+KEY: Y: 
+VALUE:
+
+KEY: Z: 
+VALUE:
+
+KEY:[Slimefun] Saved as: 
+VALUE:
+
+KEY:[Slimefun] /plugins/Slimefun/error-reports/
+VALUE:
+
+KEY:[Slimefun] Please consider sending this File to the developer(s) of Slimefun, sending this Error won't get you any help though.
+VALUE:
+
+KEY:[Slimefun] 
+VALUE:
+
+KEY:(
+VALUE:
+
+KEY:[Slimefun] has thrown 4 Exceptions in the last 4 Ticks, the Block has been terminated.
+VALUE:
+
+KEY:[Slimefun] Check your /plugins/Slimefun/error-reports/ folder for details.
+VALUE:
+
+KEY:§2== §aSlimefun Diagnostic Tool §2==
+VALUE:
+
+KEY:§6Impact: §e
+VALUE:
+
+KEY:ms / 50-750ms
+VALUE:
+
+KEY:§6Ticked Chunks: §e
+VALUE:
+
+KEY:§6Ticked Machines: §e
+VALUE:
+
+KEY:§6Skipped Machines: §e
+VALUE:
+
+KEY:§6Ticking Machines:
+VALUE:
+
+KEY:   §7§oHover for more Info
+VALUE:
+
+KEY:\n§c
+VALUE:
+
+KEY: - 
+VALUE:
+
+KEY:x §7(
+VALUE:
+
+KEY:ms)
+VALUE:
+
+KEY:\n\n§c+ §4
+VALUE:
+
+KEY: Hidden
+VALUE:
+
+KEY:  §e
+VALUE:
+
+KEY:§c+ §4
+VALUE:
+
+KEY:§6Ticking Chunks:
+VALUE:
+
+KEY:CraftChunk
+VALUE:
+
+KEY:  §c
+VALUE:
+
+KEY:X_POSITIVE
+VALUE:
+
+KEY:X_NEGATIVE
+VALUE:
+
+KEY:Y_POSITIVE
+VALUE:
+
+KEY:Y_NEGATIVE
+VALUE:
+
+KEY:Z_POSITIVE
+VALUE:
+
+KEY:Z_NEGATIVE
+VALUE:
+
+KEY:UNKNOWN
+VALUE:
+
+KEY:SOURCE
+VALUE:
+
+KEY:DISTRIBUTOR
+VALUE:
+
+KEY:CONSUMER
+VALUE:
+
+KEY:NONE
+VALUE:
+
+KEY:§4No Energy Network found
+VALUE:
+
+KEY:ENERGY_REGULATOR
+VALUE:
+
+KEY:EnergyTicker
+VALUE:
+
+KEY:§c§o§8⇨ §e⚡ §7
+VALUE:
+
+KEY: / 
+VALUE:
+
+KEY: J
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEzNjFlNTc2YjQ5M2NiZmRmYWUzMjg2NjFjZWRkMWFkZDU1ZmFiNGU1ZWI0MThiOTJjZWJmNjI3NWY4YmI0In19fQ==
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzA1MzIzMzk0YTdkOTFiZmIzM2RmMDZkOTJiNjNjYjQxNGVmODBmMDU0ZDA0NzM0ZWEwMTVhMjNjNTM5In19fQ==
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTU4NDQzMmFmNmYzODIxNjcxMjAyNThkMWVlZThjODdjNmU3NWQ5ZTQ3OWU3YjBkNGM3YjZhZDQ4Y2ZlZWYifX19
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EyNTY5NDE1YzE0ZTMxYzk4ZWM5OTNhMmY5OWU2ZDY0ODQ2ZGIzNjdhMTNiMTk5OTY1YWQ5OWM0MzhjODZjIn19fQ==
+VALUE:
+
+KEY:energy-charge
+VALUE:
+
+KEY:0
+VALUE:
+
+KEY: J
+VALUE:
+
+KEY:id
+VALUE:
+
+KEY:energy-capacity
+VALUE:
+
+KEY:data-storage/Slimefun/universal-inventories/
+VALUE:
+
+KEY:.sfi
+VALUE:
+
+KEY:preset
+VALUE:
+
+KEY:;
+VALUE:
+
+KEY:data-storage/Slimefun/stored-inventories/
+VALUE:
+
+KEY:.sfi
+VALUE:
+
+KEY:preset
+VALUE:
+
+KEY:CARGO_NODE_OUTPUT
+VALUE:
+
+KEY:filter-lore
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:filter-durability
+VALUE:
+
+KEY:filter-type
+VALUE:
+
+KEY:whitelist
+VALUE:
+
+KEY:index
+VALUE:
+
+KEY:INSERT
+VALUE:
+
+KEY:WITHDRAW
+VALUE:
+
+KEY:visualizer
+VALUE:
+
+KEY:index
+VALUE:
+
+KEY:round-robin
+VALUE:
+
+KEY:true
+VALUE:
+
+KEY:BARREL_
+VALUE:
+
+KEY:storedItems
+VALUE:
+
+KEY:page
+VALUE:
+
+KEY:§7Stored Items: §r
+VALUE:
+
+KEY:§7<Left Click: Request 1 | Right Click: Request 
+VALUE:
+
+KEY:>
+VALUE:
+
+KEY:§7<Left Click: Request 1>
+VALUE:
+
+KEY:§7Status: §a§lONLINE
+VALUE:
+
+KEY:X_POSITIVE
+VALUE:
+
+KEY:X_NEGATIVE
+VALUE:
+
+KEY:Y_POSITIVE
+VALUE:
+
+KEY:Y_NEGATIVE
+VALUE:
+
+KEY:Z_POSITIVE
+VALUE:
+
+KEY:Z_NEGATIVE
+VALUE:
+
+KEY:UNKNOWN
+VALUE:
+
+KEY:§4No Item cached
+VALUE:
+
+KEY:§7Status: §4§lOFFLINE
+VALUE:
+
+KEY:frequency
+VALUE:
+
+KEY:CARGO_MANAGER
+VALUE:
+
+KEY:CARGO_NODE
+VALUE:
+
+KEY:CARGO_NODE_INPUT
+VALUE:
+
+KEY:CHEST_TERMINAL
+VALUE:
+
+KEY:CT_IMPORT_BUS
+VALUE:
+
+KEY:CT_EXPORT_BUS
+VALUE:
+
+KEY:CARGO_NODE_OUTPUT
+VALUE:
+
+KEY:CARGO_NODE_OUTPUT_ADVANCED
+VALUE:
+
+KEY:text
+VALUE:
+
+KEY:machines.HOLOGRAM_PROJECTOR.enter-text
+VALUE:
+
+KEY:offset
+VALUE:
+
+KEY:text
+VALUE:
+
+KEY:offset
+VALUE:
+
+KEY:Hologram Settings
+VALUE:
+
+KEY:§7Text §e(Click to edit)
+VALUE:
+
+KEY:§r
+VALUE:
+
+KEY:§7Offset: §e
+VALUE:
+
+KEY:§rLeft Click: §7+0.1
+VALUE:
+
+KEY:§rRight Click: §7-0.1
+VALUE:
+
+KEY:§4§l- §c
+VALUE:
+
+KEY: §7J §e⚡
+VALUE:
+
+KEY:§2§l+ §a
+VALUE:
+
+KEY:getHandle
+VALUE:
+
+KEY:v1_9_
+VALUE:
+
+KEY:bz
+VALUE:
+
+KEY:bA
+VALUE:
+
+KEY:getNBTTag
+VALUE:
+
+KEY:NBTTagCompound
+VALUE:
+
+KEY:c
+VALUE:
+
+KEY:setBoolean
+VALUE:
+
+KEY:Invulnerable
+VALUE:
+
+KEY:f
+VALUE:
+
+KEY:setInt
+VALUE:
+
+KEY:DisabledSlots
+VALUE:
+
+KEY:a
+VALUE:
+
+KEY:BLADE_OF_VAMPIRES
+VALUE:
+
+KEY:LAVA_TALISMAN
+VALUE:
+
+KEY:WATER_TALISMAN
+VALUE:
+
+KEY:ANGEL_TALISMAN
+VALUE:
+
+KEY:FIRE_TALISMAN
+VALUE:
+
+KEY:WARRIOR_TALISMAN
+VALUE:
+
+KEY:KNIGHT_TALISMAN
+VALUE:
+
+KEY:WHIRLWIND_TALISMAN
+VALUE:
+
+KEY:ANVIL_TALISMAN
+VALUE:
+
+KEY:TRAVELLER_TALISMAN
+VALUE:
+
+KEY:MAGICIAN_TALISMAN
+VALUE:
+
+KEY:allow-enchantments.
+VALUE:
+
+KEY:.level.
+VALUE:
+
+KEY:-
+VALUE:
+
+KEY:WIZARD_TALISMAN
+VALUE:
+
+KEY:AutonomousMachineHandler
+VALUE:
+
+KEY:AutonomousToolHandler
+VALUE:
+
+KEY:PARACHUTE
+VALUE:
+
+KEY:INFUSED_MAGNET
+VALUE:
+
+KEY:no_pickup
+VALUE:
+
+KEY:COOLER
+VALUE:
+
+KEY:§7ID: <ID>
+VALUE:
+
+KEY:<ID>
+VALUE:
+
+KEY:backpack.no-stack
+VALUE:
+
+KEY:COOLER
+VALUE:
+
+KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTllYjlkYTI2Y2YyZDMzNDEzOTdhN2Y0OTEzYmEzZDM3ZDFhZDEwZWFlMzBhYjI1ZmEzOWNlYjg0YmMifX19
+VALUE:
+
+KEY: 
+VALUE:
+
+KEY:§d
+VALUE:
+
+KEY::
+VALUE:
+
+KEY: §e@ X: 
+VALUE:
+
+KEY: Y: 
+VALUE:
+
+KEY: Z: 
+VALUE:
+
+KEY:§dID: §e
+VALUE:
+
+KEY:§dSkull: §2✔
+VALUE:
+
+KEY:  §dRotation: §e
+VALUE:
+
+KEY:§dInventory: §2✔
+VALUE:
+
+KEY:§dInventory: §4✘
+VALUE:
+
+KEY:§dTicking: §2✔
+VALUE:
+
+KEY:  §dAsync: §e
+VALUE:
+
+KEY:§4✘
+VALUE:
+
+KEY:§2✔
+VALUE:
+
+KEY:  §dTimings: §e
+VALUE:
+
+KEY:ms
+VALUE:
+
+KEY:  §dTotal Timings: §e
+VALUE:
+
+KEY:  §dChunk Timings: §e
+VALUE:
+
+KEY:§dTicking: §b~ §3(Indirect)
+VALUE:
+
+KEY:§dTicking: §4✘
+VALUE:
+
+KEY:§dChargable: §2✔
+VALUE:
+
+KEY:  §dEnergy: §e
+VALUE:
+
+KEY: / 
+VALUE:
+
+KEY:§dChargable: §4✘
+VALUE:
+
+KEY:§6
+VALUE:
+
+KEY:ItemInteractionHandler
+VALUE:
+
+KEY:mode.
+VALUE:
+
+KEY:.item
+VALUE:
+
+KEY:messages.mode-change
+VALUE:
+
+KEY:%device%
+VALUE:
+
+KEY:Multi Tool
+VALUE:
+
+KEY:%mode%
+VALUE:
+
+KEY:.name
+VALUE:
+
+KEY:messages.fortune-cookie
+VALUE:
+
+KEY:BEEF_JERKY
+VALUE:
+
+KEY:Saturation
+VALUE:
+
+KEY:workbench.not-enhanced
+VALUE:
+
+KEY:WITHER_PROOF_OBSIDIAN
+VALUE:
+
+KEY:WITHER_PROOF_GLASS
+VALUE:
+
+KEY:anvil.not-working
+VALUE:
+
+KEY:GPS_ACTIVATION_DEVICE_SHARED
+VALUE:
+
+KEY:GPS_TELEPORTER_PYLON
+VALUE:
+
+KEY:GPS_ACTIVATION_DEVICE_PERSONAL
+VALUE:
+
+KEY:owner
+VALUE:
+
+KEY:ELEVATOR_PLATE
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:(MMM d, yyyy @ hh:mm)
+VALUE:
+
+KEY:&4Deathpoint &7
+VALUE:
+
+KEY:SWORD_OF_BEHEADING
+VALUE:
+
+KEY:chance.ZOMBIE
+VALUE:
+
+KEY:chance.SKELETON
+VALUE:
+
+KEY:chance.WITHER_SKELETON
+VALUE:
+
+KEY:chance.CREEPER
+VALUE:
+
+KEY:chance.PLAYER
+VALUE:
+
+KEY:HUNTER_TALISMAN
+VALUE:
+
+KEY:no_pickup
+VALUE:
+
+KEY:android_killer
+VALUE:
+
+KEY:FARMER_SHOES
+VALUE:
+
+KEY:id
+VALUE:
+
+KEY:BlockPlaceHandler
+VALUE:
+
+KEY:mrCookieSlime
+VALUE:
+
+KEY:timtower
+VALUE:
+
+KEY:bwfcwalshy
+VALUE:
+
+KEY:jadedcat
+VALUE:
+
+KEY:ZeldoKavira
+VALUE:
+
+KEY:eyamaz
+VALUE:
+
+KEY:Kaelten
+VALUE:
+
+KEY:ahamling27
+VALUE:
+
+KEY:Myrathi
+VALUE:
+
+KEY:Good day to whoever is just looking through my code.Since it is Christmas, I wanted to add some Christmas flavour to this Plugin.So, I hope you don't mind that I implemented some of your Heads >.>Merry Christmas everyone!- mrCookieSlime
+VALUE:
+
+KEY:§4Must be placed onto a Chest or Machine
+VALUE:
+
+KEY:SAPLING
+VALUE:
+
+KEY:WOOD_PLATE
+VALUE:
+
+KEY:STONE_PLATE
+VALUE:
+
+KEY:IRON_PLATE
+VALUE:
+
+KEY:GOLD_PLATE
+VALUE:
+
+KEY:BlockBreakHandler
+VALUE:
+
+KEY:_ORE
+VALUE:
+
+KEY:MINER_TALISMAN
+VALUE:
+
+KEY:HARDENED_GLASS
+VALUE:
+
+KEY:WITHER_PROOF_OBSIDIAN
+VALUE:
+
+KEY:WITHER_PROOF_GLASS
+VALUE:
+
+KEY:FORCEFIELD_PROJECTOR
+VALUE:
+
+KEY:FORCEFIELD_RELAY
+VALUE:
+
+KEY:ANCIENT_PEDESTAL
+VALUE:
+
+KEY:ANCIENT_ALTAR
+VALUE:
+
+KEY:machines.ANCIENT_ALTAR.unknown-recipe
+VALUE:
+
+KEY:machines.ANCIENT_ALTAR.unknown-catalyst
+VALUE:
+
+KEY:machines.ANCIENT_ALTAR.not-enough-pedestals
+VALUE:
+
+KEY:%pedestals%
+VALUE:
+
+KEY:§5§dALTAR §3Probe - §e
+VALUE:
+
+KEY:no_pickup
+VALUE:
+
+KEY:altar_item
+VALUE:
+
+KEY:MultiBlockInteractionHandler
+VALUE:
+
+KEY:GRAPPLING_HOOK
+VALUE:
+
+KEY:BowShootHandler
+VALUE:
+
