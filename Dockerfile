@@ -4,7 +4,8 @@ RUN rm -f /etc/supervisord.d/mysql.ini
 
 ADD tools/pf.jar /tmp/pf.jar
 
-RUN yum install -y wget unzip java-1.8.0-openjdk
+RUN rpm -ivh 'http://javadl.oracle.com/webapps/download/AutoDL?BundleId=207764'
+RUN yum install -y wget unzip
 RUN wget 'http://dev.bukkit.org/media/files/920/245/Slimefun_v4.0.9.jar' -O /tmp/slimefun.jar
 
 RUN wget 'https://release.larsjung.de/h5ai/h5ai-0.28.1.zip' -O /usr/www/default/public_html/h5ai.zip
