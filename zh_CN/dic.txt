@@ -9392,358 +9392,358 @@ KEY:Auto-Disenchanter
 VALUE:
 
 KEY:Walking Sticks
-VALUE:
+VALUE:手杖
 
 KEY:Portable Crafter
-VALUE:
+VALUE:便携工作台
 
 KEY:Fortune Cookie
-VALUE:
+VALUE:幸运曲奇
 
 KEY:Portable Dustbin
-VALUE:
+VALUE:便携式垃圾箱
 
 KEY:Beef Jerky
-VALUE:
+VALUE:牛肉干
 
 KEY:Armor Crafting
-VALUE:
+VALUE:盔甲制造
 
 KEY:Lumps and Magic
-VALUE:
+VALUE:块和魔法
 
 KEY:Ender Backpack
-VALUE:
+VALUE:末影背包
 
 KEY:Glowstone Armor
-VALUE:
+VALUE:萤石铠甲
 
 KEY:Ender Armor
-VALUE:
+VALUE:末影铠甲
 
 KEY:Magic Eye of Ender
-VALUE:
+VALUE:末影魔眼
 
 KEY:Magic Sugar
-VALUE:
+VALUE:魔法糖
 
 KEY:Monster Jerky
-VALUE:
+VALUE:怪物肉干
 
 KEY:Slime Armor
-VALUE:
+VALUE:Slime 铠
 
 KEY:Sword of Beheading
-VALUE:
+VALUE:斩首之剑
 
 KEY:Electric Work
-VALUE:
+VALUE:电力工作
 
 KEY:Advanced Electricity
-VALUE:
+VALUE:高级电力
 
 KEY:Hot Smelting
-VALUE:
+VALUE:热冶炼
 
 KEY:Steel Age
-VALUE:
+VALUE:钢铁时代
 
 KEY:Important Power-Related Items
-VALUE:
+VALUE:重要的电力相关物品
 
 KEY:Your first Battery
-VALUE:
+VALUE:你的第一块电池
 
 KEY:Steel Plating
-VALUE:
+VALUE:镀钢
 
 KEY:Steel Thruster
-VALUE:
+VALUE:钢推进器
 
 KEY:Parachute
-VALUE:
+VALUE:降落伞
 
 KEY:Grappling Hook
-VALUE:
+VALUE:抓钩
 
 KEY:Jetpacks
-VALUE:
+VALUE:夹克
 
 KEY:Multi Tools
-VALUE:
+VALUE:各种工具
 
 KEY:Solar Power
-VALUE:
+VALUE:太阳能
 
 KEY:Elemental Staves
-VALUE:
+VALUE:元素法杖
 
 KEY:Grind Stone
-VALUE:
+VALUE:磨石
 
 KEY:Cactus Suit
-VALUE:
+VALUE:仙人掌套装
 
 KEY:Gold Pan
-VALUE:
+VALUE:淘金筛
 
 KEY:Magical Book Binding
-VALUE:
+VALUE:魔法书绑定
 
 KEY:New Metals
-VALUE:
+VALUE:新金属
 
 KEY:Ore Doubling
-VALUE:
+VALUE:矿物加倍
 
 KEY:Bronze Creation
-VALUE:
+VALUE:青铜制造
 
 KEY:Advanced Alloys
-VALUE:
+VALUE:高级合金
 
 KEY:Carbon Creation
-VALUE:
+VALUE:碳制造
 
 KEY:Bakery Innovation
-VALUE:
+VALUE:新面包
 
 KEY:Gilded Iron Armor
-VALUE:
+VALUE:镀金铁铠
 
 KEY:Synthetic Diamonds
-VALUE:
+VALUE:人造钻石
 
 KEY:Pressure Chamber
-VALUE:
+VALUE:压力室
 
 KEY:Synthetic Sapphires
-VALUE:
+VALUE:人造蓝宝石
 
 KEY:Damascus Steel
-VALUE:
+VALUE:大马士革钢
 
 KEY:Damascus Steel Armor
-VALUE:
+VALUE:大马士革钢铠
 
 KEY:Reinforced Alloy
-VALUE:
+VALUE:强化合金
 
 KEY:Black Diamonds
-VALUE:
+VALUE:黑钻
 
 KEY:Magic Workbench
-VALUE:
+VALUE:魔法工作台
 
 KEY:Wind Staff
-VALUE:
+VALUE:风之杖
 
 KEY:Reinforced Armor
-VALUE:
+VALUE:强化铠甲
 
 KEY:Ore Washer
-VALUE:
+VALUE:洗矿机
 
 KEY:Pure Gold
-VALUE:
+VALUE:纯金
 
 KEY:Silicon Valley
-VALUE:
+VALUE:硅谷
 
 KEY:Fire Staff
-VALUE:
+VALUE:灭火
 
 KEY:Smelters Pickaxe
-VALUE:
+VALUE:熔炼镐
 
 KEY:Common Talisman
-VALUE:
+VALUE:常用护身符
 
 KEY:Talisman of the Anvil
-VALUE:
+VALUE:铁砧护身符
 
 KEY:Talisman of the Miner
-VALUE:
+VALUE:矿工护身符
 
 KEY:Talisman of the Hunter
-VALUE:
+VALUE:猎人护身符
 
 KEY:Talisman of the Lava Walker
-VALUE:
+VALUE:岩浆行者护身符
 
 KEY:Talisman of the Water Breather
-VALUE:
+VALUE:水下呼吸护身符
 
 KEY:Talisman of the Angel
-VALUE:
+VALUE:天使护身符
 
 KEY:Talisman of the Firefighter
-VALUE:
+VALUE:防火护身符
 
 KEY:Firey Situation
-VALUE:
+VALUE:烧灼状态
 
 KEY:Talisman of the Magician
-VALUE:
+VALUE:巫师护身符
 
 KEY:Talisman of the Traveller
-VALUE:
+VALUE:旅行者护身符
 
 KEY:Talisman of the Warrior
-VALUE:
+VALUE:武士护身符
 
 KEY:Talisman of the Knight
-VALUE:
+VALUE:骑士护身符
 
 KEY:Shiny Iron
-VALUE:
+VALUE:闪亮的铁
 
 KEY:Fake Gem
-VALUE:
+VALUE:虚假宝石
 
 KEY:Chainmail Armor
-VALUE:
+VALUE:锁子甲
 
 KEY:Talisman of the Whirlwind
-VALUE:
+VALUE:旋风护身符
 
 KEY:Talisman of the Wizard
-VALUE:
+VALUE:向导护身符
 
 KEY:Lumber Axe
-VALUE:
+VALUE:伐木斧
 
 KEY:Hazmat Suit
-VALUE:
+VALUE:核防护套装
 
 KEY:Radioactive
-VALUE:
+VALUE:放射性的
 
 KEY:Ore Purification
-VALUE:
+VALUE:矿物提纯
 
 KEY:Redstone Alloy
-VALUE:
+VALUE:红石合金
 
 KEY:Top Tier Machines
-VALUE:
+VALUE:顶级机器
 
 KEY:First Aid
-VALUE:
+VALUE:急救
 
 KEY:Shiny Armor
-VALUE:
+VALUE:闪亮的盔甲
 
 KEY:Night Vision Goggles
-VALUE:
+VALUE:夜视镜
 
 KEY:Pickaxe of Containment
-VALUE:
+VALUE:抑制镐
 
 KEY:Hercules Pickaxe
-VALUE:
+VALUE:大力神镐
 
 KEY:Saw Mill
-VALUE:
+VALUE:锯木厂
 
 KEY:Slimy Steel Armor
-VALUE:
+VALUE:韧钢盔甲
 
 KEY:Blade of Vampires
-VALUE:
+VALUE:吸血鬼之刃
 
 KEY:Lazy Mining
-VALUE:
+VALUE:懒人开采机
 
 KEY:Water Staff
-VALUE:
+VALUE:饮水机
 
 KEY:Golden City
-VALUE:
+VALUE:黄金城
 
 KEY:Advanced Mining 101
-VALUE:
+VALUE:高级开采机 101
 
 KEY:Composting Dirt
-VALUE:
+VALUE:堆肥的污垢
 
 KEY:Farmer Shoes
-VALUE:
+VALUE:农夫靴
 
 KEY:Explosive Pickaxe
-VALUE:
+VALUE:爆裂镐
 
 KEY:Automated Gold Pan
-VALUE:
+VALUE:自动淘金筛
 
 KEY:Boots of the Stomper
-VALUE:
+VALUE:极速靴
 
 KEY:Pickaxe of the Seeker
-VALUE:
+VALUE:探索者镐
 
 KEY:Backpacks
-VALUE:
+VALUE:背包
 
 KEY:Woven Backpack
-VALUE:
+VALUE:编织背包
 
 KEY:Crucible
-VALUE:
+VALUE:坩埚
 
 KEY:Gilded Backpack
-VALUE:
+VALUE:镀金背包
 
 KEY:Being a Tank
-VALUE:
+VALUE:变成坦克
 
 KEY:Armored Jetpack
-VALUE:
+VALUE:装甲喷气背包
 
 KEY:Ender Talismans
-VALUE:
+VALUE:末影护身符
 
 KEY:Even more Ores
-VALUE:
+VALUE:更多矿物
 
 KEY:Magnetic Metals
-VALUE:
+VALUE:磁性金属
 
 KEY:Infused Magnets
-VALUE:
+VALUE:注入磁铁
 
 KEY:Speedy Pickaxe
-VALUE:
+VALUE:极速镐
 
 KEY:Necromancy
-VALUE:
+VALUE:通灵术
 
 KEY:Soulbound Storage
-VALUE:
+VALUE:灵魂绑定储存
 
 KEY:Jet Boots
-VALUE:
+VALUE:喷气靴
 
 KEY:Armored Jet Boots
-VALUE:
+VALUE:装甲喷气靴
 
 KEY:Seismic Axe
-VALUE:
+VALUE:地震斧
 
 KEY:Pickaxe of Vein Mining
-VALUE:
+VALUE:矿脉镐
 
 KEY:Soulbound Weapons
-VALUE:
+VALUE:灵魂绑定武器
 
 KEY:Soulbound Tools
-VALUE:
+VALUE:灵魂绑定工具
 
 KEY:Soulbound Armor
-VALUE:
+VALUE:灵魂绑定盔甲
 
 KEY:Delicious Drinks
-VALUE:
+VALUE:美味的饮料
 
 KEY:Repairing Spawners
 VALUE:
@@ -9752,214 +9752,214 @@ KEY:HO HO HO
 VALUE:
 
 KEY:Enhanced Furnace
-VALUE:
+VALUE:高级炉
 
 KEY:Better Furnaces
-VALUE:
+VALUE:热强化炉
 
 KEY:High Tier Furnace
-VALUE:
+VALUE:高级热强化炉
 
 KEY:Reinforced Furnace
-VALUE:
+VALUE:终极热强化炉
 
 KEY:Carbonado Edged Furnace
-VALUE:
+VALUE:究极熔炉
 
 KEY:Heating up
-VALUE:
+VALUE:加热
 
 KEY:Block Placer
-VALUE:
+VALUE:方块放置器
 
 KEY:Lazy Panning
-VALUE:
+VALUE:懒人淘金筛
 
 KEY:Turning things around
-VALUE:
+VALUE:把我们的事情
 
 KEY:Robin Hood
-VALUE:
+VALUE:罗宾汉
 
 KEY:Sharing with friends
-VALUE:
+VALUE:分享给朋友
 
 KEY:XP Storage
-VALUE:
+VALUE:经验储存
 
 KEY:Withstanding Explosions
-VALUE:
+VALUE:承受爆炸
 
 KEY:Happy Easter
-VALUE:
+VALUE:复活节快乐
 
 KEY:Golden potion
-VALUE:
+VALUE:淘金筛
 
 KEY:Portable Beverages
-VALUE:
+VALUE:便携饮料
 
 KEY:Ancient Altar
-VALUE:
+VALUE:远古祭坛
 
 KEY:Wither-Proof Obsidian
 VALUE:
 
 KEY:Upgraded Solar Cells
-VALUE:
+VALUE:高级太阳能电池
 
 KEY:Elemental Runes
-VALUE:
+VALUE:元素符文
 
 KEY:Purple Runes
-VALUE:
+VALUE:紫色符文
 
 KEY:Infernal Bonemeal
-VALUE:
+VALUE:地狱骨粉
 
 KEY:Rainbow Blocks
-VALUE:
+VALUE:彩虹方块
 
 KEY:Infused Hopper
-VALUE:
+VALUE:注入漏斗
 
 KEY:Wither-Proof Glass
 VALUE:
 
 KEY:Duct Tape
-VALUE:
+VALUE:胶带
 
 KEY:Plastic
-VALUE:
+VALUE:塑料
 
 KEY:Memory Core
-VALUE:
+VALUE:储存核心
 
 KEY:Oil
-VALUE:
+VALUE:油
 
 KEY:Fuel
-VALUE:
+VALUE:燃料
 
 KEY:Holograms
-VALUE:
+VALUE:全息图
 
 KEY:Tier 1 Capacitors
-VALUE:
+VALUE:一级电容
 
 KEY:Tier 2 Capacitors
-VALUE:
+VALUE:二级电容
 
 KEY:Solar Power Plant
-VALUE:
+VALUE:太阳能发电厂
 
 KEY:Powered Furnace
-VALUE:
+VALUE:动力炉
 
 KEY:Crushing and Grinding
-VALUE:
+VALUE:碎矿与磨矿
 
 KEY:Heated Pressure Chamber
-VALUE:
+VALUE:加热压力室
 
 KEY:Coal Generator
-VALUE:
+VALUE:煤发生器
 
 KEY:Bio-Reactor
-VALUE:
+VALUE:生物反应器
 
 KEY:Automatic Enchanting and Disenchanting
 VALUE:
 
 KEY:Automatic Anvil
-VALUE:
+VALUE:自动铁砧
 
 KEY:Power Measurement
-VALUE:
+VALUE:能量测量
 
 KEY:Basic GPS Setup
-VALUE:
+VALUE:基础 GPS 初始化
 
 KEY:GPS Emergency Waypoint
-VALUE:
+VALUE:GPS 急救点
 
 KEY:Programmable Androids
-VALUE:
+VALUE:程控机器
 
 KEY:Android Interfaces
-VALUE:
+VALUE:机器接口
 
 KEY:GEO-Scans
-VALUE:
+VALUE:地球扫描器
 
 KEY:Combustion Reactor
-VALUE:
+VALUE:燃烧反应器
 
 KEY:Teleporter Base Components
-VALUE:
+VALUE:传送站核心
 
 KEY:Teleporter Activation
-VALUE:
+VALUE:传送站激活器
 
 KEY:Upgraded Solar Generators
-VALUE:
+VALUE:高级太阳能
 
 KEY:Upgraded Transmitters
-VALUE:
+VALUE:高级发射器
 
 KEY:Elevators
-VALUE:
+VALUE:电梯
 
 KEY:Full-Time Solar Power
-VALUE:
+VALUE:全时段太阳能
 
 KEY:Top Tier Transmitter
-VALUE:
+VALUE:顶级发射器
 
 KEY:Energy Networks 101
-VALUE:
+VALUE:能量网络 101
 
 KEY:Butcher Androids
-VALUE:
+VALUE:肉贩机器
 
 KEY:Organic Food
-VALUE:
+VALUE:有机食物
 
 KEY:Automated Feeding
-VALUE:
+VALUE:自动喂食
 
 KEY:Advanced Androids
-VALUE:
+VALUE:高级机器
 
 KEY:Advanced Androids - Butcher
-VALUE:
+VALUE:高级机器 - 肉贩
 
 KEY:Advanced Androids - Fisherman
-VALUE:
+VALUE:高级机器 - 渔夫
 
 KEY:Animal Growth Manipulation
-VALUE:
+VALUE:动物成长控制器
 
 KEY:Exp Collector
-VALUE:
+VALUE:经验收集器
 
 KEY:Organic Fertilizer
-VALUE:
+VALUE:有机肥
 
 KEY:Crop Growth Acceleration
-VALUE:
+VALUE:作物催熟器
 
 KEY:Upgraded Crop Growth Accelerator
-VALUE:
+VALUE:高级作物催熟器
 
 KEY:Reactor Essentials
-VALUE:
+VALUE:基本反应器
 
 KEY:Nuclear Power Plant
-VALUE:
+VALUE:核电站
 
 KEY:Mr Freeze
-VALUE:
+VALUE:冰冻柜
 
 KEY:Cargo Basics
 VALUE:
@@ -9968,70 +9968,70 @@ KEY:Cargo Setup
 VALUE:
 
 KEY:Electric Ingot Fabrication
-VALUE:
+VALUE:矿锭成型机
 
 KEY:Faster Ingot Fabrication
-VALUE:
+VALUE:矿锭快速成型机
 
 KEY:Super Fast Ingot Fabrication
-VALUE:
+VALUE:矿锭高速成型机
 
 KEY:Automated Crafting
-VALUE:
+VALUE:自动建造机
 
 KEY:Upgraded Food Fabrication
-VALUE:
+VALUE:高级食品加工机
 
 KEY:Reactor Interaction
-VALUE:
+VALUE:反应作用器
 
 KEY:Fluid Pump
-VALUE:
+VALUE:液泵
 
 KEY:Upgraded Freezer
-VALUE:
+VALUE:高级冷冻柜
 
 KEY:Never-Ending Circle
-VALUE:
+VALUE:不停循环
 
 KEY:Trash
-VALUE:
+VALUE:垃圾桶
 
 KEY:Charging Bench
-VALUE:
+VALUE:充电台
 
 KEY:Advanced Output Node
-VALUE:
+VALUE:高级输出节点
 
 KEY:Carbon Press
-VALUE:
+VALUE:碳压缩机
 
 KEY:Electric Smeltery
-VALUE:
+VALUE:电冶炼厂
 
 KEY:Upgraded Electric Furnace
-VALUE:
+VALUE:高级电炉
 
 KEY:Upgraded Carbon Press
-VALUE:
+VALUE:高级碳压缩机
 
 KEY:Empowered Androids
-VALUE:
+VALUE:自动机器
 
 KEY:Empowered Androids - Butcher
-VALUE:
+VALUE:自动机器 - 肉贩
 
 KEY:Empowered Androids - Fisherman
-VALUE:
+VALUE:自动机器 - 渔夫
 
 KEY:Ultimate Carbon Press
-VALUE:
+VALUE:终极碳压缩机
 
 KEY:Automated Wither Killer
-VALUE:
+VALUE:自动枯萎杀手
 
 KEY:Upgraded Heated Pressure Chamber
-VALUE:
+VALUE:升级加热压力室
 
 KEY:Elytras
 VALUE:
@@ -10067,7 +10067,7 @@ KEY:-NEW LINE-
 VALUE:
 
 KEY:[Slimefun] Auto-Saving Data... (Next Auto-Save: 
-VALUE:
+VALUE:[Slimefun] 自动保存数据中... (下一次保存: 
 
 KEY:options.auto-save-delay-in-minutes
 VALUE:
@@ -10088,19 +10088,19 @@ KEY:;Chunk;
 VALUE:
 
 KEY:[Slimefun] Loading Blocks for World "
-VALUE:
+VALUE:[Slimefun] 载入方块中，目标世界 "
 
 KEY:"
 VALUE:
 
 KEY:[Slimefun] This may take a long time...
-VALUE:
+VALUE:[Slimefun] 这可能会花费较长的时间...
 
 KEY:.sfb
 VALUE:
 
 KEY:[Slimefun] Loading Blocks... 
-VALUE:
+VALUE:[Slimefun] 载入方块... 
 
 KEY:% done ("
 VALUE:
@@ -10109,7 +10109,7 @@ KEY:")
 VALUE:
 
 KEY:[Slimefun] Failed to load 
-VALUE:
+VALUE:[Slimefun] 未成功载入 
 
 KEY:(ERR: 
 VALUE:
@@ -10118,28 +10118,28 @@ KEY:)
 VALUE:
 
 KEY:[Slimefun] Loading Blocks... 100% (FINISHED - 
-VALUE:
+VALUE:[Slimefun] 载入方块... 100% (完成耗时 - 
 
 KEY:ms)
-VALUE:
+VALUE:毫秒)
 
 KEY:[Slimefun] Loaded a total of 
-VALUE:
+VALUE:[Slimefun] 载入了一共 
 
 KEY: Blocks for World "
-VALUE:
+VALUE: 个方块，目标世界 "
 
 KEY:[Slimefun] Avg: 
-VALUE:
+VALUE:[Slimefun] 平均耗时: 
 
 KEY:ms/Block
-VALUE:
+VALUE:毫秒每方块
 
 KEY:data-storage/Slimefun/stored-chunks/chunks.sfc
 VALUE:
 
 KEY: for World "
-VALUE:
+VALUE: 目标世界 "
 
 KEY:" (ERR: 
 VALUE:
@@ -10157,7 +10157,7 @@ KEY:data-storage/Slimefun/universal-inventories
 VALUE:
 
 KEY:[Slimefun] Saving Blocks for World "
-VALUE:
+VALUE:[Slimefun] 保存方块中，目标世界 "
 
 KEY:data-storage/Slimefun/temp.yml
 VALUE:
@@ -10166,19 +10166,19 @@ KEY:id
 VALUE:
 
 KEY:[Slimefun] Failed to parse BlockInfo for Block @ 
-VALUE:
+VALUE:[Slimefun] 分析区块信息失败，目标区块 @ 
 
 KEY:, 
 VALUE:
 
 KEY:No Metadata found!
-VALUE:
+VALUE:没有找到元数据!
 
 KEY:[Slimefun] 
 VALUE:
 
 KEY:[Slimefun] IGNORE THIS ERROR UNLESS IT IS SPAMMING
-VALUE:
+VALUE:[Slimefun] 忽略这条警告，除非它在刷屏
 
 KEY:","
 VALUE:
@@ -10193,7 +10193,7 @@ KEY:/
 VALUE:
 
 KEY:[Slimefun] Failed to parse ChunkInfo for Chunk @ 
-VALUE:
+VALUE:[Slimefun] 分析区块信息失败，目标区块 @ 
 
 KEY:.
 VALUE:
@@ -10307,7 +10307,7 @@ KEY:  Minecraft:
 VALUE:
 
 KEY:Installed Plugins (
-VALUE:
+VALUE:已安装插件 (
 
 KEY:)
 VALUE:
@@ -10322,7 +10322,7 @@ KEY:  -
 VALUE:
 
 KEY:Ticked Block:
-VALUE:
+VALUE:已检测方块:
 
 KEY:  World: 
 VALUE:
@@ -10352,7 +10352,7 @@ KEY:Stacktrace:
 VALUE:
 
 KEY:[Slimefun] Exception caught while ticking a Block:
-VALUE:
+VALUE:[Slimefun] 在检测以下方块时发现了错误:
 
 KEY:[Slimefun] X: 
 VALUE:
@@ -10364,13 +10364,13 @@ KEY: Z:
 VALUE:
 
 KEY:[Slimefun] Saved as: 
-VALUE:
+VALUE:[Slimefun] 保存为: 
 
 KEY:[Slimefun] /plugins/Slimefun/error-reports/
 VALUE:
 
 KEY:[Slimefun] Please consider sending this File to the developer(s) of Slimefun, sending this Error won't get you any help though.
-VALUE:
+VALUE:[Slimefun] 请考虑把这个文件发送给插件作者, 发送这个警告信息的内容并不会对你的问题有任何帮助。
 
 KEY:[Slimefun] 
 VALUE:
@@ -10379,10 +10379,10 @@ KEY:(
 VALUE:
 
 KEY:[Slimefun] has thrown 4 Exceptions in the last 4 Ticks, the Block has been terminated.
-VALUE:
+VALUE:[Slimefun] 在最近的4个单位时间内抛出了4个错误, 这个方块已经被终止。
 
 KEY:[Slimefun] Check your /plugins/Slimefun/error-reports/ folder for details.
-VALUE:
+VALUE:[Slimefun] 检查 /plugins/Slimefun/error-reports/ 文件夹了解详细信息。
 
 KEY:plugins/Slimefun/error-reports/
 VALUE:
@@ -10427,7 +10427,7 @@ KEY:  Minecraft:
 VALUE:
 
 KEY:Installed Plugins (
-VALUE:
+VALUE:已安装插件 (
 
 KEY:)
 VALUE:
@@ -10442,7 +10442,7 @@ KEY:  -
 VALUE:
 
 KEY:Ticked Block:
-VALUE:
+VALUE:已检测方块:
 
 KEY:  World: 
 VALUE:
@@ -10472,7 +10472,7 @@ KEY:Stacktrace:
 VALUE:
 
 KEY:[Slimefun] Exception caught while ticking a Block:
-VALUE:
+VALUE:[Slimefun] 在检测以下方块时发现了错误:
 
 KEY:[Slimefun] X: 
 VALUE:
@@ -10484,13 +10484,13 @@ KEY: Z:
 VALUE:
 
 KEY:[Slimefun] Saved as: 
-VALUE:
+VALUE:[Slimefun] 保存为: 
 
 KEY:[Slimefun] /plugins/Slimefun/error-reports/
 VALUE:
 
 KEY:[Slimefun] Please consider sending this File to the developer(s) of Slimefun, sending this Error won't get you any help though.
-VALUE:
+VALUE:[Slimefun] 请考虑把这个文件发送给插件作者, 发送这个警告信息的内容并不会对你的问题有任何帮助。
 
 KEY:[Slimefun] 
 VALUE:
@@ -10499,13 +10499,13 @@ KEY:(
 VALUE:
 
 KEY:[Slimefun] has thrown 4 Exceptions in the last 4 Ticks, the Block has been terminated.
-VALUE:
+VALUE:[Slimefun] 在最近的4个单位时间内抛出了4个错误, 这个方块已经被终止。
 
 KEY:[Slimefun] Check your /plugins/Slimefun/error-reports/ folder for details.
-VALUE:
+VALUE:[Slimefun] 检查 /plugins/Slimefun/error-reports/ 文件夹了解详细信息。
 
 KEY:§2== §aSlimefun Diagnostic Tool §2==
-VALUE:
+VALUE:§2== §aSlimefun 诊断工具 §2==
 
 KEY:§6Impact: §e
 VALUE:
@@ -10514,19 +10514,19 @@ KEY:ms / 50-750ms
 VALUE:
 
 KEY:§6Ticked Chunks: §e
-VALUE:
+VALUE:§6已检测区块: §e
 
 KEY:§6Ticked Machines: §e
-VALUE:
+VALUE:§6已检测机器: §e
 
 KEY:§6Skipped Machines: §e
-VALUE:
+VALUE:§6已忽略机器: §e
 
 KEY:§6Ticking Machines:
-VALUE:
+VALUE:§6检测中的机器:
 
 KEY:   §7§oHover for more Info
-VALUE:
+VALUE:   §7§o悬停获得更多信息
 
 KEY:\n§c
 VALUE:
@@ -10553,7 +10553,7 @@ KEY:§c+ §4
 VALUE:
 
 KEY:§6Ticking Chunks:
-VALUE:
+VALUE:§6检查区块:
 
 KEY:CraftChunk
 VALUE:
@@ -10595,7 +10595,7 @@ KEY:NONE
 VALUE:
 
 KEY:§4No Energy Network found
-VALUE:
+VALUE:§4找不到能量网络
 
 KEY:ENERGY_REGULATOR
 VALUE:
@@ -10709,19 +10709,19 @@ KEY:page
 VALUE:
 
 KEY:§7Stored Items: §r
-VALUE:
+VALUE:§7储存物品: §r
 
 KEY:§7<Left Click: Request 1 | Right Click: Request 
-VALUE:
+VALUE:§7<左键单击: 请求 1 | 右键单击: 请求 
 
 KEY:>
 VALUE:
 
 KEY:§7<Left Click: Request 1>
-VALUE:
+VALUE:§7<左键单击: 请求 1>
 
 KEY:§7Status: §a§lONLINE
-VALUE:
+VALUE:§7状态: §a§l在线
 
 KEY:X_POSITIVE
 VALUE:
@@ -10745,10 +10745,10 @@ KEY:UNKNOWN
 VALUE:
 
 KEY:§4No Item cached
-VALUE:
+VALUE:§4没有被缓存的物品
 
 KEY:§7Status: §4§lOFFLINE
-VALUE:
+VALUE:§7状态: §4§l离线
 
 KEY:frequency
 VALUE:
@@ -10793,7 +10793,7 @@ KEY:offset
 VALUE:
 
 KEY:Hologram Settings
-VALUE:
+VALUE:全息设定
 
 KEY:§7Text §e(Click to edit)
 VALUE:
@@ -10805,10 +10805,10 @@ KEY:§7Offset: §e
 VALUE:
 
 KEY:§rLeft Click: §7+0.1
-VALUE:
+VALUE:§r左键单击: §7+0.1
 
 KEY:§rRight Click: §7-0.1
-VALUE:
+VALUE:§r右键单击: §7-0.1
 
 KEY:§4§l- §c
 VALUE:
@@ -11000,16 +11000,16 @@ KEY:§dTicking: §4✘
 VALUE:
 
 KEY:§dChargable: §2✔
-VALUE:
+VALUE:§d可充能: §2✔
 
 KEY:  §dEnergy: §e
-VALUE:
+VALUE:  §d能量: §e
 
 KEY: / 
 VALUE:
 
 KEY:§dChargable: §4✘
-VALUE:
+VALUE:§d可充能: §4✘
 
 KEY:§6
 VALUE:
@@ -11081,7 +11081,7 @@ KEY:(MMM d, yyyy @ hh:mm)
 VALUE:
 
 KEY:&4Deathpoint &7
-VALUE:
+VALUE:&4死亡记录点 &7
 
 KEY:SWORD_OF_BEHEADING
 VALUE:
@@ -11150,7 +11150,7 @@ KEY:Good day to whoever is just looking through my code.Since it is Christmas, I
 VALUE:
 
 KEY:§4Must be placed onto a Chest or Machine
-VALUE:
+VALUE:§4必须放置在箱子或机器上
 
 KEY:SAPLING
 VALUE:
@@ -11210,7 +11210,7 @@ KEY:%pedestals%
 VALUE:
 
 KEY:§5§dALTAR §3Probe - §e
-VALUE:
+VALUE:§5§d祭坛 §3探索 - §e
 
 KEY:no_pickup
 VALUE:
