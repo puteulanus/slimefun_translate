@@ -1445,7 +1445,7 @@ KEY:floor
 VALUE:
 
 KEY:§3- Pick a Destination -\n\n
-VALUE:
+VALUE:§3- 选择一个目的地 -\n\n
 
 KEY:ELEVATOR_PLATE
 VALUE:
@@ -1460,13 +1460,13 @@ KEY:\n
 VALUE:
 
 KEY:\n§eThis is the Floor you are currently on:\n§r
-VALUE:
+VALUE:\n§e这是你当前所在的楼层:\n§r
 
 KEY:§7
 VALUE:
 
 KEY:\n§eClick to teleport to this Floor\n§r
-VALUE:
+VALUE:\n§e点击移动到该楼层\n§r
 
 KEY:/sf elevator 
 VALUE:
@@ -1502,7 +1502,7 @@ KEY:.yml
 VALUE:
 
 KEY:§9Control Panel
-VALUE:
+VALUE:§9控制面板
 
 KEY: 
 VALUE:
@@ -1511,37 +1511,36 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§7Transmitter Overview &e(Selected)
-VALUE:
+VALUE:§7发射器预览 &e(已选择)
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRjZmJhNThmYWYxZjY0ODQ3ODg0MTExODIyYjY0YWZhMjFkN2ZjNjJkNDQ4MWYxNGYzZjNiY2I2MzMwIn19fQ==
 VALUE:
 
 KEY:§7Network Info
-VALUE:
+VALUE:§7网络信息
 
 KEY:§8⇨ §7Status: 
-VALUE:
+VALUE:§8⇨ §7状态: 
 
 KEY:§2§lONLINE
-VALUE:
+VALUE:§2§l在线
 
 KEY:§4§lOFFLINE
-VALUE:
-
+VALUE:§4§l离线
 KEY:§8⇨ §7Complexity: §r
-VALUE:
+VALUE:§8⇨ §7复杂性: §r
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzljODg4MWU0MjkxNWE5ZDI5YmI2MWExNmZiMjZkMDU5OTEzMjA0ZDI2NWRmNWI0MzliM2Q3OTJhY2Q1NiJ9fX0=
 VALUE:
 
 KEY:§7Waypoint Overview &r(Select)
-VALUE:
+VALUE:§7路径点预览 &r(选择)
 
 KEY:§bGPS Transmitter
-VALUE:
+VALUE:§bGPS发射器
 
 KEY:§8⇨ §7World: §r
-VALUE:
+VALUE:§8⇨ §7世界: §r
 
 KEY:§8⇨ §7X: §r
 VALUE:
@@ -1553,7 +1552,7 @@ KEY:§8⇨ §7Z: §r
 VALUE:
 
 KEY:§8⇨ §7Signal Strength: §r
-VALUE:
+VALUE:§8⇨ §7信号强度: §r
 
 KEY:§8⇨ §7Ping: §r
 VALUE:
@@ -1562,7 +1561,7 @@ KEY:ms
 VALUE:
 
 KEY:&4Deathpoint
-VALUE:
+VALUE:&4死亡地点
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFlMzg1NWY5NTJjZDRhMDNjMTQ4YTk0NmUzZjgxMmE1OTU1YWQzNWNiY2I1MjYyN2VhNGFjZDQ3ZDMwODEifX19
 VALUE:
@@ -1574,13 +1573,13 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§7Transmitter Overview &r(Select)
-VALUE:
+VALUE:§7发射器预览 &r(选择)
 
 KEY:§7Waypoint Overview &e(Selected)
-VALUE:
+VALUE:§7路径点预览 &e(已选择)
 
 KEY:§8⇨ §cClick to delete
-VALUE:
+VALUE:§8⇨ §c点击以删除
 
 KEY:data-storage/Slimefun/waypoints/
 VALUE:
@@ -1613,13 +1612,13 @@ KEY:%complexity%
 VALUE:
 
 KEY:§4Scan Results
-VALUE:
+VALUE:§4扫描结果
 
 KEY:§7Resource: §e
-VALUE:
+VALUE:§7资源: §e
 
 KEY:§7Scanned Chunk:
-VALUE:
+VALUE:§7已扫描的区块:
 
 KEY:§8⇨ §7X: 
 VALUE:
@@ -1631,541 +1630,541 @@ KEY:§7Result: §e
 VALUE:
 
 KEY:§3Teleporter
-VALUE:
+VALUE:§3传送点
 
 KEY:§7Waypoint Overview &e(Select a Destination)
-VALUE:
+VALUE:§7路径点预览 &e(选择一个目的地)
 
 KEY:§8⇨ §7Estimated Teleportation Time: §r
-VALUE:
+VALUE:§8⇨ §7预计传送时间: §r
 
 KEY:s
 VALUE:
 
 KEY:§8⇨ §cClick to select
-VALUE:
+VALUE:§8⇨ §c点击选择
 
 KEY:&7Weapons
-VALUE:
+VALUE:&7武器
 
 KEY:open
 VALUE:
 
 KEY:&7Food
-VALUE:
+VALUE:&7食品
 
 KEY:&7Armor
-VALUE:
+VALUE:&7护甲
 
 KEY:&7Magical Items
-VALUE:
+VALUE:&7魔法物品
 
 KEY:&7Magical Gadgets
-VALUE:
+VALUE:&7魔法小物件
 
 KEY:&7Technical Gadgets
-VALUE:
+VALUE:&7科技物品
 
 KEY:&7Technical Components
-VALUE:
+VALUE:&7科技零件
 
 KEY:&7Magical Armor
-VALUE:
+VALUE:&7魔法护甲
 
 KEY:&7Talismans - &aTier I
-VALUE:
+VALUE:&7护身符 - &a等级 I
 
 KEY:&7Talismans - &aTier II
-VALUE:
+VALUE:&7护身符 - &a等级 II
 
 KEY:&7Tools
-VALUE:
+VALUE:&7工具
 
 KEY:&aC&ch&ar&ci&as&ct&am&ca&as
-VALUE:
+VALUE:&a大&c家&a圣&c诞&a节&c快&a乐&cw&a！
 
 KEY:&chelp &aSanta
-VALUE:
+VALUE::&c帮助&a圣诞老人
 
 KEY:&dValentine's Day
-VALUE:
+VALUE:&d情人节
 
 KEY:&dcelebrate Love
-VALUE:
+VALUE:&d让我们庆祝爱情
 
 KEY:&6Easter
-VALUE:
+VALUE:&6复活节
 
 KEY:&apaint some Eggs
-VALUE:
+VALUE:&a让我们来涂彩蛋吧~
 
 KEY:&a&lmrCookieSlime's Birthday &7(26th October)
-VALUE:
+VALUE:&a&lCookieSlime先生(插件作者)的生日 &7(10月26日)
 
 KEY:&acelebrate with me
-VALUE:
+VALUE:&a和我一起庆祝吧【叉腰】
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRkYTk3ZjA4MGUzOTViODQyYzRjYzgyYTg0MDgyM2Q0ZGJkOGNhNjg4YTIwNjg1M2U1NzgzZTRiZmRjMDEyIn19fQ==
 VALUE:
 
 KEY:&7Miscellaneous
-VALUE:
+VALUE:&7五花八门的
 
 KEY:&a> Click to open
-VALUE:
+VALUE:&a> 点击打开
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjYjFlNjdiNTEyYWIyZDRiZjNkN2FjZTBlYWFmNjFjMzJjZDQ2ODFkZGMzOTg3Y2ViMzI2NzA2YTMzZmEifX19
 VALUE:
 
 KEY:§7Items
-VALUE:
+VALUE:§7物品
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM0M2NlNThkYTU0Yzc5OTI0YTJjOTMzMWNmYzQxN2ZlOGNjYmJlYTliZTQ1YTdhYzg1ODYwYTZjNzMwIn19fQ==
 VALUE:
 
 KEY:§7Basic Machines
-VALUE:
+VALUE:§7基础机器
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTU4NDQzMmFmNmYzODIxNjcxMjAyNThkMWVlZThjODdjNmU3NWQ5ZTQ3OWU3YjBkNGM3YjZhZDQ4Y2ZlZWYifX19
 VALUE:
 
 KEY:§bEnergy and Electricity
-VALUE:
+VALUE:§b能源与电力
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBjOWMxYTAyMmY0MGI3M2YxNGI0Y2JhMzdjNzE4YzZhNTMzZjNhMjg2NGI2NTM2ZDVmNDU2OTM0Y2MxZiJ9fX0=
 VALUE:
 
 KEY:§bGPS-based Machines
-VALUE:
+VALUE:§b基于GPS的机器
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
 VALUE:
 
 KEY:§7Resources
-VALUE:
+VALUE:§7资源
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUxMGJjODUzNjJhMTMwYTZmZjlkOTFmZjExZDZmYTQ2ZDdkMTkxMmEzNDMxZjc1MTU1OGVmM2M0ZDljMiJ9fX0=
 VALUE:
 
 KEY:§cCargo Management
-VALUE:
+VALUE:§c货物管理
 
 KEY:&bMultiBlock
-VALUE:
+VALUE:&b多种方块
 
 KEY:&a&oBuild it in the World
-VALUE:
+VALUE:&a&o在世界里建造它
 
 KEY:&bArmor Forge
-VALUE:
+VALUE:&b盔甲锻造
 
 KEY:&a&oCraft it in an Armor Forge
-VALUE:
+VALUE:&a&o在盔甲熔炉中制造它
 
 KEY:ARMOR_FORGE
 VALUE:
 
 KEY:&bGrind Stone
-VALUE:
+VALUE:&b磨石
 
 KEY:&a&oGrind it using the Grind Stone
-VALUE:
+VALUE:&a&o使用磨石打磨
 
 KEY:GRIND_STONE
 VALUE:
 
 KEY:&bMob Drop
-VALUE:
+VALUE:&b怪物掉落
 
 KEY:&a&oKill the specified Mob to obtain this Item
-VALUE:
+VALUE:&a&o杀掉特定的怪物获得此物品
 
 KEY:&6Smeltery
-VALUE:
+VALUE:&6冶炼厂
 
 KEY:&a&oSmelt it using a Smeltery
-VALUE:
+VALUE:&a&o使用冶炼厂冶炼
 
 KEY:SMELTERY
 VALUE:
 
 KEY:&bOre Crusher
-VALUE:
+VALUE:&b碎矿机
 
 KEY:&a&oCrush it using the Ore Crusher
-VALUE:
+VALUE:&a&o在碎矿机中粉碎它
 
 KEY:ORE_CRUSHER
 VALUE:
 
 KEY:&bGold Pan
-VALUE:
+VALUE:&b淘金筛
 
 KEY:&a&oUse a Gold Pan on Gravel to obtain this Item
-VALUE:
+VALUE:&a&o对砾石使用淘金筛获得此物品
 
 KEY:&bCompressor
-VALUE:
+VALUE:&b压缩机
 
 KEY:&a&oCompress it using the Compressor
-VALUE:
+VALUE:&a&o使用压缩机压缩
 
 KEY:COMPRESSOR
 VALUE:
 
 KEY:&bPressure Chamber
-VALUE:
+VALUE:&b压力舱
 
 KEY:&a&oCompress it using the Pressure Chamber
-VALUE:
+VALUE:&a&o使用压力舱压缩它
 
 KEY:PRESSURE_CHAMBER
 VALUE:
 
 KEY:&bOven
-VALUE:
+VALUE:&b熔炉
 
 KEY:&a&oSmelt it in an Oven
-VALUE:
+VALUE:&a&o使用熔炉熔炼
 
 KEY:OVEN
 VALUE:
 
 KEY:&6Magic Workbench
-VALUE:
+VALUE:&6魔法工作台
 
 KEY:&a&oCraft it in a Magic Workbench
-VALUE:
+VALUE:&a&o在魔法工作台上制作它
 
 KEY:MAGIC_WORKBENCH
 VALUE:
 
 KEY:&6Ore Washer
-VALUE:
+VALUE:&6洗矿机
 
 KEY:&a&oWash it in an Ore Washer
-VALUE:
+VALUE:&a&o使用洗矿机清洗
 
 KEY:ORE_WASHER
 VALUE:
 
 KEY:&eEnhanced Crafting Table
-VALUE:
+VALUE:&e高级工作台
 
 KEY:&a&oA regular Crafting Table cannot
-VALUE:
+VALUE:&a&o常规的工作台
 
 KEY:&a&ohold this massive Amount of Power...
-VALUE:
+VALUE:&a&o不会拥有如此强大的力量...
 
 KEY:ENHANCED_CRAFTING_TABLE
 VALUE:
 
 KEY:&eJuicer
-VALUE:
+VALUE:&e榨汁机
 
 KEY:&a&oUsed for Juice Creation
-VALUE:
+VALUE:&a&o用来榨果汁（废话）
 
 KEY:JUICER
 VALUE:
 
 KEY:&4Ancient Altar
-VALUE:
+VALUE:&4远古祭坛
 
 KEY:&dYou will need to craft this Item
-VALUE:
+VALUE:&d你需要通过一个古老的祭祀
 
 KEY:§dby performing an Ancient Altar Ritual
-VALUE:
+VALUE:§d来制造这个物品
 
 KEY:&cHeated Pressure Chamber
-VALUE:
+VALUE:&c加热的压力舱
 
 KEY:&a&oCraft this Item in a
-VALUE:
+VALUE:&a&o在加热的压力舱中
 
 KEY:&a&oHeated Pressure Chamber
-VALUE:
+VALUE:&a&o制作这个物品
 
 KEY:HEATED_PRESSURE_CHAMBER
 VALUE:
 
 KEY:&eShaped Recipe
-VALUE:
+VALUE:&e合适的配方
 
 KEY:&a&oJust a standard Recipe in the Workbench...
-VALUE:
+VALUE:&a&o只是工作台上的一个标准配方
 
 KEY:&eShapeless Recipe
-VALUE:
+VALUE:&e混乱的配方 Recipe
 
 KEY:&eFurnace Recipe
-VALUE:
+VALUE:&e熔炉配方
 
 KEY:&a&oJust smelt it in a regular Furnace
-VALUE:
+VALUE:&a&o使用常规熔炉进行熔炼
 
 KEY:&6Portable Crafter
-VALUE:
+VALUE:&6便携制作机
 
 KEY:&a&oA portable Crafting Table
-VALUE:
+VALUE:&a&o这是一个便携的工作台
 
 KEY:&eRight Click&7 to open
-VALUE:
+VALUE:&e右键单击打开
 
 KEY:&6&lMagic Eye of Ender
-VALUE:
+VALUE:&6&l末影之眼
 
 KEY:&4&lRequires full Ender Armor
-VALUE:
+VALUE:&4&l需要全部的末影护甲
 
 KEY:&7&eRight Click&7 to shoot an Ender Pearl
-VALUE:
+VALUE:&7&e右键单击&7 使用末影珍珠
 
 KEY:&cBroken Spawner
-VALUE:
+VALUE:&c破碎的蛋
 
 KEY:&7Type: &b<Type>
 VALUE:
 
 KEY:§cFractured, must be repaired in an Ancient Altar
-VALUE:
+VALUE:§c已经裂掉，需要远古祭坛来修复。
 
 KEY:&bReinforced Spawner
 VALUE:
 
 KEY:&4Infernal Bonemeal
-VALUE:
+VALUE:&4地狱骨粉
 
 KEY:§cSpeeds up the Growth of
-VALUE:
+VALUE:§c黑科技制造的金坷垃，
 
 KEY:§cNether Warts as well
-VALUE:
+VALUE:§c加速地狱疣的生长
 
 KEY:&6Gold Pan
-VALUE:
+VALUE:&6淘金盘
 
 KEY:&a&oCan get you all kinds of Goodies...
-VALUE:
+VALUE:&a&o可以给你带来好东西...
 
 KEY:&7&eRight Click&7 to pan various Stuff out of Gravel
-VALUE:
+VALUE:&7&e右键单击&7 把各种东西从砾石中分离出来
 
 KEY:&r&lParachute
-VALUE:
+VALUE:&r&l降落伞
 
 KEY:&7Hold &eShift&7 to use
-VALUE:
+VALUE:&7按住&eShift&7不放来使用。
 
 KEY:&6Grappling Hook
-VALUE:
+VALUE:&6抓钩
 
 KEY:&7&eRight Click&7 to use
-VALUE:
+VALUE:&7&e右键点击使用
 
 KEY:&bSolar Helmet
-VALUE:
+VALUE:&b太阳能头盔
 
 KEY:&a&oCharges held Items and Armor
-VALUE:
+VALUE:&a&o给物品和护甲充电
 
 KEY:&bCloth
-VALUE:
+VALUE:&b织物
 
 KEY:&aNight Vision Goggles
-VALUE:
+VALUE:&a夜视眼镜
 
 KEY:&9+ Night Vision
-VALUE:
+VALUE:&9+ 夜视
 
 KEY:&eFarmer Shoes
-VALUE:
+VALUE:&e农夫靴子
 
 KEY:&6&oPrevents you from trampling your Crops
-VALUE:
+VALUE:&6&o可以避免你踩坏庄稼
 
 KEY:&cFlask of Knowledge
-VALUE:
+VALUE:&c瓶装哲学
 
 KEY:&rAllows you to store some of
-VALUE:
+VALUE:&r可以让你把一部分经验
 
 KEY:&ryour Experience in a Bottle
-VALUE:
+VALUE:&r装进瓶子
 
 KEY:&7Cost: &a1 Level
-VALUE:
+VALUE:&7花费: &a1 等级
 
 KEY:&cRag
-VALUE:
+VALUE:&c破布
 
 KEY:&aLevel I - Medical Supply
-VALUE:
+VALUE:&a等级 I - 医疗救援
 
 KEY:&rRestores 2 Hearts
-VALUE:
+VALUE:&r恢复2颗心的生命值
 
 KEY:&rExtinguishes Fire
-VALUE:
+VALUE:&r灭火
 
 KEY:&cBandage
-VALUE:
+VALUE:&c绷带
 
 KEY:&aLevel II - Medical Supply
-VALUE:
+VALUE:&a等级 II - 医疗救援
 
 KEY:&rRestores 4 Hearts
-VALUE:
+VALUE:&r恢复4颗心的生命值
 
 KEY:&cSplint
-VALUE:
+VALUE:&c（固定骨折）夹板
 
 KEY:&cVitamins
-VALUE:
+VALUE:&c维生素
 
 KEY:&aLevel III - Medical Supply
-VALUE:
+VALUE:&a等级 III - 医疗救援
 
 KEY:&rCures Poison/Wither/Radiation
-VALUE:
+VALUE:&r解毒/解除凋灵/辐射
 
 KEY:&cMedicine
-VALUE:
+VALUE:&c药水
 
 KEY:&7&eRight Click&7 to drink
-VALUE:
+VALUE:&7&e点击右键来干杯
 
 KEY:&eSmall Backpack
-VALUE:
+VALUE:&e小背包
 
 KEY:&7Size: &e9
-VALUE:
+VALUE:&7大小: &e9
 
 KEY:&7ID: <ID>
 VALUE:
 
 KEY:&7&eRight Click&7 to open
-VALUE:
+VALUE:&7&e右键&7打开
 
 KEY:&eBackpack
-VALUE:
+VALUE:&e中等背包
 
 KEY:&7Size: &e18
-VALUE:
+VALUE:&7大小: &e18
 
 KEY:&eLarge Backpack
-VALUE:
+VALUE:&e大背包
 
 KEY:&7Size: &e27
-VALUE:
+VALUE:&7大小: &e27
 
 KEY:&eWoven Backpack
-VALUE:
+VALUE:&e编织背包
 
 KEY:&7Size: &e36
-VALUE:
+VALUE:&7大小: &e36
 
 KEY:&eGilded Backpack
-VALUE:
+VALUE:&e镀金背包
 
 KEY:&7Size: &e45
-VALUE:
+VALUE:&7大小: &e45
 
 KEY:&cSoulbound Backpack
-VALUE:
+VALUE:&c绑定的背包
 
 KEY:&bCooler
-VALUE:
+VALUE:&b冰箱
 
 KEY:&rAllows you to store Juices/Smoothies
-VALUE:
+VALUE:&r你可以用它储存果汁/冰沙
 
 KEY:&rand automatically consumes them when you are hungry
-VALUE:
+VALUE:&r当你饥饿时会自动消耗它们补充体力
 
 KEY:&rand you have this in your Inventory
 VALUE:
 
 KEY:&9Electric Jetpack &7- &eI
-VALUE:
+VALUE:&9电动喷气背包 &7- &eI
 
 KEY:§8⇨ &7Material: &bDuralumin
-VALUE:
+VALUE:§8⇨ &7原料: &b硬铝（铝合金）
 
 KEY:§c§o§8⇨ §e⚡ §70 / 20 J
 VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.35
-VALUE:
+VALUE:§8⇨ &7推力: &c0.35
 
 KEY:&9Electric Jetpack &7- &eII
-VALUE:
+VALUE:&9电动喷气背包 &7- &eII
 
 KEY:§8⇨ &7Material: &bSolder
-VALUE:
+VALUE:§8⇨ &7原料: &b锡
 
 KEY:§c§o§8⇨ §e⚡ §70 / 30 J
 VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.4
-VALUE:
+VALUE:§8⇨ &7推力: &c0.4
 
 KEY:&9Electric Jetpack &7- &eIII
-VALUE:
+VALUE:&9电动喷气背包 &7- &eIII
 
 KEY:§8⇨ &7Material: &bBillon
-VALUE:
+VALUE:§8⇨ &7原料: &b银合金
 
 KEY:§c§o§8⇨ §e⚡ §70 / 45 J
 VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.45
-VALUE:
+VALUE:§8⇨ &7推力: &c0.45
 
 KEY:&9Electric Jetpack &7- &eIV
-VALUE:
+VALUE:&9电动喷气背包 &7- &eIV
 
 KEY:§8⇨ &7Material: &bSteel
-VALUE:
+VALUE:§8⇨ &7原料: &b铁
 
 KEY:§c§o§8⇨ §e⚡ §70 / 60 J
 VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.5
-VALUE:
+VALUE:§8⇨ &7推力: &c0.5
 
 KEY:&9Electric Jetpack &7- &eV
-VALUE:
+VALUE:&9电动喷气背包 &7- &eV
 
 KEY:§8⇨ &7Material: &bDamascus Steel
-VALUE:
+VALUE:§8⇨ &7原料: &b大马士革钢
 
 KEY:§c§o§8⇨ §e⚡ §70 / 75 J
 VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.55
-VALUE:
+VALUE:§8⇨ &7推力: &c0.55
 
 KEY:&9Electric Jetpack &7- &eVI
-VALUE:
+VALUE:&9电动喷气背包 &7- &eVI
 
 KEY:§8⇨ &7Material: &bReinforced Alloy
-VALUE:
+VALUE:§8⇨ &7原料: &b强化合金
 
 KEY:§c§o§8⇨ §e⚡ §70 / 100 J
 VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.6
-VALUE:
+VALUE:§8⇨ &7推力: &c0.6
 
 KEY:&9Electric Jetpack &7- &eVII
-VALUE:
+VALUE:&9电动喷气背包 &7- &eVII
 
 KEY:§8⇨ &7Material: &bCarbonado
-VALUE:
+VALUE:§8⇨ &7原料: &b黑金刚石
 
 KEY:§c§o§8⇨ §e⚡ §70 / 150 J
 VALUE:
