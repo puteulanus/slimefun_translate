@@ -27,7 +27,10 @@ RUN chmod -R a+w /usr/www/default/public_html
 EXPOSE 80
 
 # Set Locale
+RUN localedef -v -c -i en_US -f UTF-8 en_US.UTF-8
+ENV LC_ALL C.UTF-8
 ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US.UTF-8
 
 # RUN
 #CMD ["supervisord", "-nc", "/etc/supervisord.conf"]
