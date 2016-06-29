@@ -28,7 +28,7 @@ EXPOSE 80
 
 # Set Locale
 RUN localedef -c -i en_US -f UTF-8 en_US.UTF-8
-ENV LC_ALL C.UTF-8
+ENV LC_ALL en_US.UTF-8
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US.UTF-8
 
