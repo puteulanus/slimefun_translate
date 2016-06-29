@@ -18,6 +18,9 @@ RUN cd /usr/www/default/public_html/; unzip h5ai.zip
 RUN rm -f /usr/www/default/public_html/h5ai.zip
 RUN sed -i "s#index index.php;#index index.php /_h5ai/public/index.php;#g" /etc/nginx/conf.d/default.conf
 
+# Build
+RUN LANG=en_US.UTF-8; bash /tmp/build-script/run.sh
+
 # Fix permission
 RUN chmod -R +w /usr/www/
 RUN chown -R www:www /usr/www/
@@ -27,5 +30,5 @@ RUN chmod -R a+w /usr/www/default/public_html
 EXPOSE 80
 
 # RUN
-#CMD ["supervisord", "-nc", "/etc/supervisord.conf"]
-CMD /tmp/build-script/run.sh
+CMD ["supervisord", "-nc", "/etc/supervisord.conf"]
+#CMD /tmp/build-script/run.sh
