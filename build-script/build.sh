@@ -13,4 +13,4 @@ do
 	java -jar pf.jar do -d ${plugin_name}/${dic_name} org.jar
 	rm -rf org.jar
 	mv new.jar /usr/www/default/public_html/${plugin_name}/${plugin_name}_${version}_${dic_name}.jar
-done < version.txt
+done < ${plugin_name}/version.txt
