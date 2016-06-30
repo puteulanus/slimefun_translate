@@ -11,6 +11,4 @@ chmod -R +w /usr/www/
 chown -R www:www /usr/www/
 chmod -R a+w /usr/www/default/public_html
 
-locale -a
-
 supervisord -nc /etc/supervisord.conf

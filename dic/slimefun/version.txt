@@ -1,1 +1,2 @@
 4.0.9 http://dev.bukkit.org/media/files/920/245/Slimefun_v4.0.9.jar
+4.0.10 http://dev.bukkit.org/media/files/921/311/Slimefun_v4.0.10.jar
