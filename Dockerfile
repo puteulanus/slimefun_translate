@@ -6,7 +6,7 @@ RUN rm -f /etc/supervisord.d/mysql.ini
 # Create build environment
 ADD build-script /tmp/build-script
 ADD dic /tmp/dic
-RUN mv /tmp/dic/* /tmp/build-script/; rm -rf /tmp/dic
+RUN cp -r /tmp/dic/* /tmp/build-script/; rm -rf /tmp/dic
 
 # Install requirements
 RUN rpm -ivh 'http://javadl.oracle.com/webapps/download/AutoDL?BundleId=207764'
