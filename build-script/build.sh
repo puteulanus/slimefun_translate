@@ -12,5 +12,9 @@ do
 	wget -O org.jar ${file_url}
 	java -Xmx100M -jar pf.jar do -d ${plugin_name}/${dic_name} org.jar
 	rm -rf org.jar
+
+	# For test
+	java -Xmx100M -jar pf.jar init -o /usr/www/default/public_html/${plugin_name}/list.txt new.jar
+
 	mv new.jar /usr/www/default/public_html/${plugin_name}/${plugin_name}_${version}_${dic_name}.jar
 done < ${plugin_name}/version.txt
