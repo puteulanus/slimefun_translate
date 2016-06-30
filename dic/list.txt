@@ -1,2 +1,1 @@
-slimefun:zh_CN
-ExoticGarden:zh_CN en_US
+Slimefun:zh_CN
