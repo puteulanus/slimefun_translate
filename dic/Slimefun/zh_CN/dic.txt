@@ -4364,64 +4364,64 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§bGPS Geo-Scanner
-VALUE:
+VALUE:§b地理扫描器
 
 KEY:§rScans a Chunk for natural Resources
-VALUE:
+VALUE:§r扫描一个区块的自然资源
 
 KEY:§rsuch as §8Oil
-VALUE:
+VALUE:§r比如 §8油
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZlMWEwNDBhNDI1ZTMxYTQ2ZDRmOWE5Yjk4MDZmYTJmMGM0N2VlODQ3MTFjYzE5MzJmZDhhYjMyYjJkMDM4In19fQ==
 VALUE:
 
 KEY:§rOil Pump
-VALUE:
+VALUE:§r油泵
 
 KEY:§7Pumps up Oil and fills it into Buckets
-VALUE:
+VALUE:§7泵取油，并将其装入到桶中
 
 KEY:§c§l! §cMake sure to Geo-Scan the Chunk first
-VALUE:
+VALUE:§c§l! §c确保先使用地理扫描器扫描了区块
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNlMDRiNDFkMTllYzc5MjdmOTgyYTYzYTk0YTNkNzlmNzhlY2VjMzMzNjMwNTFmZGUwODMxYmZhYmRiZCJ9fX0=
 VALUE:
 
 KEY:§rBucket of Oil
-VALUE:
+VALUE:§r油桶
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg0ZGRjYTc2NjcyNWI4Yjk3NDEzZjI1OWMzZjc2NjgwNzBmNmFlNTU0ODNhOTBjOGU1NTI1Mzk0ZjljMDk5In19fQ==
 VALUE:
 
 KEY:§rBucket of Fuel
-VALUE:
+VALUE:§r燃料桶
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhZDhlZTg0OWVkZjA0ZWQ5YTI2Y2EzMzQxZjYwMzNiZDc2ZGNjNDIzMWVkMWVhNjNiNzU2NTc1MWIyN2FjIn19fQ==
 VALUE:
 
 KEY:§4Lava Crystal
-VALUE:
+VALUE:§4熔岩晶体
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
 VALUE:
 
 KEY:§bAndroid Memory Core
-VALUE:
+VALUE:§b机器储存核心
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIzYTA5NWI2YjgxZTZiOTg1M2ExOTMyNGVlZGYwYmI5MzQ5NDE3MjU4ZGQxNzNiOGVmZjg3YTA4N2FhIn19fQ==
 VALUE:
 
 KEY:§eCarbon
-VALUE:
+VALUE:§e碳
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZDQ5NTE2NTc0OGQzMTE2Zjk5ZDZiNWJkNWQ0MmViOGJhNTkyYmNkZmFkMzdmZDk1ZjliNmMwNGEzYiJ9fX0=
 VALUE:
 
 KEY:§cCompressed Carbon
-VALUE:
+VALUE:§c压缩碳
 
 KEY:§4Carbon Chunk
-VALUE:
+VALUE:§4碳块
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTJmNGIxNTc3ZjUxNjBjNjg5MzE3MjU3MWM0YTcxZDhiMzIxY2RjZWFhMDMyYzZlMGUzYjYwZTBiMzI4ZmEifX19
 VALUE:
@@ -4430,7 +4430,7 @@ KEY:&b&lCarbonado
 VALUE:
 
 KEY:&7&o"Black Diamond"
-VALUE:
+VALUE:&7&o"黑钻"
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI0OWU2ZWMxMDc3MWU4OTkyMjVhZWE3M2NkOGNmMDM2ODRmNDExZDE0MTVjNzMyM2M5M2NiOTQ3NjIzMCJ9fX0=
 VALUE:
@@ -4439,208 +4439,208 @@ KEY:&bRaw Carbonado
 VALUE:
 
 KEY:§6Energy Regulator
-VALUE:
+VALUE:§6能量调节器
 
 KEY:§rCore Component of an Energy Network
-VALUE:
+VALUE:§r能量网络核心组件
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUxMGJjODUzNjJhMTMwYTZmZjlkOTFmZjExZDZmYTQ2ZDdkMTkxMmEzNDMxZjc1MTU1OGVmM2M0ZDljMiJ9fX0=
 VALUE:
 
 KEY:§6Cargo Manager
-VALUE:
+VALUE:§6物流管理
 
 KEY:§rCore Component of an Item Transport Network
-VALUE:
+VALUE:§r物品传输网络核心组件
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDdiN2VmNmZkNzg2NDg2NWMzMWMxZGM4N2JlZDI0YWI1OTczNTc5ZjVjNjYzOGZlY2I4ZGVkZWI0NDNmZjAifX19
 VALUE:
 
 KEY:§7Cargo Node &c(Connector)
-VALUE:
+VALUE:§7物流结点 &c(连接)
 
 KEY:§rCargo Connector Pipe
-VALUE:
+VALUE:§r物流连接管道
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZkMWMxYTY5YTNkZTlmZWM5NjJhNzdiZjNiMmUzNzZkZDI1Yzg3M2EzZDhmMTRmMWRkMzQ1ZGFlNGM0In19fQ==
 VALUE:
 
 KEY:§7Cargo Node &c(Input)
-VALUE:
+VALUE:§7物流结点 &c(输入)
 
 KEY:§rCargo Input Pipe
-VALUE:
+VALUE:§r物流输入管道
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTViMjFmZDQ4MGMxYzQzYmYzYjlmODQyYzg2OWJkYzNiYzVhY2MyNTk5YmYyZWI2YjhhMWM5NWRjZTk3OGYifX19
 VALUE:
 
 KEY:§7Cargo Node &c(Output)
-VALUE:
+VALUE:§7物流结点 &c(输出)
 
 KEY:§rCargo Output Pipe
-VALUE:
+VALUE:§r物流输出管道
 
 KEY:§6Advanced Cargo Node &c(Output)
-VALUE:
+VALUE:§6高级物流节点 &c(输出)
 
 KEY:§eAuto-Breeder
-VALUE:
+VALUE:§e自增殖
 
 KEY:§rRuns on §aOrganic Food
-VALUE:
+VALUE:§r就像是 §a原版食物
 
 KEY:§8⇨ §e⚡ §760 J/Animal
-VALUE:
+VALUE:§8⇨ §e⚡ §760 焦/动物
 
 KEY:§bAnimal Growth Accelerator
-VALUE:
+VALUE:§b动物成长促进器
 
 KEY:§8⇨ §e⚡ §728 J/s
-VALUE:
+VALUE:§8⇨ §e⚡ §728 焦/秒
 
 KEY:§aCrop Growth Accelerator
-VALUE:
+VALUE:§a作物生长促进器
 
 KEY:§rRuns on §aOrganic Fertilizer
-VALUE:
+VALUE:§r就像是 §a原版肥料
 
 KEY:§8⇨ §7Radius: 7x7
-VALUE:
+VALUE:§8⇨ §7半径: 7x7
 
 KEY:§8⇨ §7Speed: §a3/time
-VALUE:
+VALUE:§8⇨ §7速度: §a3/time
 
 KEY:§aCrop Growth Accelerator &7(&eII&7)
-VALUE:
+VALUE:§a作物生长促进器 &7(&eII&7)
 
 KEY:§8⇨ §7Radius: 9x9
-VALUE:
+VALUE:§8⇨ §7半径: 9x9
 
 KEY:§8⇨ §7Speed: §a4/time
-VALUE:
+VALUE:§8⇨ §7速度: §a4/time
 
 KEY:§8⇨ §e⚡ §760 J/s
-VALUE:
+VALUE:§8⇨ §e⚡ §760 焦/秒
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTc2MmExNWIwNDY5MmEyZTRiM2ZiMzY2M2JkNGI3ODQzNGRjZTE3MzJiOGViMWM3YTlmN2MwZmJmNmYifX19
 VALUE:
 
 KEY:§aEXP Collector
-VALUE:
+VALUE:§a经验储存器
 
 KEY:§rCollects nearby Exp and stores it
-VALUE:
+VALUE:§r收集附近的经验并储存起来
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQzOWUzZjVhY2JlZTliZTRjNDI1OTI4OWQ2ZDlmMzVjNjM1ZmZhNjYxMTE0Njg3YjNlYTZkZGE4Yzc5In19fQ==
 VALUE:
 
 KEY:§aOrganic Food
-VALUE:
+VALUE:§a原始食物
 
 KEY:§7Content: §9X
-VALUE:
+VALUE:§7内容: §9X
 
 KEY:§7Content: §9Wheat
-VALUE:
+VALUE:§7C内容: §9小麦
 
 KEY:§7Content: §9Carrots
-VALUE:
+VALUE:§7C内容: §9胡萝卜
 
 KEY:§7Content: §9Potatoes
-VALUE:
+VALUE:§7C内容: §9土豆
 
 KEY:§7Content: §9Seeds
-VALUE:
+VALUE:§7C内容: §9种子
 
 KEY:§7Content: §9Beetroot
-VALUE:
+VALUE:§7C内容: §9甜菜根
 
 KEY:§7Content: §9Melon
-VALUE:
+VALUE:§7C内容: §9甜瓜
 
 KEY:§7Content: §9Apple
-VALUE:
+VALUE:§7C内容: §9苹果
 
 KEY:§aOrganic Fertilizer
-VALUE:
+VALUE:§a有机肥
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU0MDczYmU0MGNiM2RlYjMxMGEwYmU5NTliNGNhYzY4ZTgyNTM3MjcyOGZhZmI2YzI5NzNlNGU3YzMzIn19fQ==
 VALUE:
 
 KEY:§bReactor Coolant Cell
-VALUE:
+VALUE:§b反应堆冷却电池
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E0NGZmM2E1ZjQ5YzY5Y2FiNjc2YmFkOGQ5OGEwNjNmYTc4Y2ZhNjE5MTZmZGVmM2UyNjc1NTdmZWMxODI4MyJ9fX0=
 VALUE:
 
 KEY:§3CT Access Terminal
-VALUE:
+VALUE:§3CT 接入终端
 
 KEY:§7If this Block is connected to a
-VALUE:
+VALUE:§7如果这个方块连接到了
 
 KEY:§7Cargo Network, it will allow you to remotely
-VALUE:
+VALUE:§7物流网络, 它可以允许你
 
 KEY:§7interact with any Items supplied by
-VALUE:
+VALUE:§7与节点提供到箱子终端频道的
 
 KEY:§7Nodes tuned into the ChestTerminal Channel
-VALUE:
+VALUE:项目进行交互
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTEzZGIyZTdlNzJlYTQ0MzJlZWZiZDZlNThhODVlYWEyNDIzZjgzZTY0MmNhNDFhYmM2YTkzMTc3NTdiODg5In19fQ==
 VALUE:
 
 KEY:§3CT Import Bus
-VALUE:
+VALUE:§3CT 输入总线
 
 KEY:§7Cargo Network, it will pull any Items from
-VALUE:
+VALUE:§7物流网络, 它只会拉取所有清单中的
 
 KEY:§7the Inventory it is attached to and place it
-VALUE:
+VALUE:物品并将其放置
 
 KEY:§7into the CT Network Channel
-VALUE:
+VALUE:到 CT 网络通道
 
 KEY:§3CT Export Bus
-VALUE:
+VALUE:§3CT输出总线
 
 KEY:§7the CT Network Channel and place these
-VALUE:
+VALUE:CT的网络通道, 并将其放置
 
 KEY:§7into the Inventory it is attached to
-VALUE:
+VALUE:到它所附的库存中
 
 KEY:§bFreezer
-VALUE:
+VALUE:§b冰柜
 
 KEY:§bFreezer §7(§eII§7)
-VALUE:
+VALUE:§b冰柜 §7(§eII§7)
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmUyZGRhNmVmNjE4NWQ0ZGQ2ZWE4Njg0ZTk3ZDM5YmE4YWIwMzdlMjVmNzVjZGVhNmJkMjlkZjhlYjM0ZWUifX19
 VALUE:
 
 KEY:&6Battery
-VALUE:
+VALUE:&6电池
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2UzYmM0ODkzYmE0MWEzZjczZWUyODE3NGNkZjRmZWY2YjE0NWU0MWZlNmM4MmNiN2JlOGQ4ZTk3NzFhNSJ9fX0=
 VALUE:
 
 KEY:&cHeating Coil
-VALUE:
+VALUE:&c加热线圈
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU0YmFkODZjOTlkZjc4MGM4ODlhMTA5OGY3NzY0OGVhZDczODVjYzFkZGIwOTNkYTVhN2Q4YzRjMmFlNTRkIn19fQ==
 VALUE:
 
 KEY:&bCooling Unit
-VALUE:
+VALUE:&b冷却单元
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTNjMWIwMzZiNmUwMzUxN2IyODVhODExYmQ4NWU3M2Y1YWJmZGFjYzFkZGY5MGRmZjk2MmUxODA5MzRlMyJ9fX0=
 VALUE:
 
 KEY:&c&lPower Crystal
-VALUE:
+VALUE:&c&l能源水晶
 
 KEY:LOG
 VALUE:
@@ -4745,7 +4745,7 @@ KEY:options.print-out-loading
 VALUE:
 
 KEY:[Slimefun] Loaded Research "
-VALUE:
+VALUE:[Slimefun] 载入成就 "
 
 KEY:"
 VALUE:
@@ -4772,13 +4772,13 @@ KEY:&a
 VALUE:
 
 KEY:&7Statistics for Player: &b
-VALUE:
+VALUE:&7玩家统计: &b
 
 KEY:&7Title: &b
-VALUE:
+VALUE:&7标题: &b
 
 KEY:&7Research Progress: 
-VALUE:
+VALUE:&7研究进度:
 
 KEY:&e(
 VALUE:
@@ -4790,7 +4790,7 @@ KEY:)
 VALUE:
 
 KEY:&7Total XP Levels spent: &b
-VALUE:
+VALUE:&7总的经验等级花费: &b
 
 KEY:research-ranks
 VALUE:
@@ -4802,7 +4802,7 @@ KEY:PLAYER_BREAK
 VALUE:
 
 KEY:Multi Tool
-VALUE:
+VALUE:多种工具
 
 KEY:mode.
 VALUE:
@@ -4817,31 +4817,31 @@ KEY:ENDER_LUMP_3
 VALUE:
 
 KEY:&eEnder Talismans have the advantage
-VALUE:
+VALUE:&e末影护身符拥有一个巨大的优势
 
 KEY:&eof still working while they
-VALUE:
+VALUE:它会持续对你发挥效力
 
 KEY:&eare in your Ender Chest
-VALUE:
+VALUE:即使它是被放在末影箱子里
 
 KEY:messages.talisman.
 VALUE:
 
 KEY:&7&oEnder Infused
-VALUE:
+VALUE:&7&o末影注入
 
 KEY:&5Ender 
-VALUE:
+VALUE:&5末影 
 
 KEY:Talismans
-VALUE:
+VALUE:护身符
 
 KEY:Jet Boots
-VALUE:
+VALUE:喷气靴
 
 KEY:Jetpack
-VALUE:
+VALUE:喷气背包
 
 KEY:.enabled
 VALUE:
@@ -4865,13 +4865,13 @@ KEY:options.print-out-loading
 VALUE:
 
 KEY:[Slimefun] Loaded Item "
-VALUE:
+VALUE:[Slimefun] 加载物品 "
 
 KEY:"
 VALUE:
 
 KEY:[Slimefun] Item Registration failed: 
-VALUE:
+VALUE:[Slimefun] 物品注册失败: 
 
 KEY: 
 VALUE:
@@ -4880,13 +4880,13 @@ KEY:_
 VALUE:
 
 KEY:[Slimefun] Item Initialization failed: 
-VALUE:
+VALUE:[Slimefun] 物品初始化失败:
 
 KEY:[Slimefun] WARNING - Patching existing Item - 
-VALUE:
+VALUE:[Slimefun] 警告 - 注入已有物品 - 
 
 KEY:[Slimefun] This might take a while
-VALUE:
+VALUE:[Slimefun] 这可能花一些时间
 
 KEY:https://github.com/mrCookieSlime/Slimefun4/wiki/
 VALUE:
@@ -4952,7 +4952,7 @@ KEY:
 VALUE:
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE: §4你所有的占位符都将是我们的
 
 KEY:slimefun.inventory.bypass
 VALUE:
@@ -4964,7 +4964,7 @@ KEY:
 VALUE:
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE: §4你所有的占位符都将是我们的
 
 KEY:slimefun.inventory.bypass
 VALUE:
@@ -4979,7 +4979,7 @@ KEY:
 VALUE:
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE: §4你所有的占位符都将是我们的
 
 KEY:owner
 VALUE:
@@ -5015,46 +5015,46 @@ KEY:
 VALUE:
 
 KEY:§7Fuel Slot
-VALUE:
+VALUE:§7放射性燃料槽
 
 KEY:§rThis Slot accepts radioactive Fuel such as:
-VALUE:
+VALUE:§r这个槽接受放射性燃料, 比如:
 
 KEY:§2Uranium §ror §aNeptunium
-VALUE:
+VALUE:§2镎 §r或 §a钚
 
 KEY:§7Byproduct Slot
-VALUE:
+VALUE:§7副产物槽
 
 KEY:§rThis Slot contains the Reactor's Byproduct
-VALUE:
+VALUE:§r这个槽包含了反应堆的副产品
 
 KEY:§rsuch as §aNeptunium §ror §7Plutonium
-VALUE:
+VALUE:§r比如 §a镎 §r或 §7钚
 
 KEY:§bCoolant Slot
-VALUE:
+VALUE:§b冷却电池槽
 
 KEY:§rThis Slot accepts Coolant Cells
-VALUE:
+VALUE:§r这个槽接受冷却电池
 
 KEY:§4Without any Coolant Cells, your Reactor
-VALUE:
+VALUE:§4没有任何冷却电池, 你的反应器
 
 KEY:§4will explode
-VALUE:
+VALUE:§4会爆炸
 
 KEY:§2Reactor Access Port
-VALUE:
+VALUE:§2反应器接入端
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE: §4所有你的占位符都将是我们的
 
 KEY:slimefun.inventory.bypass
 VALUE:
 
 KEY:§3Charging Bench
-VALUE:
+VALUE:§3充电站
 
 KEY:CHARGING_BENCH
 VALUE:
@@ -5066,7 +5066,7 @@ KEY:slimefun.inventory.bypass
 VALUE:
 
 KEY:§cHeated Pressure Chamber
-VALUE:
+VALUE:§c加热压力室
 
 KEY: 
 VALUE:
@@ -5078,7 +5078,7 @@ KEY:slimefun.inventory.bypass
 VALUE:
 
 KEY:Oil
-VALUE:
+VALUE:油
 
 KEY:gps.geo.scan-required
 VALUE:
@@ -5087,19 +5087,19 @@ KEY:OIL_PUMP
 VALUE:
 
 KEY:§4Oil Pump
-VALUE:
+VALUE:§4油泵
 
 KEY: 
 VALUE:
 
 KEY:Oil
-VALUE:
+VALUE:油
 
 KEY: 
 VALUE:
 
 KEY:§4Trash Can
-VALUE:
+VALUE:§4垃圾桶
 
 KEY:enabled
 VALUE:
@@ -5120,16 +5120,16 @@ KEY:false
 VALUE:
 
 KEY:§7Enabled: §4✘
-VALUE:
+VALUE:§7启用: §4✘
 
 KEY:§e> Click to enable this Machine
-VALUE:
+VALUE:§e> 点击启用这台机器
 
 KEY:§7Enabled: §2✔
-VALUE:
+VALUE:§7启用: §2✔
 
 KEY:§e> Click to disable this Machine
-VALUE:
+VALUE:§e> 点击禁用这台机器
 
 KEY:slimefun.inventory.bypass
 VALUE:
@@ -5141,22 +5141,22 @@ KEY:false
 VALUE:
 
 KEY:§6Automated Crafting Chamber
-VALUE:
+VALUE:§6自动化设计室
 
 KEY: 
 VALUE:
 
 KEY:§eRecipe
-VALUE:
+VALUE:§e图纸
 
 KEY:§bPut in the Recipe you want to craft
-VALUE:
+VALUE:§b放入你想要合成的图纸
 
 KEY:§4Enhanced Crafting Table Recipes ONLY
-VALUE:
+VALUE:§4只有强化工作台的图纸
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE: §4你所有的占位符都会是我们的
 
 KEY:enabled
 VALUE:
@@ -5237,16 +5237,16 @@ KEY:whitelist
 VALUE:
 
 KEY:§7Type: §rWhitelist
-VALUE:
+VALUE:§7模式: §r白名单
 
 KEY:§e> Click to change it to Blacklist
-VALUE:
+VALUE:§e> 点击切换为黑名单模式
 
 KEY:§7Type: §8Blacklist
-VALUE:
+VALUE:§7模式: §8黑名单
 
 KEY:§e> Click to change it to Whitelist
-VALUE:
+VALUE:§e> 点击切换为白名单模式
 
 KEY:filter-durability
 VALUE:
@@ -5255,13 +5255,13 @@ KEY:false
 VALUE:
 
 KEY:§7Include Sub-IDs/Durability: §4✘
-VALUE:
+VALUE:§7包含 子ID/耐久: §4✘
 
 KEY:§e> Click to toggle whether the Durability has to match
-VALUE:
+VALUE:§e> 点击切换无论耐久是否匹配
 
 KEY:§7Include Sub-IDs/Durability: §2✔
-VALUE:
+VALUE:§7包含 子ID/耐久: §2✔
 
 KEY:filter-lore
 VALUE:
@@ -5270,34 +5270,34 @@ KEY:true
 VALUE:
 
 KEY:§7Include Lore: §2✔
-VALUE:
+VALUE:§7含有知识: §2✔
 
 KEY:§e> Click to toggle whether the Lore has to match
-VALUE:
+VALUE:§e> 点击切换无论知识是否匹配
 
 KEY:§7Include Lore: §4✘
-VALUE:
+VALUE:§7含有知识: §4✘
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
 VALUE:
 
 KEY:§bChannel
-VALUE:
+VALUE:§b频道
 
 KEY:§e> Click to decrease the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 减 1
 
 KEY:frequency
 VALUE:
 
 KEY:§bChannel ID: §3
-VALUE:
+VALUE:§b频道 ID: §3
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
 VALUE:
 
 KEY:§e> Click to increase the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 加 1
 
 KEY:owner
 VALUE:
@@ -5336,18 +5336,18 @@ KEY:false
 VALUE:
 
 KEY:§cOutput Node
-VALUE:
+VALUE:§c输出节点
 
 KEY: 
 VALUE:
 
 KEY:§3Items
-VALUE:
+VALUE:§3物品
 
 KEY:§bPut in all Items you want to
-VALUE:
+VALUE:§b放入所有你想放入
 
-KEY:§bblacklist/whitelist
+KEY:§b黑名单/白名单 的物品
 VALUE:
 
 KEY:FOOD_COMPOSTER
@@ -5357,7 +5357,7 @@ KEY:slimefun.inventory.bypass
 VALUE:
 
 KEY:§bGrowth Accelerator
-VALUE:
+VALUE:§b生长加速器
 
 KEY: 
 VALUE:
@@ -5366,7 +5366,7 @@ KEY:slimefun.inventory.bypass
 VALUE:
 
 KEY:§6Auto Breeder
-VALUE:
+VALUE:§6自动饲养机
 
 KEY: 
 VALUE:
@@ -5384,10 +5384,10 @@ KEY:
 VALUE:
 
 KEY:§9Fluid Pump
-VALUE:
+VALUE:§9流体泵
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE: §4你所有的占位符都将是我们的
 
 KEY:Auto-Anvil
 VALUE:
@@ -5399,7 +5399,7 @@ KEY:
 VALUE:
 
 KEY:§cRefinery
-VALUE:
+VALUE:§c炼油厂
 
 KEY:REFINERY
 VALUE:
@@ -5468,16 +5468,16 @@ KEY:whitelist
 VALUE:
 
 KEY:§7Type: §rWhitelist
-VALUE:
+VALUE:§7模式: §r白名单
 
 KEY:§e> Click to change it to Blacklist
-VALUE:
+VALUE:§e> 点击切换为黑名单模式
 
 KEY:§7Type: §8Blacklist
-VALUE:
+VALUE:§7模式: §8黑名单
 
 KEY:§e> Click to change it to Whitelist
-VALUE:
+VALUE:§e> 点击切换为白名单模式
 
 KEY:filter-durability
 VALUE:
@@ -5486,13 +5486,13 @@ KEY:false
 VALUE:
 
 KEY:§7Include Sub-IDs/Durability: §4✘
-VALUE:
+VALUE:§7包含 子ID/耐久: §4✘
 
 KEY:§e> Click to toggle whether the Durability has to match
-VALUE:
+VALUE:§e> 点击切换无论耐久是否匹配
 
 KEY:§7Include Sub-IDs/Durability: §2✔
-VALUE:
+VALUE:§7包含 子ID/耐久: §2✔
 
 KEY:round-robin
 VALUE:
@@ -5501,19 +5501,19 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§7Round-Robin Mode: §4✘
-VALUE:
+VALUE:§7轮询模式: §4✘
 
 KEY:§e> Click to enable Round Robin Mode
-VALUE:
+VALUE:§e> 点击启用轮询模式
 
 KEY:§e(Items will be equally distributed on the Channel)
-VALUE:
+VALUE:§e(物品会在频道上平均的被分配)
 
 KEY:§7Round-Robin Mode: §2✔
-VALUE:
+VALUE:§7轮询模式: §2✔
 
 KEY:§e> Click to disable Round Robin Mode
-VALUE:
+VALUE:§e> 点击禁用轮询模式
 
 KEY:filter-lore
 VALUE:
@@ -5522,34 +5522,34 @@ KEY:true
 VALUE:
 
 KEY:§7Include Lore: §2✔
-VALUE:
+VALUE:§7含有知识: §2✔
 
 KEY:§e> Click to toggle whether the Lore has to match
-VALUE:
+VALUE:§e> 点击切换无论知识是否匹配
 
 KEY:§7Include Lore: §4✘
-VALUE:
+VALUE:§7含有知识: §4✘
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
 VALUE:
 
 KEY:§bChannel
-VALUE:
+VALUE:§b频道
 
 KEY:§e> Click to decrease the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 减 1
 
 KEY:frequency
 VALUE:
 
 KEY:§bChannel ID: §3
-VALUE:
+VALUE:§b频道 ID: §3
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
 VALUE:
 
 KEY:§e> Click to increase the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 加 1
 
 KEY:owner
 VALUE:
@@ -5594,19 +5594,19 @@ KEY:round-robin
 VALUE:
 
 KEY:§3Input Node
-VALUE:
+VALUE:§3输入节点
 
 KEY: 
 VALUE:
 
 KEY:§3Items
-VALUE:
+VALUE:§3物品
 
 KEY:§bPut in all Items you want to
-VALUE:
+VALUE:§b放入任何你希望
 
 KEY:§bblacklist/whitelist
-VALUE:
+VALUE:§b黑名单/白名单 的物品
 
 KEY:ELECTRIC_FURNACE
 VALUE:
@@ -5618,7 +5618,7 @@ KEY:
 VALUE:
 
 KEY:§cElectric Smeltery
-VALUE:
+VALUE:§c电炉
 
 KEY:ELECTRIC_SMELTERY
 VALUE:
@@ -5630,16 +5630,16 @@ KEY:owner
 VALUE:
 
 KEY:§aEXP Collector
-VALUE:
+VALUE:§a经验收集器
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE: §4你所有的占位符都会是我们的
 
 KEY: 
 VALUE:
 
 KEY:&aFlask of Knowledge
-VALUE:
+VALUE:&a知识之瓶
 
 KEY:stored-exp
 VALUE:
@@ -5669,34 +5669,34 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§7Focus: §eElectricity
-VALUE:
+VALUE:§7目标: §e电
 
 KEY:§6Your Reactor will focus on Power Generation
-VALUE:
+VALUE:§6你的反应器会专注于产生能量
 
 KEY:§6If your Energy Network doesn't need Power
-VALUE:
+VALUE:§6如果你的能量网络不需要能量
 
 KEY:§6it will not produce any either
-VALUE:
+VALUE:§6它不会产生
 
 KEY:§7> Click to change the Focus to §eProduction
-VALUE:
+VALUE:§7> 点击改变目标为 §e生产
 
 KEY:§7Focus: §eProduction
-VALUE:
+VALUE:§7目标: §e生产
 
 KEY:§6Your Reactor will focus on producing goods
-VALUE:
+VALUE:§6你的反应器会专注于产生物品
 
 KEY:§6it will continue to run and simply will
-VALUE:
+VALUE:它会继续运行
 
 KEY:§6not generate any Power in the mean time
-VALUE:
+VALUE:§6不会生产能量
 
 KEY:§7> Click to change the Focus to §ePower Generation
-VALUE:
+VALUE:§7> 点击改变目标为 §e产生能量
 
 KEY:slimefun.inventory.bypass
 VALUE:
@@ -5714,31 +5714,31 @@ KEY:
 VALUE:
 
 KEY:§7Fuel Slot
-VALUE:
+VALUE:§7放射性燃料投入槽
 
 KEY:§rThis Slot accepts radioactive Fuel such as:
-VALUE:
+VALUE:§r这个投入槽接受放射性燃料，比如:
 
 KEY:§2Uranium §ror §aNeptunium
-VALUE:
+VALUE:§2铀 §r或 §a镎
 
 KEY:§bCoolant Slot
-VALUE:
+VALUE:§b冷却电池投入槽
 
 KEY:§rThis Slot accepts Coolant Cells
-VALUE:
+VALUE:§r这个投入槽接受冷却电池
 
 KEY:§4Without any Coolant Cells, your Reactor
-VALUE:
+VALUE:§4没有任何冷却电池, 你的反应器
 
 KEY:§4will explode
-VALUE:
+VALUE:§4会爆炸
 
 KEY:§2Nuclear Reactor
-VALUE:
+VALUE:§2核反应堆
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:
+VALUE:§4你所有的占位符都是我们的
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhZDhlZTg0OWVkZjA0ZWQ5YTI2Y2EzMzQxZjYwMzNiZDc2ZGNjNDIzMWVkMWVhNjNiNzU2NTc1MWIyN2FjIn19fQ==
 VALUE:
@@ -5750,7 +5750,7 @@ KEY:slimefun.inventory.bypass
 VALUE:
 
 KEY:§bGrowth Accelerator
-VALUE:
+VALUE:§b生长加速器
 
 KEY: 
 VALUE:
@@ -5765,22 +5765,22 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§bChannel
-VALUE:
+VALUE:§b频道
 
 KEY:§e> Click to decrease the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 减 1
 
 KEY:frequency
 VALUE:
 
 KEY:§bChannel ID: §3
-VALUE:
+VALUE:§b频道 ID: §3
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
 VALUE:
 
 KEY:§e> Click to increase the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 加 1
 
 KEY:owner
 VALUE:
@@ -5801,19 +5801,19 @@ KEY:0
 VALUE:
 
 KEY:§3Input Node
-VALUE:
+VALUE:§3输入节点
 
 KEY: 
 VALUE:
 
 KEY:§eRecipe
-VALUE:
+VALUE:§e图纸
 
 KEY:§bPut in the Recipe you want to craft
-VALUE:
+VALUE:§b放入你想要制造的图纸
 
 KEY:§6Electric Gold Pan
-VALUE:
+VALUE:§6电淘金筛
 
 KEY: 
 VALUE:
@@ -5843,16 +5843,16 @@ KEY:false
 VALUE:
 
 KEY:§7Enabled: §4✘
-VALUE:
+VALUE:§7启用: §4✘
 
 KEY:§e> Click to enable this Machine
-VALUE:
+VALUE:§e> 点击启用这台机器
 
 KEY:§7Enabled: §2✔
-VALUE:
+VALUE:§7启用: §2✔
 
 KEY:§e> Click to disable this Machine
-VALUE:
+VALUE:§e> 点击禁用这台机器
 
 KEY:offset
 VALUE:
@@ -5861,13 +5861,13 @@ KEY:§7Offset: §3
 VALUE:
 
 KEY: Block(s)
-VALUE:
+VALUE: 区块
 
 KEY:§rLeft Click: §7+0.1
-VALUE:
+VALUE:§r左键点击: §7+0.1
 
 KEY:§rRight Click: §7-0.1
-VALUE:
+VALUE:§r右键点击: §7-0.1
 
 KEY:slimefun.inventory.bypass
 VALUE:
@@ -5897,28 +5897,28 @@ KEY:
 VALUE:
 
 KEY:§7Wither Skull Slot
-VALUE:
+VALUE:§7凋零骨架投入箱
 
 KEY:§rThis Slot accepts Wither Skeleton Skulls
-VALUE:
+VALUE:§r这个投入箱接受投入凋零骨架
 
 KEY:§7Soul Sand Slot
-VALUE:
+VALUE:§7灵魂沙投入箱
 
 KEY:§rThis Slot accepts Soul Sand
-VALUE:
+VALUE:§r这个投入箱接受投入灵魂沙
 
 KEY:§7Cooldown: §b30 Seconds
-VALUE:
+VALUE:§7冷却时间: §b30 秒
 
 KEY:§rThis Machine takes up to half a Minute to operate
-VALUE:
+VALUE:§r这个机器需要超过半分钟的时候来完成操作
 
 KEY:§rso give it some Time!
-VALUE:
+VALUE:§r给它一些时间!
 
 KEY:§5Wither Assembler
-VALUE:
+VALUE:§5凋零汇编
 
 KEY:frequency
 VALUE:
@@ -5930,22 +5930,22 @@ KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0
 VALUE:
 
 KEY:§bChannel
-VALUE:
+VALUE:§b频道
 
 KEY:§e> Click to decrease the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 减 1
 
 KEY:frequency
 VALUE:
 
 KEY:§bChannel ID: §3
-VALUE:
+VALUE:§b频道 ID: §3
 
 KEY:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
 VALUE:
 
 KEY:§e> Click to increase the Channel ID by 1
-VALUE:
+VALUE:§e> 点击为频道 ID 加 1
 
 KEY:owner
 VALUE:
@@ -5966,7 +5966,7 @@ KEY:0
 VALUE:
 
 KEY:§6Output Node
-VALUE:
+VALUE:§6输出节点
 
 KEY: 
 VALUE:
@@ -6017,25 +6017,25 @@ KEY:
 VALUE:
 
 KEY:Slimefun Warning:
-VALUE:
+VALUE:Slimefun 警告:
 
 KEY:         
 VALUE:
 
 KEY:Slimefun has detected that your Files are etiher
-VALUE:
+VALUE:Slimefun 删除了你过期或者不存在的文件。
 
 KEY:outdated or do not exist. We generated new Files
-VALUE:
+VALUE:它产生了新的配置文件。
 
 KEY:instead otherwise Slimefun would not work. If you
-VALUE:
+VALUE:如果你以前有过Slimefun的配置文件。
 
 KEY:have used Slimefun before, your Settings are now
-VALUE:
+VALUE:它们已经离你远去了。
 
 KEY:gone. But therefore Slimefun works!
-VALUE:
+VALUE:它们会保佑你的插件正常工作下去。
 
 KEY:        
 VALUE:
@@ -6053,181 +6053,181 @@ KEY:messages.not-researched
 VALUE:
 
 KEY:&4You do not have enough Knowledge to understand this
-VALUE:
+VALUE:&4Y你没有足够的知识理解这个
 
 KEY:messages.not-enough-xp
 VALUE:
 
 KEY:&4You do not have enough XP to unlock this
-VALUE:
+VALUE:&4你没有足够的经验解锁它
 
 KEY:messages.unlocked
 VALUE:
 
 KEY:&bYou have unlocked &7"%research%"
-VALUE:
+VALUE:&b你解锁了 &7"%research%"
 
 KEY:messages.fortune-cookie
 VALUE:
 
 KEY:&7Help me, I am trapped in a Fortune Cookie Factory!
-VALUE:
+VALUE:&7帮帮我, 我被困在幸运曲奇工厂里了!
 
 KEY:&7You will die tomorrow...     by a Creeper
-VALUE:
+VALUE:&7你明天会死...     在苦力怕手上
 
 KEY:&7At some Point in your Life something bad will happen!!!
-VALUE:
+VALUE:在某个时间点你的生活中会发生一些不好的事情!!!
 
 KEY:&7Next week you will notice that this is not the real World, you are in a kind of "Matrix" or lets call it Computer game. Yes you are in a Computer Game
-VALUE:
+VALUE:下周你会注意到，这不是真实的世界，你是在一个“矩阵”中————或称之为电脑游戏。是的，你在一个电脑游戏中
 
 KEY:&7This Cookie will taste good in a few seconds
-VALUE:
+VALUE:&7这个曲奇在几分钟内吃掉的话会很美味
 
 KEY:&7You will die soon and the last word you will hear is gonna be "EXTERMINATE!!!"
-VALUE:
+VALUE:&7你很快就会死掉，死前听到的最后一个单词是 "消灭!!!"
 
 KEY:&7Whatever you do, do not hug a Creeper... I tried it. It feels good, but it's not worth it.
-VALUE:
+VALUE:&7无论你做什么，不要拥抱的苦力怕…我尝试了，感觉很好，但不值得。
 
 KEY:commands.help
 VALUE:
 
 KEY:Displays this Help Screen
-VALUE:
+VALUE:显示帮助信息
 
 KEY:commands.cheat
 VALUE:
 
 KEY:Allows you to cheat Items
-VALUE:
+VALUE:允许你直接获得SF物品
 
 KEY:commands.give
 VALUE:
 
 KEY:Give somebody some Slimefun Items
-VALUE:
+VALUE:给某人一些SF物品
 
 KEY:commands.research.desc
 VALUE:
 
 KEY:Unlock a Research for a Player
-VALUE:
+VALUE:为玩家解锁一个研究
 
 KEY:commands.guide
 VALUE:
 
 KEY:Gives yourself a Slimefun Guide
-VALUE:
+VALUE:给你一本SF指南
 
 KEY:commands.timings
 VALUE:
 
 KEY:Lag-Info about your Server
-VALUE:
+VALUE:你服务器的图层信息
 
 KEY:commands.teleporter
 VALUE:
 
 KEY:See other Player's Waypoints
-VALUE:
+VALUE:看看其他玩家的航点
 
 KEY:messages.only-players
 VALUE:
 
 KEY:&4This Command is only for Players
-VALUE:
+VALUE:&4这个命令只有玩家可以使用
 
 KEY:messages.no-permission
 VALUE:
 
 KEY:&4You do not have the required Permission to do this
-VALUE:
+VALUE:&4你没有所需的权限来进行此操作
 
 KEY:messages.usage
 VALUE:
 
 KEY:&4Usage: &c%usage%
-VALUE:
+VALUE:&4用量: &c%usage%
 
 KEY:messages.not-online
 VALUE:
 
 KEY:&4%player% &cis not online!
-VALUE:
+VALUE:&4%player% &c不在线!
 
 KEY:messages.not-valid-item
 VALUE:
 
 KEY:&4%item% &cis not a valid Item!
-VALUE:
+VALUE:&4%item% &c不是允许的物品!
 
 KEY:messages.given-item
 VALUE:
 
 KEY:&bYou have been given a &7"%item%"
-VALUE:
+VALUE:&b你收到了一个 &7"%item%"
 
 KEY:messages.give-item
 VALUE:
 
 KEY:&bYou have given %player% a &7"%item%"
-VALUE:
+VALUE:&b你给了 %player% 一个 &7"%item%"
 
 KEY:messages.not-valid-research
 VALUE:
 
 KEY:&4%research% &cis not a valid Research!
-VALUE:
+VALUE:&4%research% &c不是允许的研究!
 
 KEY:messages.give-research
 VALUE:
 
 KEY:&bYou have given %player% the Research &7"%research%"
-VALUE:
+VALUE:&b你给了 %player% 研究 &7"%research%"
 
 KEY:messages.battery.add
 VALUE:
 
 KEY:&2+ &7%charge% J &8(%machine%)
-VALUE:
+VALUE:&2+ &7%charge% 焦 &8(%machine%)
 
 KEY:messages.battery.remove
 VALUE:
 
 KEY:&4- &7%charge% J &8(%machine%)
-VALUE:
+VALUE:&4- &7%charge% 焦 &8(%machine%)
 
 KEY:messages.hungry
 VALUE:
 
 KEY:&cYou are too hungry to do that!
-VALUE:
+VALUE:&c你的饱食度不足!
 
 KEY:messages.mode-change
 VALUE:
 
 KEY:&b%device% Mode changed to: &9%mode%
-VALUE:
+VALUE:&b%device% 的模式变更为: &9%mode%
 
 KEY:messages.disabled-in-world
 VALUE:
 
 KEY:&4&lThis Item has been disabled in this World
-VALUE:
+VALUE:&4&l这个物品在当前世界被禁用了
 
 KEY:messages.talisman.anvil
 VALUE:
 
 KEY:&a&oYour Talisman saved your Tool from breaking
-VALUE:
+VALUE:&a&o你的护身符使你的工具免于损坏
 
 KEY:messages.talisman.miner
 VALUE:
 
 KEY:&a&oYour Talisman just doubled your Drops
-VALUE:
+VALUE:&a&o你的护身符加倍了你的掉落
 
 KEY:messages.talisman.hunter
 VALUE:
@@ -6236,19 +6236,19 @@ KEY:messages.talisman.lava
 VALUE:
 
 KEY:&a&oYour Talisman saved you from burning to death
-VALUE:
+VALUE:&a&o你的护身符使你免于烧死
 
 KEY:messages.talisman.water
 VALUE:
 
 KEY:&a&oYour Talisman saved you from drowning
-VALUE:
+VALUE:&a&o你的护身符使你免于淹死
 
 KEY:messages.talisman.angel
 VALUE:
 
 KEY:&a&oYour Talisman saved you from taking Fall Damage
-VALUE:
+VALUE:&a&o你的护身符使你免于摔死
 
 KEY:messages.talisman.fire
 VALUE:
@@ -6257,274 +6257,274 @@ KEY:messages.talisman.magician
 VALUE:
 
 KEY:&a&oYour Talisman gave you an additional Enchantment
-VALUE:
+VALUE:&a&o你的护身符给你了一个额外的魔法
 
 KEY:messages.talisman.traveller
 VALUE:
 
 KEY:&a&oYour Talisman gave you a Speed Boost
-VALUE:
+VALUE:&a&o你的护身符给你提供了加速
 
 KEY:messages.talisman.warrior
 VALUE:
 
 KEY:&a&oYour Talisman has improved your Strength for a While
-VALUE:
+VALUE:&a&o你的护身符暂时增强了你的力量
 
 KEY:messages.talisman.knight
 VALUE:
 
 KEY:&a&oYour Talisman gave you 5 Seconds of Regeneration
-VALUE:
+VALUE:&a&o你的护身符给了你5秒的再生时间
 
 KEY:messages.talisman.whirlwind
 VALUE:
 
 KEY:&a&oYour Talisman reflected the Projectile
-VALUE:
+VALUE:&a&o你的护身符弹开了伤害
 
 KEY:messages.talisman.wizard
 VALUE:
 
 KEY:&a&oYour Talisman has given you a better Fortune Level but maybe also lowered some other Enchantment Levels
-VALUE:
+VALUE:&a&o你的护身符给了你一个更好的运气，但也许也降低了一些其他的魔法等级
 
 KEY:messages.broken-leg
 VALUE:
 
 KEY:&c&oSeems like you broke your Leg, maybe a Splint could help?
-VALUE:
+VALUE:&c&o看起来你弄伤了你的腿, 也许夹板能帮助你?
 
 KEY:messages.fixed-leg
 VALUE:
 
 KEY:&a&oThe Splint helps. It feels better now.
-VALUE:
+VALUE:&a&o夹板起效了. 现在感觉好多了.
 
 KEY:messages.start-bleeding
 VALUE:
 
 KEY:&c&oYou started to bleed. Maybe a Bandage could help?
-VALUE:
+VALUE:&c&o你开始流血了. 也许绷带可以帮助你?
 
 KEY:messages.stop-bleeding
 VALUE:
 
 KEY:&a&oThe Bandage helps. The Bleeding has stopped!
-VALUE:
+VALUE:&a&o绷带起效了. 流血已经停止了!
 
 KEY:messages.disabled-item
 VALUE:
 
 KEY:&4&lThis Item has been disabled! How did you even get that?
-VALUE:
+VALUE:&4&l这个物品已经被禁用了! 你怎么拿到它的?
 
 KEY:messages.research.start
 VALUE:
 
 KEY:&7The Ancient Spirits whisper mysterious Words into your Ear!
-VALUE:
+VALUE:远古的灵魂在你的耳朵里低语神秘的话语!
 
 KEY:messages.research.progress
 VALUE:
 
 KEY:&7You start to wonder about &b%research% &e(%progress%)
-VALUE:
+VALUE:&7你开始对 &b%research% 感兴趣 &e(%progress%)
 
 KEY:commands.stats
 VALUE:
 
 KEY:Shows some Stats about a Player
-VALUE:
+VALUE:显示玩家的一些状态
 
 KEY:messages.fire-extinguish
 VALUE:
 
 KEY:&7You have extinguished yourself
-VALUE:
+VALUE:&7你熄灭了你自己
 
 KEY:machines.pattern-not-found
 VALUE:
 
 KEY:&eSorry, I could not recognize this Pattern. Please place the Items in the correct Pattern into the Dispenser.
-VALUE:
+VALUE:&e抱歉, 我无法识别这种 Pattern. 请把物品放在正确的 Pattern 中放入进来.
 
 KEY:machines.unknown-material
 VALUE:
 
 KEY:&eSorry, I could not recognize the Item in my Dispenser. Please put something in that I know.
-VALUE:
+VALUE:&e抱歉, 你放入的物品无法被识别. 试试看放一些别的我能识别的东西.
 
 KEY:machines.wrong-item
 VALUE:
 
 KEY:&eSorry, I could not recognize the Item you right clicked me with. Check the Recipes and see which Items you can use.
-VALUE:
+VALUE:&e抱歉, 你手中的物品无法被识别. 阅读合成表查看你可以使用的物品列表.
 
 KEY:machines.full-inventory
 VALUE:
 
 KEY:&eSorry, my Inventory is too full!
-VALUE:
+VALUE:&e抱歉, 我的库存太满了!
 
 KEY:miner.no-ores
 VALUE:
 
 KEY:&eSorry, I could not find any Ores nearby!
-VALUE:
+VALUE:&e抱歉, 附近找不到任何矿物!
 
 KEY:backpack.no-stack
 VALUE:
 
 KEY:&cYou cannot stack Backpacks
-VALUE:
+VALUE:&c你不能重叠背包
 
 KEY:workbench.not-enhanced
 VALUE:
 
 KEY:&4You cannot use Slimefun Items in a normal Workbench
-VALUE:
+VALUE:&4你不能在普通工作台中使用插件物品
 
 KEY:anvil.not-working
 VALUE:
 
 KEY:&4You cannot use Slimefun Items in an Anvil
-VALUE:
+VALUE:&4你不能在铁砧中使用插件物品
 
 KEY:commands.research.reset
 VALUE:
 
 KEY:&cYou have reset %player%'s Knowledge
-VALUE:
+VALUE:&c你重置了 %player% 的知识
 
 KEY:commands.research.reset-target
 VALUE:
 
 KEY:&cYour Knowledge has been reset
-VALUE:
+VALUE:&c你的知识已被重置
 
 KEY:machines.in-use
 VALUE:
 
 KEY:&cThis Block's Inventory is currently opened by a different Player.
-VALUE:
+VALUE:&c这个区块的 Inventory 目前正被其他玩家打开.
 
 KEY:gps.waypoint.new
 VALUE:
 
 KEY:&ePlease type in a Name for your new Waypoint in the Chat. &7(Color Codes supported!)
-VALUE:
+VALUE:&e请在聊天栏输入你新航点的名字. &7(支持颜色代码!)
 
 KEY:gps.waypoint.added
 VALUE:
 
 KEY:&aSuccessfully added a new Waypoint
-VALUE:
+VALUE:&a成功添加了一个新的航点
 
 KEY:gps.waypoint.max
 VALUE:
 
 KEY:&4You have reached the Maximum Amount of Waypoints
-VALUE:
+VALUE:&4你的航点数量已经达到了最大
 
 KEY:gps.insufficient-complexity
 VALUE:
 
 KEY:&4Insufficient GPS Network Complexity: &c%complexity%
-VALUE:
+VALUE:&4全球定位系统网络完成度不足: &c%complexity%
 
 KEY:&4a) You do not have a GPS Network setup yet
-VALUE:
+VALUE:&4a) 你并没有初始化过的全球定位网络
 
 KEY:&4b) Your GPS Network is not complex enough
-VALUE:
+VALUE:&4b) 你的全球定位系统网络不够完善
 
 KEY:gps.geo.scan-required
 VALUE:
 
 KEY:&4GEO-Scan required! &cScan this Chunk using a GEO-Scanner first!
-VALUE:
+VALUE:&4需要地理扫描!&c首先使用一个地理扫描扫描这个区块!
 
 KEY:robot.started
 VALUE:
 
 KEY:&7Your Robot resumed running its Script
-VALUE:
+VALUE:&7你的机器人开始继续运行脚本
 
 KEY:robot.stopped
 VALUE:
 
 KEY:&7Your Robot has paused its Script
-VALUE:
+VALUE:&7你的机器人的脚本运行暂停了
 
 KEY:inventory.no-access
 VALUE:
 
 KEY:&4You are not permitted to access this Block
-VALUE:
+VALUE:&4你没有权限进入这个区块
 
 KEY:machines.ANCIENT_ALTAR.not-enough-pedestals
 VALUE:
 
 KEY:&4The Altar is not surrounded by the needed Amount of Pedestals §c(%pedestals% / 8)
-VALUE:
+VALUE:&4祭坛周围没有要求数量的基座 §c(%pedestals% / 8)
 
 KEY:machines.ANCIENT_ALTAR.unknown-catalyst
 VALUE:
 
 KEY:&4Unknown Catalyst! §cUse the correct Recipe instead!
-VALUE:
+VALUE:&4未知的催化剂! §c请使用正确的配方!
 
 KEY:machines.ANCIENT_ALTAR.unknown-recipe
 VALUE:
 
 KEY:&4Unknown Recipe! §cUse the correct Recipe instead!
-VALUE:
+VALUE:&4未知的配方! §c请使用正确的配方!
 
 KEY:machines.HOLOGRAM_PROJECTOR.enter-text
 VALUE:
 
 KEY:&7Please enter your desired Hologram Text in your Chat. &r(Color Codes are supported!)
-VALUE:
+VALUE:&7请在你的聊天中输入你想要的全息图文字.&r(颜色代码支持!)
 
 KEY:machines.ELEVATOR.no-destinations
 VALUE:
 
 KEY:&4No Destinations found
-VALUE:
+VALUE:&4没有找到目的地
 
 KEY:android.scripts.already-uploaded
 VALUE:
 
 KEY:&4This Script has already been uploaded.
-VALUE:
+VALUE:&4这个脚本已经被上传过了.
 
 KEY:android.scripts.enter-name
 VALUE:
 
 KEY:&ePlease type in a Name for your Script
-VALUE:
+VALUE:&e请输入你脚本的名字
 
 KEY:android.scripts.uploaded
 VALUE:
 
 KEY:&bUploading...
-VALUE:
+VALUE:&b上传中...
 
 KEY:&aSuccessfully uploaded your Script!
-VALUE:
+VALUE:&a脚本上传成功!
 
 KEY:android.scripts.rating.own
 VALUE:
 
 KEY:§4You cannot rate your own Script!
-VALUE:
+VALUE:§4你不能为自己的脚本评分!
 
 KEY:android.scripts.rating.already
 VALUE:
 
 KEY:§4You have already left a Rating for this Script!
-VALUE:
+VALUE:§4你已经为这个脚本留下了一个评分!
 
 KEY:MAGIC_SUGAR
 VALUE:
@@ -6533,7 +6533,7 @@ KEY:effects.SPEED
 VALUE:
 
 KEY:§cCombustion Reactor
-VALUE:
+VALUE:§c燃烧反应器
 
 KEY:owner
 VALUE:
@@ -6551,7 +6551,7 @@ KEY:text
 VALUE:
 
 KEY:&bHi, I am a Hologram, &3configure me using the Projector
-VALUE:
+VALUE:&b嗨, 我是全息图, &3使用投影机完成对我的设置
 
 KEY:offset
 VALUE:
@@ -6575,13 +6575,13 @@ KEY:floor
 VALUE:
 
 KEY:&rFloor #0
-VALUE:
+VALUE:&r层 #0
 
 KEY:owner
 VALUE:
 
 KEY:§cFood Fabricator
-VALUE:
+VALUE:§c料理机
 
 KEY:GOLD_PAN
 VALUE:
@@ -6596,19 +6596,19 @@ KEY:chance.FLINT
 VALUE:
 
 KEY:§cFood Fabricator
-VALUE:
+VALUE:§c料理机
 
 KEY:§cFood Composter
-VALUE:
+VALUE:§c食物堆肥
 
 KEY:§cFood Composter
-VALUE:
+VALUE:§c食物堆肥
 
 KEY:§bFreezer
-VALUE:
+VALUE:§b冰柜
 
 KEY:§bFreezer
-VALUE:
+VALUE:§b冰柜
 
 KEY:CARGO_MANAGER
 VALUE:
@@ -6620,10 +6620,10 @@ KEY:disabled
 VALUE:
 
 KEY:§cCargo Net Visualizer: §4✘
-VALUE:
+VALUE:§c物流网络虚拟化: §4✘
 
 KEY:§cCargo Net Visualizer: §2✔
-VALUE:
+VALUE:§c物流网络虚拟化: §2✔
 
 KEY:SMELTERY
 VALUE:
@@ -6641,19 +6641,19 @@ KEY:CARGO_NODE
 VALUE:
 
 KEY:§7Connected: §2✔
-VALUE:
+VALUE:§7连接: §2✔
 
 KEY:§7Connected: §4✘
-VALUE:
+VALUE:§7连接: §4✘
 
 KEY:§cCarbon Press
-VALUE:
+VALUE:§c碳压缩
 
 KEY:§cCarbon Press
-VALUE:
+VALUE:§c碳压缩
 
 KEY:§cCarbon Press
-VALUE:
+VALUE:§c碳压缩
 
 KEY:PRESSURE_CHAMBER
 VALUE:
@@ -6743,7 +6743,7 @@ KEY:miner.no-ores
 VALUE:
 
 KEY:Delete Items
-VALUE:
+VALUE:删除物品
 
 KEY:COMPOSTER
 VALUE:
@@ -6797,7 +6797,7 @@ KEY:machines.unknown-material
 VALUE:
 
 KEY:Type: 
-VALUE:
+VALUE:类型: 
 
 KEY: 
 VALUE:
@@ -6818,10 +6818,10 @@ KEY:machines.unknown-material
 VALUE:
 
 KEY:&7Owner: &b
-VALUE:
+VALUE:&7所有者: &b
 
 KEY:&aFlask of Knowledge
-VALUE:
+VALUE:&a知识之瓶
 
 KEY:mrCookieSlime
 VALUE:
@@ -6860,13 +6860,13 @@ KEY:machines.pattern-not-found
 VALUE:
 
 KEY:§bElectric Furnace
-VALUE:
+VALUE:§b电炉
 
 KEY:§bElectric Furnace
-VALUE:
+VALUE:§b电炉
 
 KEY:§bElectric Furnace
-VALUE:
+VALUE:§b电炉
 
 KEY:ORE_CRUSHER
 VALUE:
@@ -6878,28 +6878,28 @@ KEY:machines.unknown-material
 VALUE:
 
 KEY:§cElectric Ingot Factory
-VALUE:
+VALUE:§c电金属锭成型器
 
 KEY:§cElectric Ingot Factory
-VALUE:
+VALUE:§c电金属锭成型器
 
 KEY:§cElectric Ingot Factory
-VALUE:
+VALUE:§c电金属锭成型器
 
 KEY:§bElectric Ore Grinder
-VALUE:
+VALUE:§b电煤炭研磨机
 
 KEY:ELECTRIC_ORE_GRINDER
 VALUE:
 
 KEY:§bElectric Ore Grinder
-VALUE:
+VALUE:§b电煤炭研磨机
 
 KEY:ELECTRIC_ORE_GRINDER
 VALUE:
 
 KEY:§cCoal Generator
-VALUE:
+VALUE:§c煤炭发生器
 
 KEY:COMPRESSOR
 VALUE:
@@ -6911,16 +6911,16 @@ KEY:machines.unknown-material
 VALUE:
 
 KEY:§2Bio Reactor
-VALUE:
+VALUE:§2生物反应器
 
 KEY:§bStored Energy: §3
-VALUE:
+VALUE:§b储存能量: §3
 
 KEY: J
-VALUE:
+VALUE:焦
 
 KEY:§bCapacity: §3
-VALUE:
+VALUE:§b容量: §3
 
 KEY:owner
 VALUE:
@@ -6953,7 +6953,7 @@ KEY:GPS_GEO_SCANNER
 VALUE:
 
 KEY:§4Lava Generator
-VALUE:
+VALUE:§4岩浆发生器
 
 KEY:GRANDMAS_WALKING_STICK
 VALUE:
@@ -6977,7 +6977,7 @@ KEY:BEEF_JERKY
 VALUE:
 
 KEY:Saturation
-VALUE:
+VALUE:饱和状态
 
 KEY:GRIND_STONE
 VALUE:
@@ -6992,7 +6992,7 @@ KEY:ORE_CRUSHER
 VALUE:
 
 KEY:double-ores
-VALUE:
+VALUE:双倍矿物
 
 KEY:COMPRESSOR
 VALUE:
@@ -7079,7 +7079,7 @@ KEY:BASIC_CIRCUIT_BOARD
 VALUE:
 
 KEY:&a&oIron Golem
-VALUE:
+VALUE:&a&o钢铁傀儡
 
 KEY:ADVANCED_CIRCUIT_BOARD
 VALUE:
@@ -7340,16 +7340,16 @@ KEY:mode.3.item
 VALUE:
 
 KEY:Portable Crafter
-VALUE:
+VALUE:便携工作台
 
 KEY:Magic Eye of Ender
-VALUE:
+VALUE:末影之眼
 
 KEY:Wind Staff
-VALUE:
+VALUE:风之杖
 
 KEY:Grappling Hook
-VALUE:
+VALUE:抓钩
 
 KEY:SOLDER_MULTI_TOOL
 VALUE:
@@ -7379,7 +7379,7 @@ KEY:mode.4.item
 VALUE:
 
 KEY:Gold Pan
-VALUE:
+VALUE:淘金筛
 
 KEY:ORE_WASHER
 VALUE:
@@ -7430,7 +7430,7 @@ KEY:SOLAR_HELMET
 VALUE:
 
 KEY:charge-amount
-VALUE:
+VALUE:电荷量
 
 KEY:LAVA_CRYSTAL
 VALUE:
@@ -7445,79 +7445,79 @@ KEY:COMMON_TALISMAN
 VALUE:
 
 KEY:recipe-requires-nether-stars
-VALUE:
+VALUE:合成需要下界之星
 
 KEY:ANVIL_TALISMAN
 VALUE:
 
 KEY:anvil
-VALUE:
+VALUE:铁砧
 
 KEY:MINER_TALISMAN
 VALUE:
 
 KEY:miner
-VALUE:
+VALUE:矿工
 
 KEY:HUNTER_TALISMAN
 VALUE:
 
 KEY:hunter
-VALUE:
+VALUE:猎人
 
 KEY:LAVA_TALISMAN
 VALUE:
 
 KEY:lava
-VALUE:
+VALUE:岩浆
 
 KEY:WATER_TALISMAN
 VALUE:
 
 KEY:water
-VALUE:
+VALUE:水
 
 KEY:ANGEL_TALISMAN
 VALUE:
 
 KEY:angel
-VALUE:
+VALUE:天使
 
 KEY:FIRE_TALISMAN
 VALUE:
 
 KEY:fire
-VALUE:
+VALUE:火
 
 KEY:MAGICIAN_TALISMAN
 VALUE:
 
 KEY:magician
-VALUE:
+VALUE:巫师
 
 KEY:allow-enchantments.
 VALUE:
 
 KEY:.level.
-VALUE:
+VALUE:.级.
 
 KEY:TRAVELLER_TALISMAN
 VALUE:
 
 KEY:traveller
-VALUE:
+VALUE:旅行者
 
 KEY:WARRIOR_TALISMAN
 VALUE:
 
 KEY:warrior
-VALUE:
+VALUE:武士
 
 KEY:KNIGHT_TALISMAN
 VALUE:
 
 KEY:knight
-VALUE:
+VALUE:骑士
 
 KEY:GILDED_IRON
 VALUE:
@@ -7529,13 +7529,13 @@ KEY:WHIRLWIND_TALISMAN
 VALUE:
 
 KEY:whirlwind
-VALUE:
+VALUE:旋风
 
 KEY:WIZARD_TALISMAN
 VALUE:
 
 KEY:wizard
-VALUE:
+VALUE:向导
 
 KEY:LUMBER_AXE
 VALUE:
@@ -7595,13 +7595,13 @@ KEY:BANDAGE
 VALUE:
 
 KEY:enable-bleeding
-VALUE:
+VALUE:允许流血
 
 KEY:SPLINT
 VALUE:
 
 KEY:enable-broken-legs
-VALUE:
+VALUE:允许破坏腿
 
 KEY:TIN_CAN
 VALUE:
@@ -7625,7 +7625,7 @@ KEY:SAW_MILL
 VALUE:
 
 KEY:&4Phantom Item
-VALUE:
+VALUE:&4虚拟物品
 
 KEY:SAW_MILL2
 VALUE:
@@ -7664,7 +7664,7 @@ KEY:EXPLOSIVE_PICKAXE
 VALUE:
 
 KEY:unbreakable-blocks
-VALUE:
+VALUE:不可破坏的方块
 
 KEY:BEDROCK
 VALUE:
@@ -7799,7 +7799,7 @@ KEY:REINFORCED_SPAWNER
 VALUE:
 
 KEY:&aFlask of Knowledge
-VALUE:
+VALUE:&a知识之瓶
 
 KEY:MILK
 VALUE:
@@ -8381,13 +8381,13 @@ KEY:COMMON_TALISMAN
 VALUE:
 
 KEY:recipe-requires-nether-stars
-VALUE:
+VALUE:合成需要下界之星
 
 KEY:[Slimefun] Removed bugged Item ('NULL?')
-VALUE:
+VALUE:[Slimefun] 删除了出现问题的物品 ('NULL?')
 
 KEY:[Slimefun] Removed bugged Item ('
-VALUE:
+VALUE:[Slimefun] 删除了出现问题的物品 ('
 
 KEY:')
 VALUE:
@@ -8420,22 +8420,22 @@ KEY:###################### - Slimefun - ######################
 VALUE:
 
 KEY:Successfully loaded 
-VALUE:
+VALUE:成功载入
 
 KEY: Items (
-VALUE:
+VALUE:物品
 
 KEY: Researches)
-VALUE:
+VALUE:研究
 
 KEY:( 
 VALUE:
 
 KEY: Items from Slimefun, 
-VALUE:
+VALUE:来自核心插件的物品
 
 KEY: Items from Addons )
-VALUE:
+VALUE:来自附属插件的物品
 
 KEY:##########################################################
 VALUE:
@@ -8444,7 +8444,7 @@ KEY:.enabled-items.SLIMEFUN_GUIDE
 VALUE:
 
 KEY:double-ores
-VALUE:
+VALUE:双倍矿物
 
 KEY:ANCIENT_ALTAR
 VALUE:
@@ -8702,7 +8702,7 @@ KEY:GRANDMAS_WALKING_STICK
 VALUE:
 
 KEY:Walking-Sticks
-VALUE:
+VALUE:手杖
 
 KEY:GRANDPAS_WALKING_STICK
 VALUE:
@@ -8711,25 +8711,25 @@ KEY:SWORD_OF_BEHEADING
 VALUE:
 
 KEY:Sword-of-Beheading
-VALUE:
+VALUE:斩首之剑
 
 KEY:BLADE_OF_VAMPIRES
 VALUE:
 
 KEY:Blade-of-Vampires
-VALUE:
+VALUE:吸血鬼之刃
 
 KEY:SEISMIC_AXE
 VALUE:
 
 KEY:Seismic-Axe
-VALUE:
+VALUE:地震斧
 
 KEY:SOULBOUND_SWORD
 VALUE:
 
 KEY:Soulbound-Weapons
-VALUE:
+VALUE:灵魂绑定武器
 
 KEY:SOULBOUND_BOW
 VALUE:
@@ -8738,7 +8738,7 @@ KEY:EXPLOSIVE_BOW
 VALUE:
 
 KEY:Special-Bows
-VALUE:
+VALUE:特殊的弓
 
 KEY:ICY_BOW
 VALUE:
@@ -8747,25 +8747,25 @@ KEY:PORTABLE_CRAFTER
 VALUE:
 
 KEY:Portable-Crafter
-VALUE:
+VALUE:便携建筑机
 
 KEY:PORTABLE_DUSTBIN
 VALUE:
 
 KEY:Portable-Dustbin
-VALUE:
+VALUE:便携垃圾箱
 
 KEY:ENDER_BACKPACK
 VALUE:
 
 KEY:Ender-Backpack
-VALUE:
+VALUE:末影背包
 
 KEY:RAG
 VALUE:
 
 KEY:Medical-Supplies
-VALUE:
+VALUE:医疗供应
 
 KEY:BANDAGE
 VALUE:
@@ -8783,7 +8783,7 @@ KEY:SMALL_BACKPACK
 VALUE:
 
 KEY:Backpacks
-VALUE:
+VALUE:背包
 
 KEY:MEDIUM_BACKPACK
 VALUE:
@@ -8804,61 +8804,61 @@ KEY:COOLER
 VALUE:
 
 KEY:Cooler
-VALUE:
+VALUE:冰柜
 
 KEY:Enhanced-Crafting-Table
-VALUE:
+VALUE:电动建筑机
 
 KEY:Grind-Stone
-VALUE:
+VALUE:磨石
 
 KEY:ARMOR_FORGE
 VALUE:
 
 KEY:Armor-Forge
-VALUE:
+VALUE:盔甲锻造
 
 KEY:Ore-Crusher
-VALUE:
+VALUE:矿物粉碎机
 
 KEY:COMPRESSOR
 VALUE:
 
 KEY:Compressor
-VALUE:
+VALUE:压缩机
 
 KEY:Smeltery
-VALUE:
+VALUE:冶炼厂
 
 KEY:PRESSURE_CHAMBER
 VALUE:
 
 KEY:Pressure-Chamber
-VALUE:
+VALUE:压力室
 
 KEY:MAGIC_WORKBENCH
 VALUE:
 
 KEY:Magic-Workbench
-VALUE:
+VALUE:魔法锻造台
 
 KEY:ORE_WASHER
 VALUE:
 
 KEY:Ore-Washer
-VALUE:
+VALUE:洗矿机
 
 KEY:SAW_MILL
 VALUE:
 
 KEY:Saw-Mill
-VALUE:
+VALUE:锯木厂
 
 KEY:DIGITAL_MINER
 VALUE:
 
 KEY:Digital-Miners
-VALUE:
+VALUE:数字采矿机
 
 KEY:ADVANCED_DIGITAL_MINER
 VALUE:
@@ -8867,25 +8867,25 @@ KEY:JUICER
 VALUE:
 
 KEY:Juicer
-VALUE:
+VALUE:果汁机
 
 KEY:COMPOSTER
 VALUE:
 
 KEY:Composter
-VALUE:
+VALUE:堆肥
 
 KEY:CRUCIBLE
 VALUE:
 
 KEY:Crucible
-VALUE:
+VALUE:坩埚
 
 KEY:ENHANCED_FURNACE
 VALUE:
 
 KEY:Enhanced-Furnaces
-VALUE:
+VALUE:强化熔炉
 
 KEY:ENHANCED_FURNACE_2
 VALUE:
@@ -8927,61 +8927,61 @@ KEY:GOLD_PAN
 VALUE:
 
 KEY:Gold-Pan
-VALUE:
+VALUE:淘金筛
 
 KEY:GRAPPLING_HOOK
 VALUE:
 
 KEY:Grappling-Hook
-VALUE:
+VALUE:抓钩
 
 KEY:SMELTERS_PICKAXE
 VALUE:
 
 KEY:Smelters-Pickaxe
-VALUE:
+VALUE:熔炼镐
 
 KEY:LUMBER_AXE
 VALUE:
 
 KEY:Lumber-Axe
-VALUE:
+VALUE:伐木斧
 
 KEY:PICKAXE_OF_CONTAINMENT
 VALUE:
 
 KEY:Pickaxe-Of-Containment
-VALUE:
+VALUE:控制镐
 
 KEY:HERCULES_PICKAXE
 VALUE:
 
 KEY:Hercules-Pickaxe
-VALUE:
+VALUE:大力神镐
 
 KEY:EXPLOSIVE_PICKAXE
 VALUE:
 
 KEY:Explosive-Pickaxe
-VALUE:
+VALUE:爆裂镐
 
 KEY:PICKAXE_OF_THE_SEEKER
 VALUE:
 
 KEY:Pickaxe-Of-The-Seeker
-VALUE:
+VALUE:探索者镐
 
 KEY:PICKAXE_OF_VEIN_MINING
 VALUE:
 
 KEY:Pickaxe-Of-Vein-Mining
-VALUE:
+VALUE:矿脉镐
 
 KEY:SOULBOUND_PICKAXE
 VALUE:
 
 KEY:Soulbound-Tools
-VALUE:
+VALUE:灵魂绑定工具
 
 KEY:SOULBOUND_AXE
 VALUE:
@@ -8996,31 +8996,31 @@ KEY:FORTUNE_COOKIE
 VALUE:
 
 KEY:Fortune-Cookie
-VALUE:
+VALUE:幸运曲奇
 
 KEY:BEEF_JERKY
 VALUE:
 
 KEY:Beef-Jerky
-VALUE:
+VALUE:牛肉干
 
 KEY:MAGIC_SUGAR
 VALUE:
 
 KEY:Magic-Sugar
-VALUE:
+VALUE:魔法糖
 
 KEY:MONSTER_JERKY
 VALUE:
 
 KEY:Monster-Jerky
-VALUE:
+VALUE:怪物肉干
 
 KEY:APPLE_JUICE
 VALUE:
 
 KEY:Juices
-VALUE:
+VALUE:果汁
 
 KEY:CARROT_JUICE
 VALUE:
@@ -9038,7 +9038,7 @@ KEY:CHAIN_HELMET
 VALUE:
 
 KEY:Chain-Armor
-VALUE:
+VALUE:链甲
 
 KEY:CHAIN_CHESTPLATE
 VALUE:
@@ -9053,7 +9053,7 @@ KEY:DAMASCUS_STEEL_HELMET
 VALUE:
 
 KEY:Damascus-Steel-Armor
-VALUE:
+VALUE:大马士革钢铠甲
 
 KEY:DAMASCUS_STEEL_CHESTPLATE
 VALUE:
@@ -9068,7 +9068,7 @@ KEY:GOLD_12K_HELMET
 VALUE:
 
 KEY:Gold-Armor
-VALUE:
+VALUE:金铠甲
 
 KEY:GOLD_12K_CHESTPLATE
 VALUE:
@@ -9083,7 +9083,7 @@ KEY:REINFORCED_ALLOY_HELMET
 VALUE:
 
 KEY:Reinforced-Armor
-VALUE:
+VALUE:强化铠甲
 
 KEY:REINFORCED_ALLOY_CHESTPLATE
 VALUE:
@@ -9098,7 +9098,7 @@ KEY:GILDED_IRON_HELMET
 VALUE:
 
 KEY:Gilded-Iron-Armor
-VALUE:
+VALUE:镀金铁甲
 
 KEY:GILDED_IRON_CHESTPLATE
 VALUE:
@@ -9113,7 +9113,7 @@ KEY:SCUBA_HELMET
 VALUE:
 
 KEY:Hazmat-Suit
-VALUE:
+VALUE:防护服
 
 KEY:HAZMAT_CHESTPLATE
 VALUE:
@@ -9143,7 +9143,7 @@ KEY:COPPER_INGOT
 VALUE:
 
 KEY:Ingots
-VALUE:
+VALUE:金属锭
 
 KEY:TIN_INGOT
 VALUE:
@@ -9251,7 +9251,7 @@ KEY:IRON_DUST
 VALUE:
 
 KEY:Dusts
-VALUE:
+VALUE:灰
 
 KEY:GOLD_DUST
 VALUE:
@@ -9281,7 +9281,7 @@ KEY:SYNTHETIC_DIAMOND
 VALUE:
 
 KEY:Valuables
-VALUE:
+VALUE:贵重
 
 KEY:SYNTHETIC_SAPPHIRE
 VALUE:
@@ -9311,13 +9311,13 @@ KEY:SILICON
 VALUE:
 
 KEY:Oil
-VALUE:
+VALUE:油
 
 KEY:URANIUM
 VALUE:
 
 KEY:Radioactive-Materials
-VALUE:
+VALUE:放射性材料
 
 KEY:NEPTUNIUM
 VALUE:
@@ -9329,19 +9329,19 @@ KEY:BOOSTED_URANIUM
 VALUE:
 
 KEY:Energy-Regulator
-VALUE:
+VALUE:能量调节阀
 
 KEY:CHARGING_BENCH
 VALUE:
 
 KEY:Charging-Station
-VALUE:
+VALUE:充电站
 
 KEY:SMALL_CAPACITOR
 VALUE:
 
 KEY:Energy-Capacitor
-VALUE:
+VALUE:能量电容
 
 KEY:MEDIUM_CAPACITOR
 VALUE:
@@ -9359,7 +9359,7 @@ KEY:ELECTRIC_FURNACE
 VALUE:
 
 KEY:Electric-Furnace
-VALUE:
+VALUE:电炉
 
 KEY:ELECTRIC_FURNACE_2
 VALUE:
@@ -9368,7 +9368,7 @@ KEY:ELECTRIC_FURNACE_3
 VALUE:
 
 KEY:Electric-Gold-Pan
-VALUE:
+VALUE:电动淘金筛
 
 KEY:ELECTRIC_GOLD_PAN_2
 VALUE:
@@ -9377,7 +9377,7 @@ KEY:ELECTRIC_GOLD_PAN_3
 VALUE:
 
 KEY:Solar-Generator
-VALUE:
+VALUE:太阳能发电
 
 KEY:AUTO_ENCHANTER
 VALUE:
