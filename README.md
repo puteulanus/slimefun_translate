@@ -2,7 +2,7 @@
 
 The translate dictionaries for MC plugin [Slimefun](http://dev.bukkit.org/bukkit-plugins/slimefun/) and its addons.
 
-You can go [Download Page](http://puteulanus-slimefun-translate.daoapp.io/) for pre-built file.
+You can go [Download Page](https://sf.puteulanus.com/) for pre-built file.
 
 
 
