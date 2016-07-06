@@ -1,1 +1,1 @@
-Slimefun:zh_CN
+Slimefun:zh_CN de_DE

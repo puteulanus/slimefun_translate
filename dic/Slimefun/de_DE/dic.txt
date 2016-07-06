@@ -1,4388 +1,4388 @@
 KEY:&eSlimefun Guide &7(Right Click)
-VALUE:&eSlimefun新手指南&7(右键单击)
+VALUE:
 
 KEY:&rThis is your basic Guide for Slimefun
-VALUE:&r这是你的新手指南，
+VALUE:
 
 KEY:&rYou can see all Items added by this Plugin
-VALUE:&r你可以查看插件增加的所有物品
+VALUE:
 
 KEY:&ror its Addons including their Recipes
-VALUE:&r或者添加物品的获得方式
+VALUE:
 
 KEY:&ra bit of information and more
-VALUE:&r你可以通过它获得信息
+VALUE:
 
 KEY:§a§l- Guide Settings -\n\n
-VALUE:§a§l- 向导设置 -\n\n
+VALUE:
 
 KEY:§8⇨ §6Tier 
-VALUE:§8⇨ §6级别
+VALUE:
 
 KEY:§4§lLOCKED\n\n§7In order to unlock this Category,\n§7you need to unlock all Items from\n§7the following Categories first:\n
-VALUE:§4§l锁定中\n\n§7要解锁这个类目,\n§7你首先要解锁\n§7以下条目中的所有物品:\n
+VALUE:
 
 KEY:§eClick to open the following Category:\n
-VALUE:§e点击打开以下类目:\n
+VALUE:
 
 KEY:§b§l- Slimefun Guide -\n\n
-VALUE:§9§l- Slimefun新手指南 -\n\n
+VALUE:§b§l- Slimefun Enzyklopädie -\n\n
 
 KEY:&rYou need to unlock all Items
-VALUE:&r你须要解锁所有项目
+VALUE:
 
 KEY:&rfrom the following Categories first:
-VALUE:&r来自以下类目:
+VALUE:
 
 KEY:&4LOCKED &7- &r
-VALUE:&4锁定中 &7- &r
+VALUE:
 
 KEY:&r⇦ Previous Page
-VALUE:&r⇦ 上一页
+VALUE:
 
 KEY:&rNext Page ⇨
-VALUE:&r下一页 ⇨
+VALUE:
 
 KEY:\n§c§lLOCKED\n\n§7Cost: 
-VALUE:\n§c§l锁定中\n\n§7花费:
+VALUE:
 
 KEY: Levels\n\n§a> Click to unlock
-VALUE:等级\n\n§a> 点击解锁
+VALUE:
 
 KEY:\n\n§e§oClick for more Info
-VALUE:\n\n§e§o点击获取更多信息
+VALUE:
 
 KEY:§cNo Permission!
-VALUE:§c没有权限！
+VALUE:
 
 KEY:§6⇦ §lBack
-VALUE:§6⇦ §l返回
+VALUE:
 
 KEY:§eClick to go back to the Category Overview
-VALUE:§e点击回到类目列表
+VALUE:
 
 KEY:&7⇦ Back
-VALUE:&7⇦ 返回
+VALUE:
 
 KEY:&4&lLOCKED
-VALUE:&4&l锁定中
+VALUE:
 
 KEY:&a> Click to unlock
-VALUE:&a> 点击解锁
+VALUE:
 
 KEY:&7Cost: &b
-VALUE:&7花费: &b
+VALUE:
 
 KEY:&rYou do not have Permission
-VALUE:&r你没有权限
+VALUE:
 
 KEY:&rto access this Item
-VALUE:&r来得到此物品
+VALUE:
 
 KEY:&7Next ⇨
-VALUE:&7下一个 ⇨
+VALUE:
 
 KEY:§e§l! §rThere are multiple recipes for this Item
-VALUE:§e§l! §r此物品有多种获得方式
+VALUE:
 
 KEY:§rLeft Click: §7Go back to previous Page
-VALUE:§r左键点击: §7回到上一页
+VALUE:
 
 KEY:§rShift + left Click: §7Go back to Main Menu
-VALUE:§rShift + 左键点击: §7回到主菜单
+VALUE:
 
 KEY:§rLeft Click: §7Go back to Main Menu
-VALUE:§r左键点击: §7回到主菜单
+VALUE:
 
 KEY:&rNeeds to be unlocked elsewhere
-VALUE:&r需要解锁其他地方
+VALUE:
 
 KEY:&rNo Permission
-VALUE:&r没有权限
+VALUE:
 
 KEY:§rView this Item in our Wiki §7(Slimefun Wiki)
-VALUE:§r在Wiki查看此物品的信息 §7(国内有墙)
+VALUE:
 
 KEY:§7⇨ Click to open
-VALUE:§7⇨ 点击打开
+VALUE:
 
 KEY:&7⇩ Recipes made in this Machine ⇩
-VALUE:&7⇩      这台机器上的合成        ⇩
+VALUE:
 
 KEY:§8⇨ §7Lasts 
-VALUE:§8⇨ §7持续了
+VALUE:
 
 KEY:[Slimefun] Could not save Slimefun Blocks for World "
-VALUE:[Slimefun] 无法保存slimefun的方块（在世界内） "
+VALUE:
 
 KEY:[Slimefun] Loading Files...
-VALUE:[Slimefun] 加载文件...
+VALUE:
 
 KEY:[Slimefun] Loading Config...
-VALUE:[Slimefun] 加载配置...
+VALUE:
 
 KEY:[Slimefun] Finished!
-VALUE:[Slimefun] 加载完毕！
+VALUE:
 
 KEY:§9Repeat Script
-VALUE:§9重复的脚本
+VALUE:
 
 KEY:§7Move forward
-VALUE:§7前进
+VALUE:
 
 KEY:§7Move upwards
-VALUE:§7向上运动
+VALUE:
 
 KEY:§7Move downwards
-VALUE:§7向下运动
+VALUE:
 
 KEY:§7Turn Left
-VALUE:§7左转
+VALUE:
 
 KEY:§7Turn Right
-VALUE:§7右转
+VALUE:
 
 KEY:§bDig upwards
-VALUE:§b向上挖掘
+VALUE:
 
 KEY:§bDig forward
-VALUE:§b向前挖掘
+VALUE:
 
 KEY:§bDig downwards
-VALUE:§b向下挖掘
+VALUE:
 
 KEY:§bMove & Dig upwards
-VALUE:§b向上移动并向上挖掘
+VALUE:
 
 KEY:§bMove & Dig forward
-VALUE:§b向前移动并向前挖掘
+VALUE:
 
 KEY:§bMove & Dig downwards
-VALUE:§b向下移动并向下挖掘
+VALUE:
 
 KEY:§4Attack §c(Hostile Mobs & Animals)
-VALUE:§4攻击 §c(敌对怪物与生物)
+VALUE:
 
 KEY:§4Attack §c(Hostile Mobs)
-VALUE:§4攻击 §c(敌对怪物)
+VALUE:
 
 KEY:§4Attack §c(Animals)
-VALUE:§4攻击 §c(动物)
+VALUE:
 
 KEY:§4Attack §c(Animals §7[Adult]§c)
-VALUE:§4攻击 §c(动物 §7[成年的]§c)
+VALUE:
 
 KEY:§cChop and Replant
-VALUE:§c砍掉重新种植
+VALUE:
 
 KEY:§bCatch Fish
-VALUE:§b捕鱼
+VALUE:
 
 KEY:§bHarvest and Replant
-VALUE:§b收割并重新种植
+VALUE:
 
 KEY:§bHarvest and Replant §7(Block underneath)
-VALUE:§b收割重新种植 §7(方块在下面)
+VALUE:
 
 KEY:§cPull Fuel from the faced Interface
-VALUE:§c从面对的接口抽取燃料
+VALUE:
 
 KEY:§aStart/Continue
-VALUE:§a启动/继续
+VALUE:
 
 KEY:§4Pause
-VALUE:§4暂停
+VALUE:
 
 KEY:§bMemory Core
-VALUE:§b存储核心
+VALUE:
 
 KEY:§8⇨ §7Click to open the Script Editor
-VALUE:§8⇨ §7点击打开脚本编辑器
+VALUE:
 
 KEY:§8⇩ §cFuel Input §8⇩
-VALUE:§8⇩ §c输入燃料 §8⇩
+VALUE:
 
 KEY:§rThis Android runs on solid Fuel
-VALUE:§r这个机器人使用固体燃料
+VALUE:
 
 KEY:§rThis Android runs on liquid Fuel
-VALUE:§r这个机器人使用液体燃料
+VALUE:
 
 KEY:§re.g. Lava, Oil, Fuel, etc...
-VALUE:§r比如岩浆，石油，等等...
+VALUE:
 
 KEY:§rThis Android runs on radioactive Fuel
-VALUE:§r这个机器人使用核能
+VALUE:
 
 KEY:§re.g. Uranium, Neptunium or Boosted Uranium
-VALUE:§r比如铀，镎或提高铀
+VALUE:
 
 KEY:§eScript Editor
-VALUE::§e脚本编辑器
+VALUE:
 
 KEY:§2> Edit Script
-VALUE:§2> 编辑脚本
+VALUE:
 
 KEY:§aEdits your current Script
-VALUE:§a编辑你当前的脚本
+VALUE:
 
 KEY:§4> Create new Script
-VALUE:§4> 创建新脚本
+VALUE:
 
 KEY:§cDeletes your current Script
-VALUE:§c删除当前脚本
+VALUE:
 
 KEY:§cand creates a blank one
-VALUE:§c并新建一个空白的
+VALUE:
 
 KEY:§6> Download a Script
-VALUE:§6> 下载一个脚本
+VALUE:
 
 KEY:§eDownload a Script from the Server
-VALUE:§e从服务器上下载一个脚本
+VALUE:
 
 KEY:§eYou can edit or simply use it
-VALUE:§e你可以编辑或者方便地使用它
+VALUE:
 
 KEY:§7> Add new Command
-VALUE:§7> 添加新的命令
+VALUE:
 
 KEY:&eUpload a Script
-VALUE:&e上传一个脚本
+VALUE:
 
 KEY:§6Click §7to upload your Android's Script
-VALUE:§6点击 §7上传你的机器人脚本
+VALUE:
 
 KEY:§7to the Database
-VALUE:§7到数据库
+VALUE:
 
 KEY:§7Downloads: §r
-VALUE:§7已下载: §r
+VALUE:
 
 KEY:§7Rating: 
-VALUE:§7评价: 
+VALUE:
 
 KEY:§eLeft Click &rto download this Script
-VALUE:§e点击左键 &r下载脚本
+VALUE:
 
 KEY:§4(This will override your current Script)
-VALUE:§4(会覆盖你当前的脚本)
+VALUE:
 
 KEY:§eShift + Left Click §rto leave a positive Rating
-VALUE:§eShift + 左键 §r打出好评
+VALUE:
 
 KEY:§eShift + Right Click §rto leave a negative Rating
-VALUE:§eShift + 右键 §r打出差评
+VALUE:
 
 KEY:§rDo nothing
-VALUE:§r什么也不做
+VALUE:
 
 KEY: §4ALL YOUR PLACEHOLDERS ARE BELONG TO US
-VALUE:§4你所有的占位符是属于我们的
+VALUE:
 
 KEY:§4Teleportation cancelled
-VALUE:§4传送取消！§4传送取消！
+VALUE:
 
 KEY:§3Teleported!
-VALUE:§3已传送！
+VALUE:
 
 KEY:§b§lYou have been given 30 Seconds of Invulnerability!
-VALUE:§b§l你已开启暴走模式，30秒内无敌！
+VALUE:
 
 KEY:§3Teleporting...
-VALUE:§3正在传送...
+VALUE:
 
 KEY:§4§l>> §eSuccessfully named this Floor:
-VALUE:§4§l>> §e成功给楼层命名:
+VALUE:
 
 KEY:§4§l>> §ePlease enter a Name for this Floor in your Chat!
-VALUE:§4§l>> §e请在聊天框内输入来给楼层命名！
+VALUE:
 
 KEY:§4§l>> §e(Chat Colors are supported!
-VALUE:§4§l>> §e(支持聊天颜色
+VALUE:
 
 KEY:§7Floor Name §e(Click to edit)
-VALUE:§7楼层名称 §e(点击编辑)
+VALUE:
 
 KEY:§3- Pick a Destination -\n\n
-VALUE:§3- 选择一个目的地 -\n\n
+VALUE:
 
 KEY:\n§eThis is the Floor you are currently on:\n§r
-VALUE:\n§e这是你当前所在的楼层:\n§r
+VALUE:
 
 KEY:\n§eClick to teleport to this Floor\n§r
-VALUE:\n§e点击移动到该楼层\n§r
+VALUE:
 
 KEY:§9Control Panel
-VALUE:§9控制面板
+VALUE:
 
 KEY:§7Transmitter Overview &e(Selected)
-VALUE:§7发射器预览 &e(已选择)
+VALUE:
 
 KEY:§7Network Info
-VALUE:§7网络信息
+VALUE:
 
 KEY:§8⇨ §7Status: 
-VALUE:§8⇨ §7状态: 
+VALUE:
 
 KEY:§2§lONLINE
-VALUE:§2§l在线
+VALUE:
 
 KEY:§4§lOFFLINE
-VALUE:§4§l离线
+VALUE:
 
 KEY:§8⇨ §7Complexity: §r
-VALUE:§8⇨ §7复杂性: §r
+VALUE:
 
 KEY:§7Waypoint Overview &r(Select)
-VALUE:§7路径点预览 &r(选择)
+VALUE:
 
 KEY:§bGPS Transmitter
-VALUE:§bGPS发射器
+VALUE:
 
 KEY:§8⇨ §7World: §r
-VALUE:§8⇨ §7世界: §r
+VALUE:
 
 KEY:§8⇨ §7Signal Strength: §r
-VALUE:§8⇨ §7信号强度: §r
+VALUE:
 
 KEY:&4Deathpoint
-VALUE:&4死亡地点
+VALUE:
 
 KEY:§7Transmitter Overview &r(Select)
-VALUE:§7发射器预览 &r(选择)
+VALUE:
 
 KEY:§7Waypoint Overview &e(Selected)
-VALUE:§7路径点预览 &e(已选择)
+VALUE:
 
 KEY:§8⇨ §cClick to delete
-VALUE:§8⇨ §c点击以删除
+VALUE:
 
 KEY:§4Scan Results
-VALUE:§4扫描结果
+VALUE:
 
 KEY:§7Resource: §e
-VALUE:§7资源: §e
+VALUE:
 
 KEY:§7Scanned Chunk:
-VALUE:§7已扫描的区块:
+VALUE:
 
 KEY:§3Teleporter
-VALUE:§3传送点
+VALUE:
 
 KEY:§7Waypoint Overview &e(Select a Destination)
-VALUE:§7路径点预览 &e(选择一个目的地)
+VALUE:
 
 KEY:§8⇨ §7Estimated Teleportation Time: §r
-VALUE:§8⇨ §7预计传送时间: §r
+VALUE:
 
 KEY:§8⇨ §cClick to select
-VALUE:§8⇨ §c点击选择
+VALUE:
 
 KEY:&7Weapons
-VALUE:&7武器
+VALUE:
 
 KEY:&7Food
-VALUE:&7食品
+VALUE:
 
 KEY:&7Armor
-VALUE:&7护甲
+VALUE:
 
 KEY:&7Magical Items
-VALUE:&7魔法物品
+VALUE:
 
 KEY:&7Magical Gadgets
-VALUE:&7魔法小物件
+VALUE:
 
 KEY:&7Technical Gadgets
-VALUE:&7科技物品
+VALUE:
 
 KEY:&7Technical Components
-VALUE:&7科技零件
+VALUE:
 
 KEY:&7Magical Armor
-VALUE:&7魔法护甲
+VALUE:
 
 KEY:&7Talismans - &aTier I
-VALUE:&7护身符 - &a等级 I
+VALUE:
 
 KEY:&7Talismans - &aTier II
-VALUE:&7护身符 - &a等级 II
+VALUE:
 
 KEY:&7Tools
-VALUE:&7工具
+VALUE:
 
 KEY:&aC&ch&ar&ci&as&ct&am&ca&as
-VALUE:&a大&c家&a圣&c诞&a节&c快&a乐&cw&a！
+VALUE:
 
 KEY:&chelp &aSanta
-VALUE::&c帮助&a圣诞老人
+VALUE:
 
 KEY:&dValentine's Day
-VALUE:&d情人节
+VALUE:
 
 KEY:&dcelebrate Love
-VALUE:&d让我们庆祝爱情
+VALUE:
 
 KEY:&6Easter
-VALUE:&6复活节
+VALUE:
 
 KEY:&apaint some Eggs
-VALUE:&a让我们来涂彩蛋吧~
+VALUE:
 
 KEY:&a&lmrCookieSlime's Birthday &7(26th October)
-VALUE:&a&lCookieSlime先生(插件作者)的生日 &7(10月26日)
+VALUE:
 
 KEY:&acelebrate with me
-VALUE:&a和我一起庆祝吧【叉腰】
+VALUE:
 
 KEY:&7Miscellaneous
-VALUE:&7五花八门的
+VALUE:
 
 KEY:&a> Click to open
-VALUE:&a> 点击打开
+VALUE:
 
 KEY:§7Items
-VALUE:§7物品
+VALUE:
 
 KEY:§7Basic Machines
-VALUE:§7基础机器
+VALUE:
 
 KEY:§bEnergy and Electricity
-VALUE:§b能源与电力
+VALUE:
 
 KEY:§bGPS-based Machines
-VALUE:§b基于GPS的机器
+VALUE:
 
 KEY:§7Resources
-VALUE:§7资源
+VALUE:
 
 KEY:§cCargo Management
-VALUE:§c货物管理
+VALUE:
 
 KEY:&bMultiBlock
-VALUE:&b多方块结构
+VALUE:
 
 KEY:&a&oBuild it in the World
-VALUE:&a&o需要通过摆放方块来建造它
+VALUE:
 
 KEY:&bArmor Forge
-VALUE:&b盔甲锻造
+VALUE:
 
 KEY:&a&oCraft it in an Armor Forge
-VALUE:&a&o在盔甲熔炉中制造它
+VALUE:
 
 KEY:&bGrind Stone
-VALUE:&b磨石
+VALUE:
 
 KEY:&a&oGrind it using the Grind Stone
-VALUE:&a&o使用磨石打磨
+VALUE:
 
 KEY:&bMob Drop
-VALUE:&b怪物掉落
+VALUE:
 
 KEY:&a&oKill the specified Mob to obtain this Item
-VALUE:&a&o杀掉特定的怪物获得此物品
+VALUE:
 
 KEY:&6Smeltery
-VALUE:&6冶炼厂
+VALUE:
 
 KEY:&a&oSmelt it using a Smeltery
-VALUE:&a&o使用冶炼厂冶炼
+VALUE:
 
 KEY:&bOre Crusher
-VALUE:&b碎矿机
+VALUE:
 
 KEY:&a&oCrush it using the Ore Crusher
-VALUE:&a&o在碎矿机中粉碎它
+VALUE:
 
 KEY:&bGold Pan
-VALUE:&b淘金筛
+VALUE:
 
 KEY:&a&oUse a Gold Pan on Gravel to obtain this Item
-VALUE:&a&o对砾石使用淘金筛获得此物品
+VALUE:
 
 KEY:&bCompressor
-VALUE:&b压缩机
+VALUE:
 
 KEY:&a&oCompress it using the Compressor
-VALUE:&a&o使用压缩机压缩
+VALUE:
 
 KEY:&bPressure Chamber
-VALUE:&b压力舱
+VALUE:
 
 KEY:&a&oCompress it using the Pressure Chamber
-VALUE:&a&o使用压力舱压缩它
+VALUE:
 
 KEY:&bOven
-VALUE:&b熔炉
+VALUE:
 
 KEY:&a&oSmelt it in an Oven
-VALUE:&a&o使用熔炉熔炼
+VALUE:
 
 KEY:&6Magic Workbench
-VALUE:&6魔法工作台
+VALUE:
 
 KEY:&a&oCraft it in a Magic Workbench
-VALUE:&a&o在魔法工作台上制作它
+VALUE:
 
 KEY:&6Ore Washer
-VALUE:&6洗矿机
+VALUE:
 
 KEY:&a&oWash it in an Ore Washer
-VALUE:&a&o使用洗矿机清洗
+VALUE:
 
 KEY:&eEnhanced Crafting Table
-VALUE:&e高级工作台
+VALUE:
 
 KEY:&a&oA regular Crafting Table cannot
-VALUE:&a&o常规的工作台
+VALUE:
 
 KEY:&a&ohold this massive Amount of Power...
-VALUE:&a&o不会拥有如此强大的力量...
+VALUE:
 
 KEY:&eJuicer
-VALUE:&e榨汁机
+VALUE:
 
 KEY:&a&oUsed for Juice Creation
-VALUE:&a&o用来榨果汁（废话）
+VALUE:
 
 KEY:&4Ancient Altar
-VALUE:&4远古祭坛
+VALUE:
 
 KEY:&dYou will need to craft this Item
-VALUE:&d你需要通过一个古老的祭祀
+VALUE:
 
 KEY:§dby performing an Ancient Altar Ritual
-VALUE:§d来制造这个物品
+VALUE:
 
 KEY:&cHeated Pressure Chamber
-VALUE:&c加热的压力舱
+VALUE:
 
 KEY:&a&oCraft this Item in a
-VALUE:&a&o在加热的压力舱中
+VALUE:
 
 KEY:&a&oHeated Pressure Chamber
-VALUE:&a&o制作这个物品
+VALUE:
 
 KEY:&eShaped Recipe
-VALUE:&e合适的配方
+VALUE:
 
 KEY:&a&oJust a standard Recipe in the Workbench...
-VALUE:&a&o只是工作台上的一个标准配方
+VALUE:
 
 KEY:&eShapeless Recipe
-VALUE:&e混乱的配方 Recipe
+VALUE:
 
 KEY:&eFurnace Recipe
-VALUE:&e熔炉配方
+VALUE:
 
 KEY:&a&oJust smelt it in a regular Furnace
-VALUE:&a&o使用常规熔炉进行熔炼
+VALUE:
 
 KEY:&6Portable Crafter
-VALUE:&6便携制作机
+VALUE:
 
 KEY:&a&oA portable Crafting Table
-VALUE:&a&o这是一个便携的工作台
+VALUE:
 
 KEY:&eRight Click&7 to open
-VALUE:&e右键单击打开
+VALUE:
 
 KEY:&6&lMagic Eye of Ender
-VALUE:&6&l末影之眼
+VALUE:
 
 KEY:&4&lRequires full Ender Armor
-VALUE:&4&l需要全部的末影护甲
+VALUE:
 
 KEY:&7&eRight Click&7 to shoot an Ender Pearl
-VALUE:&7&e右键单击&7 使用末影珍珠
+VALUE:
 
 KEY:&cBroken Spawner
-VALUE:&c破碎的蛋
+VALUE:
 
 KEY:§cFractured, must be repaired in an Ancient Altar
-VALUE:§c已经裂掉，需要远古祭坛来修复。
+VALUE:
 
 KEY:&4Infernal Bonemeal
-VALUE:&4地狱骨粉
+VALUE:
 
 KEY:§cSpeeds up the Growth of
-VALUE:§c黑科技制造的金坷垃，
+VALUE:
 
 KEY:§cNether Warts as well
-VALUE:§c加速地狱疣的生长
+VALUE:
 
 KEY:&6Gold Pan
-VALUE:&6淘金盘
+VALUE:
 
 KEY:&a&oCan get you all kinds of Goodies...
-VALUE:&a&o可以给你带来好东西...
+VALUE:
 
 KEY:&7&eRight Click&7 to pan various Stuff out of Gravel
-VALUE:&7&e右键单击&7 把各种东西从砾石中分离出来
+VALUE:
 
 KEY:&r&lParachute
-VALUE:&r&l降落伞
+VALUE:
 
 KEY:&7Hold &eShift&7 to use
-VALUE:&7按住&eShift&7不放来使用。
+VALUE:
 
 KEY:&6Grappling Hook
-VALUE:&6抓钩
+VALUE:
 
 KEY:&7&eRight Click&7 to use
-VALUE:&7&e右键点击使用
+VALUE:
 
 KEY:&bSolar Helmet
-VALUE:&b太阳能头盔
+VALUE:
 
 KEY:&a&oCharges held Items and Armor
-VALUE:&a&o给物品和护甲充电
+VALUE:
 
 KEY:&bCloth
-VALUE:&b织物
+VALUE:
 
 KEY:&aNight Vision Goggles
-VALUE:&a夜视眼镜
+VALUE:
 
 KEY:&9+ Night Vision
-VALUE:&9+ 夜视
+VALUE:
 
 KEY:&eFarmer Shoes
-VALUE:&e农夫靴子
+VALUE:
 
 KEY:&6&oPrevents you from trampling your Crops
-VALUE:&6&o可以避免你踩坏庄稼
+VALUE:
 
 KEY:&cFlask of Knowledge
-VALUE:&c瓶装哲学
+VALUE:
 
 KEY:&rAllows you to store some of
-VALUE:&r可以让你把一部分经验
+VALUE:
 
 KEY:&ryour Experience in a Bottle
-VALUE:&r装进瓶子
+VALUE:
 
 KEY:&7Cost: &a1 Level
-VALUE:&7花费: &a1 等级
+VALUE:
 
 KEY:&cRag
-VALUE:&c破布
+VALUE:
 
 KEY:&aLevel I - Medical Supply
-VALUE:&a等级 I - 医疗救援
+VALUE:
 
 KEY:&rRestores 2 Hearts
-VALUE:&r恢复2颗心的生命值
+VALUE:
 
 KEY:&rExtinguishes Fire
-VALUE:&r灭火
+VALUE:
 
 KEY:&cBandage
-VALUE:&c绷带
+VALUE:
 
 KEY:&aLevel II - Medical Supply
-VALUE:&a等级 II - 医疗救援
+VALUE:
 
 KEY:&rRestores 4 Hearts
-VALUE:&r恢复4颗心的生命值
+VALUE:
 
 KEY:&cSplint
-VALUE:&c（固定骨折）夹板
+VALUE:
 
 KEY:&cVitamins
-VALUE:&c维生素
+VALUE:
 
 KEY:&aLevel III - Medical Supply
-VALUE:&a等级 III - 医疗救援
+VALUE:
 
 KEY:&rCures Poison/Wither/Radiation
-VALUE:&r解毒/解除凋灵/辐射
+VALUE:
 
 KEY:&cMedicine
-VALUE:&c药水
+VALUE:
 
 KEY:&7&eRight Click&7 to drink
-VALUE:&7&e点击右键来干杯
+VALUE:
 
 KEY:&eSmall Backpack
-VALUE:&e小背包
+VALUE:
 
 KEY:&7Size: &e9
-VALUE:&7大小: &e9
+VALUE:
 
 KEY:&7&eRight Click&7 to open
-VALUE:&7&e右键&7打开
+VALUE:
 
 KEY:&eBackpack
-VALUE:&e中等背包
+VALUE:
 
 KEY:&7Size: &e18
-VALUE:&7大小: &e18
+VALUE:
 
 KEY:&eLarge Backpack
-VALUE:&e大背包
+VALUE:
 
 KEY:&7Size: &e27
-VALUE:&7大小: &e27
+VALUE:
 
 KEY:&eWoven Backpack
-VALUE:&e编织背包
+VALUE:
 
 KEY:&7Size: &e36
-VALUE:&7大小: &e36
+VALUE:
 
 KEY:&eGilded Backpack
-VALUE:&e镀金背包
+VALUE:
 
 KEY:&7Size: &e45
-VALUE:&7大小: &e45
+VALUE:
 
 KEY:&cSoulbound Backpack
-VALUE:&c绑定的背包
+VALUE:
 
 KEY:&bCooler
-VALUE:&b冰箱
+VALUE:
 
 KEY:&rAllows you to store Juices/Smoothies
-VALUE:&r你可以用它储存果汁/冰沙
+VALUE:
 
 KEY:&rand automatically consumes them when you are hungry
-VALUE:&r当你饥饿时会自动消耗它们补充体力
+VALUE:
 
 KEY:&9Electric Jetpack &7- &eI
-VALUE:&9电动喷气背包 &7- &eI
+VALUE:
 
 KEY:§8⇨ &7Material: &bDuralumin
-VALUE:§8⇨ &7原料: &b硬铝（铝合金）
+VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.35
-VALUE:§8⇨ &7推力: &c0.35
+VALUE:
 
 KEY:&9Electric Jetpack &7- &eII
-VALUE:&9电动喷气背包 &7- &eII
+VALUE:
 
 KEY:§8⇨ &7Material: &bSolder
-VALUE:§8⇨ &7原料: &b锡
+VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.4
-VALUE:§8⇨ &7推力: &c0.4
+VALUE:
 
 KEY:&9Electric Jetpack &7- &eIII
-VALUE:&9电动喷气背包 &7- &eIII
+VALUE:
 
 KEY:§8⇨ &7Material: &bBillon
-VALUE:§8⇨ &7原料: &b银合金
+VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.45
-VALUE:§8⇨ &7推力: &c0.45
+VALUE:
 
 KEY:&9Electric Jetpack &7- &eIV
-VALUE:&9电动喷气背包 &7- &eIV
+VALUE:
 
 KEY:§8⇨ &7Material: &bSteel
-VALUE:§8⇨ &7原料: &b铁
+VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.5
-VALUE:§8⇨ &7推力: &c0.5
+VALUE:
 
 KEY:&9Electric Jetpack &7- &eV
-VALUE:&9电动喷气背包 &7- &eV
+VALUE:
 
 KEY:§8⇨ &7Material: &bDamascus Steel
-VALUE:§8⇨ &7原料: &b大马士革钢
+VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.55
-VALUE:§8⇨ &7推力: &c0.55
+VALUE:
 
 KEY:&9Electric Jetpack &7- &eVI
-VALUE:&9电动喷气背包 &7- &eVI
+VALUE:
 
 KEY:§8⇨ &7Material: &bReinforced Alloy
-VALUE:§8⇨ &7原料: &b强化合金
+VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.6
-VALUE:§8⇨ &7推力: &c0.6
+VALUE:
 
 KEY:&9Electric Jetpack &7- &eVII
-VALUE:&9电动喷气背包 &7- &eVII
+VALUE:
 
 KEY:§8⇨ &7Material: &bCarbonado
-VALUE:§8⇨ &7原料: &b黑金刚石
+VALUE:
 
 KEY:§c§o§8⇨ §e⚡ §70 / 150 J
-VALUE:§c§o§8⇨ §e⚡ §70 / 150 焦
+VALUE:
 
 KEY:§8⇨ &7Thrust: &c0.7
-VALUE:§8⇨ &7推力: &c0.7
+VALUE:
 
 KEY:&9Armored Jetpack
-VALUE:&9装甲喷气背包
+VALUE:
 
 KEY:§c§o§8⇨ §e⚡ §70 / 50 J
-VALUE:§c§o§8⇨ §e⚡ §70 / 50 焦
+VALUE:
 
 KEY:&9Jet Boots &7- &eI
-VALUE:&9喷气靴 &7- &eI
+VALUE:
 
 KEY:§8⇨ &7Speed: &a0.35
-VALUE:§8⇨ &7速度: &a0.35
+VALUE:
 
 KEY:§8⇨ &7Accuracy: &c50%
-VALUE:§8⇨ &7精度: &c50%
+VALUE:
 
 KEY:&9Jet Boots &7- &eII
-VALUE:&9喷气靴 &7- &eII
+VALUE:
 
 KEY:§8⇨ &7Speed: &a0.4
-VALUE:§8⇨ &7速度: &a0.4
+VALUE:
 
 KEY:§8⇨ &7Accuracy: &660%
-VALUE:§8⇨ &7精度: &660%
+VALUE:
 
 KEY:&9Jet Boots &7- &eIII
-VALUE:&9喷气靴 &7- &eIII
+VALUE:
 
 KEY:§c§o§8⇨ §e⚡ §70 / 40 J
-VALUE:§c§o§8⇨ §e⚡ §70 / 40 焦
+VALUE:
 
 KEY:§8⇨ &7Speed: &a0.45
-VALUE:§8⇨ &7速度: &a0.45
+VALUE:
 
 KEY:§8⇨ &7Accuracy: &665%
-VALUE:§8⇨ &7精度: &665%
+VALUE:
 
 KEY:&9Jet Boots &7- &eIV
-VALUE:&9喷气靴 &7- &eIV
+VALUE:
 
 KEY:§8⇨ &7Speed: &a0.5
-VALUE:§8⇨ &7速度: &a0.5
+VALUE:
 
 KEY:§8⇨ &7Accuracy: &e70%
-VALUE:§8⇨ &7精度: &e70%
+VALUE:
 
 KEY:&9Jet Boots &7- &eV
-VALUE:&9喷气靴 &7- &eV
+VALUE:
 
 KEY:§8⇨ &7Speed: &a0.55
-VALUE:§8⇨ &7速度: &a0.55
+VALUE:
 
 KEY:§8⇨ &7Accuracy: &a75%
-VALUE:§8⇨ &7精度: &a75%
+VALUE:
 
 KEY:&9Jet Boots &7- &eVI
-VALUE:&9喷气靴 &7- &eVI
+VALUE:
 
 KEY:§8⇨ &7Speed: &a0.6
-VALUE:§8⇨ &7速度: &a0.6
+VALUE:
 
 KEY:§8⇨ &7Accuracy: &c80%
-VALUE:§8⇨ &7精度: &c80%
+VALUE:
 
 KEY:&9Jet Boots &7- &eVII
-VALUE:&9喷气靴 &7- &eVII
+VALUE:
 
 KEY:§c§o§8⇨ §e⚡ §70 / 125 J
-VALUE:§c§o§8⇨ §e⚡ §70 / 125 焦
+VALUE:
 
 KEY:§8⇨ &7Speed: &a0.7
-VALUE:§8⇨ &7速度: &a0.7
+VALUE:
 
 KEY:§8⇨ &7Accuracy: &c99.9%
-VALUE:§8⇨ &7精度: &c99.9%
+VALUE:
 
 KEY:&9Armored Jet Boots
-VALUE:&9装甲喷气靴
+VALUE:
 
 KEY:&9Multi Tool &7- &eI
-VALUE:&9多功能工具 &7- &eI
+VALUE:
 
 KEY:&7Hold &eShift + Right Click&7 to change the Mode
-VALUE:&7按住 &eShift 并 单击右键&7 切换模式
+VALUE:
 
 KEY:&9Multi Tool &7- &eII
-VALUE:&9多功能工具 &7- &eII
+VALUE:
 
 KEY:&9Multi Tool &7- &eIII
-VALUE:&9多功能工具 &7- &eIII
+VALUE:
 
 KEY:&9Multi Tool &7- &eIV
-VALUE:&9多功能工具 &7- &eIV
+VALUE:
 
 KEY:&9Multi Tool &7- &eV
-VALUE:&9多功能工具 &7- &eV
+VALUE:
 
 KEY:&9Multi Tool &7- &eVI
-VALUE:&9多功能工具 &7- &eVI
+VALUE:
 
 KEY:&9Multi Tool &7- &eVII
-VALUE:&9多功能工具 &7- &eVII
+VALUE:
 
 KEY:&6Fortune Cookie
-VALUE:&6幸运曲奇
+VALUE:
 
 KEY:&a&oTells you stuff about your Future :o
-VALUE:&a&o告诉你关于未来的事 :o
+VALUE:
 
 KEY:&6Beef Jerky
-VALUE:&6牛肉干
+VALUE:
 
 KEY:&a&oSaturating
-VALUE:&a&o饱和中
+VALUE:
 
 KEY:&6Magic Sugar
-VALUE:&6魔法糖
+VALUE:
 
 KEY:&a&oFeel the Power of Hermes!
-VALUE:&a&o感受爱马仕的力量!
+VALUE:
 
 KEY:&6Monster Jerky
-VALUE:&6怪物肉干
+VALUE:
 
 KEY:&a&oNo longer hungry
-VALUE:&a不再饥饿了
+VALUE:
 
 KEY:&cApple Juice
-VALUE:&c苹果汁
+VALUE:
 
 KEY:&cMelon Juice
-VALUE:&c哈密瓜汁
+VALUE:
 
 KEY:&6Carrot Juice
-VALUE:&6胡萝卜汁
+VALUE:
 
 KEY:&6Pumpkin Juice
-VALUE:&6南瓜汁
+VALUE:
 
 KEY:&bGolden Apple Juice
-VALUE:&b金苹果汁
+VALUE:
 
 KEY:&6Glass of Milk
-VALUE:&6一杯牛奶
+VALUE:
 
 KEY:&6Chocolate Milk
-VALUE:&6巧克力牛奶
+VALUE:
 
 KEY:&aEgg Nog
-VALUE:&a蛋奶酒
+VALUE:
 
 KEY:&cApple Cider
-VALUE:&c苹果酒
+VALUE:
 
 KEY:Christmas Cookie
-VALUE:圣诞曲奇
+VALUE:
 
 KEY:Fruit Cake
-VALUE:水果蛋糕
+VALUE:
 
 KEY:&rApple Pie
-VALUE:&r苹果派
+VALUE:
 
 KEY:&6Hot Chocolate
-VALUE:&6热巧克力
+VALUE:
 
 KEY:Christmas Cake
-VALUE:圣诞蛋糕
+VALUE:
 
 KEY:&6Caramel
-VALUE:&6焦糖
+VALUE:
 
 KEY:&6Caramel Apple
-VALUE:&6焦糖苹果
+VALUE:
 
 KEY:&6Chocolate Apple
-VALUE:&6巧克力苹果
+VALUE:
 
 KEY:Christmas Present
-VALUE:圣诞节礼物
+VALUE:
 
 KEY:&7From: &emrCookieSlime
-VALUE:&7来自: &emrCookieSlime
+VALUE:
 
 KEY:&7To: &eYou
-VALUE:&7送给: &e你
+VALUE:
 
 KEY:&rEaster Egg
-VALUE:&r复活节彩蛋
+VALUE:
 
 KEY:&bSurprise! Surprise!
-VALUE:&b惊喜! 惊喜!
+VALUE:
 
 KEY:&6Carrot Pie
-VALUE:&6胡萝卜饼
+VALUE:
 
 KEY:&7Grandmas Walking Stick
-VALUE:&7奶奶的手杖
+VALUE:
 
 KEY:&7Grandpas Walking Stick
-VALUE:&7爷爷的手杖
+VALUE:
 
 KEY:&6Sword of Beheading
-VALUE:&6斩首之刃
+VALUE:
 
 KEY:&7Beheading II
-VALUE:&7斩首 II
+VALUE:
 
 KEY:&rHas a chance to behead Mobs
-VALUE:&r有一定概率对怪物一击必杀
+VALUE:
 
 KEY:&r(even a higher chance for Wither Skeletons)
-VALUE:&r(对凋零拥有更高的概率)
+VALUE:
 
 KEY:&cBlade of Vampires
-VALUE:&c吸血鬼之刃
+VALUE:
 
 KEY:&7Life Steal I
-VALUE:&7生命汲取 I
+VALUE:
 
 KEY:&rEverytime you attack something
-VALUE:&r每次你攻击到目标你将
+VALUE:
 
 KEY:&ryou have a 45% chance to
-VALUE:&r有 45% 的概率获得
+VALUE:
 
 KEY:&rrecover 2 Hearts of your Health
-VALUE:&r2个单位的HP
+VALUE:
 
 KEY:&aSeismic Axe
-VALUE:&a地震斧
+VALUE:
 
 KEY:&7&oA portable Earthquake...
-VALUE:&7&o便携的地震发生器...
+VALUE:
 
 KEY:&cExplosive Bow
-VALUE:&c爆裂弓
+VALUE:
 
 KEY:&rAny Arrows fired using this Bow
-VALUE:&r这个弓射出的任何箭都具有
+VALUE:
 
 KEY:&rwill launch hit enemys into the air
-VALUE:&r将怪物击飞的能力
+VALUE:
 
 KEY:&bIcy Bow
-VALUE:&b冰弓
+VALUE:
 
 KEY:&rwill prevent hit enemys from moving
-VALUE:&r被击中的目标将在
+VALUE:
 
 KEY:&rfor 2 seconds
-VALUE:&r2秒内无法移动
+VALUE:
 
 KEY:&6Smelter's Pickaxe
-VALUE:&6熔炼稿
+VALUE:
 
 KEY:&c&lAuto-Smelting
-VALUE:&c&l自动熔炼
+VALUE:
 
 KEY:&9Works with Fortune
-VALUE:&9与运气一起工作
+VALUE:
 
 KEY:&6Lumber Axe
-VALUE:&6伐木斧
+VALUE:
 
 KEY:&a&oCuts down the whole Tree...
-VALUE:&a&o一次砍下整棵树
+VALUE:
 
 KEY:&cPickaxe of Containment
-VALUE:&c控制镐
+VALUE:
 
 KEY:&9Can pickup Spawners
-VALUE:&9可以挖起刷怪笼
+VALUE:
 
 KEY:&9Hercules' Pickaxe
-VALUE:&9大力神镐
+VALUE:
 
 KEY:&rSo powerful that it
-VALUE:&r由于力量过大
+VALUE:
 
 KEY:&rcrushes all mined Ores
-VALUE:&r会粉碎挖到的矿石
+VALUE:
 
 KEY:&eExplosive Pickaxe
-VALUE:&e爆裂镐
+VALUE:
 
 KEY:&rAllows you to mine a good bit
-VALUE:&r可以让你一次性挖取
+VALUE:
 
 KEY:&rof Blocks at once...
-VALUE:&r一定数量的方块
+VALUE:
 
 KEY:&aPickaxe of the Seeker
-VALUE:&a探索者镐
+VALUE:
 
 KEY:&rWill always point you to the nearest Ore
-VALUE:&r可以帮助你找到附近的矿物
+VALUE:
 
 KEY:&rbut might get damaged when doing it
-VALUE:&r不过寻找过程中可能损坏
+VALUE:
 
 KEY:&7&eRight Click&7 to be pointed to the nearest Ore
-VALUE:&7&e右键单击&7来寻找最近的矿物
+VALUE:
 
 KEY:&9Cobalt Pickaxe
-VALUE:&9钴蓝镐
+VALUE:
 
 KEY:&ePickaxe of Vein Mining
-VALUE:&e矿脉镐
+VALUE:
 
 KEY:&rThis Pickaxe will dig out
-VALUE:&r这个镐子能挖出
+VALUE:
 
 KEY:&rwhole Veins of Ores...
-VALUE:整个矿脉中的矿物
+VALUE:
 
 KEY:&e&lGlowstone Helmet
-VALUE:&e&l萤石头盔
+VALUE:
 
 KEY:&a&oShining like the sun!
-VALUE:&a&o闪亮得像太阳一样!
+VALUE:
 
 KEY:&e&lGlowstone Chestplate
-VALUE:&e&l萤石铠甲
+VALUE:
 
 KEY:&e&lGlowstone Leggings
-VALUE:&e&l萤石护腿
+VALUE:
 
 KEY:&e&lGlowstone Boots
-VALUE:&e&l萤石靴子
+VALUE:
 
 KEY:&5&lEnder Helmet
-VALUE:&5&l末影头盔
+VALUE:
 
 KEY:&a&oSometimes its here, sometimes there!
-VALUE:&a&o有时在这儿, 有时在那儿!
+VALUE:
 
 KEY:&5&lEnder Chestplate
-VALUE:&5&l末影铠甲
+VALUE:
 
 KEY:&5&lEnder Leggings
-VALUE:&5&l末影护腿
+VALUE:
 
 KEY:&5&lEnder Boots
-VALUE:&5&l末影靴
+VALUE:
 
 KEY:&9+ No Enderpearl Damage
-VALUE:&9+ 末影珍珠伤害免疫
+VALUE:
 
 KEY:&a&lSlime Helmet
-VALUE:&a&lSlime头盔
+VALUE:
 
 KEY:&a&oBouncy Feeling
-VALUE:&a&o有弹性的感觉
+VALUE:
 
 KEY:&a&lSlime Chestplate
-VALUE:&a&lSlime铠甲
+VALUE:
 
 KEY:&a&lSlime Leggings
-VALUE:&a&lSlime护腿
+VALUE:
 
 KEY:&9+ Speed
-VALUE:&9+ 速度
+VALUE:
 
 KEY:&a&lSlime Boots
-VALUE:&a&lSlime靴子
+VALUE:
 
 KEY:&9+ Jump Boost
-VALUE:&9+ 跳跃提升
+VALUE:
 
 KEY:&9+ No Fall Damage
-VALUE:&9+ 摔伤免疫
+VALUE:
 
 KEY:&2Cactus Helmet
-VALUE:&2仙人掌头盔
+VALUE:
 
 KEY:&2Cactus Chestplate
-VALUE:&2仙人掌铠甲
+VALUE:
 
 KEY:&2Cactus Leggings
-VALUE:&2仙人掌护腿
+VALUE:
 
 KEY:&2Cactus Boots
-VALUE:&2仙人掌靴子
+VALUE:
 
 KEY:&7Damascus Steel Helmet
-VALUE:&7大马士革钢盔
+VALUE:
 
 KEY:&7Damascus Steel Chestplate
-VALUE:&7大马士革钢铠
+VALUE:
 
 KEY:&7Damascus Steel Leggings
-VALUE:&7大马士革钢护腿
+VALUE:
 
 KEY:&7Damascus Steel Boots
-VALUE:&7大马士革钢靴
+VALUE:
 
 KEY:&bReinforced Helmet
-VALUE:&b强化头盔
+VALUE:
 
 KEY:&bReinforced Chestplate
-VALUE:&b强化铠甲
+VALUE:
 
 KEY:&bReinforced Leggings
-VALUE:&b强化护腿
+VALUE:
 
 KEY:&bReinforced Boots
-VALUE:&b强化靴子
+VALUE:
 
 KEY:&cScuba Helmet
-VALUE:&c潜水头盔
+VALUE:
 
 KEY:&bAllows you to breathe Underwater
-VALUE:&b可以让你在水下呼吸
+VALUE:
 
 KEY:&4&oPart of Hazmat Suit
-VALUE:&4&o防护服套装的一部分
+VALUE:
 
 KEY:&cHazmat Suit
-VALUE:&c防护服
+VALUE:
 
 KEY:&bAllows you to walk through Fire
-VALUE:&b可以让你在火中漫步
+VALUE:
 
 KEY:&cHazmat Suit Leggings
-VALUE:&c防护护腿
+VALUE:
 
 KEY:&cRubber Boots
-VALUE:&c橡胶靴子
+VALUE:
 
 KEY:&6Gilded Iron Helmet
-VALUE:&6镀金头盔
+VALUE:
 
 KEY:&6Gilded Iron Chestplate
-VALUE:&6镀金铠甲
+VALUE:
 
 KEY:&6Gilded Iron Leggings
-VALUE:&6镀金护腿
+VALUE:
 
 KEY:&6Gilded Iron Boots
-VALUE:&6镀金靴子
+VALUE:
 
 KEY:&6Gold Helmet
-VALUE:&6金头盔
+VALUE:
 
 KEY:&912-Carat
-VALUE:&912K
+VALUE:
 
 KEY:&6Gold Chestplate
-VALUE:&6金铠甲
+VALUE:
 
 KEY:&6Gold Leggings
-VALUE:&6金绑腿
+VALUE:
 
 KEY:&6Gold Boots
-VALUE:&6金靴子
+VALUE:
 
 KEY:&7&oReinforced
-VALUE:&7&o强化
+VALUE:
 
 KEY:&bBoots of the Stomper
-VALUE:&b震颤之靴
+VALUE:
 
 KEY:&9All Fall Damage you receive
-VALUE:&9所有从高处掉落的伤害
+VALUE:
 
 KEY:&9will be applied to nearby Mobs/Players
-VALUE:&9都会被转移给周围的怪物与玩家
+VALUE:
 
 KEY:&cHeavy Helmet
-VALUE:&c厚重的头盔
+VALUE:
 
 KEY:&9+ Strength
-VALUE:&9+ 体力
+VALUE:
 
 KEY:&9+ Slowness
-VALUE:&9+ 缓慢
+VALUE:
 
 KEY:&cHeavy Chestplate
-VALUE:&c厚重的铠甲
+VALUE:
 
 KEY:&cHeavy Leggings
-VALUE:&c厚重的护腿
+VALUE:
 
 KEY:&cHeavy Boots
-VALUE:&c厚重的靴子
+VALUE:
 
 KEY:&6Magical Lump &7- &eI
-VALUE:&6魔法块 &7- &eI
+VALUE:
 
 KEY:&c&oTier: I
-VALUE:&c&o等级: I
+VALUE:
 
 KEY:&6Magical Lump &7- &eII
-VALUE:&6魔法块 &7- &eII
+VALUE:
 
 KEY:&c&oTier: II
-VALUE:&c&o等级: II
+VALUE:
 
 KEY:&6Magical Lump &7- &eIII
-VALUE:&6魔法块 &7- &eIII
+VALUE:
 
 KEY:&c&oTier: III
-VALUE:&c&o等级: III
+VALUE:
 
 KEY:&5Ender Lump &7- &eI
-VALUE:&5末影块 &7- &eI
+VALUE:
 
 KEY:&5Ender Lump &7- &eII
-VALUE:&5末影块 &7- &eII
+VALUE:
 
 KEY:&5Ender Lump &7- &eIII
-VALUE:&5末影块 &7- &eIII
+VALUE:
 
 KEY:&6Magical Book Cover
-VALUE:&6魔法书封皮
+VALUE:
 
 KEY:&a&oUsed for various Magic Books
-VALUE:&a&o用于各种魔法书
+VALUE:
 
 KEY:&bBasic Circuit Board
-VALUE:&b基础电路板
+VALUE:
 
 KEY:&bAdvanced Circuit Board
-VALUE:&b高级电路板
+VALUE:
 
 KEY:&rWheat Flour
-VALUE:&r小麦面粉
+VALUE:
 
 KEY:&7&lSteel Plate
-VALUE:&7&l钢板
+VALUE:
 
 KEY:&7&lSteel Thruster
-VALUE:&7&l钢推进器
+VALUE:
 
 KEY:&bChain
-VALUE:&b链
+VALUE:
 
 KEY:&bHook
-VALUE:&b钩子
+VALUE:
 
 KEY:&6Sifted Ore
-VALUE:&6粗矿石
+VALUE:
 
 KEY:&rSalt
-VALUE:&r盐
+VALUE:
 
 KEY:&rHeavy Cream
-VALUE:&r重奶油
+VALUE:
 
 KEY:&6Crushed Ore
-VALUE:&6碎矿石
+VALUE:
 
 KEY:&6Pulverized Ore
-VALUE:&6粉碎矿石
+VALUE:
 
 KEY:&6Pure Ore Cluster
-VALUE:&6纯净矿簇
+VALUE:
 
 KEY:&cNecrotic Skull
-VALUE:&c亡者头颅
+VALUE:
 
 KEY:&4Essence of Afterlife
-VALUE:&4转世精华
+VALUE:
 
 KEY:&6Scroll of Dimensional Teleposition
-VALUE:&6纬度传送卷轴
+VALUE:
 
 KEY:&cThis Scroll is capable of creating
-VALUE:&c这个卷轴可以建造一个
+VALUE:
 
 KEY:&ca temporary black Hole which pulls
-VALUE:临时的黑洞并将
+VALUE:
 
 KEY:&cnearby Entities into itself and sends
-VALUE:周围的实体吸入自己
+VALUE:
 
 KEY:&cthem into another Dimension where
-VALUE:送入另一个一切都是
+VALUE:
 
 KEY:&ceverything is turned around
-VALUE:&c镜像的维度中
+VALUE:
 
 KEY:&rIn other words: Makes Entities turn by 180 Degrees
-VALUE:&r换句话说: 使实体180度旋转
+VALUE:
 
 KEY:&6Tome of Knowledge Sharing
-VALUE:&6知识共享之书
+VALUE:
 
 KEY:&7Owner: &bNone
-VALUE:&7拥有者: &b无
+VALUE:
 
 KEY:&eRight Click&7 to bind this Tome to yourself
-VALUE:&e右键点击&7把这本书给自己
+VALUE:
 
 KEY:&eRight Click&7 to obtain all Researches by
-VALUE:&e右键单击&7获得前任
+VALUE:
 
 KEY:&7the previously assigned Owner
-VALUE:拥有者的所有研究
+VALUE:
 
 KEY:&7Hardened Glass
-VALUE:&7钢化玻璃
+VALUE:
 
 KEY:&rWithstands Explosions
-VALUE:&r可以承受爆炸
+VALUE:
 
 KEY:&5Wither-Proof Obsidian
-VALUE:&5防凋零黑曜岩
+VALUE:
 
 KEY:&rWithstands Wither Bosses
-VALUE:&r承受凋零的攻击
+VALUE:
 
 KEY:&5Wither-Proof Glass
-VALUE:&5防凋零玻璃
+VALUE:
 
 KEY:&7Reinforced Plate
-VALUE:&7强化板
+VALUE:
 
 KEY:&dAncient Pedestal
-VALUE:&d古老的底座
+VALUE:
 
 KEY:&5Part of the Ancient Altar
-VALUE:&5远古祭坛的部件
+VALUE:
 
 KEY:&dAncient Altar
-VALUE:&d远古祭坛
+VALUE:
 
 KEY:&5Multi-Block Altar for
-VALUE:&5用来进行神奇的
+VALUE:
 
 KEY:&5magical Crafting Processes
-VALUE:&5制作过程的多方块祭坛
+VALUE:
 
 KEY:&5Rainbow Wool
-VALUE:&5彩虹木
+VALUE:
 
 KEY:§dCycles through all Colors of the Rainbow!
-VALUE:§d循环彩虹的所有颜色!
+VALUE:
 
 KEY:&5Rainbow Glass
-VALUE:&5彩虹玻璃
+VALUE:
 
 KEY:&5Rainbow Clay
-VALUE:&5彩虹黏土
+VALUE:
 
 KEY:&5Rainbow Glass Pane
-VALUE:&5彩虹玻璃窗格
+VALUE:
 
 KEY:&5Rainbow Wool &7(Christmas)
-VALUE:&5彩虹木 &7(圣诞节)
+VALUE:
 
 KEY:< Christmas Edition >
-VALUE:< 圣诞节资料片 >
+VALUE:
 
 KEY:&5Rainbow Glass &7(Christmas)
-VALUE:&5彩虹玻璃 &7(圣诞节)
+VALUE:
 
 KEY:&5Rainbow Clay &7(Christmas)
-VALUE:&5彩虹黏土 &7(圣诞节)
+VALUE:
 
 KEY:&5Rainbow Glass Pane &7(Christmas)
-VALUE:&5彩虹玻璃窗格 &7(圣诞节)
+VALUE:
 
 KEY:&5Rainbow Wool &7(Valentine's Day)
-VALUE:&5彩虹木 &7(情人节)
+VALUE:
 
 KEY:§d< Valentine's Day Edition >
-VALUE:§d< 情人节资料片 >
+VALUE:
 
 KEY:&5Rainbow Glass &7(Valentine's Day)
-VALUE:&5彩虹玻璃 &7(情人节)
+VALUE:
 
 KEY:&5Rainbow Clay &7(Valentine's Day)
-VALUE:&5彩虹黏土 &7(情人节)
+VALUE:
 
 KEY:&5Rainbow Glass Pane &7(Valentine's Day)
-VALUE:&5彩虹玻璃窗格 &7(情人节)
+VALUE:
 
 KEY:&bCopper Ingot
-VALUE:&b铜锭
+VALUE:
 
 KEY:&bTin Ingot
-VALUE:&b锡锭
+VALUE:
 
 KEY:&bSilver Ingot
-VALUE:&b银锭
+VALUE:
 
 KEY:&bAluminum Ingot
-VALUE:&b铝合金锭
+VALUE:
 
 KEY:&bLead Ingot
-VALUE:&b铅锭
+VALUE:
 
 KEY:&bZinc Ingot
-VALUE:&b锌锭
+VALUE:
 
 KEY:&bMagnesium Ingot
-VALUE:&b镁锭
+VALUE:
 
 KEY:&bSteel Ingot
-VALUE:&b钢锭
+VALUE:
 
 KEY:&bBronze Ingot
-VALUE:&b青铜锭
+VALUE:
 
 KEY:&bDuralumin Ingot
-VALUE:&b铝合金锭
+VALUE:
 
 KEY:&bBillon Ingot
-VALUE:&b金银合金锭
+VALUE:
 
 KEY:&bBrass Ingot
-VALUE:&b铜锭
+VALUE:
 
 KEY:&bAluminum Brass Ingot
-VALUE:&b铝黄铜锭
+VALUE:
 
 KEY:&bAluminum Bronze Ingot
-VALUE:&b铝青铜锭
+VALUE:
 
 KEY:&bCorinthian Bronze Ingot
-VALUE:&b科林斯青铜锭
+VALUE:
 
 KEY:&bSolder Ingot
-VALUE:&b焊锡锭
+VALUE:
 
 KEY:&bDamascus Steel Ingot
-VALUE:&b大马士革钢锭
+VALUE:
 
 KEY:&b&lHardened Metal
-VALUE:&b&l硬质合金
+VALUE:
 
 KEY:&b&lReinforced Alloy Ingot
-VALUE:&b&l强化合金锭
+VALUE:
 
 KEY:&bFerrosilicon
-VALUE:&b铁矽
+VALUE:
 
 KEY:&6&lGilded Iron
-VALUE:&6&l镀金锭
+VALUE:
 
 KEY:&cRedstone Alloy Ingot
-VALUE:&c红石合金锭
+VALUE:
 
 KEY:&bNickel Ingot
-VALUE:&b镍锭
+VALUE:
 
 KEY:&9Cobalt Ingot
-VALUE:&9钴锭
+VALUE:
 
 KEY:&rGold Ingot &7(4-Carat)
-VALUE:&r金锭 &7(4K)
+VALUE:
 
 KEY:&rGold Ingot &7(6-Carat)
-VALUE:&r金锭 &7(6K)
+VALUE:
 
 KEY:&rGold Ingot &7(8-Carat)
-VALUE:&r金锭 &7(8K)
+VALUE:
 
 KEY:&rGold Ingot &7(10-Carat)
-VALUE:&r金锭 &7(10K)
+VALUE:
 
 KEY:&rGold Ingot &7(12-Carat)
-VALUE:&r金锭 &7(12K)
+VALUE:
 
 KEY:&rGold Ingot &7(14-Carat)
-VALUE:&r金锭 &7(14K)
+VALUE:
 
 KEY:&rGold Ingot &7(16-Carat)
-VALUE:&r金锭 &7(16K)
+VALUE:
 
 KEY:&rGold Ingot &7(18-Carat)
-VALUE:&r金锭 &7(18K)
+VALUE:
 
 KEY:&rGold Ingot &7(20-Carat)
-VALUE:&r金锭 &7(20K)
+VALUE:
 
 KEY:&rGold Ingot &7(22-Carat)
-VALUE:&r金锭 &7(22K)
+VALUE:
 
 KEY:&rGold Ingot &7(24-Carat)
-VALUE:&r金锭 &7(24K)
+VALUE:
 
 KEY:&6Iron Dust
-VALUE:&6铁粉
+VALUE:
 
 KEY:&6Gold Dust
-VALUE:&6金粉
+VALUE:
 
 KEY:&6Tin Dust
-VALUE:&6锡粉
+VALUE:
 
 KEY:&6Copper Dust
-VALUE:&6铜粉
+VALUE:
 
 KEY:&6Silver Dust
-VALUE:&6银粉
+VALUE:
 
 KEY:&6Aluminum Dust
-VALUE:&6铝粉
+VALUE:
 
 KEY:&6Lead Dust
-VALUE:&6铅粉
+VALUE:
 
 KEY:&6Sulfate
-VALUE:&6硫酸
+VALUE:
 
 KEY:&6Zinc Dust
-VALUE:&6锌粉
+VALUE:
 
 KEY:&6Magnesium
-VALUE:&6镁
+VALUE:
 
 KEY:&6Silicon
-VALUE:&6硅
+VALUE:
 
 KEY:&rGold Block &7(24-Carat)
-VALUE:&r金块 &7(24K)
+VALUE:
 
 KEY:&bSynthetic Diamond
-VALUE:&b人造钻石
+VALUE:
 
 KEY:&bSynthetic Sapphire
-VALUE:&b人造蓝宝石
+VALUE:
 
 KEY:&bSynthetic Emerald
-VALUE:&b人造绿宝石
+VALUE:
 
 KEY:&6Common Talisman
-VALUE:&6常见护身符
+VALUE:
 
 KEY:&aTalisman of the Anvil
-VALUE:&a铁砧护身符
+VALUE:
 
 KEY:&rEach Talisman can prevent
-VALUE:&r每1个护身符可以使
+VALUE:
 
 KEY:&r1 Tool from breaking, but will then
-VALUE:&r1个工具免于损坏消失
+VALUE:
 
 KEY:&rbe consumed
-VALUE:&r但同时护身符也会被消耗
+VALUE:
 
 KEY:&4&lWARNING:
-VALUE:&4&警告
+VALUE:
 
 KEY:&4This Talisman does not work on
-VALUE:&4这个护身符不会在
+VALUE:
 
 KEY:&4Tools which are too powerful
-VALUE:&4太过强力的工具上
+VALUE:
 
 KEY:&4due to their complexity
-VALUE:&4产生效果
+VALUE:
 
 KEY:&aTalisman of the Miner
-VALUE:&a矿工护身符
+VALUE:
 
 KEY:&rWhile you have this Talisman
-VALUE:&r当你的背包中有
+VALUE:
 
 KEY:&rin your Inventory it has
-VALUE:&r这个护身符的时候
+VALUE:
 
 KEY:&ra 20% chance of doubling
-VALUE:&r你有 20% 的机会
+VALUE:
 
 KEY:&rall Ores you mine
-VALUE:&r获得双倍矿物
+VALUE:
 
 KEY:&aTalisman of the Hunter
-VALUE:&a猎人护身符
+VALUE:
 
 KEY:&rall Drops from Mobs you kill
-VALUE:&r你杀死的怪物掉下的所有东西
+VALUE:
 
 KEY:&aTalisman of the Lava Walker
-VALUE:&a岩浆行者护身符
+VALUE:
 
 KEY:&rin your Inventory it will
-VALUE:&r在你的背包中时它会
+VALUE:
 
 KEY:&rgive you Fire Resistance
-VALUE:&r给你火焰抗性当你
+VALUE:
 
 KEY:&ras soon as you touch Lava
-VALUE:&r触碰到岩浆的时候
+VALUE:
 
 KEY:&rbut will then be consumed
-VALUE:&r然后护身符会被消耗
+VALUE:
 
 KEY:&aTalisman of the Water Breather
-VALUE:&a水下呼吸护身符
+VALUE:
 
 KEY:&rgive you the ability
-VALUE:&r给予你在水下
+VALUE:
 
 KEY:&rto breath underwater as
-VALUE:&r呼吸的能力当你
+VALUE:
 
 KEY:&rsoon as you start drowning
-VALUE:&r掉落水中时
+VALUE:
 
 KEY:&aTalisman of the Angel
-VALUE:&a天使护身符
+VALUE:
 
 KEY:&rin your Inventory it has a
-VALUE:&r在你的背包中时你有
+VALUE:
 
 KEY:&r75% chance to prevent you
-VALUE:&r 75% 的概率消除
+VALUE:
 
 KEY:&rfrom taking Fall Damage
-VALUE:&r从高处摔落的损伤
+VALUE:
 
 KEY:&aTalisman of the Firefighter
-VALUE:&a灭火护身符
+VALUE:
 
 KEY:&ras soon as you start burning
-VALUE:&r你一开始燃烧就会生效
+VALUE:
 
 KEY:&aTalisman of the Magician
-VALUE:&a法师护身符
+VALUE:
 
 KEY:&rin your Inventory it gives
-VALUE:&r在你的背包中时会给你
+VALUE:
 
 KEY:&ryou a 80% Luck Bonus on Enchanting
-VALUE:&r 80% 的幸运奖励在附魔上
+VALUE:
 
 KEY:&rYou will sometimes get an Extra Enchantment
-VALUE:&r你有时能得到一个额外的附魔
+VALUE:
 
 KEY:&aTalisman of the Traveller
-VALUE:&a旅行者护身符
+VALUE:
 
 KEY:&ryou a 60% Chance for a decent
-VALUE:&r你有 60% 的概率在开始
+VALUE:
 
 KEY:&rSpeed Buff when you start sprinting
-VALUE:&r奔跑时获得速度状态增益
+VALUE:
 
 KEY:&aTalisman of the Warrior
-VALUE:&a武士护身符
+VALUE:
 
 KEY:&ryou Strength III whenever you get hit
-VALUE:&r当你受到攻击时，你会获得 力量III
+VALUE:
 
 KEY:&aTalisman of the Knight
-VALUE:&a骑士护身符
+VALUE:
 
 KEY:&ryou a 30% Chance for 5 Seconds of Regeneration
-VALUE:&r你有 30% 的概率获得一个5秒的
+VALUE:
 
 KEY:&rwhenever You get hit
-VALUE:&r再生时间当你被攻击时
+VALUE:
 
 KEY:&aTalisman of the Whirlwind
-VALUE:&a旋风护身符
+VALUE:
 
 KEY:&rin your Inventory it will reflect
-VALUE:&r在你的背包里它可以
+VALUE:
 
 KEY:&r60% of all Projectiles fired at you
-VALUE:&r弹开 60% 飞向你的伤害
+VALUE:
 
 KEY:&aTalisman of the Wizard
-VALUE:&a向导护身符
+VALUE:
 
 KEY:&rin your Inventory it allows you to
-VALUE:&r在你的背包里它可以
+VALUE:
 
 KEY:&robtain Fortune Level 4/5 however
-VALUE:&r让你获得 4/5 的财富
+VALUE:
 
 KEY:&rit also has a chance to lower the
-VALUE:&r不过它也有机会降低
+VALUE:
 
 KEY:&rLevel of some Enchantments on your Item
-VALUE:&r你物品的附魔水平
+VALUE:
 
 KEY:&6Elemental Staff
-VALUE:&6元素法杖
+VALUE:
 
 KEY:&6Elemental Staff &7- &b&oWind
-VALUE:&6元素法杖 &7- &b&o风
+VALUE:
 
 KEY:&7Element: &b&oWind
-VALUE:&7元素: &b&o风
+VALUE:
 
 KEY:&7&eRight Click&7 to launch yourself forward
-VALUE:&7&e右键单击&7 弹射你自己
+VALUE:
 
 KEY:&6Elemental Staff &7- &c&oFire
-VALUE:&6元素法杖 &7- &c&o火
+VALUE:
 
 KEY:&7Element: &c&oFire
-VALUE:&7元素: &c&o火
+VALUE:
 
 KEY:&6Elemental Staff &7- &1&oWater
-VALUE:&6元素法杖 &7- &1&o水
+VALUE:
 
 KEY:&7Element: &1&oWater
-VALUE:&7元素: &1&o水
+VALUE:
 
 KEY:&7&eRight Click&7 to extinguish yourself
-VALUE:&7&e点击右键&7熄灭自己
+VALUE:
 
 KEY:&a&oGrinds Items for more Efficiency
-VALUE:&a&o研磨效率更高
+VALUE:
 
 KEY:&6Armor Forge
-VALUE:&6盔甲锻造
+VALUE:
 
 KEY:&a&oActs as a high-temperature Furnace for Metals
-VALUE:&a&o一种用来冶炼金属的高温炉
+VALUE:
 
 KEY:&a&oCrushes Ores to double them
-VALUE:&a&o粉碎你的矿石来达到双倍的产率
+VALUE:
 
 KEY:&a&oCompresses Items
-VALUE:&a&o压缩物品
+VALUE:
 
 KEY:&a&oCompresses Items even more
-VALUE:&a&o更加紧致的压缩物品
+VALUE:
 
 KEY:Infuses Items with magical Energy
-VALUE:为物品注入魔法能量
+VALUE:
 
 KEY:&a&oWashes Sifted Ore to filter Ores
-VALUE:&a&o清洗粗矿石，筛选出
+VALUE:
 
 KEY:&a&oand gives you small Stone Chunks
-VALUE:&a&o其中的矿物以及小石块
+VALUE:
 
 KEY:&6Saw Mill
-VALUE:&6锯木厂
+VALUE:
 
 KEY:&a&oAllows you to get 8 planks from 1 Log
-VALUE:&a&o允许你从1个原木中获得8块木板
+VALUE:
 
 KEY:&aComposter
-VALUE:&a肥料产生器
+VALUE:
 
 KEY:&a&oCan convert various Materials over Time...
-VALUE:&a&o随着时间的推移可以转化各种各样的材料
+VALUE:
 
 KEY:&cCrucible
-VALUE:&c坩埚
+VALUE:
 
 KEY:&a&oUsed to smelt Items into Liquids
-VALUE:&a&o用于将物品融化为液体
+VALUE:
 
 KEY:&aJuicer
-VALUE:&a果汁机
+VALUE:
 
 KEY:&a&oAllows you to create delicious Juice
-VALUE:&a&o可以为你制作美味的果汁
+VALUE:
 
 KEY:&bSolar Panel
-VALUE:&b太阳能电池板
+VALUE:
 
 KEY:&a&oTransforms Sunlight to Energy
-VALUE:&a&o将阳光转化为能量
+VALUE:
 
 KEY:&bSolar Array
-VALUE:&b太阳能电池阵列
+VALUE:
 
 KEY:&bDigital Miner
-VALUE:&b数字矿机
+VALUE:
 
 KEY:&a&oDigs out everything!
-VALUE:&a&o挖出一切！
+VALUE:
 
 KEY:&6Advanced Digital Miner
-VALUE:&6高级数字矿机
+VALUE:
 
 KEY:&a&oAutomatically crushes your Ores
-VALUE:&a&o自动粉碎你的矿石
+VALUE:
 
 KEY:&aAutomated Panning Machine
-VALUE:&a自动淘金机
+VALUE:
 
 KEY:&a&oA MultiBlock Version of the Gold Pan
-VALUE:&a&o一个多方块版本的淘金筛
+VALUE:
 
 KEY:&bHologram Projector
-VALUE:&b全息投影仪
+VALUE:
 
 KEY:§rProjects an Editable Hologram
-VALUE:§r投影一个全息图
+VALUE:
 
 KEY:&7Enhanced Furnace - &eI
-VALUE:&7改造炉 - &eI
+VALUE:
 
 KEY:&7Processing Speed: &e1x
-VALUE:&7处理速度: &e1x
+VALUE:
 
 KEY:&7Fuel Efficiency: &e1x
-VALUE:&7燃料效率: &e1x
+VALUE:
 
 KEY:&7Luck Multiplier: &e1x
-VALUE:&7幸运倍率: &e1x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eII
-VALUE:&7改造炉 - &eII
+VALUE:
 
 KEY:&7Processing Speed: &e2x
-VALUE:&7处理速度: &e2x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eIII
-VALUE:&7改造炉 - &eIII
+VALUE:
 
 KEY:&7Fuel Efficiency: &e2x
-VALUE:&7燃料效率: &e2x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eIV
-VALUE:&7改造炉 - &eIV
+VALUE:
 
 KEY:&7Processing Speed: &e3x
-VALUE:&7处理速度: &e3x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eV
-VALUE:&7改造炉 - &eV
+VALUE:
 
 KEY:&7Luck Multiplier: &e2x
-VALUE:&7幸运倍率: &e2x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eVI
-VALUE:&7改造炉 - &eVI
+VALUE:
 
 KEY:&7Fuel Efficiency: &e3x
-VALUE:&7燃料效率: &e3x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eVII
-VALUE:&7改造炉 - &eVII
+VALUE:
 
 KEY:&7Processing Speed: &e4x
-VALUE:&7处理速度: &e4x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eVIII
-VALUE:&7改造炉 - &eVIII
+VALUE:
 
 KEY:&7Fuel Efficiency: &e4x
-VALUE:&7燃料效率: &e4x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eIX
-VALUE:&7改造炉 - &eIX
+VALUE:
 
 KEY:&7Processing Speed: &e5x
-VALUE:&7处理速度: &e5x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eX
-VALUE:&7改造炉 - &eX
+VALUE:
 
 KEY:&7Fuel Efficiency: &e5x
-VALUE:&7燃料效率: &e5x
+VALUE:
 
 KEY:&7Enhanced Furnace - &eXI
-VALUE:&7改造炉 - &eXI
+VALUE:
 
 KEY:&7Luck Multiplier: &e3x
-VALUE:&7运气倍率: &e3x
+VALUE:
 
 KEY:&7Reinforced Furnace
-VALUE:&7强化炉
+VALUE:
 
 KEY:&7Processing Speed: &e10x
-VALUE:&7处理速度: &e10x
+VALUE:
 
 KEY:&7Fuel Efficiency: &e10x
-VALUE:&7燃料效率: &e10x
+VALUE:
 
 KEY:&7Processing Speed: &e20x
-VALUE:&7处理速度: &e20x
+VALUE:
 
 KEY:&aBlock Placer
-VALUE:&a方块放置器
+VALUE:
 
 KEY:&rAll Blocks in this Dispenser
-VALUE:&r所有这个机器里的方块
+VALUE:
 
 KEY:&rwill automatically get placed
-VALUE:&r都会被自动放置
+VALUE:
 
 KEY:&cSoulbound Sword
-VALUE:&c灵魂绑定剑
+VALUE:
 
 KEY:&cSoulbound Bow
-VALUE:&c灵魂绑定弓
+VALUE:
 
 KEY:&cSoulbound Pickaxe
-VALUE:&c灵魂绑定镐子
+VALUE:
 
 KEY:&cSoulbound Axe
-VALUE:&c灵魂绑定斧头
+VALUE:
 
 KEY:&cSoulbound Shovel
-VALUE:&c灵魂绑定铲子
+VALUE:
 
 KEY:&cSoulbound Hoe
-VALUE:&c灵魂绑定锄头
+VALUE:
 
 KEY:&cSoulbound Helmet
-VALUE:&c灵魂绑定头盔
+VALUE:
 
 KEY:&cSoulbound Chestplate
-VALUE:&c灵魂绑定铠甲
+VALUE:
 
 KEY:&cSoulbound Leggings
-VALUE:&c灵魂绑定护腿
+VALUE:
 
 KEY:&cSoulbound Boots
-VALUE:&c灵魂绑定靴子
+VALUE:
 
 KEY:§8Blank Rune
-VALUE:§8空白符文
+VALUE:
 
 KEY:§7Ancient Rune §8§l[§b§lAir§8§l]
-VALUE:§7远古符文 §8§l[§b§l气§8§l]
+VALUE:
 
 KEY:§7Ancient Rune §8§l[§1§lWater§8§l]
-VALUE:§7远古符文 §8§l[§1§l水§8§l]
+VALUE:
 
 KEY:§7Ancient Rune §8§l[§4§lFire§8§l]
-VALUE:§7远古符文 §8§l[§4§l火§8§l]
+VALUE:
 
 KEY:§7Ancient Rune §8§l[§c§lEarth§8§l]
-VALUE:§7远古符文 §8§l[§c§l地§8§l]
+VALUE:
 
 KEY:§7Ancient Rune §8§l[§5§lEnder§8§l]
-VALUE:§7远古符文 §8§l[§5§l末影§8§l]
+VALUE:
 
 KEY:§7Ancient Rune §8§l[§d§lRainbow§8§l]
-VALUE:§7远古符文 §8§l[§d§l彩虹§8§l]
+VALUE:
 
 KEY:&bSolar Generator
-VALUE:&b太阳能发电机
+VALUE:
 
 KEY:§eBasic Generator
-VALUE:§e基础发电机
+VALUE:
 
 KEY:§8⇨ §e⚡ §70 J Buffer
-VALUE:§8⇨ §e⚡ §70 焦 缓冲
+VALUE:
 
 KEY:§8⇨ §e⚡ §74 J/s
-VALUE:§8⇨ §e⚡ §74 焦/秒
+VALUE:
 
 KEY:&cAdvanced Solar Generator
-VALUE:&c高级太阳能发电机
+VALUE:
 
 KEY:§aMedium Generator
-VALUE:§a中级发电机
+VALUE:
 
 KEY:§8⇨ §e⚡ §716 J/s
-VALUE:§8⇨ §e⚡ §716 焦/秒
+VALUE:
 
 KEY:&4Carbonado Solar Generator
-VALUE:&4Carbonado 太阳能发电机
+VALUE:
 
 KEY:§8⇨ §e⚡ §764 J/s
-VALUE:§8⇨ §e⚡ §764 焦/秒
+VALUE:
 
 KEY:§9Works at Night
-VALUE:§9夜间工作
+VALUE:
 
 KEY:§8⇨ §e⚡ §7256 J/s (Day)
-VALUE:§8⇨ §e⚡ §7256 焦/秒 (日间)
+VALUE:
 
 KEY:§8⇨ §e⚡ §7128 J/s (Night)
-VALUE:§8⇨ §e⚡ §7128 焦/秒 (夜间)
+VALUE:
 
 KEY:&cElectric Furnace
-VALUE:&c电炉
+VALUE:
 
 KEY:§eBasic Machine
-VALUE:§e基础机器
+VALUE:
 
 KEY:§8⇨ §7Speed: 1x
-VALUE:§8⇨ §7速度: 1x
+VALUE:
 
 KEY:&cElectric Furnace &7- &eII
-VALUE:&c电炉 &7- &eII
+VALUE:
 
 KEY:§aMedium Machine
-VALUE:§a中级机器
+VALUE:
 
 KEY:§8⇨ §7Speed: 2x
-VALUE:§8⇨ §7速度: 2x
+VALUE:
 
 KEY:§8⇨ §e⚡ §76 J/s
-VALUE:§8⇨ §e⚡ §76 焦/秒
+VALUE:
 
 KEY:&cElectric Furnace &7- &eIII
-VALUE:&c电炉 &7- &eIII
+VALUE:
 
 KEY:§8⇨ §7Speed: 4x
-VALUE:§8⇨ §7速度: 4x
+VALUE:
 
 KEY:§8⇨ §e⚡ §710 J/s
-VALUE:§8⇨ §e⚡ §710 焦/秒
+VALUE:
 
 KEY:&cElectric Ore Grinder
-VALUE:&c电动磨矿机
+VALUE:
 
 KEY:§rWorks as an Ore Crusher and Grind Stone
-VALUE:§r作用等同于一个碎矿机和一个磨石
+VALUE:
 
 KEY:§6Advanced Machine
-VALUE:§6高级机器
+VALUE:
 
 KEY:§8⇨ §e⚡ §712 J/s
-VALUE:§8⇨ §e⚡ §712 焦/秒
+VALUE:
 
 KEY:&cElectric Ore Grinder &7(&eII&7)
-VALUE:&c电动碎矿机 &7(&eII&7)
+VALUE:
 
 KEY:§8⇨ §e⚡ §730 J/s
-VALUE:§8⇨ §e⚡ §730 焦/秒
+VALUE:
 
 KEY:§8⇨ §e⚡ §718 J/s
-VALUE:§8⇨ §e⚡ §718 焦/秒
+VALUE:
 
 KEY:&7Auto Anvil
-VALUE:&7自动铁砧
+VALUE:
 
 KEY:§8⇨ §7Repair Factor: 10%
-VALUE:§8⇨ §7修复因子: 10%
+VALUE:
 
 KEY:§8⇨ §e⚡ §724 J/s
-VALUE:§8⇨ §e⚡ §724 焦/秒
+VALUE:
 
 KEY:&7Auto Anvil Mk.II
-VALUE:&7自动铁砧 Mk.II
+VALUE:
 
 KEY:§8⇨ §7Repair Factor: 25%
-VALUE:§8⇨ §7修复因子: 25%
+VALUE:
 
 KEY:§8⇨ §e⚡ §732 J/s
-VALUE:§8⇨ §e⚡ §732 焦/秒
+VALUE:
 
 KEY:&2Bio Reactor
-VALUE:&2生物反应器
+VALUE:
 
 KEY:§6Average Generator
-VALUE:§6平均发电
+VALUE:
 
 KEY:§8⇨ §e⚡ §7128 J Buffer
-VALUE:§8⇨ §e⚡ §7128 焦 缓冲
+VALUE:
 
 KEY:§8⇨ §e⚡ §78 J/s
-VALUE:§8⇨ §e⚡ §78 焦/秒
+VALUE:
 
 KEY:&eMultimeter
-VALUE:&e万用表
+VALUE:
 
 KEY:§rMeasures the Amount of stored
-VALUE:§r测量储存量
+VALUE:
 
 KEY:§rEnergy in a Block
-VALUE:§r能量块
+VALUE:
 
 KEY:§bGPS Marker Tool
-VALUE:§bGPS 标记工具
+VALUE:
 
 KEY:§rAllows you to set a Waypoint at
-VALUE:§r允许你在放置它的地方
+VALUE:
 
 KEY:§the Location you place this
-VALUE:设置航点
+VALUE:
 
 KEY:&7Android Interface §c(Fuel)
-VALUE:&7机器界面 §c(燃料)
+VALUE:
 
 KEY:§rItems stored in this Interface
-VALUE:§r储存在这里的物品会在机器的脚本
+VALUE:
 
 KEY:§rwill be inserted into an Android's Fuel Slot
-VALUE:§r执行填充燃料的操作时被插入机器
+VALUE:
 
 KEY:§rwhen its Script tells them to do so
-VALUE:§r的燃料槽
+VALUE:
 
 KEY:&7Android Interface §9(Items)
-VALUE:&7机器界面 §9(物品)
+VALUE:
 
 KEY:§rItems stored in an Android's Inventory
-VALUE:§r机器的产物会被装入
+VALUE:
 
 KEY:§rwill be inserted into this Interface
-VALUE:这个界面中
+VALUE:
 
 KEY:&cRefinery
-VALUE:&c炼油厂
+VALUE:
 
 KEY:§rRefines Oil to create Fuel
-VALUE:§r提炼油制造燃料
+VALUE:
 
 KEY:§5GPS Teleporter Pylon
-VALUE:§5GPS 传送塔
+VALUE:
 
 KEY:§7Teleporter Component
-VALUE:§7传送部件
+VALUE:
 
 KEY:§bGPS Teleporter Matrix
-VALUE:§bGPS 传送矩阵
+VALUE:
 
 KEY:§rThis is your Teleporter's Main Component
-VALUE:§r这是你的传送器的主要部件
+VALUE:
 
 KEY:§rThis Matrix allows Players to choose from all
-VALUE:§r矩阵允许放置个设备的
+VALUE:
 
 KEY:§rWaypoints made by the Player who has placed
-VALUE:§r玩家选择所有他自己
+VALUE:
 
 KEY:§rthis Device.
-VALUE:放置的航点
+VALUE:
 
 KEY:§rGPS Activation Device §3(Shared)
-VALUE:§rGPS 激活装置 §3(共享)
+VALUE:
 
 KEY:§rPlace this onto a Teleportation Matrix
-VALUE:§r把这个装置放入传送矩阵中
+VALUE:
 
 KEY:§rand step onto this Plate to activate
-VALUE:§r并踩上这个板来激活
+VALUE:
 
 KEY:§rthe Teleportation Process
-VALUE:§r传送过程
+VALUE:
 
 KEY:§rGPS Activation Device §a(Personal)
-VALUE:§rGPS 激活装置 §a(个人)
+VALUE:
 
 KEY:§rThis Version only allows the Person who
-VALUE:§r这个版本只允许
+VALUE:
 
 KEY:§rplaced this Device to use it
-VALUE:装置的放置者使用它
+VALUE:
 
 KEY:§bElevator Plate
-VALUE:§b电梯板
+VALUE:
 
 KEY:§rPlace an Elevator Plate on every floor
-VALUE:§r将电梯板放在每一层
+VALUE:
 
 KEY:§rand you will be able to teleport between them.
-VALUE:§r你将可以在它们之间传送
+VALUE:
 
 KEY:§eRight Click this Block §7to name it
-VALUE:§e右键单击这个方块来 §7命名
+VALUE:
 
 KEY:§5Infused Hopper
-VALUE:§5物品漏斗
+VALUE:
 
 KEY:§rAutomatically picks up nearby Items in a 7x7x7
-VALUE:§r自动捡起放置位置周围
+VALUE:
 
 KEY:§rRadius when placed.
-VALUE:7x7x7范围内的东西
+VALUE:
 
 KEY:§rPlastic Sheet
-VALUE:§r塑料片
+VALUE:
 
 KEY:&cHeated Pressure Chamber &7- &eII
-VALUE:&c加热压力室 &7- &eII
+VALUE:
 
 KEY:§8⇨ §7Speed: 5x
-VALUE:§8⇨ §7速度: 5x
+VALUE:
 
 KEY:§8⇨ §e⚡ §744 J/s
-VALUE:§8⇨ §e⚡ §744 焦/秒
+VALUE:
 
 KEY:&cElectric Smeltery
-VALUE:&c电炉
+VALUE:
 
 KEY:§4Alloys-Only, doesn't smelt Dust into Ingots
-VALUE:§4仅合金, 能将矿粉冶炼成锭
+VALUE:
 
 KEY:§8⇨ §e⚡ §720 J/s
-VALUE:§8⇨ §e⚡ §720 焦/秒
+VALUE:
 
 KEY:&cCarbon Press
-VALUE:&c碳压缩机
+VALUE:
 
 KEY:&cCarbon Press &7- &eII
-VALUE:&c碳压缩机 &7- &eII
+VALUE:
 
 KEY:§8⇨ §7Speed: 3x
-VALUE:§8⇨ §7速度: 3x
+VALUE:
 
 KEY:§8⇨ §e⚡ §750 J/s
-VALUE:§8⇨ §e⚡ §750 焦/秒
+VALUE:
 
 KEY:&cCarbon Press &7- &eIII
-VALUE:&c碳压缩机 &7- &eIII
+VALUE:
 
 KEY:§8⇨ §7Speed: 15x
-VALUE:§8⇨ §7速度: 15x
+VALUE:
 
 KEY:§8⇨ §e⚡ §7180 J/s
-VALUE:§8⇨ §e⚡ §7180 焦/秒
+VALUE:
 
 KEY:§6Blistering Ingot &7(33%)
-VALUE:§6发泡锭 &7(33%)
+VALUE:
 
 KEY:§2Radiation Level: HIGH
-VALUE:§2辐射水平: 高
+VALUE:
 
 KEY:&4&oHazmat Suit required
-VALUE:&4&o需要防护服
+VALUE:
 
 KEY:§6Blistering Ingot &7(66%)
-VALUE:§6发泡锭 &7(66%)
+VALUE:
 
 KEY:§6Blistering Ingot
-VALUE:§6发泡锭
+VALUE:
 
 KEY:§3How much is the Fish?
-VALUE:§3这鱼多少钱?
+VALUE:
 
 KEY:§eRight Click §rany Block to view it's BlockData
-VALUE:§e单击右键来§r查看方块信息
+VALUE:
 
 KEY:§eLeft Click §rto break a Block
-VALUE:§e单机左键来§r破坏方块
+VALUE:
 
 KEY:§eShift + Left Click §rany Block to erase it's BlockData
-VALUE:§e按住 Shift 点击左键来§r擦除方块的信息
+VALUE:
 
 KEY:§eShift + Right Click §rto place a Placeholder Block
-VALUE:§e按住 Shift 点击右键来§r放置占位方块
+VALUE:
 
 KEY:§cFood Fabricator
-VALUE:§c食物加工器
+VALUE:
 
 KEY:§rProduces §aOrganic Food
-VALUE:§r提供 §a有机食物
+VALUE:
 
 KEY:§8⇨ §e⚡ §7256 J Buffer
-VALUE:§8⇨ §e⚡ §7256 焦 缓冲
+VALUE:
 
 KEY:§8⇨ §e⚡ §714 J/s
-VALUE:§8⇨ §e⚡ §714 焦/秒
+VALUE:
 
 KEY:§cFood Fabricator &7(&eII&7)
-VALUE:§c食物堆肥器 &7(&eII&7)
+VALUE:
 
 KEY:§8⇨ §7Speed: 6x
-VALUE:§8⇨ §7速度: 6x
+VALUE:
 
 KEY:§8⇨ §e⚡ §7512 J Buffer
-VALUE:§8⇨ §e⚡ §7512 焦 缓冲
+VALUE:
 
 KEY:§8⇨ §e⚡ §748 J/s
-VALUE:§8⇨ §e⚡ §748 焦/秒
+VALUE:
 
 KEY:§cFood Composter
-VALUE:§c食物堆肥器
+VALUE:
 
 KEY:§rProduces §aOrganic Fertilizer
-VALUE:§r提供§a有机肥
+VALUE:
 
 KEY:§cFood Composter &7(&eII&7)
-VALUE:§c食物堆肥器 &7(&eII&7)
+VALUE:
 
 KEY:§8⇨ §7Speed: 10x
-VALUE:§8⇨ §7速度: 10x
+VALUE:
 
 KEY:§8⇨ §e⚡ §752 J/s
-VALUE:§8⇨ §e⚡ §752 焦/秒
+VALUE:
 
 KEY:§2Reactor Access Port
-VALUE:§2反应器接入端口
+VALUE:
 
 KEY:§rAllows you to interact with a Reactor
-VALUE:§r允许你与反应器进行交互
+VALUE:
 
 KEY:§rvia Cargo Nodes, can also be used
-VALUE:§r通过物流结点, 也可以用于
+VALUE:
 
 KEY:§ras a Buffer
-VALUE:§r缓存
+VALUE:
 
 KEY:§8⇨ §eMust be placed &a3 Blocks &eabove the Reactor
-VALUE:§8⇨ §e必须放置&a3个块&e在反应器上方
+VALUE:
 
 KEY:&6Electric Gold Pan
-VALUE:&6电淘金筛
+VALUE:
 
 KEY:§8⇨ §e⚡ §72 J/s
-VALUE:§8⇨ §e⚡ §72 焦/秒
+VALUE:
 
 KEY:&6Electric Gold Pan &7(&eII&7)
-VALUE:&6电淘金筛 &7(&eII&7)
+VALUE:
 
 KEY:&6Electric Gold Pan &7(&eIII&7)
-VALUE:&6电淘金筛 &7(&eIII&7)
+VALUE:
 
 KEY:&3Electric Dust Washer
-VALUE:&3电洗矿机
+VALUE:
 
 KEY:&3Electric Dust Washer &7(&eII&7)
-VALUE:&3电洗矿机 &7(&eII&7)
+VALUE:
 
 KEY:&3Electric Dust Washer &7(&eIII&7)
-VALUE:&3电洗矿机 &7(&eIII&7)
+VALUE:
 
 KEY:&cElectric Ingot Factory
-VALUE:&c电金属锭制造厂
+VALUE:
 
 KEY:&cElectric Ingot Factory &7(&eII&7)
-VALUE:&c电金属锭制造厂 &7(&eII&7)
+VALUE:
 
 KEY:&cElectric Ingot Factory &7(&eIII&7)
-VALUE:&c电金属锭制造厂 &7(&eIII&7)
+VALUE:
 
 KEY:§8⇨ §7Speed: 8x
-VALUE:§8⇨ §7速度: 8x
+VALUE:
 
 KEY:§8⇨ §e⚡ §740 J/s
-VALUE:§8⇨ §e⚡ §740 焦/秒
+VALUE:
 
 KEY:&6Automated Crafting Chamber
-VALUE:&6自动化设计室
+VALUE:
 
 KEY:§8⇨ §e⚡ §710 J/Item
-VALUE:§8⇨ §e⚡ §710 焦/物品
+VALUE:
 
 KEY:&9Fluid Pump
-VALUE:&9流体泵
+VALUE:
 
 KEY:§8⇨ §e⚡ §732 J/Block
-VALUE:§8⇨ §e⚡ §732 焦/方块
+VALUE:
 
 KEY:&6Charging Bench
-VALUE:&6充电站
+VALUE:
 
 KEY:§rCharges Items such as Jetpacks
-VALUE:§r为喷气背包等物充能
+VALUE:
 
 KEY:§8⇨ §e⚡ §7Energy Loss: §c50%
-VALUE:§8⇨ §e⚡ §7能量损失: §c50%
+VALUE:
 
 KEY:&5Wither Assembler
-VALUE:&5汇编凋零
+VALUE:
 
 KEY:§8⇨ §7Cooldown: §b30 Seconds
-VALUE:§8⇨ §7冷却时间: §b30 秒
+VALUE:
 
 KEY:§8⇨ §e⚡ §74096 J Buffer
-VALUE:§8⇨ §e⚡ §74096 焦 缓冲
+VALUE:
 
 KEY:§8⇨ §e⚡ §74096 J/Wither
-VALUE:§8⇨ §e⚡ §74096 焦/凋零
+VALUE:
 
 KEY:§bEyltra Scale
-VALUE:§b鞘翅等级
+VALUE:
 
 KEY:§5Infused Elytra
-VALUE:§5注入鞘翅
+VALUE:
 
 KEY:§cSoulbound Elytra
-VALUE:§c灵魂绑定鞘翅
+VALUE:
 
 KEY:&6Portable Dustbin
-VALUE:&6便携式垃圾箱
+VALUE:
 
 KEY:&rYour portable Item-Destroyer
-VALUE:&r你的便携式物品销毁器
+VALUE:
 
 KEY:&3Trash Can
-VALUE:&3垃圾桶
+VALUE:
 
 KEY:§rWill destroy all Items put into it
-VALUE:§r会销毁所有放入的东西
+VALUE:
 
 KEY:§rTin Can
-VALUE:§r锡罐
+VALUE:
 
 KEY:&6Stone Chunk
-VALUE:&6石头块
+VALUE:
 
 KEY:&aInfused Magnet
-VALUE:&a物品磁铁
+VALUE:
 
 KEY:&rMagical infused Magnets
-VALUE:&r神奇的物品磁铁会
+VALUE:
 
 KEY:&rattract nearby Items
-VALUE:&r吸引你周围的物品
+VALUE:
 
 KEY:&ras long as it is somewhere in
-VALUE:&r只要你的库存中有
+VALUE:
 
 KEY:&ryour Inventory
-VALUE:&r这种物品
+VALUE:
 
 KEY:&7Hold &eShift&7 to pick up nearby Items
-VALUE:&7按住 &eShift&7 捡起周围的物品
+VALUE:
 
 KEY:&cMagnet
-VALUE:&c磁铁
+VALUE:
 
 KEY:&cElectromagnet
-VALUE:&c电磁铁
+VALUE:
 
 KEY:&cElectric Motor
-VALUE:&c电力引擎
+VALUE:
 
 KEY:&3Cargo Motor
-VALUE:&3物流引擎
+VALUE:
 
 KEY:&6Ender Backpack
-VALUE:&6末影背包
+VALUE:
 
 KEY:&a&oA portable Ender Chest
-VALUE:&a&o一种便携的末影箱子
+VALUE:
 
 KEY:&4Small Void Bag
-VALUE:&4小号空包
+VALUE:
 
 KEY:&7&eLeft Click&7 to suck up nearby Items
-VALUE:&7&e点击左键&7装起周围的物品
+VALUE:
 
 KEY:&4Void Bag
-VALUE:&4空包
+VALUE:
 
 KEY:&4Big Void Bag
-VALUE:&4大号空包
+VALUE:
 
 KEY:&4Large Void Bag
-VALUE:&4超大号空包
+VALUE:
 
 KEY:&4Soulbound Void Bag
-VALUE:&4灵魂绑定空包
+VALUE:
 
 KEY:&cCoal Generator
-VALUE:&c碳发电机
+VALUE:
 
 KEY:§8⇨ §e⚡ §764 J Buffer
-VALUE:§8⇨ §e⚡ §764 焦 缓冲
+VALUE:
 
 KEY:&4Lava Generator
-VALUE:&4岩浆发电机
+VALUE:
 
 KEY:&cCombustion Reactor
-VALUE:&c燃烧反应器
+VALUE:
 
 KEY:§6Advanced Generator
-VALUE:§6高级发电机
+VALUE:
 
 KEY:&2Nuclear Reactor
-VALUE:&2核反应堆
+VALUE:
 
 KEY:§rRequires Cooling!
-VALUE:§r需要冷却!
+VALUE:
 
 KEY:§8⇨ §bMust be surrounded by Water
-VALUE:§8⇨ §b必需被水包围
+VALUE:
 
 KEY:§8⇨ §bMust be supplied with Reactor Coolant Cells
-VALUE:§8⇨ §b必需提供给反应器冷却电池
+VALUE:
 
 KEY:§8⇨ §e⚡ §716384 J Buffer
-VALUE:§8⇨ §e⚡ §716384 焦 缓冲
+VALUE:
 
 KEY:§8⇨ §e⚡ §7500 J/s
-VALUE:§8⇨ §e⚡ §7500 焦/秒
+VALUE:
 
 KEY:&aSmall Energy Capacitor
-VALUE:&a小容量电容
+VALUE:
 
 KEY:§eBasic Capacitor
-VALUE:§e基础电容
+VALUE:
 
 KEY:§8⇨ §e⚡ §7128 J Capacity
-VALUE:§8⇨ §e⚡ §7128 焦 容量
+VALUE:
 
 KEY:&aMedium Energy Capacitor
-VALUE:&a中等容量电容
+VALUE:
 
 KEY:§6Average Capacitor
-VALUE:§6平均电容
+VALUE:
 
 KEY:§8⇨ §e⚡ §7512 J Capacity
-VALUE:§8⇨ §e⚡ §7512 焦 电容
+VALUE:
 
 KEY:&aBig Energy Capacitor
-VALUE:&a大容量电容
+VALUE:
 
 KEY:§aMedium Capacitor
-VALUE:§a中容量电容
+VALUE:
 
 KEY:§8⇨ §e⚡ §71024 J Capacity
-VALUE:§8⇨ §e⚡ §71024 J 容量
+VALUE:
 
 KEY:&aLarge Energy Capacitor
-VALUE:&a超大容量电容
+VALUE:
 
 KEY:§2Good Capacitor
-VALUE:§2优质电容
+VALUE:
 
 KEY:§8⇨ §e⚡ §78192 J Capacity
-VALUE:§8⇨ §e⚡ §78192 J 容量
+VALUE:
 
 KEY:&aCarbonado Edged Energy Capacitor
-VALUE:&aCarbonado Edged 储能电容
+VALUE:
 
 KEY:§8⇨ §e⚡ §765536 J Capacity
-VALUE:§8⇨ §e⚡ §765536 焦 容量
+VALUE:
 
 KEY:&rCheese
-VALUE:&r奶酪
+VALUE:
 
 KEY:&rButter
-VALUE:&r黄油
+VALUE:
 
 KEY:§8Duct Tape
-VALUE:§8胶带
+VALUE:
 
 KEY:&rYou can repair Items using this
-VALUE:&r你可以用这个修理物品
+VALUE:
 
 KEY:§rin an Auto-Anvil
-VALUE:§r在自动铁砧中
+VALUE:
 
 KEY:§4Uranium
-VALUE:§4铀
+VALUE:
 
 KEY:§cSmall Chunk of Uranium
-VALUE:§c小块铀
+VALUE:
 
 KEY:§eRadiation Level: MODERATE
-VALUE:§e辐射水平: 中等
+VALUE:
 
 KEY:§cTiny Pile of Uranium
-VALUE:§c小堆铀
+VALUE:
 
 KEY:§cRadiation Level: LOW
-VALUE:§c辐射水平: 低
+VALUE:
 
 KEY:&4&oNo Hazmat Suit required
-VALUE:&4&o无需防护服
+VALUE:
 
 KEY:§aNeptunium
-VALUE:§a镎
+VALUE:
 
 KEY:§7Plutonium
-VALUE:§7钚
+VALUE:
 
 KEY:§2Boosted Uranium
-VALUE:§2浓缩铀
+VALUE:
 
 KEY:§cProgrammable Android &7(Normal)
-VALUE:§c可编程机器 &7(普通)
+VALUE:
 
 KEY:§8⇨ §7Function: None
-VALUE:§8⇨ §7功能: 无
+VALUE:
 
 KEY:§8⇨ §7Fuel Efficiency: 1.0x
-VALUE:8⇨ §7燃料效率: 1.0x
+VALUE:
 
 KEY:§cProgrammable Android &7(Miner)
-VALUE:§c可编程机器 &7(矿工)
+VALUE:
 
 KEY:§8⇨ §7Function: Mining
-VALUE:§8⇨ §7功能: 挖矿
+VALUE:
 
 KEY:§cProgrammable Android &7(Farmer)
-VALUE:§c可编程机器 &7(农夫)
+VALUE:
 
 KEY:§8⇨ §7Function: Farming
-VALUE:§8⇨ §7功能: 养殖
+VALUE:
 
 KEY:§cProgrammable Android &7(Woodcutter)
-VALUE:§c可编程机器 &7(伐木工)
+VALUE:
 
 KEY:§8⇨ §7Function: Woodcutting
-VALUE:§8⇨ §7功能: 伐木
+VALUE:
 
 KEY:§cProgrammable Android &7(Butcher)
-VALUE:§c可编程机器 &7(肉贩)
+VALUE:
 
 KEY:§8⇨ §7Function: Slaughtering
-VALUE:§8⇨ §7功能: 屠宰
+VALUE:
 
 KEY:§8⇨ §7Damage: 4
-VALUE:§8⇨ §7损伤: 4
+VALUE:
 
 KEY:§cProgrammable Android &7(Fisherman)
-VALUE:§c可编程机器 &7(渔夫)
+VALUE:
 
 KEY:§8⇨ §7Function: Fishing
-VALUE:§8⇨ §7功能: 捕鱼
+VALUE:
 
 KEY:§8⇨ §7Success Rate: 10%
-VALUE:§8⇨ §7成功率: 10%
+VALUE:
 
 KEY:§cAdvanced Programmable Android &7(Normal)
-VALUE:§c高级可编程机器 &7(普通)
+VALUE:
 
 KEY:§8⇨ §7Fuel Efficiency: 1.5x
-VALUE:§8⇨ §7燃料效率: 1.5x
+VALUE:
 
 KEY:§cAdvanced Programmable Android &7(Fisherman)
-VALUE:§c高级可编程机器 &7(渔夫)
+VALUE:
 
 KEY:§8⇨ §7Success Rate: 20%
-VALUE:§8⇨ §7成功率: 20%
+VALUE:
 
 KEY:§cAdvanced Programmable Android &7(Butcher)
-VALUE:§c高级可编程机器 &7(肉贩)
+VALUE:
 
 KEY:§8⇨ §7Damage: 8
-VALUE:§8⇨ §7损伤: 8
+VALUE:
 
 KEY:§eEmpowered Programmable Android &7(Normal)
-VALUE:§e自主可编程机器 &7(普通)
+VALUE:
 
 KEY:§8⇨ §7Fuel Efficiency: 3.0x
-VALUE:§8⇨ §7燃料效率: 3.0x
+VALUE:
 
 KEY:§eEmpowered Programmable Android &7(Fisherman)
-VALUE:§e自主可编程机器 &7(渔夫)
+VALUE:
 
 KEY:§8⇨ §7Success Rate: 30%
-VALUE:§8⇨ §7成功率: 30%
+VALUE:
 
 KEY:§8⇨ §7Fuel Efficiency: 8.0x
-VALUE:§8⇨ §7燃料效率: 8.0x
+VALUE:
 
 KEY:§eEmpowered Programmable Android &7(Butcher)
-VALUE:§e自主可编程机器 &7(肉贩)
+VALUE:
 
 KEY:§8⇨ §7Damage: 20
-VALUE:§8⇨ §7损伤: 20
+VALUE:
 
 KEY:§8⇨ §e⚡ §716 J Buffer
-VALUE:§8⇨ §e⚡ §716 焦 Buffer
+VALUE:
 
 KEY:§cAdvanced GPS Transmitter
-VALUE:§c高级 GPS 发射器
+VALUE:
 
 KEY:§4Carbonado GPS Transmitter
-VALUE:§4Carbonado GPS 发射器
+VALUE:
 
 KEY:§8⇨ §e⚡ §722 J/s
-VALUE:§8⇨ §e⚡ §722 焦/秒
+VALUE:
 
 KEY:§eEnergized GPS Transmitter
-VALUE:§e充电GPS发射器
+VALUE:
 
 KEY:§8⇨ §e⚡ §71024 J Buffer
-VALUE:§8⇨ §e⚡ §71024 焦 Buffer
+VALUE:
 
 KEY:§8⇨ §e⚡ §792 J/s
-VALUE:§8⇨ §e⚡ §792 焦/秒
+VALUE:
 
 KEY:§bGPS Control Panel
-VALUE:§bGPS控制面板
+VALUE:
 
 KEY:§rAllows you to trach your Satellites
-VALUE:§r允许你追踪你的卫星
+VALUE:
 
 KEY:§rand manage your Waypoints
-VALUE:§r和管理你的航点
+VALUE:
 
 KEY:§cGPS Emergency Transmitter
-VALUE:§cGPS 急救发射机
+VALUE:
 
 KEY:§rCarrying this in your Inventory
-VALUE:§r在你的背包中放入这个
+VALUE:
 
 KEY:§rautomatically sets a Waypoint
-VALUE:§r它会自动设置航点
+VALUE:
 
 KEY:§rat your Location when you die.
-VALUE:§r在你死亡的地方
+VALUE:
 
 KEY:§bGPS Geo-Scanner
-VALUE:§b地理扫描器
+VALUE:
 
 KEY:§rScans a Chunk for natural Resources
-VALUE:§r扫描一个区块的自然资源
+VALUE:
 
 KEY:§rsuch as §8Oil
-VALUE:§r比如 §8油
+VALUE:
 
 KEY:§rOil Pump
-VALUE:§r油泵
+VALUE:
 
 KEY:§7Pumps up Oil and fills it into Buckets
-VALUE:§7泵取油，并将其装入到桶中
+VALUE:
 
 KEY:§c§l! §cMake sure to Geo-Scan the Chunk first
-VALUE:§c§l! §c确保先使用地理扫描器扫描了区块
+VALUE:
 
 KEY:§rBucket of Oil
-VALUE:§r油桶
+VALUE:
 
 KEY:§rBucket of Fuel
-VALUE:§r燃料桶
+VALUE:
 
 KEY:§4Lava Crystal
-VALUE:§4熔岩晶体
+VALUE:
 
 KEY:§bAndroid Memory Core
-VALUE:§b机器储存核心
+VALUE:
 
 KEY:§eCarbon
-VALUE:§e碳
+VALUE:
 
 KEY:§cCompressed Carbon
-VALUE:§c压缩碳
+VALUE:
 
 KEY:§4Carbon Chunk
-VALUE:§4碳块
+VALUE:
 
 KEY:&7&o"Black Diamond"
-VALUE:&7&o"黑钻"
+VALUE:
 
 KEY:§6Energy Regulator
-VALUE:§6能量调节器
+VALUE:
 
 KEY:§rCore Component of an Energy Network
-VALUE:§r能量网络核心组件
+VALUE:
 
 KEY:§6Cargo Manager
-VALUE:§6物流管理
+VALUE:
 
 KEY:§rCore Component of an Item Transport Network
-VALUE:§r物品传输网络核心组件
+VALUE:
 
 KEY:§7Cargo Node &c(Connector)
-VALUE:§7物流结点 &c(连接)
+VALUE:
 
 KEY:§rCargo Connector Pipe
-VALUE:§r物流连接管道
+VALUE:
 
 KEY:§7Cargo Node &c(Input)
-VALUE:§7物流结点 &c(输入)
+VALUE:
 
 KEY:§rCargo Input Pipe
-VALUE:§r物流输入管道
+VALUE:
 
 KEY:§7Cargo Node &c(Output)
-VALUE:§7物流结点 &c(输出)
+VALUE:
 
 KEY:§rCargo Output Pipe
-VALUE:§r物流输出管道
+VALUE:
 
 KEY:§6Advanced Cargo Node &c(Output)
-VALUE:§6高级物流节点 &c(输出)
+VALUE:
 
 KEY:§eAuto-Breeder
-VALUE:§e自增殖
+VALUE:
 
 KEY:§rRuns on §aOrganic Food
-VALUE:§r就像是 §a原版食物
+VALUE:
 
 KEY:§8⇨ §e⚡ §760 J/Animal
-VALUE:§8⇨ §e⚡ §760 焦/动物
+VALUE:
 
 KEY:§bAnimal Growth Accelerator
-VALUE:§b动物成长促进器
+VALUE:
 
 KEY:§8⇨ §e⚡ §728 J/s
-VALUE:§8⇨ §e⚡ §728 焦/秒
+VALUE:
 
 KEY:§aCrop Growth Accelerator
-VALUE:§a作物生长促进器
+VALUE:
 
 KEY:§rRuns on §aOrganic Fertilizer
-VALUE:§r就像是 §a原版肥料
+VALUE:
 
 KEY:§8⇨ §7Radius: 7x7
-VALUE:§8⇨ §7半径: 7x7
+VALUE:
 
 KEY:§8⇨ §7Speed: §a3/time
-VALUE:§8⇨ §7速度: §a3/time
+VALUE:
 
 KEY:§aCrop Growth Accelerator &7(&eII&7)
-VALUE:§a作物生长促进器 &7(&eII&7)
+VALUE:
 
 KEY:§8⇨ §7Radius: 9x9
-VALUE:§8⇨ §7半径: 9x9
+VALUE:
 
 KEY:§8⇨ §7Speed: §a4/time
-VALUE:§8⇨ §7速度: §a4/time
+VALUE:
 
 KEY:§8⇨ §e⚡ §760 J/s
-VALUE:§8⇨ §e⚡ §760 焦/秒
+VALUE:
 
 KEY:§aEXP Collector
-VALUE:§a经验储存器
+VALUE:
 
 KEY:§rCollects nearby Exp and stores it
-VALUE:§r收集附近的经验并储存起来
+VALUE:
 
 KEY:§aOrganic Food
-VALUE:§a原始食物
+VALUE:
 
 KEY:§7Content: §9X
-VALUE:§7内容: §9X
+VALUE:
 
 KEY:§7Content: §9Wheat
-VALUE:§7C内容: §9小麦
+VALUE:
 
 KEY:§7Content: §9Carrots
-VALUE:§7C内容: §9胡萝卜
+VALUE:
 
 KEY:§7Content: §9Potatoes
-VALUE:§7C内容: §9土豆
+VALUE:
 
 KEY:§7Content: §9Seeds
-VALUE:§7C内容: §9种子
+VALUE:
 
 KEY:§7Content: §9Beetroot
-VALUE:§7C内容: §9甜菜根
+VALUE:
 
 KEY:§7Content: §9Melon
-VALUE:§7C内容: §9甜瓜
+VALUE:
 
 KEY:§7Content: §9Apple
-VALUE:§7C内容: §9苹果
+VALUE:
 
 KEY:§aOrganic Fertilizer
-VALUE:§a有机肥
+VALUE:
 
 KEY:§bReactor Coolant Cell
-VALUE:§b反应堆冷却电池
+VALUE:
 
 KEY:§3CT Access Terminal
-VALUE:§3CT 接入终端
+VALUE:
 
 KEY:§7If this Block is connected to a
-VALUE:§7如果这个方块连接到了
+VALUE:
 
 KEY:§7Cargo Network, it will allow you to remotely
-VALUE:§7物流网络, 它可以允许你
+VALUE:
 
 KEY:§7interact with any Items supplied by
-VALUE:§7与节点提供到箱子终端频道的
+VALUE:
 
 KEY:§7Nodes tuned into the ChestTerminal Channel
-VALUE:项目进行交互
+VALUE:
 
 KEY:§3CT Import Bus
-VALUE:§3CT 输入总线
+VALUE:
 
 KEY:§7Cargo Network, it will pull any Items from
-VALUE:§7物流网络, 它只会拉取所有清单中的
+VALUE:
 
 KEY:§7the Inventory it is attached to and place it
-VALUE:物品并将其放置
+VALUE:
 
 KEY:§7into the CT Network Channel
-VALUE:到 CT 网络通道
+VALUE:
 
 KEY:§3CT Export Bus
-VALUE:§3CT输出总线
+VALUE:
 
 KEY:§7the CT Network Channel and place these
-VALUE:CT的网络通道, 并将其放置
+VALUE:
 
 KEY:§7into the Inventory it is attached to
-VALUE:到它所附的库存中
+VALUE:
 
 KEY:§bFreezer
-VALUE:§b冰柜
+VALUE:
 
 KEY:§bFreezer §7(§eII§7)
-VALUE:§b冰柜 §7(§eII§7)
+VALUE:
 
 KEY:&6Battery
-VALUE:&6电池
+VALUE:
 
 KEY:&cHeating Coil
-VALUE:&c加热线圈
+VALUE:
 
 KEY:&bCooling Unit
-VALUE:&b冷却单元
+VALUE:
 
 KEY:&c&lPower Crystal
-VALUE:&c&l能源水晶
+VALUE:
 
 KEY:[Slimefun] Loaded Research "
-VALUE:[Slimefun] 载入成就 "
+VALUE:
 
 KEY:&7Statistics for Player: &b
-VALUE:&7玩家统计: &b
+VALUE:
 
 KEY:&7Title: &b
-VALUE:&7标题: &b
+VALUE:
 
 KEY:&7Research Progress: 
-VALUE:&7研究进度:
+VALUE:
 
 KEY:&7Total XP Levels spent: &b
-VALUE:&7总的经验等级花费: &b
+VALUE:
 
 KEY:Multi Tool
-VALUE:多种工具
+VALUE:
 
 KEY:&eEnder Talismans have the advantage
-VALUE:&e末影护身符拥有一个巨大的优势
+VALUE:
 
 KEY:&eof still working while they
-VALUE:它会持续对你发挥效力
+VALUE:
 
 KEY:&eare in your Ender Chest
-VALUE:即使它是被放在末影箱子里
+VALUE:
 
 KEY:&7&oEnder Infused
-VALUE:&7&o末影注入
+VALUE:
 
 KEY:&5Ender 
-VALUE:&5末影 
+VALUE:
 
 KEY:Talismans
-VALUE:护身符
+VALUE:
 
 KEY:Jet Boots
-VALUE:喷气靴
+VALUE:
 
 KEY:Jetpack
-VALUE:喷气背包
+VALUE:
 
 KEY:[Slimefun] Loaded Item "
-VALUE:[Slimefun] 加载物品 "
+VALUE:
 
 KEY:[Slimefun] Item Registration failed: 
-VALUE:[Slimefun] 物品注册失败: 
+VALUE:
 
 KEY:[Slimefun] Item Initialization failed: 
-VALUE:[Slimefun] 物品初始化失败:
+VALUE:
 
 KEY:[Slimefun] WARNING - Patching existing Item - 
-VALUE:[Slimefun] 警告 - 注入已有物品 - 
+VALUE:
 
 KEY:[Slimefun] This might take a while
-VALUE:[Slimefun] 这可能花一些时间
+VALUE:
 
 KEY:§7Fuel Slot
-VALUE:§7放射性燃料槽
+VALUE:
 
 KEY:§rThis Slot accepts radioactive Fuel such as:
-VALUE:§r这个槽接受放射性燃料, 比如:
+VALUE:
 
 KEY:§2Uranium §ror §aNeptunium
-VALUE:§2镎 §r或 §a钚
+VALUE:
 
 KEY:§7Byproduct Slot
-VALUE:§7副产物槽
+VALUE:
 
 KEY:§rThis Slot contains the Reactor's Byproduct
-VALUE:§r这个槽包含了反应堆的副产品
+VALUE:
 
 KEY:§rsuch as §aNeptunium §ror §7Plutonium
-VALUE:§r比如 §a镎 §r或 §7钚
+VALUE:
 
 KEY:§bCoolant Slot
-VALUE:§b冷却电池槽
+VALUE:
 
 KEY:§rThis Slot accepts Coolant Cells
-VALUE:§r这个槽接受冷却电池
+VALUE:
 
 KEY:§4Without any Coolant Cells, your Reactor
-VALUE:§4没有任何冷却电池, 你的反应器
+VALUE:
 
 KEY:§4will explode
-VALUE:§4会爆炸
+VALUE:
 
 KEY:§3Charging Bench
-VALUE:§3充电站
+VALUE:
 
 KEY:§cHeated Pressure Chamber
-VALUE:§c加热压力室
+VALUE:
 
 KEY:§4Oil Pump
-VALUE:§4油泵
+VALUE:
 
 KEY:§4Trash Can
-VALUE:§4垃圾桶
+VALUE:
 
 KEY:§7Enabled: §4✘
-VALUE:§7启用: §4✘
+VALUE:
 
 KEY:§e> Click to enable this Machine
-VALUE:§e> 点击启用这台机器
+VALUE:
 
 KEY:§7Enabled: §2✔
-VALUE:§7启用: §2✔
+VALUE:
 
 KEY:§e> Click to disable this Machine
-VALUE:§e> 点击禁用这台机器
+VALUE:
 
 KEY:§6Automated Crafting Chamber
-VALUE:§6自动化设计室
+VALUE:
 
 KEY:§eRecipe
-VALUE:§e图纸
+VALUE:
 
 KEY:§bPut in the Recipe you want to craft
-VALUE:§b放入你想要合成的图纸
+VALUE:
 
 KEY:§4Enhanced Crafting Table Recipes ONLY
-VALUE:§4只有强化工作台的图纸
+VALUE:
 
 KEY:§7Type: §rWhitelist
-VALUE:§7模式: §r白名单
+VALUE:
 
 KEY:§e> Click to change it to Blacklist
-VALUE:§e> 点击切换为黑名单模式
+VALUE:
 
 KEY:§7Type: §8Blacklist
-VALUE:§7模式: §8黑名单
+VALUE:
 
 KEY:§e> Click to change it to Whitelist
-VALUE:§e> 点击切换为白名单模式
+VALUE:
 
 KEY:§7Include Sub-IDs/Durability: §4✘
-VALUE:§7包含 子ID/耐久: §4✘
+VALUE:
 
 KEY:§e> Click to toggle whether the Durability has to match
-VALUE:§e> 点击切换无论耐久是否匹配
+VALUE:
 
 KEY:§7Include Sub-IDs/Durability: §2✔
-VALUE:§7包含 子ID/耐久: §2✔
+VALUE:
 
 KEY:§7Include Lore: §2✔
-VALUE:§7含有知识: §2✔
+VALUE:
 
 KEY:§e> Click to toggle whether the Lore has to match
-VALUE:§e> 点击切换无论知识是否匹配
+VALUE:
 
 KEY:§7Include Lore: §4✘
-VALUE:§7含有知识: §4✘
+VALUE:
 
 KEY:§bChannel
-VALUE:§b频道
+VALUE:
 
 KEY:§e> Click to decrease the Channel ID by 1
-VALUE:§e> 点击为频道 ID 减 1
+VALUE:
 
 KEY:§bChannel ID: §3
-VALUE:§b频道 ID: §3
+VALUE:
 
 KEY:§e> Click to increase the Channel ID by 1
-VALUE:§e> 点击为频道 ID 加 1
+VALUE:
 
 KEY:§cOutput Node
-VALUE:§c输出节点
+VALUE:
 
 KEY:§3Items
-VALUE:§3物品
+VALUE:
 
 KEY:§bPut in all Items you want to
-VALUE:§b放入所有你想放入
+VALUE:
 
 KEY:§bGrowth Accelerator
-VALUE:§b生长加速器
+VALUE:
 
 KEY:§6Auto Breeder
-VALUE:§6自动饲养机
+VALUE:
 
 KEY:§9Fluid Pump
-VALUE:§9流体泵
+VALUE:
 
 KEY:§cRefinery
-VALUE:§c炼油厂
+VALUE:
 
 KEY:§7Round-Robin Mode: §4✘
-VALUE:§7轮询模式: §4✘
+VALUE:
 
 KEY:§e> Click to enable Round Robin Mode
-VALUE:§e> 点击启用轮询模式
+VALUE:
 
 KEY:§e(Items will be equally distributed on the Channel)
-VALUE:§e(物品会在频道上平均的被分配)
+VALUE:
 
 KEY:§7Round-Robin Mode: §2✔
-VALUE:§7轮询模式: §2✔
+VALUE:
 
 KEY:§e> Click to disable Round Robin Mode
-VALUE:§e> 点击禁用轮询模式
+VALUE:
 
 KEY:§3Input Node
-VALUE:§3输入节点
+VALUE:
 
 KEY:§bblacklist/whitelist
-VALUE:§b黑名单/白名单 的物品
+VALUE:
 
 KEY:§cElectric Smeltery
-VALUE:§c电炉
+VALUE:
 
 KEY:&aFlask of Knowledge
-VALUE:&a知识之瓶
+VALUE:
 
 KEY:§7Focus: §eElectricity
-VALUE:§7目标: §e电
+VALUE:
 
 KEY:§6Your Reactor will focus on Power Generation
-VALUE:§6你的反应器会专注于产生能量
+VALUE:
 
 KEY:§6If your Energy Network doesn't need Power
-VALUE:§6如果你的能量网络不需要能量
+VALUE:
 
 KEY:§6it will not produce any either
-VALUE:§6它不会产生
+VALUE:
 
 KEY:§7> Click to change the Focus to §eProduction
-VALUE:§7> 点击改变目标为 §e生产
+VALUE:
 
 KEY:§7Focus: §eProduction
-VALUE:§7目标: §e生产
+VALUE:
 
 KEY:§6Your Reactor will focus on producing goods
-VALUE:§6你的反应器会专注于产生物品
+VALUE:
 
 KEY:§6it will continue to run and simply will
-VALUE:它会继续运行
+VALUE:
 
 KEY:§6not generate any Power in the mean time
-VALUE:§6不会生产能量
+VALUE:
 
 KEY:§7> Click to change the Focus to §ePower Generation
-VALUE:§7> 点击改变目标为 §e产生能量
+VALUE:
 
 KEY:§2Nuclear Reactor
-VALUE:§2核反应堆
+VALUE:
 
 KEY:§6Electric Gold Pan
-VALUE:§6电淘金筛
+VALUE:
 
 KEY: Block(s)
-VALUE: 区块
+VALUE:
 
 KEY:§rLeft Click: §7+0.1
-VALUE:§r左键点击: §7+0.1
+VALUE:
 
 KEY:§rRight Click: §7-0.1
-VALUE:§r右键点击: §7-0.1
+VALUE:
 
 KEY:§7Wither Skull Slot
-VALUE:§7凋零骨架投入箱
+VALUE:
 
 KEY:§rThis Slot accepts Wither Skeleton Skulls
-VALUE:§r这个投入箱接受投入凋零骨架
+VALUE:
 
 KEY:§7Soul Sand Slot
-VALUE:§7灵魂沙投入箱
+VALUE:
 
 KEY:§rThis Slot accepts Soul Sand
-VALUE:§r这个投入箱接受投入灵魂沙
+VALUE:
 
 KEY:§7Cooldown: §b30 Seconds
-VALUE:§7冷却时间: §b30 秒
+VALUE:
 
 KEY:§rThis Machine takes up to half a Minute to operate
-VALUE:§r这个机器需要超过半分钟的时候来完成操作
+VALUE:
 
 KEY:§rso give it some Time!
-VALUE:§r给它一些时间!
+VALUE:
 
 KEY:§5Wither Assembler
-VALUE:§5凋零汇编
+VALUE:
 
 KEY:§6Output Node
-VALUE:§6输出节点
+VALUE:
 
 KEY:Slimefun Warning:
-VALUE:Slimefun 警告:
+VALUE:
 
 KEY:Slimefun has detected that your Files are etiher
-VALUE:Slimefun 删除了你过期或者不存在的文件。
+VALUE:
 
 KEY:outdated or do not exist. We generated new Files
-VALUE:它产生了新的配置文件。
+VALUE:
 
 KEY:instead otherwise Slimefun would not work. If you
-VALUE:如果你以前有过Slimefun的配置文件。
+VALUE:
 
 KEY:have used Slimefun before, your Settings are now
-VALUE:它们已经离你远去了。
+VALUE:
 
 KEY:gone. But therefore Slimefun works!
-VALUE:它们会保佑你的插件正常工作下去。
+VALUE:
 
 KEY:&4You do not have enough Knowledge to understand this
-VALUE:&4你没有足够的知识理解这个
+VALUE:
 
 KEY:&4You do not have enough XP to unlock this
-VALUE:&4你没有足够的经验解锁它
+VALUE:
 
 KEY:&bYou have unlocked &7"%research%"
-VALUE:&b你解锁了 &7"%research%"
+VALUE:
 
 KEY:&7Help me, I am trapped in a Fortune Cookie Factory!
-VALUE:&7帮帮我, 我被困在幸运曲奇工厂里了!
+VALUE:
 
 KEY:&7You will die tomorrow...     by a Creeper
-VALUE:&7你明天会死...     在苦力怕手上
+VALUE:
 
 KEY:&7At some Point in your Life something bad will happen!!!
-VALUE:在某个时间点你的生活中会发生一些不好的事情!!!
+VALUE:
 
 KEY:&7Next week you will notice that this is not the real World, you are in a kind of "Matrix" or lets call it Computer game. Yes you are in a Computer Game
-VALUE:下周你会注意到，这不是真实的世界，你是在一个“矩阵”中————或称之为电脑游戏。是的，你在一个电脑游戏中
+VALUE:
 
 KEY:&7This Cookie will taste good in a few seconds
-VALUE:&7这个曲奇在几分钟内吃掉的话会很美味
+VALUE:
 
 KEY:&7You will die soon and the last word you will hear is gonna be "EXTERMINATE!!!"
-VALUE:&7你很快就会死掉，死前听到的最后一个单词是 "消灭!!!"
+VALUE:
 
 KEY:&7Whatever you do, do not hug a Creeper... I tried it. It feels good, but it's not worth it.
-VALUE:&7无论你做什么，不要拥抱的苦力怕…我尝试了，感觉很好，但不值得。
+VALUE:
 
 KEY:Displays this Help Screen
-VALUE:显示帮助信息
+VALUE:
 
 KEY:Allows you to cheat Items
-VALUE:允许你直接获得SF物品
+VALUE:
 
 KEY:Give somebody some Slimefun Items
-VALUE:给某人一些SF物品
+VALUE:
 
 KEY:Unlock a Research for a Player
-VALUE:为玩家解锁一个研究
+VALUE:
 
 KEY:Gives yourself a Slimefun Guide
-VALUE:给你一本SF指南
+VALUE:
 
 KEY:Lag-Info about your Server
-VALUE:你服务器的图层信息
+VALUE:
 
 KEY:See other Player's Waypoints
-VALUE:看看其他玩家的航点
+VALUE:
 
 KEY:&4This Command is only for Players
-VALUE:&4这个命令只有玩家可以使用
+VALUE:
 
 KEY:&4You do not have the required Permission to do this
-VALUE:&4你没有所需的权限来进行此操作
+VALUE:
 
 KEY:&4Usage: &c%usage%
-VALUE:&4用量: &c%usage%
+VALUE:
 
 KEY:&4%player% &cis not online!
-VALUE:&4%player% &c不在线!
+VALUE:
 
 KEY:&4%item% &cis not a valid Item!
-VALUE:&4%item% &c不是允许的物品!
+VALUE:
 
 KEY:&bYou have been given a &7"%item%"
-VALUE:&b你收到了一个 &7"%item%"
+VALUE:
 
 KEY:&bYou have given %player% a &7"%item%"
-VALUE:&b你给了 %player% 一个 &7"%item%"
+VALUE:
 
 KEY:&4%research% &cis not a valid Research!
-VALUE:&4%research% &c不是允许的研究!
+VALUE:
 
 KEY:&bYou have given %player% the Research &7"%research%"
-VALUE:&b你给了 %player% 研究 &7"%research%"
+VALUE:
 
 KEY:&2+ &7%charge% J &8(%machine%)
-VALUE:&2+ &7%charge% 焦 &8(%machine%)
+VALUE:
 
 KEY:&4- &7%charge% J &8(%machine%)
-VALUE:&4- &7%charge% 焦 &8(%machine%)
+VALUE:
 
 KEY:&cYou are too hungry to do that!
-VALUE:&c你的饱食度不足!
+VALUE:
 
 KEY:&b%device% Mode changed to: &9%mode%
-VALUE:&b%device% 的模式变更为: &9%mode%
+VALUE:
 
 KEY:&4&lThis Item has been disabled in this World
-VALUE:&4&l这个物品在当前世界被禁用了
+VALUE:
 
 KEY:&a&oYour Talisman saved your Tool from breaking
-VALUE:&a&o你的护身符使你的工具免于损坏
+VALUE:
 
 KEY:&a&oYour Talisman just doubled your Drops
-VALUE:&a&o你的护身符加倍了你的掉落
+VALUE:
 
 KEY:&a&oYour Talisman saved you from burning to death
-VALUE:&a&o你的护身符使你免于烧死
+VALUE:
 
 KEY:&a&oYour Talisman saved you from drowning
-VALUE:&a&o你的护身符使你免于淹死
+VALUE:
 
 KEY:&a&oYour Talisman saved you from taking Fall Damage
-VALUE:&a&o你的护身符使你免于摔死
+VALUE:
 
 KEY:&a&oYour Talisman gave you an additional Enchantment
-VALUE:&a&o你的护身符给你了一个额外的魔法
+VALUE:
 
 KEY:&a&oYour Talisman gave you a Speed Boost
-VALUE:&a&o你的护身符给你提供了加速
+VALUE:
 
 KEY:&a&oYour Talisman has improved your Strength for a While
-VALUE:&a&o你的护身符暂时增强了你的力量
+VALUE:
 
 KEY:&a&oYour Talisman gave you 5 Seconds of Regeneration
-VALUE:&a&o你的护身符给了你5秒的再生时间
+VALUE:
 
 KEY:&a&oYour Talisman reflected the Projectile
-VALUE:&a&o你的护身符弹开了伤害
+VALUE:
 
 KEY:&a&oYour Talisman has given you a better Fortune Level but maybe also lowered some other Enchantment Levels
-VALUE:&a&o你的护身符给了你一个更好的运气，但也许也降低了一些其他的魔法等级
+VALUE:
 
 KEY:&c&oSeems like you broke your Leg, maybe a Splint could help?
-VALUE:&c&o看起来你弄伤了你的腿, 也许夹板能帮助你?
+VALUE:
 
 KEY:&a&oThe Splint helps. It feels better now.
-VALUE:&a&o夹板起效了. 现在感觉好多了.
+VALUE:
 
 KEY:&c&oYou started to bleed. Maybe a Bandage could help?
-VALUE:&c&o你开始流血了. 也许绷带可以帮助你?
+VALUE:
 
 KEY:&a&oThe Bandage helps. The Bleeding has stopped!
-VALUE:&a&o绷带起效了. 流血已经停止了!
+VALUE:
 
 KEY:&4&lThis Item has been disabled! How did you even get that?
-VALUE:&4&l这个物品已经被禁用了! 你怎么拿到它的?
+VALUE:
 
 KEY:&7The Ancient Spirits whisper mysterious Words into your Ear!
-VALUE:远古的灵魂在你的耳朵里低语神秘的话语!
+VALUE:
 
 KEY:&7You start to wonder about &b%research% &e(%progress%)
-VALUE:&7你开始对 &b%research% 感兴趣 &e(%progress%)
+VALUE:
 
 KEY:Shows some Stats about a Player
-VALUE:显示玩家的一些状态
+VALUE:
 
 KEY:&7You have extinguished yourself
-VALUE:&7你熄灭了你自己
+VALUE:
 
 KEY:&eSorry, I could not recognize this Pattern. Please place the Items in the correct Pattern into the Dispenser.
-VALUE:&e抱歉, 我无法识别这种 Pattern. 请把物品放在正确的 Pattern 中放入进来.
+VALUE:
 
 KEY:&eSorry, I could not recognize the Item in my Dispenser. Please put something in that I know.
-VALUE:&e抱歉, 你放入的物品无法被识别. 试试看放一些别的我能识别的东西.
+VALUE:
 
 KEY:&eSorry, I could not recognize the Item you right clicked me with. Check the Recipes and see which Items you can use.
-VALUE:&e抱歉, 你手中的物品无法被识别. 阅读合成表查看你可以使用的物品列表.
+VALUE:
 
 KEY:&eSorry, my Inventory is too full!
-VALUE:&e抱歉, 我的库存太满了!
+VALUE:
 
 KEY:&eSorry, I could not find any Ores nearby!
-VALUE:&e抱歉, 附近找不到任何矿物!
+VALUE:
 
 KEY:&cYou cannot stack Backpacks
-VALUE:&c你不能重叠背包
+VALUE:
 
 KEY:&4You cannot use Slimefun Items in a normal Workbench
-VALUE:&4你不能在普通工作台中使用插件物品
+VALUE:
 
 KEY:&4You cannot use Slimefun Items in an Anvil
-VALUE:&4你不能在铁砧中使用插件物品
+VALUE:
 
 KEY:&cYou have reset %player%'s Knowledge
-VALUE:&c你重置了 %player% 的知识
+VALUE:
 
 KEY:&cYour Knowledge has been reset
-VALUE:&c你的知识已被重置
+VALUE:
 
 KEY:&cThis Block's Inventory is currently opened by a different Player.
-VALUE:&c这个区块的 Inventory 目前正被其他玩家打开.
+VALUE:
 
 KEY:&ePlease type in a Name for your new Waypoint in the Chat. &7(Color Codes supported!)
-VALUE:&e请在聊天栏输入你新航点的名字. &7(支持颜色代码!)
+VALUE:
 
 KEY:&aSuccessfully added a new Waypoint
-VALUE:&a成功添加了一个新的航点
+VALUE:
 
 KEY:&4You have reached the Maximum Amount of Waypoints
-VALUE:&4你的航点数量已经达到了最大
+VALUE:
 
 KEY:&4Insufficient GPS Network Complexity: &c%complexity%
-VALUE:&4全球定位系统网络完成度不足: &c%complexity%
+VALUE:
 
 KEY:&4a) You do not have a GPS Network setup yet
-VALUE:&4a) 你并没有初始化过的全球定位网络
+VALUE:
 
 KEY:&4b) Your GPS Network is not complex enough
-VALUE:&4b) 你的全球定位系统网络不够完善
+VALUE:
 
 KEY:&4GEO-Scan required! &cScan this Chunk using a GEO-Scanner first!
-VALUE:&4需要地理扫描!&c首先使用一个地理扫描扫描这个区块!
+VALUE:
 
 KEY:&7Your Robot resumed running its Script
-VALUE:&7你的机器人开始继续运行脚本
+VALUE:
 
 KEY:&7Your Robot has paused its Script
-VALUE:&7你的机器人的脚本运行暂停了
+VALUE:
 
 KEY:&4You are not permitted to access this Block
-VALUE:&4你没有权限进入这个区块
+VALUE:
 
 KEY:&4The Altar is not surrounded by the needed Amount of Pedestals §c(%pedestals% / 8)
-VALUE:&4祭坛周围没有要求数量的基座 §c(%pedestals% / 8)
+VALUE:
 
 KEY:&4Unknown Catalyst! §cUse the correct Recipe instead!
-VALUE:&4未知的催化剂! §c请使用正确的配方!
+VALUE:
 
 KEY:&4Unknown Recipe! §cUse the correct Recipe instead!
-VALUE:&4未知的配方! §c请使用正确的配方!
+VALUE:
 
 KEY:&7Please enter your desired Hologram Text in your Chat. &r(Color Codes are supported!)
-VALUE:&7请在你的聊天中输入你想要的全息图文字.&r(颜色代码支持!)
+VALUE:
 
 KEY:&4No Destinations found
-VALUE:&4没有找到目的地
+VALUE:
 
 KEY:&4This Script has already been uploaded.
-VALUE:&4这个脚本已经被上传过了.
+VALUE:
 
 KEY:&ePlease type in a Name for your Script
-VALUE:&e请输入你脚本的名字
+VALUE:
 
 KEY:&bUploading...
-VALUE:&b上传中...
+VALUE:
 
 KEY:&aSuccessfully uploaded your Script!
-VALUE:&a脚本上传成功!
+VALUE:
 
 KEY:§4You cannot rate your own Script!
-VALUE:§4你不能为自己的脚本评分!
+VALUE:
 
 KEY:§4You have already left a Rating for this Script!
-VALUE:§4你已经为这个脚本留下了一个评分!
+VALUE:
 
 KEY:§cCombustion Reactor
-VALUE:§c燃烧反应器
+VALUE:
 
 KEY:&bHi, I am a Hologram, &3configure me using the Projector
-VALUE:&b嗨, 我是全息图, &3使用投影机完成对我的设置
+VALUE:
 
 KEY:&rFloor #0
-VALUE:&r层 #0
+VALUE:
 
 KEY:§cCargo Net Visualizer: §4✘
-VALUE:§c物流网络虚拟化: §4✘
+VALUE:
 
 KEY:§cCargo Net Visualizer: §2✔
-VALUE:§c物流网络虚拟化: §2✔
+VALUE:
 
 KEY:§7Connected: §2✔
-VALUE:§7连接: §2✔
+VALUE:
 
 KEY:§7Connected: §4✘
-VALUE:§7连接: §4✘
+VALUE:
 
 KEY:§cCarbon Press
-VALUE:§c碳压缩
+VALUE:
 
 KEY:Delete Items
-VALUE:删除物品
+VALUE:
 
 KEY:Type: 
-VALUE:类型: 
+VALUE:
 
 KEY:&7Owner: &b
-VALUE:&7所有者: &b
+VALUE:
 
 KEY:§bElectric Furnace
-VALUE:§b电炉
+VALUE:
 
 KEY:§cElectric Ingot Factory
-VALUE:§c电金属锭成型器
+VALUE:
 
 KEY:§bElectric Ore Grinder
-VALUE:§b电煤炭研磨机
+VALUE:
 
 KEY:§cCoal Generator
-VALUE:§c煤炭发生器
+VALUE:
 
 KEY:§2Bio Reactor
-VALUE:§2生物反应器
+VALUE:
 
 KEY:§bStored Energy: §3
-VALUE:§b储存能量: §3
+VALUE:
 
 KEY: J
-VALUE:焦
+VALUE:
 
 KEY:§bCapacity: §3
-VALUE:§b容量: §3
+VALUE:
 
 KEY:§4Lava Generator
-VALUE:§4岩浆发生器
+VALUE:
 
 KEY:&a&oIron Golem
-VALUE:&a&o钢铁傀儡
+VALUE:
 
 KEY:Portable Crafter
-VALUE:便携工作台
+VALUE:
 
 KEY:Magic Eye of Ender
-VALUE:末影之眼
+VALUE:
 
 KEY:Wind Staff
-VALUE:风之杖
+VALUE:
 
 KEY:Grappling Hook
-VALUE:抓钩
+VALUE:
 
 KEY:Gold Pan
-VALUE:淘金筛
+VALUE:
 
 KEY:&4Phantom Item
-VALUE:&4虚拟物品
+VALUE:
 
 KEY:[Slimefun] Removed bugged Item ('NULL?')
-VALUE:[Slimefun] 删除了出现问题的物品 ('NULL?')
+VALUE:
 
 KEY:[Slimefun] Removed bugged Item ('
-VALUE:[Slimefun] 删除了出现问题的物品 ('
+VALUE:
 
 KEY:Successfully loaded 
-VALUE:成功载入
+VALUE:
 
 KEY: Items (
-VALUE:物品
+VALUE:
 
 KEY: Researches)
-VALUE:研究
+VALUE:
 
 KEY: Items from Slimefun, 
-VALUE:来自核心插件的物品
+VALUE:
 
 KEY: Items from Addons )
-VALUE:来自附属插件的物品
+VALUE:
 
 KEY:Walking Sticks
-VALUE:手杖
+VALUE:
 
 KEY:Fortune Cookie
-VALUE:幸运曲奇
+VALUE:
 
 KEY:Portable Dustbin
-VALUE:便携式垃圾箱
+VALUE:
 
 KEY:Beef Jerky
-VALUE:牛肉干
+VALUE:
 
 KEY:Armor Crafting
-VALUE:盔甲制造
+VALUE:
 
 KEY:Lumps and Magic
-VALUE:块和魔法
+VALUE:
 
 KEY:Ender Backpack
-VALUE:末影背包
+VALUE:
 
 KEY:Glowstone Armor
-VALUE:萤石铠甲
+VALUE:
 
 KEY:Ender Armor
-VALUE:末影铠甲
+VALUE:
 
 KEY:Magic Sugar
-VALUE:魔法糖
+VALUE:
 
 KEY:Monster Jerky
-VALUE:怪物肉干
+VALUE:
 
 KEY:Slime Armor
-VALUE:Slime 铠
+VALUE:
 
 KEY:Sword of Beheading
-VALUE:斩首之剑
+VALUE:
 
 KEY:Electric Work
-VALUE:电力工作
+VALUE:
 
 KEY:Advanced Electricity
-VALUE:高级电力
+VALUE:
 
 KEY:Hot Smelting
-VALUE:热冶炼
+VALUE:
 
 KEY:Steel Age
-VALUE:钢铁时代
+VALUE:
 
 KEY:Important Power-Related Items
-VALUE:重要的电力相关物品
+VALUE:
 
 KEY:Your first Battery
-VALUE:你的第一块电池
+VALUE:
 
 KEY:Steel Plating
-VALUE:镀钢
+VALUE:
 
 KEY:Steel Thruster
-VALUE:钢推进器
+VALUE:
 
 KEY:Parachute
-VALUE:降落伞
+VALUE:
 
 KEY:Jetpacks
-VALUE:夹克
+VALUE:
 
 KEY:Multi Tools
-VALUE:各种工具
+VALUE:
 
 KEY:Solar Power
-VALUE:太阳能
+VALUE:
 
 KEY:Elemental Staves
-VALUE:元素法杖
+VALUE:
 
 KEY:Grind Stone
-VALUE:磨石
+VALUE:
 
 KEY:Cactus Suit
-VALUE:仙人掌套装
+VALUE:
 
 KEY:Magical Book Binding
-VALUE:魔法书绑定
+VALUE:
 
 KEY:New Metals
-VALUE:新金属
+VALUE:
 
 KEY:Ore Doubling
-VALUE:矿物加倍
+VALUE:
 
 KEY:Bronze Creation
-VALUE:青铜制造
+VALUE:
 
 KEY:Advanced Alloys
-VALUE:高级合金
+VALUE:
 
 KEY:Carbon Creation
-VALUE:碳制造
+VALUE:
 
 KEY:Bakery Innovation
-VALUE:新面包
+VALUE:
 
 KEY:Gilded Iron Armor
-VALUE:镀金铁铠
+VALUE:
 
 KEY:Synthetic Diamonds
-VALUE:人造钻石
+VALUE:
 
 KEY:Pressure Chamber
-VALUE:压力室
+VALUE:
 
 KEY:Synthetic Sapphires
-VALUE:人造蓝宝石
+VALUE:
 
 KEY:Damascus Steel
-VALUE:大马士革钢
+VALUE:
 
 KEY:Damascus Steel Armor
-VALUE:大马士革钢铠
+VALUE:
 
 KEY:Reinforced Alloy
-VALUE:强化合金
+VALUE:
 
 KEY:Black Diamonds
-VALUE:黑钻
+VALUE:
 
 KEY:Magic Workbench
-VALUE:魔法工作台
+VALUE:
 
 KEY:Reinforced Armor
-VALUE:强化铠甲
+VALUE:
 
 KEY:Ore Washer
-VALUE:洗矿机
+VALUE:
 
 KEY:Pure Gold
-VALUE:纯金
+VALUE:
 
 KEY:Silicon Valley
-VALUE:硅谷
+VALUE:
 
 KEY:Fire Staff
-VALUE:灭火
+VALUE:
 
 KEY:Smelters Pickaxe
-VALUE:熔炼镐
+VALUE:
 
 KEY:Common Talisman
-VALUE:常用护身符
+VALUE:
 
 KEY:Talisman of the Anvil
-VALUE:铁砧护身符
+VALUE:
 
 KEY:Talisman of the Miner
-VALUE:矿工护身符
+VALUE:
 
 KEY:Talisman of the Hunter
-VALUE:猎人护身符
+VALUE:
 
 KEY:Talisman of the Lava Walker
-VALUE:岩浆行者护身符
+VALUE:
 
 KEY:Talisman of the Water Breather
-VALUE:水下呼吸护身符
+VALUE:
 
 KEY:Talisman of the Angel
-VALUE:天使护身符
+VALUE:
 
 KEY:Talisman of the Firefighter
-VALUE:防火护身符
+VALUE:
 
 KEY:Firey Situation
-VALUE:烧灼状态
+VALUE:
 
 KEY:Talisman of the Magician
-VALUE:巫师护身符
+VALUE:
 
 KEY:Talisman of the Traveller
-VALUE:旅行者护身符
+VALUE:
 
 KEY:Talisman of the Warrior
-VALUE:武士护身符
+VALUE:
 
 KEY:Talisman of the Knight
-VALUE:骑士护身符
+VALUE:
 
 KEY:Shiny Iron
-VALUE:闪亮的铁
+VALUE:
 
 KEY:Fake Gem
-VALUE:虚假宝石
+VALUE:
 
 KEY:Chainmail Armor
-VALUE:锁子甲
+VALUE:
 
 KEY:Talisman of the Whirlwind
-VALUE:旋风护身符
+VALUE:
 
 KEY:Talisman of the Wizard
-VALUE:向导护身符
+VALUE:
 
 KEY:Lumber Axe
-VALUE:伐木斧
+VALUE:
 
 KEY:Hazmat Suit
-VALUE:核防护套装
+VALUE:
 
 KEY:Radioactive
-VALUE:放射性的
+VALUE:
 
 KEY:Ore Purification
-VALUE:矿物提纯
+VALUE:
 
 KEY:Redstone Alloy
-VALUE:红石合金
+VALUE:
 
 KEY:Top Tier Machines
-VALUE:顶级机器
+VALUE:
 
 KEY:First Aid
-VALUE:急救
+VALUE:
 
 KEY:Shiny Armor
-VALUE:闪亮的盔甲
+VALUE:
 
 KEY:Night Vision Goggles
-VALUE:夜视镜
+VALUE:
 
 KEY:Pickaxe of Containment
-VALUE:抑制镐
+VALUE:
 
 KEY:Hercules Pickaxe
-VALUE:大力神镐
+VALUE:
 
 KEY:Saw Mill
-VALUE:锯木厂
+VALUE:
 
 KEY:Slimy Steel Armor
-VALUE:韧钢盔甲
+VALUE:
 
 KEY:Blade of Vampires
-VALUE:吸血鬼之刃
+VALUE:
 
 KEY:Lazy Mining
-VALUE:懒人开采机
+VALUE:
 
 KEY:Water Staff
-VALUE:饮水机
+VALUE:
 
 KEY:Golden City
-VALUE:黄金城
+VALUE:
 
 KEY:Advanced Mining 101
-VALUE:高级开采机 101
+VALUE:
 
 KEY:Composting Dirt
-VALUE:堆肥的污垢
+VALUE:
 
 KEY:Farmer Shoes
-VALUE:农夫靴
+VALUE:
 
 KEY:Explosive Pickaxe
-VALUE:爆裂镐
+VALUE:
 
 KEY:Automated Gold Pan
-VALUE:自动淘金筛
+VALUE:
 
 KEY:Boots of the Stomper
-VALUE:极速靴
+VALUE:
 
 KEY:Pickaxe of the Seeker
-VALUE:探索者镐
+VALUE:
 
 KEY:Woven Backpack
-VALUE:编织背包
+VALUE:
 
 KEY:Gilded Backpack
-VALUE:镀金背包
+VALUE:
 
 KEY:Being a Tank
-VALUE:变成坦克
+VALUE:
 
 KEY:Armored Jetpack
-VALUE:装甲喷气背包
+VALUE:
 
 KEY:Ender Talismans
-VALUE:末影护身符
+VALUE:
 
 KEY:Even more Ores
-VALUE:更多矿物
+VALUE:
 
 KEY:Magnetic Metals
-VALUE:磁性金属
+VALUE:
 
 KEY:Infused Magnets
-VALUE:注入磁铁
+VALUE:
 
 KEY:Speedy Pickaxe
-VALUE:极速镐
+VALUE:
 
 KEY:Necromancy
-VALUE:通灵术
+VALUE:
 
 KEY:Soulbound Storage
-VALUE:灵魂绑定储存
+VALUE:
 
 KEY:Armored Jet Boots
-VALUE:装甲喷气靴
+VALUE:
 
 KEY:Seismic Axe
-VALUE:地震斧
+VALUE:
 
 KEY:Pickaxe of Vein Mining
-VALUE:矿脉镐
+VALUE:
 
 KEY:Soulbound Weapons
-VALUE:灵魂绑定武器
+VALUE:
 
 KEY:Soulbound Tools
-VALUE:灵魂绑定工具
+VALUE:
 
 KEY:Soulbound Armor
-VALUE:灵魂绑定盔甲
+VALUE:
 
 KEY:Delicious Drinks
-VALUE:美味的饮料
+VALUE:
 
 KEY:Enhanced Furnace
-VALUE:高级炉
+VALUE:
 
 KEY:Better Furnaces
-VALUE:热强化炉
+VALUE:
 
 KEY:High Tier Furnace
-VALUE:高级热强化炉
+VALUE:
 
 KEY:Reinforced Furnace
-VALUE:终极热强化炉
+VALUE:
 
 KEY:Carbonado Edged Furnace
-VALUE:究极熔炉
+VALUE:
 
 KEY:Heating up
-VALUE:加热
+VALUE:
 
 KEY:Block Placer
-VALUE:方块放置器
+VALUE:
 
 KEY:Lazy Panning
-VALUE:懒人淘金筛
+VALUE:
 
 KEY:Turning things around
-VALUE:把我们的事情
+VALUE:
 
 KEY:Robin Hood
-VALUE:罗宾汉
+VALUE:
 
 KEY:Sharing with friends
-VALUE:分享给朋友
+VALUE:
 
 KEY:XP Storage
-VALUE:经验储存
+VALUE:
 
 KEY:Withstanding Explosions
-VALUE:承受爆炸
+VALUE:
 
 KEY:Happy Easter
-VALUE:复活节快乐
+VALUE:
 
 KEY:Golden potion
-VALUE:淘金筛
+VALUE:
 
 KEY:Portable Beverages
-VALUE:便携饮料
+VALUE:
 
 KEY:Ancient Altar
-VALUE:远古祭坛
+VALUE:
 
 KEY:Upgraded Solar Cells
-VALUE:高级太阳能电池
+VALUE:
 
 KEY:Elemental Runes
-VALUE:元素符文
+VALUE:
 
 KEY:Purple Runes
-VALUE:紫色符文
+VALUE:
 
 KEY:Infernal Bonemeal
-VALUE:地狱骨粉
+VALUE:
 
 KEY:Rainbow Blocks
-VALUE:彩虹方块
+VALUE:
 
 KEY:Infused Hopper
-VALUE:注入漏斗
+VALUE:
 
 KEY:Duct Tape
-VALUE:胶带
+VALUE:
 
 KEY:Plastic
-VALUE:塑料
+VALUE:
 
 KEY:Memory Core
-VALUE:储存核心
+VALUE:
 
 KEY:Fuel
-VALUE:燃料
+VALUE:
 
 KEY:Holograms
-VALUE:全息图
+VALUE:
 
 KEY:Tier 1 Capacitors
-VALUE:一级电容
+VALUE:
 
 KEY:Tier 2 Capacitors
-VALUE:二级电容
+VALUE:
 
 KEY:Solar Power Plant
-VALUE:太阳能发电厂
+VALUE:
 
 KEY:Powered Furnace
-VALUE:动力炉
+VALUE:
 
 KEY:Crushing and Grinding
-VALUE:碎矿与磨矿
+VALUE:
 
 KEY:Heated Pressure Chamber
-VALUE:加热压力室
+VALUE:
 
 KEY:Coal Generator
-VALUE:煤发生器
+VALUE:
 
 KEY:Bio-Reactor
-VALUE:生物反应器
+VALUE:
 
 KEY:Automatic Anvil
-VALUE:自动铁砧
+VALUE:
 
 KEY:Power Measurement
-VALUE:能量测量
+VALUE:
 
 KEY:Basic GPS Setup
-VALUE:基础 GPS 初始化
+VALUE:
 
 KEY:GPS Emergency Waypoint
-VALUE:GPS 急救点
+VALUE:
 
 KEY:Programmable Androids
-VALUE:程控机器
+VALUE:
 
 KEY:Android Interfaces
-VALUE:机器接口
+VALUE:
 
 KEY:GEO-Scans
-VALUE:地球扫描器
+VALUE:
 
 KEY:Combustion Reactor
-VALUE:燃烧反应器
+VALUE:
 
 KEY:Teleporter Base Components
-VALUE:传送站核心
+VALUE:
 
 KEY:Teleporter Activation
-VALUE:传送站激活器
+VALUE:
 
 KEY:Upgraded Solar Generators
-VALUE:高级太阳能
+VALUE:
 
 KEY:Upgraded Transmitters
-VALUE:高级发射器
+VALUE:
 
 KEY:Elevators
-VALUE:电梯
+VALUE:
 
 KEY:Full-Time Solar Power
-VALUE:全时段太阳能
+VALUE:
 
 KEY:Top Tier Transmitter
-VALUE:顶级发射器
+VALUE:
 
 KEY:Energy Networks 101
-VALUE:能量网络 101
+VALUE:
 
 KEY:Butcher Androids
-VALUE:肉贩机器
+VALUE:
 
 KEY:Organic Food
-VALUE:有机食物
+VALUE:
 
 KEY:Automated Feeding
-VALUE:自动喂食
+VALUE:
 
 KEY:Advanced Androids
-VALUE:高级机器
+VALUE:
 
 KEY:Advanced Androids - Butcher
-VALUE:高级机器 - 肉贩
+VALUE:
 
 KEY:Advanced Androids - Fisherman
-VALUE:高级机器 - 渔夫
+VALUE:
 
 KEY:Animal Growth Manipulation
-VALUE:动物成长控制器
+VALUE:
 
 KEY:Exp Collector
-VALUE:经验收集器
+VALUE:
 
 KEY:Organic Fertilizer
-VALUE:有机肥
+VALUE:
 
 KEY:Crop Growth Acceleration
-VALUE:作物催熟器
+VALUE:
 
 KEY:Upgraded Crop Growth Accelerator
-VALUE:高级作物催熟器
+VALUE:
 
 KEY:Reactor Essentials
-VALUE:基本反应器
+VALUE:
 
 KEY:Nuclear Power Plant
-VALUE:核电站
+VALUE:
 
 KEY:Mr Freeze
-VALUE:冰冻柜
+VALUE:
 
 KEY:Electric Ingot Fabrication
-VALUE:矿锭成型机
+VALUE:
 
 KEY:Faster Ingot Fabrication
-VALUE:矿锭快速成型机
+VALUE:
 
 KEY:Super Fast Ingot Fabrication
-VALUE:矿锭高速成型机
+VALUE:
 
 KEY:Automated Crafting
-VALUE:自动建造机
+VALUE:
 
 KEY:Upgraded Food Fabrication
-VALUE:高级食品加工机
+VALUE:
 
 KEY:Reactor Interaction
-VALUE:反应作用器
+VALUE:
 
 KEY:Fluid Pump
-VALUE:液泵
+VALUE:
 
 KEY:Upgraded Freezer
-VALUE:高级冷冻柜
+VALUE:
 
 KEY:Never-Ending Circle
-VALUE:不停循环
+VALUE:
 
 KEY:Trash
-VALUE:垃圾桶
+VALUE:
 
 KEY:Charging Bench
-VALUE:充电台
+VALUE:
 
 KEY:Advanced Output Node
-VALUE:高级输出节点
+VALUE:
 
 KEY:Carbon Press
-VALUE:碳压缩机
+VALUE:
 
 KEY:Electric Smeltery
-VALUE:电冶炼厂
+VALUE:
 
 KEY:Upgraded Electric Furnace
-VALUE:高级电炉
+VALUE:
 
 KEY:Upgraded Carbon Press
-VALUE:高级碳压缩机
+VALUE:
 
 KEY:Empowered Androids
-VALUE:自动机器
+VALUE:
 
 KEY:Empowered Androids - Butcher
-VALUE:自动机器 - 肉贩
+VALUE:
 
 KEY:Empowered Androids - Fisherman
-VALUE:自动机器 - 渔夫
+VALUE:
 
 KEY:Ultimate Carbon Press
-VALUE:终极碳压缩机
+VALUE:
 
 KEY:Automated Wither Killer
-VALUE:自动枯萎杀手
+VALUE:
 
 KEY:Upgraded Heated Pressure Chamber
-VALUE:升级加热压力室
+VALUE:
 
 KEY:[Slimefun] Auto-Saving Data... (Next Auto-Save: 
-VALUE:[Slimefun] 自动保存数据中... (下一次保存: 
+VALUE:
 
 KEY:[Slimefun] Loading Blocks for World "
-VALUE:[Slimefun] 载入方块中，目标世界 "
+VALUE:
 
 KEY:[Slimefun] This may take a long time...
-VALUE:[Slimefun] 这可能会花费较长的时间...
+VALUE:
 
 KEY:[Slimefun] Loading Blocks... 
-VALUE:[Slimefun] 载入方块... 
+VALUE:
 
 KEY:[Slimefun] Failed to load 
-VALUE:[Slimefun] 未成功载入 
+VALUE:
 
 KEY:[Slimefun] Loading Blocks... 100% (FINISHED - 
-VALUE:[Slimefun] 载入方块... 100% (完成耗时 - 
+VALUE:
 
 KEY:ms)
-VALUE:毫秒)
+VALUE:
 
 KEY:[Slimefun] Loaded a total of 
-VALUE:[Slimefun] 载入了一共 
+VALUE:
 
 KEY: Blocks for World "
-VALUE: 个方块，目标世界 "
+VALUE:
 
 KEY:[Slimefun] Avg: 
-VALUE:[Slimefun] 平均耗时: 
+VALUE:
 
 KEY:ms/Block
-VALUE:毫秒每方块
+VALUE:
 
 KEY: for World "
-VALUE: 目标世界 "
+VALUE:
 
 KEY:[Slimefun] Saving Blocks for World "
-VALUE:[Slimefun] 保存方块中，目标世界 "
+VALUE:
 
 KEY:[Slimefun] Failed to parse BlockInfo for Block @ 
-VALUE:[Slimefun] 分析区块信息失败，目标区块 @ 
+VALUE:
 
 KEY:No Metadata found!
-VALUE:没有找到元数据!
+VALUE:
 
 KEY:[Slimefun] IGNORE THIS ERROR UNLESS IT IS SPAMMING
-VALUE:[Slimefun] 忽略这条警告，除非它在刷屏
+VALUE:
 
 KEY:[Slimefun] Failed to parse ChunkInfo for Chunk @ 
-VALUE:[Slimefun] 分析区块信息失败，目标区块 @ 
+VALUE:
 
 KEY:Installed Plugins (
-VALUE:已安装插件 (
+VALUE:
 
 KEY:Ticked Block:
-VALUE:已检测方块:
+VALUE:
 
 KEY:[Slimefun] Exception caught while ticking a Block:
-VALUE:[Slimefun] 在检测以下方块时发现了错误:
+VALUE:
 
 KEY:[Slimefun] Saved as: 
-VALUE:[Slimefun] 保存为: 
+VALUE:
 
 KEY:[Slimefun] Please consider sending this File to the developer(s) of Slimefun, sending this Error won't get you any help though.
-VALUE:[Slimefun] 请考虑把这个文件发送给插件作者, 发送这个警告信息的内容并不会对你的问题有任何帮助。
+VALUE:
 
 KEY:[Slimefun] has thrown 4 Exceptions in the last 4 Ticks, the Block has been terminated.
-VALUE:[Slimefun] 在最近的4个单位时间内抛出了4个错误, 这个方块已经被终止。
+VALUE:
 
 KEY:[Slimefun] Check your /plugins/Slimefun/error-reports/ folder for details.
-VALUE:[Slimefun] 检查 /plugins/Slimefun/error-reports/ 文件夹了解详细信息。
+VALUE:
 
 KEY:§2== §aSlimefun Diagnostic Tool §2==
-VALUE:§2== §aSlimefun 诊断工具 §2==
+VALUE:
 
 KEY:§6Ticked Chunks: §e
-VALUE:§6已检测区块: §e
+VALUE:
 
 KEY:§6Ticked Machines: §e
-VALUE:§6已检测机器: §e
+VALUE:
 
 KEY:§6Skipped Machines: §e
-VALUE:§6已忽略机器: §e
+VALUE:
 
 KEY:§6Ticking Machines:
-VALUE:§6检测中的机器:
+VALUE:
 
 KEY:   §7§oHover for more Info
-VALUE:   §7§o悬停获得更多信息
+VALUE:
 
 KEY:§6Ticking Chunks:
-VALUE:§6检查区块:
+VALUE:
 
 KEY:§4No Energy Network found
-VALUE:§4找不到能量网络
+VALUE:
 
 KEY:§7Stored Items: §r
-VALUE:§7储存物品: §r
+VALUE:
 
 KEY:§7<Left Click: Request 1 | Right Click: Request 
-VALUE:§7<左键单击: 请求 1 | 右键单击: 请求 
+VALUE:
 
 KEY:§7<Left Click: Request 1>
-VALUE:§7<左键单击: 请求 1>
+VALUE:
 
 KEY:§7Status: §a§lONLINE
-VALUE:§7状态: §a§l在线
+VALUE:
 
 KEY:§4No Item cached
-VALUE:§4没有被缓存的物品
+VALUE:
 
 KEY:§7Status: §4§lOFFLINE
-VALUE:§7状态: §4§l离线
+VALUE:
 
 KEY:Hologram Settings
-VALUE:全息设定
+VALUE:
 
 KEY:§dChargable: §2✔
-VALUE:§d可充能: §2✔
+VALUE:
 
 KEY:  §dEnergy: §e
-VALUE:  §d能量: §e
+VALUE:
 
 KEY:§dChargable: §4✘
-VALUE:§d可充能: §4✘
+VALUE:
 
 KEY:&4Deathpoint &7
-VALUE:&4死亡记录点 &7
+VALUE:
 
 KEY:§4Must be placed onto a Chest or Machine
-VALUE:§4必须放置在箱子或机器上
+VALUE:
 
 KEY:§5§dALTAR §3Probe - §e
-VALUE:§5§d祭坛 §3探索 - §e
+VALUE:
